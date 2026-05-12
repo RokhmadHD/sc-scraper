@@ -1,0 +1,17 @@
+{
+  "name": "Armonia Eva Chain Mainnet",
+  "chain": "Eva",
+  "shortName": "eva",
+  "category": "mainnet",
+  "chainId": 160,
+  "networkId": 160,
+  "nativeCurrency": {
+    "name": "Armonia Multichain Native Token",
+    "symbol": "AMAX",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://evascan.io/api/eth-rpc/"
+  ],
+  "infoURL": "https://amax.network"
+}

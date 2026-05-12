@@ -1,0 +1,25 @@
+{
+  "name": "Tron Mainnet",
+  "chain": "TRON",
+  "shortName": "tron",
+  "category": "mainnet",
+  "chainId": 728126428,
+  "networkId": 728126428,
+  "nativeCurrency": {
+    "name": "Tron",
+    "symbol": "TRX",
+    "decimals": 6
+  },
+  "rpc": [
+    "https://api.trongrid.io/jsonrpc",
+    "https://rpc.ankr.com/tron_jsonrpc"
+  ],
+  "explorers": [
+    {
+      "name": "tronscan",
+      "url": "https://tronscan.org",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://tron.network"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Toronet Mainnet",
+  "chain": "Toronet",
+  "shortName": "Toronet",
+  "category": "mainnet",
+  "chainId": 77777,
+  "networkId": 77777,
+  "nativeCurrency": {
+    "name": "Toroe",
+    "symbol": "TOROE",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://www.toronet.org/rpc2/"
+  ],
+  "explorers": [
+    {
+      "name": "toronet_explorer",
+      "url": "https://toronet.org/explorer",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://toronet.org"
+}

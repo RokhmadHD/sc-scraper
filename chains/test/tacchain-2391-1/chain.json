@@ -1,0 +1,26 @@
+{
+  "name": "TAC Saint Petersburg",
+  "chain": "TAC",
+  "shortName": "tacchain_2391-1",
+  "category": "test",
+  "chainId": 2391,
+  "networkId": 2391,
+  "nativeCurrency": {
+    "name": "TAC",
+    "symbol": "TAC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.ankr.com/tac_spb",
+    "https://spb-ws.rpc.tac.build",
+    "https://spb.rpc.tac.build"
+  ],
+  "explorers": [
+    {
+      "name": "TAC SPB Explorer",
+      "url": "https://spb.explorer.tac.build",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://tac.build/"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "EraSwap Mainnet",
+  "chain": "ESN",
+  "shortName": "es",
+  "category": "mainnet",
+  "chainId": 5197,
+  "networkId": 5197,
+  "nativeCurrency": {
+    "name": "EraSwap",
+    "symbol": "ES",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet.eraswap.network",
+    "https://rpc-mumbai.mainnet.eraswap.network"
+  ],
+  "infoURL": "https://eraswap.info/"
+}

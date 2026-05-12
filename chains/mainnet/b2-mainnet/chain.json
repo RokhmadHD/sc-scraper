@@ -1,0 +1,28 @@
+{
+  "name": "B2 Mainnet",
+  "chain": "B2",
+  "shortName": "B2-mainnet",
+  "category": "mainnet",
+  "chainId": 223,
+  "networkId": 223,
+  "nativeCurrency": {
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://b2-mainnet-public.s.chainbase.com",
+    "https://b2-mainnet.alt.technology",
+    "https://mainnet.b2-rpc.com",
+    "https://rpc.ankr.com/b2",
+    "https://rpc.bsquared.network"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.bsquared.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.bsquared.network"
+}

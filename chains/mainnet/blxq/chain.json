@@ -1,0 +1,24 @@
+{
+  "name": "BLXq Mainnet",
+  "chain": "BLXQ",
+  "shortName": "blxq",
+  "category": "mainnet",
+  "chainId": 1108,
+  "networkId": 1108,
+  "nativeCurrency": {
+    "name": "BLXQ",
+    "symbol": "BLXQ",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet.blxq.org"
+  ],
+  "explorers": [
+    {
+      "name": "BLXq Explorer",
+      "url": "https://explorer.blxq.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://blx.org"
+}

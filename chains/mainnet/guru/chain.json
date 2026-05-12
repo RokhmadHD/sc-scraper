@@ -1,0 +1,24 @@
+{
+  "name": "Guru Network",
+  "chain": "GURU",
+  "shortName": "guru",
+  "category": "mainnet",
+  "chainId": 260,
+  "networkId": 260,
+  "nativeCurrency": {
+    "name": "Guru",
+    "symbol": "GURU",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-main.gurunetwork.ai"
+  ],
+  "explorers": [
+    {
+      "name": "guruscan",
+      "url": "https://scan.gurunetwork.ai",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://gurunetwork.ai"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Kaia Mainnet",
+  "chain": "KAIA",
+  "shortName": "kaia-mainnet",
+  "category": "mainnet",
+  "chainId": 8217,
+  "networkId": 8217,
+  "nativeCurrency": {
+    "name": "KAIA",
+    "symbol": "KAIA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://public-en.node.kaia.io"
+  ],
+  "explorers": [
+    {
+      "name": "Kaiascope",
+      "url": "https://kaiascope.com",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "Kaiascan",
+      "url": "https://kaiascan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://kaia.io"
+}

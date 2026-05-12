@@ -1,0 +1,24 @@
+{
+  "name": "PropTech Mainnet",
+  "chain": "PTEK",
+  "shortName": "ptek",
+  "category": "mainnet",
+  "chainId": 88788,
+  "networkId": 88788,
+  "nativeCurrency": {
+    "name": "PropTech Token",
+    "symbol": "PTEK",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet.ptekcoin.com"
+  ],
+  "explorers": [
+    {
+      "name": "PropTech Blockchain Explorer",
+      "url": "https://explorer.ptekcoin.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://ptek.ai"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Ultra Pro Mainnet",
+  "chain": "ultrapro",
+  "shortName": "ultrapro",
+  "category": "mainnet",
+  "chainId": 473861,
+  "networkId": 473861,
+  "nativeCurrency": {
+    "name": "Ultra Pro",
+    "symbol": "UPRO",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet-rpc.ultraproscan.io"
+  ],
+  "explorers": [
+    {
+      "name": "ultraproscan",
+      "url": "https://ultraproscan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://ultrapro.info"
+}

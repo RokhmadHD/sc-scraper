@@ -1,0 +1,24 @@
+{
+  "name": "StableNet Testnet",
+  "chain": "StableNet",
+  "shortName": "stablenet-testnet",
+  "category": "test",
+  "chainId": 8283,
+  "networkId": 8283,
+  "nativeCurrency": {
+    "name": "WKRC",
+    "symbol": "WKRC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://api.test.stablenet.network"
+  ],
+  "explorers": [
+    {
+      "name": "StableNet Testnet Explorer",
+      "url": "https://explorer.stablenet.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://stablenet.network"
+}

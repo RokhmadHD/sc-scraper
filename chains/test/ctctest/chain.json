@@ -1,0 +1,24 @@
+{
+  "name": "Creditcoin Testnet",
+  "chain": "CTC",
+  "shortName": "ctctest",
+  "category": "test",
+  "chainId": 102031,
+  "networkId": 102031,
+  "nativeCurrency": {
+    "name": "Testnet CTC",
+    "symbol": "tCTC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.cc3-testnet.creditcoin.network"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://creditcoin-testnet.blockscout.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://creditcoin.org"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "SenjePowers Mainnet",
+  "chain": "SPC",
+  "shortName": "SPCm",
+  "category": "mainnet",
+  "chainId": 3699,
+  "networkId": 3699,
+  "nativeCurrency": {
+    "name": "SenjePowers",
+    "symbol": "SPC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.senjepowersscan.com"
+  ],
+  "explorers": [
+    {
+      "name": "SenjePowers",
+      "url": "https://senjepowersscan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://senjepowersscan.com"
+}

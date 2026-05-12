@@ -1,0 +1,24 @@
+{
+  "name": "PMON Chain",
+  "chain": "42001",
+  "shortName": "pmon",
+  "category": "mainnet",
+  "chainId": 42001,
+  "networkId": 42001,
+  "nativeCurrency": {
+    "name": "PMON Token",
+    "symbol": "PMON",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.pmon.xyz"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.pmon.xyz",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://protocolmonsterlabs.com/pmon-chain"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Krown Testnet",
+  "chain": "KROWN",
+  "shortName": "krown-testnet",
+  "category": "test",
+  "chainId": 89127398,
+  "networkId": 89127398,
+  "nativeCurrency": {
+    "name": "KROWN",
+    "symbol": "KROWN",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet.krown.network",
+    "https://testnet1.krown.network"
+  ],
+  "explorers": [
+    {
+      "name": "Krown Testnet Explorer",
+      "url": "https://explorer-testnet.krown.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://krown.network"
+}

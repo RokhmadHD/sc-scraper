@@ -1,0 +1,24 @@
+{
+  "name": "SenjePowers Testnet",
+  "chain": "SPC",
+  "shortName": "SPCt",
+  "category": "test",
+  "chainId": 3698,
+  "networkId": 3698,
+  "nativeCurrency": {
+    "name": "SenjePowers",
+    "symbol": "SPC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet-rpc.senjepowersscan.com"
+  ],
+  "explorers": [
+    {
+      "name": "SenjePowers",
+      "url": "https://testnet.senjepowersscan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://senjepowersscan.com"
+}

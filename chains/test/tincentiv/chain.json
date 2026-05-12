@@ -1,0 +1,17 @@
+{
+  "name": "Incentiv Devnet",
+  "chain": "Incentiv",
+  "shortName": "tIncentiv",
+  "category": "test",
+  "chainId": 16350,
+  "networkId": 16350,
+  "nativeCurrency": {
+    "name": "Testnet INC",
+    "symbol": "INC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.ankr.com/incentiv_devnet"
+  ],
+  "infoURL": "https://incentiv.net"
+}

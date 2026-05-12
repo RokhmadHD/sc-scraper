@@ -1,0 +1,24 @@
+{
+  "name": "Torus Mainnet",
+  "chain": "TQF",
+  "shortName": "tqf",
+  "category": "mainnet",
+  "chainId": 8192,
+  "networkId": 8192,
+  "nativeCurrency": {
+    "name": "TQF",
+    "symbol": "TQF",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.toruschain.com"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://toruscan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://docs.toruschain.com"
+}

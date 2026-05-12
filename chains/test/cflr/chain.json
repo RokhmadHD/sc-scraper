@@ -1,0 +1,34 @@
+{
+  "name": "Songbird Testnet Coston",
+  "chain": "SGB",
+  "shortName": "cflr",
+  "category": "test",
+  "chainId": 16,
+  "networkId": 16,
+  "nativeCurrency": {
+    "name": "Coston Flare",
+    "symbol": "CFLR",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://01-gravelines-004-01.rpc.tatum.io/ext/bc/C/rpc",
+    "https://02-chicago-004-02.rpc.tatum.io/ext/bc/C/rpc",
+    "https://02-tokyo-004-03.rpc.tatum.io/ext/bc/C/rpc",
+    "https://coston-api.flare.network/ext/C/rpc",
+    "https://coston.enosys.global/ext/C/rpc",
+    "https://songbird-testnet-coston.rpc.thirdweb.com"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://coston-explorer.flare.network",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "Routescan",
+      "url": "https://coston.testnet.flarescan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://flare.network"
+}

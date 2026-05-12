@@ -1,0 +1,17 @@
+{
+  "name": "Backstop Testnet",
+  "chain": "backstopTestnet",
+  "shortName": "backstop-testnet",
+  "category": "test",
+  "chainId": 88558801,
+  "networkId": 88558801,
+  "nativeCurrency": {
+    "name": "Backstop Testnet 1",
+    "symbol": "ZBS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet.rpc.backstop.technology"
+  ],
+  "infoURL": "https://backstop.technology/testnet"
+}

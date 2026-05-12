@@ -1,0 +1,17 @@
+{
+  "name": "Nexera Mainnet",
+  "chain": "Nexera",
+  "shortName": "nxra-mainnet",
+  "category": "mainnet",
+  "chainId": 7208,
+  "networkId": 7208,
+  "nativeCurrency": {
+    "name": "NXRA",
+    "symbol": "NXRA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.nexera.network"
+  ],
+  "infoURL": "https://nexera.network"
+}

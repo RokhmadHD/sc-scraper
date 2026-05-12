@@ -1,0 +1,17 @@
+{
+  "name": "Catecoin Chain Mainnet",
+  "chain": "Catechain",
+  "shortName": "cate",
+  "category": "mainnet",
+  "chainId": 1618,
+  "networkId": 1618,
+  "nativeCurrency": {
+    "name": "Catecoin",
+    "symbol": "CATE",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://send.catechain.com"
+  ],
+  "infoURL": "https://catechain.com"
+}

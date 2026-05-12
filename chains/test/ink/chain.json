@@ -1,0 +1,25 @@
+{
+  "name": "Ink",
+  "chain": "ETH",
+  "shortName": "ink",
+  "category": "test",
+  "chainId": 57073,
+  "networkId": 57073,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-gel.inkonchain.com",
+    "https://rpc-qnd.inkonchain.com"
+  ],
+  "explorers": [
+    {
+      "name": "Ink Explorer",
+      "url": "https://explorer.inkonchain.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://inkonchain.com"
+}

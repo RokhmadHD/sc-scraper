@@ -1,0 +1,24 @@
+{
+  "name": "Swan Proxima Testnet",
+  "chain": "SWAN",
+  "shortName": "Proxima",
+  "category": "test",
+  "chainId": 20241133,
+  "networkId": 20241133,
+  "nativeCurrency": {
+    "name": "SWANETH",
+    "symbol": "sETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-proxima.swanchain.io"
+  ],
+  "explorers": [
+    {
+      "name": "Swan Proxima Chain explorer",
+      "url": "https://proxima-explorer.swanchain.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://swanchain.io/"
+}

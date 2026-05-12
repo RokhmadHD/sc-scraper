@@ -1,0 +1,17 @@
+{
+  "name": "DeepSafe Beta Mainnet",
+  "chain": "DeepSafe",
+  "shortName": "DeepSafe",
+  "category": "mainnet",
+  "chainId": 10011,
+  "networkId": 10011,
+  "nativeCurrency": {
+    "name": "DeepSafe Native Token",
+    "symbol": "DEF",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://betamainnet-rpc-node-http.deepsafe.network"
+  ],
+  "infoURL": "https://deepsafe.network/"
+}

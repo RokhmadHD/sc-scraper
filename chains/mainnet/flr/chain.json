@@ -1,0 +1,37 @@
+{
+  "name": "Flare Mainnet",
+  "chain": "FLR",
+  "shortName": "flr",
+  "category": "mainnet",
+  "chainId": 14,
+  "networkId": 14,
+  "nativeCurrency": {
+    "name": "Flare",
+    "symbol": "FLR",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://01-gravelines-003-01.rpc.tatum.io/ext/bc/C/rpc",
+    "https://01-vinthill-003-02.rpc.tatum.io/ext/bc/C/rpc",
+    "https://flare-api.flare.network/ext/C/rpc",
+    "https://flare-bundler.etherspot.io",
+    "https://flare.enosys.global/ext/C/rpc",
+    "https://flare.rpc.thirdweb.com",
+    "https://flare.solidifi.app/ext/C/rpc",
+    "https://rpc.ankr.com/flare",
+    "https://rpc.au.cc/flare"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://flare-explorer.flare.network",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "Routescan",
+      "url": "https://mainnet.flarescan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://flare.network"
+}

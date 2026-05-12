@@ -1,0 +1,24 @@
+{
+  "name": "Kusama",
+  "chain": "KSM",
+  "shortName": "ksm",
+  "category": "mainnet",
+  "chainId": 420420418,
+  "networkId": 420420418,
+  "nativeCurrency": {
+    "name": "KSM",
+    "symbol": "KSM",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://eth-rpc-kusama.polkadot.io"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://blockscout-kusama.polkadot.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://polkadot.com"
+}

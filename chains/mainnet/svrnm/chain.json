@@ -1,0 +1,24 @@
+{
+  "name": "Soverun Mainnet",
+  "chain": "SVRN",
+  "shortName": "SVRNm",
+  "category": "mainnet",
+  "chainId": 10101010,
+  "networkId": 10101010,
+  "nativeCurrency": {
+    "name": "Soverun",
+    "symbol": "SVRN",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet-rpc.soverun.com"
+  ],
+  "explorers": [
+    {
+      "name": "Soverun",
+      "url": "https://explorer.soverun.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://soverun.com"
+}

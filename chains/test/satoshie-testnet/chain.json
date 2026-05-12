@@ -1,0 +1,24 @@
+{
+  "name": "SatoshIE Testnet",
+  "chain": "TUSHY",
+  "shortName": "satoshie_testnet",
+  "category": "test",
+  "chainId": 1986,
+  "networkId": 1986,
+  "nativeCurrency": {
+    "name": "Tushy Token",
+    "symbol": "TUSHY",
+    "decimals": 18
+  },
+  "rpc": [
+    "http://testnet.satosh.ie"
+  ],
+  "explorers": [
+    {
+      "name": "testnetexplorer",
+      "url": "http://explore-testnet.satosh.ie",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://satosh.ie"
+}

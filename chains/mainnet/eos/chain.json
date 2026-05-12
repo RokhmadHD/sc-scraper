@@ -1,0 +1,24 @@
+{
+  "name": "EOS EVM Network",
+  "chain": "EOS",
+  "shortName": "eos",
+  "category": "mainnet",
+  "chainId": 17777,
+  "networkId": 17777,
+  "nativeCurrency": {
+    "name": "EOS",
+    "symbol": "EOS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://api.evm.eosnetwork.com"
+  ],
+  "explorers": [
+    {
+      "name": "EOS EVM Explorer",
+      "url": "https://explorer.evm.eosnetwork.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://eosnetwork.com/eos-evm"
+}

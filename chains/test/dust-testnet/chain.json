@@ -1,0 +1,24 @@
+{
+  "name": "DUST Testnet",
+  "chain": "ETH",
+  "shortName": "dust-testnet",
+  "category": "test",
+  "chainId": 55377,
+  "networkId": 55377,
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.testnet.dustproject.org"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.testnet.dustproject.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://dustproject.org"
+}

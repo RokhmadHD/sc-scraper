@@ -1,0 +1,24 @@
+{
+  "name": "MAPO Makalu",
+  "chain": "MAPO",
+  "shortName": "makalu",
+  "category": "test",
+  "chainId": 212,
+  "networkId": 212,
+  "nativeCurrency": {
+    "name": "Makalu MAPO",
+    "symbol": "MAPO",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet-rpc.maplabs.io"
+  ],
+  "explorers": [
+    {
+      "name": "maposcan",
+      "url": "https://testnet.maposcan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://mapprotocol.io/"
+}

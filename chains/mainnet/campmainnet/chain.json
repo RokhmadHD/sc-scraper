@@ -1,0 +1,24 @@
+{
+  "name": "Camp Network Mainnet",
+  "chain": "CAMP",
+  "shortName": "CampMainnet",
+  "category": "mainnet",
+  "chainId": 484,
+  "networkId": 484,
+  "nativeCurrency": {
+    "name": "Camp",
+    "symbol": "CAMP",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.camp.raas.gelato.cloud"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://camp.cloud.blockscout.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://docs.campnetwork.xyz"
+}

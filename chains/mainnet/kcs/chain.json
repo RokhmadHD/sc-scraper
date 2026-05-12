@@ -1,0 +1,26 @@
+{
+  "name": "KCC Mainnet",
+  "chain": "KCC",
+  "shortName": "kcs",
+  "category": "mainnet",
+  "chainId": 321,
+  "networkId": 321,
+  "nativeCurrency": {
+    "name": "KuCoin Token",
+    "symbol": "KCS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://kcc.mytokenpocket.vip",
+    "https://public-rpc.blockpi.io/http/kcc",
+    "https://rpc-mainnet.kcc.network"
+  ],
+  "explorers": [
+    {
+      "name": "KCC Explorer",
+      "url": "https://explorer.kcc.io/en",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://kcc.io"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "ONINO Mainnet",
+  "chain": "ONI",
+  "shortName": "onino",
+  "category": "mainnet",
+  "chainId": 1425,
+  "networkId": 1425,
+  "nativeCurrency": {
+    "name": "ONI",
+    "symbol": "ONI",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.onino.io"
+  ],
+  "explorers": [
+    {
+      "name": "onino",
+      "url": "https://explorer.onino.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://onino.io"
+}

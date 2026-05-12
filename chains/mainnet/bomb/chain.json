@@ -1,0 +1,24 @@
+{
+  "name": "BOMB Chain",
+  "chain": "BOMB",
+  "shortName": "bomb",
+  "category": "mainnet",
+  "chainId": 2300,
+  "networkId": 2300,
+  "nativeCurrency": {
+    "name": "BOMB Token",
+    "symbol": "BOMB",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.bombchain.com"
+  ],
+  "explorers": [
+    {
+      "name": "bombscan",
+      "url": "https://bombscan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.bombchain.com"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Lydia Coin",
+  "chain": "LYDIA",
+  "shortName": "lydia",
+  "category": "mainnet",
+  "chainId": 1989,
+  "networkId": 1989,
+  "nativeCurrency": {
+    "name": "Lydia Coin",
+    "symbol": "BSW",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.lydiacoins.com"
+  ],
+  "infoURL": "https://raas.gelato.network/rollups/details/public/lydia-coin"
+}

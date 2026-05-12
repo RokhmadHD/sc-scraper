@@ -1,0 +1,24 @@
+{
+  "name": "LBRY Mainnet",
+  "chain": "LBRY",
+  "shortName": "LBRY",
+  "category": "mainnet",
+  "chainId": 19600,
+  "networkId": 19600,
+  "nativeCurrency": {
+    "name": "LBRY Credits",
+    "symbol": "LBC",
+    "decimals": 8
+  },
+  "rpc": [
+    "https://lbry.nl/rpc"
+  ],
+  "explorers": [
+    {
+      "name": "LBRY Block Explorer",
+      "url": "https://explorer.lbry.com",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://lbry.com"
+}

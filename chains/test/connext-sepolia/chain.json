@@ -1,0 +1,23 @@
+{
+  "name": "Connext Sepolia",
+  "chain": "Connext Sepolia",
+  "shortName": "connext-sepolia",
+  "category": "test",
+  "chainId": 6398,
+  "networkId": 6398,
+  "nativeCurrency": {
+    "name": "ETH",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.connext-sepolia.gelato.digital/"
+  ],
+  "explorers": [
+    {
+      "name": "Connext Sepolia",
+      "url": "https://connext-sepolia.blockscout.com",
+      "standard": "none"
+    }
+  ]
+}

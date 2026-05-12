@@ -1,0 +1,24 @@
+{
+  "name": "R0AR Testnet",
+  "chain": "R0AR Testnet",
+  "shortName": "R0AR-Test-Chain",
+  "category": "test",
+  "chainId": 11166111,
+  "networkId": 11166111,
+  "nativeCurrency": {
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet.rpc-r0ar.io"
+  ],
+  "explorers": [
+    {
+      "name": "tracehawk",
+      "url": "https://testnet.r0arscan.io",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://testnet.r0arscan.io"
+}

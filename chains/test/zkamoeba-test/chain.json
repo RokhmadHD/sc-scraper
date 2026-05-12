@@ -1,0 +1,25 @@
+{
+  "name": "ZKAmoeba Testnet",
+  "chain": "FIL",
+  "shortName": "zkamoeba-test",
+  "category": "test",
+  "chainId": 380,
+  "networkId": 380,
+  "nativeCurrency": {
+    "name": "filecoin",
+    "symbol": "FIL",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.testnet.zkamoeba.com:4050/",
+    "https://rpc1.testnet.zkamoeba.com:4050/"
+  ],
+  "explorers": [
+    {
+      "name": "ZKAmoeba Test Explorer",
+      "url": "https://testnetexplorer.zkamoeba.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://testnet.zkamoeba.com"
+}

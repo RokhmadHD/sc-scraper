@@ -1,0 +1,24 @@
+{
+  "name": "Thinkium Testnet Chain 0",
+  "chain": "Thinkium",
+  "shortName": "TKM-test0",
+  "category": "test",
+  "chainId": 60000,
+  "networkId": 60000,
+  "nativeCurrency": {
+    "name": "TKM",
+    "symbol": "TKM",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://test.thinkiumrpc.net/"
+  ],
+  "explorers": [
+    {
+      "name": "thinkiumscan",
+      "url": "https://test0.thinkiumscan.net",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://thinkium.net/"
+}

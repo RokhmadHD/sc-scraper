@@ -1,0 +1,25 @@
+{
+  "name": "Humanity Protocol testnet",
+  "chain": "Humanity",
+  "shortName": "thp",
+  "category": "test",
+  "chainId": 7080969,
+  "networkId": 7080969,
+  "nativeCurrency": {
+    "name": "tHP",
+    "symbol": "tHP",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://humanity-testnet.g.alchemy.com/public",
+    "https://rpc.testnet.humanity.org"
+  ],
+  "explorers": [
+    {
+      "name": "Humanity Testnet explorer",
+      "url": "https://humanity-testnet.explorer.alchemy.com",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://testnet.humanity.org"
+}

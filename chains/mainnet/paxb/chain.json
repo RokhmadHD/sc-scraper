@@ -1,0 +1,24 @@
+{
+  "name": "PAXB Mainnet",
+  "chain": "PAXB",
+  "shortName": "PAXB",
+  "category": "mainnet",
+  "chainId": 6701,
+  "networkId": 6701,
+  "nativeCurrency": {
+    "name": "PAXB",
+    "symbol": "PAXB",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://chain.paxb.io"
+  ],
+  "explorers": [
+    {
+      "name": "PAXB Explorer",
+      "url": "https://scan.paxb.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://paxb.io/"
+}

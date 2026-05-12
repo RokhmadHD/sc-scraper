@@ -1,0 +1,24 @@
+{
+  "name": "Flow EVM Testnet",
+  "chain": "Flow",
+  "shortName": "flow-testnet",
+  "category": "test",
+  "chainId": 545,
+  "networkId": 545,
+  "nativeCurrency": {
+    "name": "FLOW",
+    "symbol": "FLOW",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet.evm.nodes.onflow.org"
+  ],
+  "explorers": [
+    {
+      "name": "FlowScan Testnet",
+      "url": "https://evm-testnet.flowscan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://developers.flow.com/evm/about"
+}

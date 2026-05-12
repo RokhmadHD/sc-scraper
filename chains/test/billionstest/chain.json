@@ -1,0 +1,24 @@
+{
+  "name": "billions-testnet",
+  "chain": "billions-testnet",
+  "shortName": "billionstest",
+  "category": "test",
+  "chainId": 6913,
+  "networkId": 6913,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://billions-testnet-rpc.eu-north-2.gateway.fm"
+  ],
+  "explorers": [
+    {
+      "name": "Billions Testnet Explorer",
+      "url": "https://billions-testnet-blockscout.eu-north-2.gateway.fm",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://billions.network"
+}

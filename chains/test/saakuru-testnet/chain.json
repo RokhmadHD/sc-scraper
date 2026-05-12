@@ -1,0 +1,24 @@
+{
+  "name": "Saakuru Testnet",
+  "chain": "Saakuru",
+  "shortName": "saakuru-testnet",
+  "category": "test",
+  "chainId": 247253,
+  "networkId": 247253,
+  "nativeCurrency": {
+    "name": "OAS",
+    "symbol": "OAS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-testnet.saakuru.network"
+  ],
+  "explorers": [
+    {
+      "name": "saakuru-explorer-testnet",
+      "url": "https://explorer-testnet.saakuru.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://saakuru.network"
+}

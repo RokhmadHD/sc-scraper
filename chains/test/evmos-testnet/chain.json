@@ -1,0 +1,26 @@
+{
+  "name": "Evmos Testnet",
+  "chain": "Evmos",
+  "shortName": "evmos-testnet",
+  "category": "test",
+  "chainId": 9000,
+  "networkId": 9000,
+  "nativeCurrency": {
+    "name": "test-Evmos",
+    "symbol": "tEVMOS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://eth.bd.evmos.dev:8545",
+    "https://evmos-testnet-evm-rpc.publicnode.com",
+    "https://evmos-testnet.lava.build"
+  ],
+  "explorers": [
+    {
+      "name": "Evmos Explorer (Escan)",
+      "url": "https://testnet.escan.live",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://evmos.org"
+}

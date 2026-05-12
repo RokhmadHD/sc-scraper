@@ -1,0 +1,24 @@
+{
+  "name": "Nahmii 2 Mainnet",
+  "chain": "Nahmii",
+  "shortName": "Nahmii",
+  "category": "mainnet",
+  "chainId": 5551,
+  "networkId": 5551,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://l2.nahmii.io"
+  ],
+  "explorers": [
+    {
+      "name": "Nahmii 2 Mainnet Explorer",
+      "url": "https://explorer.n2.nahmii.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://nahmii.io"
+}

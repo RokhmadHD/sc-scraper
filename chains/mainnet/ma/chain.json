@@ -1,0 +1,26 @@
+{
+  "name": "Meta Assets Chain",
+  "chain": "MA",
+  "shortName": "ma",
+  "category": "mainnet",
+  "chainId": 20260131,
+  "networkId": 20260131,
+  "nativeCurrency": {
+    "name": "MetaAssets",
+    "symbol": "MA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://maclive.info",
+    "https://madataseed.xyz",
+    "https://rpc.ma-chain.xyz"
+  ],
+  "explorers": [
+    {
+      "name": "Meta Assets Chain Explorer",
+      "url": "https://ma-chain.xyz",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://ma-chain.xyz"
+}

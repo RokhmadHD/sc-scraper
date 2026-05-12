@@ -1,0 +1,24 @@
+{
+  "name": "ENI Testnet",
+  "chain": "ENI",
+  "shortName": "eni-test",
+  "category": "test",
+  "chainId": 174,
+  "networkId": 174,
+  "nativeCurrency": {
+    "name": "EGAS",
+    "symbol": "EGAS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-testnet.eniac.network"
+  ],
+  "explorers": [
+    {
+      "name": "ENI Testnet Explorer",
+      "url": "https://scan-testnet.eniac.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://eniac.network/"
+}

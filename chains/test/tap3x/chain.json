@@ -1,0 +1,24 @@
+{
+  "name": "Apex Fusion - Nexus testnet",
+  "chain": "Nexus testnet",
+  "shortName": "tAP3X",
+  "category": "test",
+  "chainId": 9070,
+  "networkId": 9070,
+  "nativeCurrency": {
+    "name": "Apex Fusion Token",
+    "symbol": "tAP3X",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.nexus.testnet.apexfusion.org/"
+  ],
+  "explorers": [
+    {
+      "name": "apexfusion",
+      "url": "https://explorer.nexus.testnet.apexfusion.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://apexfusion.org/"
+}

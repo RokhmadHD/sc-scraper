@@ -1,0 +1,24 @@
+{
+  "name": "MUD Chain",
+  "chain": "MUD",
+  "shortName": "MUD",
+  "category": "test",
+  "chainId": 168169,
+  "networkId": 168169,
+  "nativeCurrency": {
+    "name": "MUD",
+    "symbol": "MUD",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.mud.network"
+  ],
+  "explorers": [
+    {
+      "name": "MUD Chain Scan",
+      "url": "https://scan.mud.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://mud.network"
+}

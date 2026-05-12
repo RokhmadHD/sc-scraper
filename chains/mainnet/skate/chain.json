@@ -1,0 +1,24 @@
+{
+  "name": "Skate Mainnet",
+  "chain": "ETH",
+  "shortName": "skate",
+  "category": "mainnet",
+  "chainId": 5050,
+  "networkId": 5050,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.skatechain.org/"
+  ],
+  "explorers": [
+    {
+      "name": "Skate Explorer",
+      "url": "https://scan.skatechain.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.skatechain.org/"
+}

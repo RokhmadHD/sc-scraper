@@ -1,0 +1,24 @@
+{
+  "name": "DODOchain testnet",
+  "chain": "DODOchain",
+  "shortName": "dodochain",
+  "category": "test",
+  "chainId": 53457,
+  "networkId": 53457,
+  "nativeCurrency": {
+    "name": "DODO",
+    "symbol": "DODO",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://dodochain-testnet.alt.technology"
+  ],
+  "explorers": [
+    {
+      "name": "DODOchain Testnet (Sepolia) Explorer",
+      "url": "https://testnet-scan.dodochain.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.dodochain.com"
+}

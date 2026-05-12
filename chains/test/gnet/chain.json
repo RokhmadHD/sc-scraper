@@ -1,0 +1,24 @@
+{
+  "name": "Galactica-Reticulum",
+  "chain": "Galactica Testnet",
+  "shortName": "GNET",
+  "category": "test",
+  "chainId": 9302,
+  "networkId": 9302,
+  "nativeCurrency": {
+    "name": "Galactica Reticulum",
+    "symbol": "GNET",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://evm-rpc-http-reticulum.galactica.com/"
+  ],
+  "explorers": [
+    {
+      "name": "Galactica-Reticulum Explorer",
+      "url": "https://explorer-reticulum.galactica.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://galactica.com"
+}

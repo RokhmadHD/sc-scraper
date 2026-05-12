@@ -1,0 +1,17 @@
+{
+  "name": "Structx Mainnet",
+  "chain": "utx",
+  "shortName": "utx",
+  "category": "mainnet",
+  "chainId": 208,
+  "networkId": 208,
+  "nativeCurrency": {
+    "name": "Notes",
+    "symbol": "utx",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet.structx.io"
+  ],
+  "infoURL": "https://structx.io"
+}

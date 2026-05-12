@@ -1,0 +1,24 @@
+{
+  "name": "Arbitrum on xDai",
+  "chain": "AOX",
+  "shortName": "aox",
+  "category": "mainnet",
+  "chainId": 200,
+  "networkId": 200,
+  "nativeCurrency": {
+    "name": "xDAI",
+    "symbol": "xDAI",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://arbitrum.xdaichain.com/"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://blockscout.com/xdai/arbitrum",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://xdaichain.com"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Matr1x Testnet",
+  "chain": "Matr1x",
+  "shortName": "Matr1x-Testnet",
+  "category": "test",
+  "chainId": 88866,
+  "networkId": 88866,
+  "nativeCurrency": {
+    "name": "MAX",
+    "symbol": "MAX",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet-rpc.m1chain.io"
+  ],
+  "explorers": [
+    {
+      "name": "matr1x testnet",
+      "url": "https://testnet-scan.m1chain.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://matr1x.io"
+}

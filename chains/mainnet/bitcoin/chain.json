@@ -1,0 +1,17 @@
+{
+  "name": "Bitcoin Chain",
+  "chain": "BTC",
+  "shortName": "Bitcoin",
+  "category": "mainnet",
+  "chainId": 8086,
+  "networkId": 8086,
+  "nativeCurrency": {
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.bitcoinevm.org"
+  ],
+  "infoURL": "https://bitcoinevm.org"
+}

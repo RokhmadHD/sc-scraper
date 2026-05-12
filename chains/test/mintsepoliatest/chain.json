@@ -1,0 +1,24 @@
+{
+  "name": "Mint Sepolia Testnet",
+  "chain": "ETH",
+  "shortName": "mintsepoliatest",
+  "category": "test",
+  "chainId": 1687,
+  "networkId": 1687,
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://sepolia-testnet-rpc.mintchain.io"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://sepolia-testnet-explorer.mintchain.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.mintchain.io"
+}

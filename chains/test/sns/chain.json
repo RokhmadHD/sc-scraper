@@ -1,0 +1,24 @@
+{
+  "name": "Star Social Testnet",
+  "chain": "SNS",
+  "shortName": "SNS",
+  "category": "test",
+  "chainId": 700,
+  "networkId": 700,
+  "nativeCurrency": {
+    "name": "Social",
+    "symbol": "SNS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://avastar.cc/ext/bc/C/rpc"
+  ],
+  "explorers": [
+    {
+      "name": "starscan",
+      "url": "https://avastar.info",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://info.avastar.cc"
+}

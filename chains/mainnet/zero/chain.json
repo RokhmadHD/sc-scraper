@@ -1,0 +1,24 @@
+{
+  "name": "Singularity ZERO Mainnet",
+  "chain": "ZERO",
+  "shortName": "ZERO",
+  "category": "mainnet",
+  "chainId": 12052,
+  "networkId": 12052,
+  "nativeCurrency": {
+    "name": "ZERO",
+    "symbol": "ZERO",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://zerorpc.singularity.gold"
+  ],
+  "explorers": [
+    {
+      "name": "zeroscan",
+      "url": "https://zeroscan.singularity.gold",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.singularity.gold"
+}

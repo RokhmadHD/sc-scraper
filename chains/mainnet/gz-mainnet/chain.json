@@ -1,0 +1,17 @@
+{
+  "name": "Gear Zero Network Mainnet",
+  "chain": "GearZero",
+  "shortName": "gz-mainnet",
+  "category": "mainnet",
+  "chainId": 516,
+  "networkId": 516,
+  "nativeCurrency": {
+    "name": "Gear Zero Network Native Token",
+    "symbol": "GZN",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://gzn.linksme.info"
+  ],
+  "infoURL": "https://token.gearzero.ca/mainnet"
+}

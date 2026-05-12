@@ -1,0 +1,24 @@
+{
+  "name": "Gensyn Mainnet",
+  "chain": "Gensyn",
+  "shortName": "gensyn-mainnet",
+  "category": "mainnet",
+  "chainId": 685689,
+  "networkId": 685689,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://gensyn-mainnet.g.alchemy.com/public"
+  ],
+  "explorers": [
+    {
+      "name": "Gensyn Mainnet Explorer",
+      "url": "https://gensyn-mainnet.explorer.alchemy.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://gensyn.network/"
+}

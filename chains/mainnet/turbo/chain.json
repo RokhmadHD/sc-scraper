@@ -1,0 +1,24 @@
+{
+  "name": "Turbo",
+  "chain": "NEAR",
+  "shortName": "turbo",
+  "category": "mainnet",
+  "chainId": 1313161567,
+  "networkId": 1313161567,
+  "nativeCurrency": {
+    "name": "Turbo",
+    "symbol": "TURBO",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-0x4e45415f.aurora-cloud.dev"
+  ],
+  "explorers": [
+    {
+      "name": "Turbo explorer",
+      "url": "https://explorer.turbo.aurora.dev",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://turbotoken.io"
+}

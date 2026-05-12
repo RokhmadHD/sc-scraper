@@ -1,0 +1,24 @@
+{
+  "name": "CIC Chain Testnet",
+  "chain": "CICT",
+  "shortName": "CICT",
+  "category": "test",
+  "chainId": 1252,
+  "networkId": 1252,
+  "nativeCurrency": {
+    "name": "Crazy Internet Coin",
+    "symbol": "CICT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testapi.cicscan.com"
+  ],
+  "explorers": [
+    {
+      "name": "CICscan",
+      "url": "https://testnet.cicscan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.cicchain.net"
+}

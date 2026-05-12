@@ -1,0 +1,24 @@
+{
+  "name": "Htmlcoin Mainnet",
+  "chain": "mainnet",
+  "shortName": "html",
+  "category": "mainnet",
+  "chainId": 4444,
+  "networkId": 4444,
+  "nativeCurrency": {
+    "name": "Htmlcoin",
+    "symbol": "HTML",
+    "decimals": 8
+  },
+  "rpc": [
+    "https://janus.htmlcoin.com/api/"
+  ],
+  "explorers": [
+    {
+      "name": "htmlcoin",
+      "url": "https://explorer.htmlcoin.com",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://htmlcoin.com"
+}

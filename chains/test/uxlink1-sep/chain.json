@@ -1,0 +1,24 @@
+{
+  "name": "UXLINK One Testnet",
+  "chain": "UXLINK One",
+  "shortName": "uxlink1-sep",
+  "category": "test",
+  "chainId": 7181,
+  "networkId": 7181,
+  "nativeCurrency": {
+    "name": "UXLINK",
+    "symbol": "UXLINK",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-sepolia.uxlinkone.com"
+  ],
+  "explorers": [
+    {
+      "name": "UXLINK One Sepolia Explorer",
+      "url": "https://sepolia.uxlinkone.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.uxlinkone.io"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Astra",
+  "chain": "Astra",
+  "shortName": "astra",
+  "category": "mainnet",
+  "chainId": 11110,
+  "networkId": 11110,
+  "nativeCurrency": {
+    "name": "Astra",
+    "symbol": "ASA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.astranaut.io",
+    "https://rpc1.astranaut.io"
+  ],
+  "explorers": [
+    {
+      "name": "Astra EVM Explorer (Blockscout)",
+      "url": "https://explorer.astranaut.io",
+      "standard": "none"
+    },
+    {
+      "name": "Astra PingPub Explorer",
+      "url": "https://ping.astranaut.io/astra",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://astranaut.io"
+}

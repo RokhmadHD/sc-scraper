@@ -1,0 +1,17 @@
+{
+  "name": "bloxberg",
+  "chain": "bloxberg",
+  "shortName": "berg",
+  "category": "test",
+  "chainId": 8995,
+  "networkId": 8995,
+  "nativeCurrency": {
+    "name": "BERG",
+    "symbol": "U+25B3",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://core.bloxberg.org"
+  ],
+  "infoURL": "https://bloxberg.org"
+}

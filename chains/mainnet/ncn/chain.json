@@ -1,0 +1,25 @@
+{
+  "name": "Neurochain Mainnet",
+  "chain": "NCN",
+  "shortName": "ncn",
+  "category": "mainnet",
+  "chainId": 313,
+  "networkId": 313,
+  "nativeCurrency": {
+    "name": "Neurochain",
+    "symbol": "NCN",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://nc-rpc-prd1.neurochain.io",
+    "https://nc-rpc-prd2.neurochain.io"
+  ],
+  "explorers": [
+    {
+      "name": "neuroscan",
+      "url": "https://ncnscan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.neurochain.ai"
+}

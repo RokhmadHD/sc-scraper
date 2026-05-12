@@ -1,0 +1,32 @@
+{
+  "name": "Gnosis Chiado Testnet",
+  "chain": "GNO",
+  "shortName": "chi",
+  "category": "test",
+  "chainId": 10200,
+  "networkId": 10200,
+  "nativeCurrency": {
+    "name": "Chiado xDAI",
+    "symbol": "XDAI",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://gnosis-chiado-rpc.publicnode.com",
+    "https://gnosis-chiado.drpc.org",
+    "https://rpc.chiado.gnosis.gateway.fm",
+    "https://rpc.chiadochain.net"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout-chiadochain",
+      "url": "https://blockscout.chiadochain.net",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "blockscout",
+      "url": "https://gnosis-chiado.blockscout.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://docs.gnosischain.com"
+}

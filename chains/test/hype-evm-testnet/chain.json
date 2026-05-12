@@ -1,0 +1,17 @@
+{
+  "name": "Hyperliquid EVM Testnet",
+  "chain": "HYPE",
+  "shortName": "hype-evm-testnet",
+  "category": "test",
+  "chainId": 998,
+  "networkId": 998,
+  "nativeCurrency": {
+    "name": "HYPE",
+    "symbol": "HYPE",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://api.hyperliquid-testnet.xyz/evm"
+  ],
+  "infoURL": "https://hyperfoundation.org/"
+}

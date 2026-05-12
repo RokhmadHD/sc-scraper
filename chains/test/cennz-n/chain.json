@@ -1,0 +1,24 @@
+{
+  "name": "CENNZnet Nikau",
+  "chain": "CENNZnet",
+  "shortName": "cennz-n",
+  "category": "test",
+  "chainId": 3001,
+  "networkId": 3001,
+  "nativeCurrency": {
+    "name": "CPAY",
+    "symbol": "CPAY",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://nikau.centrality.me/public"
+  ],
+  "explorers": [
+    {
+      "name": "UNcover",
+      "url": "https://www.uncoverexplorer.com/?network=Nikau",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://cennz.net"
+}

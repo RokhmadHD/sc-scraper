@@ -1,0 +1,24 @@
+{
+  "name": "Vector Smart Chain",
+  "chain": "VSC",
+  "shortName": "vsg",
+  "category": "mainnet",
+  "chainId": 420042,
+  "networkId": 420042,
+  "nativeCurrency": {
+    "name": "Vector Smart Gas",
+    "symbol": "VSG",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.vscblockchain.org"
+  ],
+  "explorers": [
+    {
+      "name": "vscexplorer",
+      "url": "https://explorer.vscblockchain.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://vsgofficial.com"
+}

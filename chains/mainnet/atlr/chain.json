@@ -1,0 +1,17 @@
+{
+  "name": "Atelier",
+  "chain": "ALTR",
+  "shortName": "atlr",
+  "category": "mainnet",
+  "chainId": 1971,
+  "networkId": 1971,
+  "nativeCurrency": {
+    "name": "ATLR",
+    "symbol": "ATLR",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://1971.network/atlr"
+  ],
+  "infoURL": "https://1971.network/"
+}

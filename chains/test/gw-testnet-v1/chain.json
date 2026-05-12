@@ -1,0 +1,25 @@
+{
+  "name": "Godwoken Testnet v1",
+  "chain": "GWT",
+  "shortName": "gw-testnet-v1",
+  "category": "test",
+  "chainId": 71401,
+  "networkId": 71401,
+  "nativeCurrency": {
+    "name": "pCKB",
+    "symbol": "pCKB",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://godwoken-testnet-v1.ckbapp.dev",
+    "https://v1.testnet.godwoken.io/rpc"
+  ],
+  "explorers": [
+    {
+      "name": "GWScan Block Explorer",
+      "url": "https://v1.testnet.gwscan.com",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://www.nervos.org"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Anytype EVM Chain",
+  "chain": "ETH",
+  "shortName": "AnytypeChain",
+  "category": "test",
+  "chainId": 1701,
+  "networkId": 1701,
+  "nativeCurrency": {
+    "name": "ANY",
+    "symbol": "ANY",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://geth.anytype.io"
+  ],
+  "explorers": [
+    {
+      "name": "Anytype Explorer",
+      "url": "https://explorer.anytype.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://evm.anytype.io"
+}

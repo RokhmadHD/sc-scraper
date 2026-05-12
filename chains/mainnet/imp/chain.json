@@ -1,0 +1,25 @@
+{
+  "name": "IMPERIUM MAINNET",
+  "chain": "IMP",
+  "shortName": "IMP",
+  "category": "mainnet",
+  "chainId": 9819,
+  "networkId": 9819,
+  "nativeCurrency": {
+    "name": "IMP",
+    "symbol": "IMP",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://data-aws-mainnet.imperiumchain.com",
+    "https://data-aws2-mainnet.imperiumchain.com"
+  ],
+  "explorers": [
+    {
+      "name": "IMPERIUM Explorer",
+      "url": "https://impscan.com",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://imperiumchain.com"
+}

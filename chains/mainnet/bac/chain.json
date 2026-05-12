@@ -1,0 +1,24 @@
+{
+  "name": "Bitasset Chain Mainnet",
+  "chain": "BAC",
+  "shortName": "bac",
+  "category": "mainnet",
+  "chainId": 723,
+  "networkId": 723,
+  "nativeCurrency": {
+    "name": "Bitasset Chain Native Token",
+    "symbol": "BAC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.bitassetchain.io"
+  ],
+  "explorers": [
+    {
+      "name": "bacscan",
+      "url": "https://bacscan.net",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://bitassetchain.io"
+}

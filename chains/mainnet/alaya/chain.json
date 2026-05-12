@@ -1,0 +1,24 @@
+{
+  "name": "Alaya Mainnet",
+  "chain": "Alaya",
+  "shortName": "alaya",
+  "category": "mainnet",
+  "chainId": 201018,
+  "networkId": 1,
+  "nativeCurrency": {
+    "name": "ATP",
+    "symbol": "atp",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://openapi.alaya.network/rpc"
+  ],
+  "explorers": [
+    {
+      "name": "alaya explorer",
+      "url": "https://scan.alaya.network",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://www.alaya.network/"
+}

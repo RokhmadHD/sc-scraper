@@ -1,0 +1,33 @@
+{
+  "name": "Edgeware EdgeEVM Mainnet",
+  "chain": "EDG",
+  "shortName": "edg",
+  "category": "mainnet",
+  "chainId": 2021,
+  "networkId": 2021,
+  "nativeCurrency": {
+    "name": "Edgeware",
+    "symbol": "EDG",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://edgeware-evm.jelliedowl.net",
+    "https://edgeware-evm0.jelliedowl.net",
+    "https://edgeware-evm1.jelliedowl.net",
+    "https://edgeware-evm2.jelliedowl.net",
+    "https://edgeware-evm3.jelliedowl.net"
+  ],
+  "explorers": [
+    {
+      "name": "Edgscan EdgeEVM explorer by Bharathcoorg",
+      "url": "https://edgscan.live",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "Edgscan EdgeWASM explorer by Bharathcoorg",
+      "url": "https://edgscan.ink",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://edgeware.io"
+}

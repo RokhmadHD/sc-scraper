@@ -1,0 +1,24 @@
+{
+  "name": "Wanchain",
+  "chain": "WAN",
+  "shortName": "wan",
+  "category": "mainnet",
+  "chainId": 888,
+  "networkId": 888,
+  "nativeCurrency": {
+    "name": "Wancoin",
+    "symbol": "WAN",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://gwan-ssl.wandevs.org:56891/"
+  ],
+  "explorers": [
+    {
+      "name": "wanscan",
+      "url": "https://wanscan.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.wanscan.org"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Ztc Mainnet",
+  "chain": "ZTC",
+  "shortName": "ZTC",
+  "category": "mainnet",
+  "chainId": 9998,
+  "networkId": 9998,
+  "nativeCurrency": {
+    "name": "Ztcer",
+    "symbol": "ZTC",
+    "decimals": 5
+  },
+  "rpc": [
+    "https://zitcoin.us"
+  ],
+  "infoURL": "https://ztc.best"
+}

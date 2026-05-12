@@ -1,0 +1,25 @@
+{
+  "name": "Arbitrum Goerli",
+  "chain": "ETH",
+  "shortName": "arb-goerli",
+  "category": "test",
+  "chainId": 421613,
+  "networkId": 421613,
+  "nativeCurrency": {
+    "name": "Arbitrum Goerli Ether",
+    "symbol": "AGOR",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://arbitrum-goerli.publicnode.com",
+    "https://goerli-rollup.arbitrum.io/rpc"
+  ],
+  "explorers": [
+    {
+      "name": "Arbitrum Goerli Arbiscan",
+      "url": "https://goerli.arbiscan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://arbitrum.io/"
+}

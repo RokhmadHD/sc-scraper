@@ -1,0 +1,17 @@
+{
+  "name": "Carbon EVM Testnet",
+  "chain": "Carbon",
+  "shortName": "carbon-testnet",
+  "category": "test",
+  "chainId": 9792,
+  "networkId": 9792,
+  "nativeCurrency": {
+    "name": "swth",
+    "symbol": "SWTH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://test-evm-api.carbon.network/"
+  ],
+  "infoURL": "https://carbon.network/"
+}

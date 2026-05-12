@@ -1,0 +1,24 @@
+{
+  "name": "KCC Testnet",
+  "chain": "KCC",
+  "shortName": "kcst",
+  "category": "test",
+  "chainId": 322,
+  "networkId": 322,
+  "nativeCurrency": {
+    "name": "KuCoin Testnet Token",
+    "symbol": "tKCS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-testnet.kcc.network"
+  ],
+  "explorers": [
+    {
+      "name": "kcc-scan-testnet",
+      "url": "https://scan-testnet.kcc.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://scan-testnet.kcc.network"
+}

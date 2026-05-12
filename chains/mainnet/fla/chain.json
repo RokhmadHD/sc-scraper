@@ -1,0 +1,24 @@
+{
+  "name": "Flachain Mainnet",
+  "chain": "FLX",
+  "shortName": "fla",
+  "category": "mainnet",
+  "chainId": 29032022,
+  "networkId": 29032022,
+  "nativeCurrency": {
+    "name": "Flacoin",
+    "symbol": "FLA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://flachain.flaexchange.top/"
+  ],
+  "explorers": [
+    {
+      "name": "FLXExplorer",
+      "url": "https://explorer.flaexchange.top",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.flaexchange.top"
+}

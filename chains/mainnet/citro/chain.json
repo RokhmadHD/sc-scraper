@@ -1,0 +1,24 @@
+{
+  "name": "Citronus",
+  "chain": "Citronus",
+  "shortName": "citro",
+  "category": "mainnet",
+  "chainId": 50000,
+  "networkId": 50000,
+  "nativeCurrency": {
+    "name": "CITRO",
+    "symbol": "CITRO",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.citronus.com"
+  ],
+  "explorers": [
+    {
+      "name": "citro",
+      "url": "https://explorer.citronus.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://citronus.com"
+}

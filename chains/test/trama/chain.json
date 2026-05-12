@@ -1,0 +1,24 @@
+{
+  "name": "Pingaksha testnet",
+  "chain": "Pingaksha",
+  "shortName": "tRAMA",
+  "category": "test",
+  "chainId": 1377,
+  "networkId": 1377,
+  "nativeCurrency": {
+    "name": "Rama",
+    "symbol": "tRAMA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet.ramestta.com"
+  ],
+  "explorers": [
+    {
+      "name": "Pingaksha",
+      "url": "https://pingaksha.ramascan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.ramestta.com"
+}

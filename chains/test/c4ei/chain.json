@@ -1,0 +1,24 @@
+{
+  "name": "C4EI",
+  "chain": "C4EI",
+  "shortName": "c4ei",
+  "category": "test",
+  "chainId": 21004,
+  "networkId": 21004,
+  "nativeCurrency": {
+    "name": "C4EI",
+    "symbol": "C4EI",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.c4ei.net"
+  ],
+  "explorers": [
+    {
+      "name": "C4EI sirato",
+      "url": "https://exp.c4ei.net",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://c4ei.net"
+}

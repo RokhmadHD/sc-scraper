@@ -1,0 +1,24 @@
+{
+  "name": "J2O Taro",
+  "chain": "TARO",
+  "shortName": "j2o",
+  "category": "mainnet",
+  "chainId": 35011,
+  "networkId": 35011,
+  "nativeCurrency": {
+    "name": "TARO Coin",
+    "symbol": "taro",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.j2o.io"
+  ],
+  "explorers": [
+    {
+      "name": "J2O Taro Explorer",
+      "url": "https://exp.j2o.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://j2o.io"
+}

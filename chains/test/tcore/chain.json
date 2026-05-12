@@ -1,0 +1,24 @@
+{
+  "name": "Core Blockchain Testnet",
+  "chain": "Core",
+  "shortName": "tcore",
+  "category": "test",
+  "chainId": 1115,
+  "networkId": 1115,
+  "nativeCurrency": {
+    "name": "Core Blockchain Testnet Native Token",
+    "symbol": "tCORE",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.test.btcs.network/"
+  ],
+  "explorers": [
+    {
+      "name": "Core Scan Testnet",
+      "url": "https://scan.test.btcs.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.coredao.org"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Wyzth Testnet",
+  "chain": "WYZ",
+  "shortName": "wyz",
+  "category": "test",
+  "chainId": 309,
+  "networkId": 309,
+  "nativeCurrency": {
+    "name": "Wyzth",
+    "symbol": "WYZ",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-testnet3.wyzthchain.org/"
+  ],
+  "explorers": [
+    {
+      "name": "wyzth",
+      "url": "http://24.199.108.65:4000",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://wyzth.org/"
+}

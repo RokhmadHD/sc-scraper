@@ -1,0 +1,24 @@
+{
+  "name": "Entangle Mainnet",
+  "chain": "NGL",
+  "shortName": "ngl",
+  "category": "mainnet",
+  "chainId": 33033,
+  "networkId": 33033,
+  "nativeCurrency": {
+    "name": "Entangle",
+    "symbol": "NGL",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://json-rpc.entangle.fi"
+  ],
+  "explorers": [
+    {
+      "name": "Entangle Mainnet Explorer",
+      "url": "https://explorer.entangle.fi",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://www.entangle.fi"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Darwinia Pangoro Testnet",
+  "chain": "pangoro",
+  "shortName": "pangoro",
+  "category": "test",
+  "chainId": 45,
+  "networkId": 45,
+  "nativeCurrency": {
+    "name": "Pangoro Network Native Token",
+    "symbol": "ORING",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://pangoro-rpc.darwinia.network"
+  ],
+  "explorers": [
+    {
+      "name": "subscan",
+      "url": "https://pangoro.subscan.io",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://darwinia.network/"
+}

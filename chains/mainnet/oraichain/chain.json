@@ -1,0 +1,17 @@
+{
+  "name": "Oraichain Mainnet",
+  "chain": "Oraichain",
+  "shortName": "Oraichain",
+  "category": "mainnet",
+  "chainId": 108160679,
+  "networkId": 108160679,
+  "nativeCurrency": {
+    "name": "Oraichain Token",
+    "symbol": "ORAI",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://evm.orai.io"
+  ],
+  "infoURL": "https://orai.io"
+}

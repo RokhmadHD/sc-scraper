@@ -1,0 +1,24 @@
+{
+  "name": "Load Alphanet",
+  "chain": "LOAD",
+  "shortName": "tload",
+  "category": "test",
+  "chainId": 9496,
+  "networkId": 9496,
+  "nativeCurrency": {
+    "name": "Testnet Load Token",
+    "symbol": "tLOAD",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://alphanet.load.network"
+  ],
+  "explorers": [
+    {
+      "name": "Load Network Explorer",
+      "url": "https://explorer.load.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://load.network"
+}

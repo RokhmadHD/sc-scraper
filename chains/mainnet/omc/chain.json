@@ -1,0 +1,24 @@
+{
+  "name": "omChain Mainnet",
+  "chain": "OML",
+  "shortName": "omc",
+  "category": "mainnet",
+  "chainId": 21816,
+  "networkId": 21816,
+  "nativeCurrency": {
+    "name": "omChain",
+    "symbol": "OMC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://seed.omchain.io"
+  ],
+  "explorers": [
+    {
+      "name": "omChain Explorer",
+      "url": "https://explorer.omchain.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://omchain.io"
+}

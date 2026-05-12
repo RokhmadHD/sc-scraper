@@ -1,0 +1,24 @@
+{
+  "name": "BRC Chain Mainnet",
+  "chain": "BRC",
+  "shortName": "BRC",
+  "category": "mainnet",
+  "chainId": 12123,
+  "networkId": 12123,
+  "nativeCurrency": {
+    "name": "BRC Chain mainnet native token",
+    "symbol": "BRC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.brcchain.io"
+  ],
+  "explorers": [
+    {
+      "name": "BRC Chain Explorer",
+      "url": "https://scan.brcchain.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://bridge.brcchain.io"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "MAXI Chain Testnet",
+  "chain": "MAXI",
+  "shortName": "maxi-testnet",
+  "category": "test",
+  "chainId": 898,
+  "networkId": 898,
+  "nativeCurrency": {
+    "name": "MAXI GAS",
+    "symbol": "MGAS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-testnet.maxi.network"
+  ],
+  "explorers": [
+    {
+      "name": "Maxi Chain Testnet Explorer",
+      "url": "https://testnet.maxi.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://maxi.network"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Alterium L2 Testnet",
+  "chain": "ALT",
+  "shortName": "alterium",
+  "category": "test",
+  "chainId": 420692,
+  "networkId": 420692,
+  "nativeCurrency": {
+    "name": "Alterium ETH",
+    "symbol": "AltETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://l2-testnet-rpc.altscan.org"
+  ],
+  "explorers": [
+    {
+      "name": "Alterium L2 Testnet Explorer",
+      "url": "https://l2-testnet.altscan.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://alteriumprotocol.org"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Phoenix Mainnet",
+  "chain": "Phoenix",
+  "shortName": "Phoenix",
+  "category": "mainnet",
+  "chainId": 13381,
+  "networkId": 13381,
+  "nativeCurrency": {
+    "name": "Phoenix",
+    "symbol": "PHX",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.phoenixplorer.com/"
+  ],
+  "explorers": [
+    {
+      "name": "phoenixplorer",
+      "url": "https://phoenixplorer.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://cryptophoenix.org/phoenix"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "HashKey Chain Testnet(discard)",
+  "chain": "HashKey",
+  "shortName": "hsktest",
+  "category": "test",
+  "chainId": 230315,
+  "networkId": 230315,
+  "nativeCurrency": {
+    "name": "HashKey Token",
+    "symbol": "tHSK",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet.hashkeychain/rpc"
+  ],
+  "explorers": [
+    {
+      "name": "HashKey Chain Testnet Explorer",
+      "url": "https://testnet.hashkeyscan.io",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://www.hashkey.com"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "QuarkChain Devnet Shard 5",
+  "chain": "QuarkChain",
+  "shortName": "qkc-d-s5",
+  "category": "test",
+  "chainId": 110006,
+  "networkId": 110006,
+  "nativeCurrency": {
+    "name": "QKC",
+    "symbol": "QKC",
+    "decimals": 18
+  },
+  "rpc": [
+    "http://eth-jrpc.devnet.quarkchain.io:39905",
+    "https://devnet-s5-ethapi.quarkchain.io"
+  ],
+  "explorers": [
+    {
+      "name": "quarkchain-devnet",
+      "url": "https://devnet.quarkchain.io/5",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.quarkchain.io"
+}

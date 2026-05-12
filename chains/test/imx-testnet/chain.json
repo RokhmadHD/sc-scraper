@@ -1,0 +1,25 @@
+{
+  "name": "Immutable zkEVM Testnet",
+  "chain": "Immutable zkEVM",
+  "shortName": "imx-testnet",
+  "category": "test",
+  "chainId": 13473,
+  "networkId": 13473,
+  "nativeCurrency": {
+    "name": "Test IMX",
+    "symbol": "tIMX",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://immutable-zkevm-testnet.drpc.org",
+    "https://rpc.testnet.immutable.com"
+  ],
+  "explorers": [
+    {
+      "name": "Immutable Testnet explorer",
+      "url": "https://explorer.testnet.immutable.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.immutable.com"
+}

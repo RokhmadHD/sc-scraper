@@ -1,0 +1,17 @@
+{
+  "name": "Magnet Network",
+  "chain": "Magnet",
+  "shortName": "mgt",
+  "category": "mainnet",
+  "chainId": 19527,
+  "networkId": 19527,
+  "nativeCurrency": {
+    "name": "Magnet Network",
+    "symbol": "DOT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://magnet-rpc.magport.io/"
+  ],
+  "infoURL": "https://magnet.magport.io/"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Jono11 Subnet",
+  "chain": "JONO11",
+  "shortName": "jono11",
+  "category": "mainnet",
+  "chainId": 20765,
+  "networkId": 20765,
+  "nativeCurrency": {
+    "name": "Jono11 Token",
+    "symbol": "JONO",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://subnets.avax.network/jono11/testnet/rpc"
+  ],
+  "explorers": [
+    {
+      "name": "JONO11 Explorer",
+      "url": "https://subnets-test.avax.network/jono11",
+      "standard": "EIP3091"
+    }
+  ]
+}

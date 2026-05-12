@@ -1,0 +1,24 @@
+{
+  "name": "Moonsama Network",
+  "chain": "MSN",
+  "shortName": "msn",
+  "category": "test",
+  "chainId": 2199,
+  "networkId": 2199,
+  "nativeCurrency": {
+    "name": "Sama Token",
+    "symbol": "SAMA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.moonsama.com"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.moonsama.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://moonsama.com"
+}

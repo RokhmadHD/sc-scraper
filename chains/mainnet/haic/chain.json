@@ -1,0 +1,17 @@
+{
+  "name": "Haic",
+  "chain": "Haic",
+  "shortName": "haic",
+  "category": "mainnet",
+  "chainId": 803,
+  "networkId": 803,
+  "nativeCurrency": {
+    "name": "Haicoin",
+    "symbol": "HAIC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://orig.haichain.io/"
+  ],
+  "infoURL": "https://www.haichain.io/"
+}

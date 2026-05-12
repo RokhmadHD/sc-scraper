@@ -1,0 +1,24 @@
+{
+  "name": "Ethpar Mainnet",
+  "chain": "ETP",
+  "shortName": "ethpar",
+  "category": "mainnet",
+  "chainId": 1727,
+  "networkId": 1727,
+  "nativeCurrency": {
+    "name": "Ethpar",
+    "symbol": "ETP",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc01.ethpar.net/"
+  ],
+  "explorers": [
+    {
+      "name": "Ethpar Mainnet Explorer",
+      "url": "https://dora.ethpar.net",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://ethpar.com"
+}

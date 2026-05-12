@@ -1,0 +1,17 @@
+{
+  "name": "QuarkChain Devnet Root",
+  "chain": "QuarkChain",
+  "shortName": "qkc-d-r",
+  "category": "test",
+  "chainId": 110000,
+  "networkId": 110000,
+  "nativeCurrency": {
+    "name": "QKC",
+    "symbol": "QKC",
+    "decimals": 18
+  },
+  "rpc": [
+    "http://jrpc.devnet.quarkchain.io:38391"
+  ],
+  "infoURL": "https://www.quarkchain.io"
+}

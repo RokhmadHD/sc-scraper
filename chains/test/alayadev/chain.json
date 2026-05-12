@@ -1,0 +1,24 @@
+{
+  "name": "Alaya Dev Testnet",
+  "chain": "Alaya",
+  "shortName": "alayadev",
+  "category": "test",
+  "chainId": 201030,
+  "networkId": 1,
+  "nativeCurrency": {
+    "name": "ATP",
+    "symbol": "atp",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://devnetopenapi.alaya.network/rpc"
+  ],
+  "explorers": [
+    {
+      "name": "alaya explorer",
+      "url": "https://devnetscan.alaya.network",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://www.alaya.network/"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Pruv Testnet",
+  "chain": "PRUV Testnet",
+  "shortName": "pruvtestnet",
+  "category": "test",
+  "chainId": 7336,
+  "networkId": 7336,
+  "nativeCurrency": {
+    "name": "Pruv",
+    "symbol": "PRUV",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.testnet.pruv.network"
+  ],
+  "explorers": [
+    {
+      "name": "Pruv Testnet Explorer",
+      "url": "https://explorer.testnet.pruv.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://pruv.gitbook.io/pruv-network/"
+}

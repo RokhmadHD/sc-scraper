@@ -1,0 +1,17 @@
+{
+  "name": "SoterOne Mainnet",
+  "chain": "SOTER",
+  "shortName": "SO1",
+  "category": "mainnet",
+  "chainId": 68,
+  "networkId": 68,
+  "nativeCurrency": {
+    "name": "SoterOne Mainnet Ether",
+    "symbol": "SOTER",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.soter.one"
+  ],
+  "infoURL": "https://www.soterone.com"
+}

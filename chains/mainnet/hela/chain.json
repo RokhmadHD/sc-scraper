@@ -1,0 +1,24 @@
+{
+  "name": "Hela Official Runtime Mainnet",
+  "chain": "Hela",
+  "shortName": "hela",
+  "category": "mainnet",
+  "chainId": 8668,
+  "networkId": 8668,
+  "nativeCurrency": {
+    "name": "Hela HLUSD",
+    "symbol": "HLUSD",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet-rpc.helachain.com"
+  ],
+  "explorers": [
+    {
+      "name": "Hela Official Runtime Mainnet Explorer",
+      "url": "https://mainnet-blockexplorer.helachain.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://helalabs.com"
+}

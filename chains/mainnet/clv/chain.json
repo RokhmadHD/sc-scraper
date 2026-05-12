@@ -1,0 +1,17 @@
+{
+  "name": "CLV Parachain",
+  "chain": "CLV",
+  "shortName": "clv",
+  "category": "mainnet",
+  "chainId": 1024,
+  "networkId": 1024,
+  "nativeCurrency": {
+    "name": "CLV",
+    "symbol": "CLV",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://api-para.clover.finance"
+  ],
+  "infoURL": "https://clv.org"
+}

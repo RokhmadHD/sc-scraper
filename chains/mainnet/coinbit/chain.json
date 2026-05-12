@@ -1,0 +1,24 @@
+{
+  "name": "Coinbit Mainnet",
+  "chain": "Coinbit",
+  "shortName": "coinbit",
+  "category": "mainnet",
+  "chainId": 112,
+  "networkId": 112,
+  "nativeCurrency": {
+    "name": "Gas IDR",
+    "symbol": "GIDR",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://coinbit-rpc-mainnet.chain.sbcrypto.app"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://coinbit-explorer.chain.sbcrypto.app",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://crypto.stockbit.com/"
+}

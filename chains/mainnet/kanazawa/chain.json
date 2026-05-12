@@ -1,0 +1,29 @@
+{
+  "name": "Kanazawa",
+  "chain": "Kanazawa",
+  "shortName": "kanazawa",
+  "category": "mainnet",
+  "chainId": 222000222,
+  "networkId": 222000222,
+  "nativeCurrency": {
+    "name": "gMeld",
+    "symbol": "gMELD",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet-rpc.meld.com"
+  ],
+  "explorers": [
+    {
+      "name": "explorer",
+      "url": "https://testnet.meldscan.io",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "explorer",
+      "url": "https://subnets-test.avax.network/meld",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://meld.com"
+}

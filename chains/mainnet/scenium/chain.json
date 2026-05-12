@@ -1,0 +1,24 @@
+{
+  "name": "Scenium",
+  "chain": "Scenium",
+  "shortName": "scenium",
+  "category": "mainnet",
+  "chainId": 335700,
+  "networkId": 335700,
+  "nativeCurrency": {
+    "name": "SCEN",
+    "symbol": "SCEN",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://services.tanssi-mainnet.network/tanssi-2004"
+  ],
+  "explorers": [
+    {
+      "name": "Tanssi EVM Basic Explorer",
+      "url": "https://evmexplorer.tanssi-chains.network/?rpcUrl=https://services.tanssi-mainnet.network/tanssi-2004",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "hhttps://www.scenium.io/"
+}

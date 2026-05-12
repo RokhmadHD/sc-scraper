@@ -1,0 +1,17 @@
+{
+  "name": "UB Smart Chain",
+  "chain": "USC",
+  "shortName": "usc",
+  "category": "mainnet",
+  "chainId": 99999,
+  "networkId": 99999,
+  "nativeCurrency": {
+    "name": "UBC",
+    "symbol": "UBC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.uschain.network"
+  ],
+  "infoURL": "https://www.ubchain.site/"
+}

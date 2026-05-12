@@ -1,0 +1,24 @@
+{
+  "name": "HongKong Mainnet",
+  "chain": "HONGKONG",
+  "shortName": "HongKong",
+  "category": "mainnet",
+  "chainId": 852,
+  "networkId": 852,
+  "nativeCurrency": {
+    "name": "HongKong",
+    "symbol": "HK",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://eth.jegotrip.net"
+  ],
+  "explorers": [
+    {
+      "name": "HongKong Mainnet Explorer",
+      "url": "http://47.238.205.52",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://www.cmi.chinamobile.com/"
+}

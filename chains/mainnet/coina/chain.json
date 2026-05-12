@@ -1,0 +1,24 @@
+{
+  "name": "CoinAfrica",
+  "chain": "CoinAfrica",
+  "shortName": "coina",
+  "category": "mainnet",
+  "chainId": 35147,
+  "networkId": 35147,
+  "nativeCurrency": {
+    "name": "COINA",
+    "symbol": "COINA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.coinafrica.tech"
+  ],
+  "explorers": [
+    {
+      "name": "CoinA-Scan",
+      "url": "https://coinascan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://coinafrica.tech"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Pundi AIFX Omnilayer Testnet",
+  "chain": "PUNDIAI",
+  "shortName": "dhobyghaut",
+  "category": "test",
+  "chainId": 90001,
+  "networkId": 90001,
+  "nativeCurrency": {
+    "name": "Pundi AIFX",
+    "symbol": "PUNDAI",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet-fx-json-web3.functionx.io:8545"
+  ],
+  "explorers": [
+    {
+      "name": "PundiScan Explorer",
+      "url": "https://testnet.pundiscan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://fx.pundi.ai/"
+}

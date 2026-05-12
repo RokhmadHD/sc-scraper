@@ -1,0 +1,24 @@
+{
+  "name": "Latest Chain Testnet",
+  "chain": "LATEST",
+  "shortName": "LATESTt",
+  "category": "test",
+  "chainId": 6660,
+  "networkId": 6660,
+  "nativeCurrency": {
+    "name": "Latest",
+    "symbol": "LATEST",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet-rpc.latestcoin.io"
+  ],
+  "explorers": [
+    {
+      "name": "Latest Chain",
+      "url": "http://testnet.latestchain.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://latestcoin.io"
+}

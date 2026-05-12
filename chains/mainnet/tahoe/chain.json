@@ -1,0 +1,24 @@
+{
+  "name": "Metal Tahoe C-Chain",
+  "chain": "Metal",
+  "shortName": "Tahoe",
+  "category": "mainnet",
+  "chainId": 381932,
+  "networkId": 381932,
+  "nativeCurrency": {
+    "name": "Metal",
+    "symbol": "METAL",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://tahoe.metalblockchain.org/ext/bc/C/rpc"
+  ],
+  "explorers": [
+    {
+      "name": "metalscan",
+      "url": "https://tahoe.metalscan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.metalblockchain.org/"
+}

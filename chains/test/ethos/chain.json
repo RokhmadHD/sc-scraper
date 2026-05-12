@@ -1,0 +1,24 @@
+{
+  "name": "Ethos",
+  "chain": "ETHOS",
+  "shortName": "ETHOS",
+  "category": "test",
+  "chainId": 100000000,
+  "networkId": 100000000,
+  "nativeCurrency": {
+    "name": "ETHOS",
+    "symbol": "ETHOS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.ethos.cool"
+  ],
+  "explorers": [
+    {
+      "name": "ethos scan",
+      "url": "https://scan.ethos.cool",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://ethos.cool"
+}

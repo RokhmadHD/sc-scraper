@@ -1,0 +1,25 @@
+{
+  "name": "Candle",
+  "chain": "Candle",
+  "shortName": "CNDL",
+  "category": "mainnet",
+  "chainId": 534,
+  "networkId": 534,
+  "nativeCurrency": {
+    "name": "CANDLE",
+    "symbol": "CNDL",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://candle-rpc.com/",
+    "https://rpc.cndlchain.com"
+  ],
+  "explorers": [
+    {
+      "name": "candleexplorer",
+      "url": "https://candleexplorer.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://candlelabs.org/"
+}

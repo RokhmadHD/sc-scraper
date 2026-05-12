@@ -1,0 +1,24 @@
+{
+  "name": "Camp Testnet",
+  "chain": "ETH",
+  "shortName": "camp",
+  "category": "test",
+  "chainId": 90354,
+  "networkId": 90354,
+  "nativeCurrency": {
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-camp-network-4xje7wy105.t.conduit.xyz"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorerl2new-camp-network-4xje7wy105.t.conduit.xyz",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://campaign-1.gitbook.io/camp-technical-docså"
+}

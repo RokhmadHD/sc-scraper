@@ -1,0 +1,29 @@
+{
+  "name": "Taiko Hoodi",
+  "chain": "ETH",
+  "shortName": "tko-hoodi",
+  "category": "test",
+  "chainId": 167013,
+  "networkId": 167013,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.hoodi.taiko.xyz"
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout",
+      "url": "https://blockscout.hoodi.taiko.xyz",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "Etherscan",
+      "url": "https://hoodi.taikoscan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://taiko.xyz"
+}

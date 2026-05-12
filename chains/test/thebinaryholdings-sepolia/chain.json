@@ -1,0 +1,23 @@
+{
+  "name": "Binary Sepolia",
+  "chain": "The Binary Holdings",
+  "shortName": "thebinaryholdings-sepolia",
+  "category": "test",
+  "chainId": 625,
+  "networkId": 625,
+  "nativeCurrency": {
+    "name": "Test BNRY",
+    "symbol": "BNRY",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.testnet.thebinaryholdings.com"
+  ],
+  "explorers": [
+    {
+      "name": "Tracehawk",
+      "url": "https://explorer.sepolia.thebinaryholdings.com",
+      "standard": "none"
+    }
+  ]
+}

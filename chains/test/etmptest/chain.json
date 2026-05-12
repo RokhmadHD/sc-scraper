@@ -1,0 +1,24 @@
+{
+  "name": "Ennothem Testnet Pioneer",
+  "chain": "ETMP",
+  "shortName": "etmpTest",
+  "category": "test",
+  "chainId": 49,
+  "networkId": 49,
+  "nativeCurrency": {
+    "name": "Ennothem",
+    "symbol": "ETMP",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.pioneer.etm.network"
+  ],
+  "explorers": [
+    {
+      "name": "etmp",
+      "url": "https://pioneer.etmscan.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://etm.network"
+}

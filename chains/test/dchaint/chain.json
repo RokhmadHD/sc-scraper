@@ -1,0 +1,24 @@
+{
+  "name": "DCHAIN Testnet",
+  "chain": "dchaint",
+  "shortName": "dchaint",
+  "category": "test",
+  "chainId": 2713017997578000,
+  "networkId": 2713017997578000,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://dchaintestnet-2713017997578000-1.jsonrpc.testnet.sagarpc.io"
+  ],
+  "explorers": [
+    {
+      "name": "dchaint scan",
+      "url": "https://dchaintestnet-2713017997578000-1.testnet.sagaexplorer.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.dchain.foundation/"
+}

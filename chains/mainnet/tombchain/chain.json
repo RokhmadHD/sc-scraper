@@ -1,0 +1,24 @@
+{
+  "name": "Tomb Chain Mainnet",
+  "chain": "Tomb Chain",
+  "shortName": "tombchain",
+  "category": "mainnet",
+  "chainId": 6969,
+  "networkId": 6969,
+  "nativeCurrency": {
+    "name": "Tomb",
+    "symbol": "TOMB",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.tombchain.com/"
+  ],
+  "explorers": [
+    {
+      "name": "tombscout",
+      "url": "https://tombscout.com",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://tombchain.com/"
+}

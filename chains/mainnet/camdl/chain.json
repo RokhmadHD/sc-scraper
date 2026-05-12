@@ -1,0 +1,24 @@
+{
+  "name": "CamDL Mainnet",
+  "chain": "CADL",
+  "shortName": "camdl",
+  "category": "mainnet",
+  "chainId": 95,
+  "networkId": 95,
+  "nativeCurrency": {
+    "name": "CADL",
+    "symbol": "CADL",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc1.camdl.gov.kh/"
+  ],
+  "explorers": [
+    {
+      "name": "CamDL Block Explorer",
+      "url": "https://explorer.camdl.gov.kh",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://camdl.gov.kh/"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "JasmyChain",
+  "chain": "jasmychain",
+  "shortName": "jasmychain",
+  "category": "mainnet",
+  "chainId": 680,
+  "networkId": 680,
+  "nativeCurrency": {
+    "name": "JasmyCoin",
+    "symbol": "JASMY",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.jasmyscan.net"
+  ],
+  "explorers": [
+    {
+      "name": "jasmyscan",
+      "url": "https://explorer.jasmyscan.net",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://jasmy.global"
+}

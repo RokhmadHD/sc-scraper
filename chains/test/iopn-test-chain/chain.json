@@ -1,0 +1,24 @@
+{
+  "name": "IOPN Testnet",
+  "chain": "IOPN Testnet",
+  "shortName": "iopn-Test-Chain",
+  "category": "test",
+  "chainId": 984,
+  "networkId": 984,
+  "nativeCurrency": {
+    "name": "OPN",
+    "symbol": "OPN",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet-rpc.iopn.tech"
+  ],
+  "explorers": [
+    {
+      "name": "tracehawk",
+      "url": "https://testnet.iopn.tech",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://iopn.tech"
+}

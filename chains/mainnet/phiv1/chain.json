@@ -1,0 +1,25 @@
+{
+  "name": "PHI Network V1",
+  "chain": "PHI V1",
+  "shortName": "PHIv1",
+  "category": "mainnet",
+  "chainId": 4181,
+  "networkId": 4181,
+  "nativeCurrency": {
+    "name": "PHI",
+    "symbol": "Φ",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc1.phi.network",
+    "https://rpc2.phi.network"
+  ],
+  "explorers": [
+    {
+      "name": "PHI Explorer",
+      "url": "https://explorer.phi.network",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://phi.network"
+}

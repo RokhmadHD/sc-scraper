@@ -1,0 +1,25 @@
+{
+  "name": "Injective Testnet",
+  "chain": "Injective",
+  "shortName": "injective-testnet",
+  "category": "test",
+  "chainId": 1439,
+  "networkId": 1439,
+  "nativeCurrency": {
+    "name": "Injective",
+    "symbol": "INJ",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://injectiveevm-testnet-rpc.polkachu.com",
+    "https://k8s.testnet.json-rpc.injective.network"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://testnet.blockscout.injective.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://injective.com"
+}

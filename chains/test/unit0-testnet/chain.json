@@ -1,0 +1,24 @@
+{
+  "name": "Unit Zero Testnet",
+  "chain": "Unit Zero",
+  "shortName": "unit0-testnet",
+  "category": "test",
+  "chainId": 88817,
+  "networkId": 88817,
+  "nativeCurrency": {
+    "name": "UNIT0",
+    "symbol": "UNIT0",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-testnet.unit0.dev"
+  ],
+  "explorers": [
+    {
+      "name": "explorer-testnet",
+      "url": "https://explorer-testnet.unit0.dev",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://units.network"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "ChadChain",
+  "chain": "CHAD",
+  "shortName": "chad",
+  "category": "mainnet",
+  "chainId": 97912060,
+  "networkId": 97912060,
+  "nativeCurrency": {
+    "name": "ChadChain",
+    "symbol": "CHAD",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.chadchain.org"
+  ],
+  "infoURL": "https://chadchain.org"
+}

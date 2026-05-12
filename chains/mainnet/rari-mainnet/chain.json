@@ -1,0 +1,24 @@
+{
+  "name": "RARI Chain Mainnet",
+  "chain": "RARI",
+  "shortName": "rari-mainnet",
+  "category": "mainnet",
+  "chainId": 1380012617,
+  "networkId": 1380012617,
+  "nativeCurrency": {
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rari.calderachain.xyz/http"
+  ],
+  "explorers": [
+    {
+      "name": "rarichain-explorer",
+      "url": "https://mainnet.explorer.rarichain.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://rarichain.org/"
+}

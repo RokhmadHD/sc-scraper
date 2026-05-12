@@ -1,0 +1,17 @@
+{
+  "name": "Warden Testnet",
+  "chain": "WARD",
+  "shortName": "ward",
+  "category": "test",
+  "chainId": 10010,
+  "networkId": 10010,
+  "nativeCurrency": {
+    "name": "WARD",
+    "symbol": "WARD",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://evm.chiado.wardenprotocol.org"
+  ],
+  "infoURL": "https://wardenprotocol.org"
+}

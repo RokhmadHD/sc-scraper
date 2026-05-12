@@ -1,0 +1,17 @@
+{
+  "name": "Newton",
+  "chain": "NEW",
+  "shortName": "new",
+  "category": "mainnet",
+  "chainId": 1012,
+  "networkId": 1012,
+  "nativeCurrency": {
+    "name": "Newton",
+    "symbol": "NEW",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://global.rpc.mainnet.newtonproject.org"
+  ],
+  "infoURL": "https://www.newtonproject.org/"
+}

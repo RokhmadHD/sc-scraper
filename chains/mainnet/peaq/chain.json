@@ -1,0 +1,26 @@
+{
+  "name": "peaq",
+  "chain": "peaq",
+  "shortName": "PEAQ",
+  "category": "mainnet",
+  "chainId": 3338,
+  "networkId": 3338,
+  "nativeCurrency": {
+    "name": "peaq",
+    "symbol": "PEAQ",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://quicknode1.peaq.xyz",
+    "https://quicknode2.peaq.xyz",
+    "https://quicknode3.peaq.xyz"
+  ],
+  "explorers": [
+    {
+      "name": "Subscan",
+      "url": "https://peaq.subscan.io",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://www.peaq.xyz"
+}

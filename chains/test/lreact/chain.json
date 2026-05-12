@@ -1,0 +1,24 @@
+{
+  "name": "Reactive Lasna",
+  "chain": "REACT",
+  "shortName": "lreact",
+  "category": "test",
+  "chainId": 5318007,
+  "networkId": 5318007,
+  "nativeCurrency": {
+    "name": "Lasna React",
+    "symbol": "lREACT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://lasna-rpc.rnk.dev"
+  ],
+  "explorers": [
+    {
+      "name": "Reactscan",
+      "url": "https://lasna.reactscan.net",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://reactive.network"
+}

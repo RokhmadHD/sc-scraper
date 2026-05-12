@@ -1,0 +1,24 @@
+{
+  "name": "IOTA EVM Testnet",
+  "chain": "IOTA EVM",
+  "shortName": "iotaevm-testnet",
+  "category": "test",
+  "chainId": 1075,
+  "networkId": 1075,
+  "nativeCurrency": {
+    "name": "IOTA",
+    "symbol": "IOTA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://json-rpc.evm.testnet.iotaledger.net"
+  ],
+  "explorers": [
+    {
+      "name": "explorer",
+      "url": "https://explorer.evm.testnet.iotaledger.net",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.iota.org"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Canto",
+  "chain": "Canto",
+  "shortName": "canto",
+  "category": "mainnet",
+  "chainId": 7700,
+  "networkId": 7700,
+  "nativeCurrency": {
+    "name": "Canto",
+    "symbol": "CANTO",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://canto-rpc.ansybl.io",
+    "https://canto.gravitychain.io/",
+    "https://canto.slingshot.finance",
+    "https://mainnode.plexnode.org:8545"
+  ],
+  "explorers": [
+    {
+      "name": "Canto Explorer (OKLink)",
+      "url": "https://www.oklink.com/canto",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "Canto EVM Explorer (Blockscout)",
+      "url": "https://tuber.build",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "dexguru",
+      "url": "https://canto.dex.guru",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://canto.io"
+}

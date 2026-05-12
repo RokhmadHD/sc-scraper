@@ -1,0 +1,17 @@
+{
+  "name": "Bool Network Beta Mainnet",
+  "chain": "BOOL",
+  "shortName": "BOL",
+  "category": "mainnet",
+  "chainId": 11100,
+  "networkId": 11100,
+  "nativeCurrency": {
+    "name": "BOL",
+    "symbol": "BOL",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://beta-rpc-node-http.bool.network"
+  ],
+  "infoURL": "https://bool.network/"
+}

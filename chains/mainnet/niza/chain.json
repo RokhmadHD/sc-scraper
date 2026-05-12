@@ -1,0 +1,24 @@
+{
+  "name": "Niza Chain Mainnet",
+  "chain": "NIZA",
+  "shortName": "niza",
+  "category": "mainnet",
+  "chainId": 20041,
+  "networkId": 20041,
+  "nativeCurrency": {
+    "name": "Niza Global",
+    "symbol": "NIZA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://nizascan.io/rpc"
+  ],
+  "explorers": [
+    {
+      "name": "NizaScan",
+      "url": "https://nizascan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://niza.io"
+}

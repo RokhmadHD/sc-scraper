@@ -1,0 +1,30 @@
+{
+  "name": "Moonbeam",
+  "chain": "MOON",
+  "shortName": "mbeam",
+  "category": "mainnet",
+  "chainId": 1284,
+  "networkId": 1284,
+  "nativeCurrency": {
+    "name": "Glimmer",
+    "symbol": "GLMR",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://moonbeam-rpc.dwellir.com",
+    "https://moonbeam-rpc.publicnode.com",
+    "https://moonbeam.api.onfinality.io/public",
+    "https://moonbeam.drpc.org",
+    "https://moonbeam.public.blastapi.io",
+    "https://moonbeam.unitedbloc.com",
+    "https://rpc.api.moonbeam.network"
+  ],
+  "explorers": [
+    {
+      "name": "moonscan",
+      "url": "https://moonbeam.moonscan.io",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://moonbeam.network/networks/moonbeam/"
+}

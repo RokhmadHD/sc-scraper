@@ -1,0 +1,24 @@
+{
+  "name": "Findora Mainnet",
+  "chain": "Findora",
+  "shortName": "fra",
+  "category": "mainnet",
+  "chainId": 2152,
+  "networkId": 2152,
+  "nativeCurrency": {
+    "name": "FRA",
+    "symbol": "FRA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-mainnet.findora.org"
+  ],
+  "explorers": [
+    {
+      "name": "findorascan",
+      "url": "https://evm.findorascan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://findora.org/"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "SOMA Network Mainnet",
+  "chain": "SOMA",
+  "shortName": "smam",
+  "category": "mainnet",
+  "chainId": 2332,
+  "networkId": 2332,
+  "nativeCurrency": {
+    "name": "Soma Native Token",
+    "symbol": "SMA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://data-mainnet-v1.somanetwork.io/",
+    "https://hk-mainnet.somanetwork.io",
+    "https://id-mainnet.somanetwork.io",
+    "https://sg-mainnet.somanetwork.io"
+  ],
+  "explorers": [
+    {
+      "name": "SOMA Explorer Mainnet",
+      "url": "https://somascan.io",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://somanetwork.io"
+}

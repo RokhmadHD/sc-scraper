@@ -1,0 +1,24 @@
+{
+  "name": "SiriusNet V2",
+  "chain": "SIN2",
+  "shortName": "SIN2",
+  "category": "mainnet",
+  "chainId": 217,
+  "networkId": 217,
+  "nativeCurrency": {
+    "name": "MCD",
+    "symbol": "MCD",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc2.siriusnet.io"
+  ],
+  "explorers": [
+    {
+      "name": "siriusnet explorer",
+      "url": "https://scan.siriusnet.io",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://siriusnet.io"
+}

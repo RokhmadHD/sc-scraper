@@ -1,0 +1,25 @@
+{
+  "name": "Optopia Mainnet",
+  "chain": "ETH",
+  "shortName": "Optopia",
+  "category": "mainnet",
+  "chainId": 62050,
+  "networkId": 62050,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-mainnet-2.optopia.ai",
+    "https://rpc-mainnet.optopia.ai"
+  ],
+  "explorers": [
+    {
+      "name": "optopia-scan",
+      "url": "https://scan.optopia.ai",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://optopia.ai"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Gon Chain",
+  "chain": "GonChain",
+  "shortName": "gon",
+  "category": "mainnet",
+  "chainId": 10024,
+  "networkId": 10024,
+  "nativeCurrency": {
+    "name": "Gon Token",
+    "symbol": "GT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://node1.mainnet.gon.network",
+    "https://node1.testnet.gaiaopen.network",
+    "https://node2.mainnet.gon.network",
+    "https://node3.mainnet.gon.network",
+    "https://node4.mainnet.gon.network"
+  ],
+  "explorers": [
+    {
+      "name": "Gon Explorer",
+      "url": "https://gonscan.com",
+      "standard": "none"
+    }
+  ]
+}

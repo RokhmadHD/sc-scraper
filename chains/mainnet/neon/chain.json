@@ -1,0 +1,24 @@
+{
+  "name": "Neonlink Mainnet",
+  "chain": "Neonlink",
+  "shortName": "neon",
+  "category": "mainnet",
+  "chainId": 259,
+  "networkId": 259,
+  "nativeCurrency": {
+    "name": "Neonlink Native Token",
+    "symbol": "NEON",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet.neonlink.io"
+  ],
+  "explorers": [
+    {
+      "name": "Neon Blockchain Explorer",
+      "url": "https://scan.neonlink.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://neonlink.io"
+}

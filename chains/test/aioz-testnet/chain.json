@@ -1,0 +1,24 @@
+{
+  "name": "AIOZ Network Testnet",
+  "chain": "AIOZ",
+  "shortName": "aioz-testnet",
+  "category": "test",
+  "chainId": 4102,
+  "networkId": 4102,
+  "nativeCurrency": {
+    "name": "testAIOZ",
+    "symbol": "AIOZ",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://eth-ds.testnet.aioz.network"
+  ],
+  "explorers": [
+    {
+      "name": "AIOZ Network Testnet Explorer",
+      "url": "https://testnet.explorer.aioz.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://aioz.network"
+}

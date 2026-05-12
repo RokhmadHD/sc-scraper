@@ -1,0 +1,24 @@
+{
+  "name": "Polygon Blackberry",
+  "chain": "ETH",
+  "shortName": "polygon-blackberry",
+  "category": "mainnet",
+  "chainId": 94204209,
+  "networkId": 94204209,
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.polygon-blackberry.gelato.digital"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://polygon-blackberry.gelatoscout.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://raas.gelato.network/rollups/details/public/polygon-blackberry"
+}

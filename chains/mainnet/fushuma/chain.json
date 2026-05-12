@@ -1,0 +1,23 @@
+{
+  "name": "Fushuma",
+  "chain": "Fushuma",
+  "shortName": "fushuma",
+  "category": "mainnet",
+  "chainId": 121224,
+  "networkId": 121224,
+  "nativeCurrency": {
+    "name": "FUSHUMA",
+    "symbol": "FUMA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.fushuma.com"
+  ],
+  "explorers": [
+    {
+      "name": "FumaScan",
+      "url": "https://fumascan.com",
+      "standard": "none"
+    }
+  ]
+}

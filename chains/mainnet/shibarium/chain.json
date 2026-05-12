@@ -1,0 +1,24 @@
+{
+  "name": "Shibarium Beta",
+  "chain": "Shibarium",
+  "shortName": "shibarium",
+  "category": "mainnet",
+  "chainId": 719,
+  "networkId": 719,
+  "nativeCurrency": {
+    "name": "BONE",
+    "symbol": "BONE",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://puppynet.shibrpc.com"
+  ],
+  "explorers": [
+    {
+      "name": "shibscan",
+      "url": "https://puppyscan.shib.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://beta.shibariumtech.com"
+}

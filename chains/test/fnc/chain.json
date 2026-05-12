@@ -1,0 +1,24 @@
+{
+  "name": "Foundry Chain Testnet",
+  "chain": "tFNC",
+  "shortName": "fnc",
+  "category": "test",
+  "chainId": 77238,
+  "networkId": 77238,
+  "nativeCurrency": {
+    "name": "Foundry Chain Testnet",
+    "symbol": "tFNC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet-rpc.foundryscan.org/"
+  ],
+  "explorers": [
+    {
+      "name": "Foundry Scan Testnet",
+      "url": "https://testnet-explorer.foundryscan.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://foundrychain.org"
+}

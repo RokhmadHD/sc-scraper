@@ -1,0 +1,25 @@
+{
+  "name": "Astar zKyoto",
+  "chain": "ETH",
+  "shortName": "azkyt",
+  "category": "mainnet",
+  "chainId": 6038361,
+  "networkId": 6038361,
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.startale.com/zkyoto",
+    "https://rpc.zkyoto.gelato.digital"
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout zKyoto explorer",
+      "url": "https://astar-zkyoto.blockscout.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://astar.network"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Wanchain Testnet",
+  "chain": "WAN",
+  "shortName": "twan",
+  "category": "test",
+  "chainId": 999,
+  "networkId": 999,
+  "nativeCurrency": {
+    "name": "Wancoin",
+    "symbol": "WAN",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://gwan-ssl.wandevs.org:46891/"
+  ],
+  "explorers": [
+    {
+      "name": "wanscan",
+      "url": "https://testnet.wanscan.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://testnet.wanscan.org"
+}

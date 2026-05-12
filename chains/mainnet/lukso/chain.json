@@ -1,0 +1,26 @@
+{
+  "name": "LUKSO Mainnet",
+  "chain": "LUKSO",
+  "shortName": "lukso",
+  "category": "mainnet",
+  "chainId": 42,
+  "networkId": 42,
+  "nativeCurrency": {
+    "name": "LUKSO",
+    "symbol": "LYX",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://42.rpc.thirdweb.com",
+    "https://rpc.lukso.sigmacore.io",
+    "https://rpc.mainnet.lukso.network"
+  ],
+  "explorers": [
+    {
+      "name": "LUKSO Execution Explorer",
+      "url": "https://explorer.lukso.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://lukso.network"
+}

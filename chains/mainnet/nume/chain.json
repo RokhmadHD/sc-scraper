@@ -1,0 +1,24 @@
+{
+  "name": "Nume",
+  "chain": "Nume",
+  "shortName": "nume",
+  "category": "mainnet",
+  "chainId": 7100,
+  "networkId": 7100,
+  "nativeCurrency": {
+    "name": "Dai Stablecoin",
+    "symbol": "DAI",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.numecrypto.com"
+  ],
+  "explorers": [
+    {
+      "name": "numeexplorer",
+      "url": "https://explorer.numecrypto.com",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://numecrypto.com"
+}

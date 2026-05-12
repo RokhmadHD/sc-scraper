@@ -1,0 +1,24 @@
+{
+  "name": "Asset Chain Mainnet",
+  "chain": "Asset Chain",
+  "shortName": "assetchain",
+  "category": "mainnet",
+  "chainId": 42420,
+  "networkId": 42420,
+  "nativeCurrency": {
+    "name": "Real World Asset",
+    "symbol": "RWA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet-rpc.assetchain.org"
+  ],
+  "explorers": [
+    {
+      "name": "Asset Chain Explorer",
+      "url": "https://scan.assetchain.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://docs.assetchain.org"
+}

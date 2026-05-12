@@ -1,0 +1,17 @@
+{
+  "name": "OX Chain",
+  "chain": "OX",
+  "shortName": "ox-chain",
+  "category": "mainnet",
+  "chainId": 6699,
+  "networkId": 6699,
+  "nativeCurrency": {
+    "name": "OX",
+    "symbol": "OX",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.oxscan.io"
+  ],
+  "infoURL": "https://ox.fun/chain"
+}

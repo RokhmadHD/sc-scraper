@@ -1,0 +1,24 @@
+{
+  "name": "Kinto Testnet",
+  "chain": "ETH",
+  "shortName": "keth",
+  "category": "test",
+  "chainId": 42888,
+  "networkId": 42888,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "http://35.215.120.180:8545"
+  ],
+  "explorers": [
+    {
+      "name": "kintoscan",
+      "url": "http://35.215.120.180:4000",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://ethereum.org"
+}

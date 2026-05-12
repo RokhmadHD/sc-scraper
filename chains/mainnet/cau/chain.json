@@ -1,0 +1,24 @@
+{
+  "name": "Canxium Mainnet",
+  "chain": "CAU",
+  "shortName": "cau",
+  "category": "mainnet",
+  "chainId": 3003,
+  "networkId": 3003,
+  "nativeCurrency": {
+    "name": "Canxium",
+    "symbol": "CAU",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.canxium.org"
+  ],
+  "explorers": [
+    {
+      "name": "canxium explorer",
+      "url": "https://explorer.canxium.org",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://canxium.org"
+}

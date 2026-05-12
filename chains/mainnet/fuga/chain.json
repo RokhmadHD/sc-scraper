@@ -1,0 +1,17 @@
+{
+  "name": "Fuga Mainnet",
+  "chain": "Fuga",
+  "shortName": "FUGA",
+  "category": "mainnet",
+  "chainId": 1732,
+  "networkId": 1732,
+  "nativeCurrency": {
+    "name": "FUGA",
+    "symbol": "FUGA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.fuga.blue"
+  ],
+  "infoURL": "https://fuga.one"
+}

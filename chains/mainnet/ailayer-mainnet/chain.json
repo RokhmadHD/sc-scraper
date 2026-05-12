@@ -1,0 +1,24 @@
+{
+  "name": "AILayer Mainnet",
+  "chain": "AILayer",
+  "shortName": "ailayer-mainnet",
+  "category": "mainnet",
+  "chainId": 2649,
+  "networkId": 2649,
+  "nativeCurrency": {
+    "name": "BTC",
+    "symbol": "BTC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet-rpc.ailayer.xyz"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://mainnet-explorer.ailayer.xyz",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://ailayer.xyz/"
+}

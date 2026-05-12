@@ -1,0 +1,25 @@
+{
+  "name": "PartyChain",
+  "chain": "mainnet",
+  "shortName": "TeaParty",
+  "category": "mainnet",
+  "chainId": 1773,
+  "networkId": 1773,
+  "nativeCurrency": {
+    "name": "Grams",
+    "symbol": "GRAMS",
+    "decimals": 18
+  },
+  "rpc": [
+    "http://172.104.194.36:8545",
+    "https://tea.mining4people.com/rpc"
+  ],
+  "explorers": [
+    {
+      "name": "PartyExplorer",
+      "url": "https://partyexplorer.co",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "TeaPartyCrypto.com"
+}

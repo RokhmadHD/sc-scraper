@@ -1,0 +1,24 @@
+{
+  "name": "Billions",
+  "chain": "Billions",
+  "shortName": "Billions",
+  "category": "mainnet",
+  "chainId": 45056,
+  "networkId": 45056,
+  "nativeCurrency": {
+    "name": "ETHER",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://billions-rpc.eu-north-2.gateway.fm"
+  ],
+  "explorers": [
+    {
+      "name": "Billions Explorer",
+      "url": "https://billions-blockscout.eu-north-2.gateway.fm",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://billions.network"
+}

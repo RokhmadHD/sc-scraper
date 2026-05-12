@@ -1,0 +1,24 @@
+{
+  "name": "Bandai Namco Research Verse Mainnet",
+  "chain": "Bandai Namco Research Verse",
+  "shortName": "BNKEN",
+  "category": "mainnet",
+  "chainId": 876,
+  "networkId": 876,
+  "nativeCurrency": {
+    "name": "OAS",
+    "symbol": "OAS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.main.oasvrs.bnken.net"
+  ],
+  "explorers": [
+    {
+      "name": "Bandai Namco Research Verse Explorer",
+      "url": "https://explorer.main.oasvrs.bnken.net",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.bandainamco-mirai.com/en/"
+}

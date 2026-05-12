@@ -1,0 +1,24 @@
+{
+  "name": "Dogcoin Testnet",
+  "chain": "DOGS",
+  "shortName": "DOGSt",
+  "category": "test",
+  "chainId": 9339,
+  "networkId": 9339,
+  "nativeCurrency": {
+    "name": "Dogcoin",
+    "symbol": "DOGS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet-rpc.dogcoin.me"
+  ],
+  "explorers": [
+    {
+      "name": "Dogcoin",
+      "url": "https://testnet.dogcoin.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://dogcoin.network"
+}

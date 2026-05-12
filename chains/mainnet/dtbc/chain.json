@@ -1,0 +1,17 @@
+{
+  "name": "Deviant Token Blockchain",
+  "chain": "DTBC",
+  "shortName": "dtbc",
+  "category": "mainnet",
+  "chainId": 52027071,
+  "networkId": 52027071,
+  "nativeCurrency": {
+    "name": "Deviant Token",
+    "symbol": "DTBC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.devianttoken.net"
+  ],
+  "infoURL": "https://devianttoken.net"
+}

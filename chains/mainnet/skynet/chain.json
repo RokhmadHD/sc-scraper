@@ -1,0 +1,24 @@
+{
+  "name": "Skynet",
+  "chain": "Skynet",
+  "shortName": "Skynet",
+  "category": "mainnet",
+  "chainId": 619,
+  "networkId": 619,
+  "nativeCurrency": {
+    "name": "SkyUSD",
+    "symbol": "sUSD",
+    "decimals": 18
+  },
+  "rpc": [
+    "http://rpc.skynet.io"
+  ],
+  "explorers": [
+    {
+      "name": "tracehawk",
+      "url": "http://explorer.skynet.io",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "http://explorer.skynet.io"
+}

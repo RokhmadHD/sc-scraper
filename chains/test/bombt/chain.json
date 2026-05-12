@@ -1,0 +1,24 @@
+{
+  "name": "BOMB Chain Testnet",
+  "chain": "BOMB",
+  "shortName": "bombt",
+  "category": "test",
+  "chainId": 2399,
+  "networkId": 2399,
+  "nativeCurrency": {
+    "name": "BOMB Token",
+    "symbol": "tBOMB",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://bombchain-testnet.ankr.com/bas_full_rpc_1"
+  ],
+  "explorers": [
+    {
+      "name": "bombscan-testnet",
+      "url": "https://explorer.bombchain-testnet.ankr.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.bombmoney.com"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "OP Sepolia Testnet",
+  "chain": "ETH",
+  "shortName": "opsep",
+  "category": "test",
+  "chainId": 11155420,
+  "networkId": 11155420,
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://optimism-sepolia.drpc.org",
+    "https://sepolia.optimism.io"
+  ],
+  "explorers": [
+    {
+      "name": "etherscan-sepolia-optimism",
+      "url": "https://sepolia-optimism.etherscan.io",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "opscout",
+      "url": "https://optimism-sepolia.blockscout.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://optimism.io"
+}

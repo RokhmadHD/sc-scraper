@@ -1,0 +1,25 @@
+{
+  "name": "Automata Mainnet",
+  "chain": "Automata Mainnet",
+  "shortName": "automatamainnet",
+  "category": "mainnet",
+  "chainId": 65536,
+  "networkId": 65536,
+  "nativeCurrency": {
+    "name": "ATA",
+    "symbol": "ATA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://automata-mainnet.alt.technology/",
+    "https://rpc.ata.network"
+  ],
+  "explorers": [
+    {
+      "name": "Automata Explorer",
+      "url": "https://explorer.ata.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://ata.network"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Electroneum Mainnet",
+  "chain": "Electroneum",
+  "shortName": "etn-mainnet",
+  "category": "mainnet",
+  "chainId": 52014,
+  "networkId": 52014,
+  "nativeCurrency": {
+    "name": "Electroneum",
+    "symbol": "ETN",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.ankr.com/electroneum",
+    "https://rpc.electroneum.com"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://blockexplorer.electroneum.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://electroneum.com"
+}

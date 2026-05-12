@@ -1,0 +1,30 @@
+{
+  "name": "OEV Network",
+  "chain": "oev-network",
+  "shortName": "oev-network",
+  "category": "mainnet",
+  "chainId": 4913,
+  "networkId": 4913,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://oev-network.calderachain.xyz/http",
+    "https://oev.rpc.api3.org"
+  ],
+  "explorers": [
+    {
+      "name": "OEV Network Explorer",
+      "url": "https://oev.explorer.api3.org",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "OEV Network Caldera Explorer",
+      "url": "https://oev-network.calderaexplorer.xyz",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://api3.org/oev/"
+}

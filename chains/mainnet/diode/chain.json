@@ -1,0 +1,17 @@
+{
+  "name": "Diode Prenet",
+  "chain": "DIODE",
+  "shortName": "diode",
+  "category": "mainnet",
+  "chainId": 15,
+  "networkId": 15,
+  "nativeCurrency": {
+    "name": "Diodes",
+    "symbol": "DIODE",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://prenet.diode.io:8443/"
+  ],
+  "infoURL": "https://diode.io/prenet"
+}

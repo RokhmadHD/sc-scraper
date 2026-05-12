@@ -1,0 +1,24 @@
+{
+  "name": "Stability Testnet",
+  "chain": "stabilityTestnet",
+  "shortName": "stabilitytestnet",
+  "category": "test",
+  "chainId": 20180427,
+  "networkId": 20180427,
+  "nativeCurrency": {
+    "name": "FREE",
+    "symbol": "FREE",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://free.testnet.stabilityprotocol.com"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://stability-testnet.blockscout.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://stabilityprotocol.com"
+}

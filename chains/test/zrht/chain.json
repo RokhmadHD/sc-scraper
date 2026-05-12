@@ -1,0 +1,24 @@
+{
+  "name": "Zeroth Testnet",
+  "chain": "Zeroth",
+  "shortName": "ZRHt",
+  "category": "test",
+  "chainId": 14088,
+  "networkId": 14088,
+  "nativeCurrency": {
+    "name": "Zeroth",
+    "symbol": "ZRHt",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://test-my.zeroth.run"
+  ],
+  "explorers": [
+    {
+      "name": "Zeroth Explorer",
+      "url": "https://test-scan.zeroth.run",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.zeroth.foundation"
+}

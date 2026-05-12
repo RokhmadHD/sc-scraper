@@ -1,0 +1,24 @@
+{
+  "name": "Vizing Mainnet",
+  "chain": "Vizing Mainnet",
+  "shortName": "Vizing",
+  "category": "mainnet",
+  "chainId": 28518,
+  "networkId": 28518,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.vizing.com"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.vizing.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://vizing.com"
+}

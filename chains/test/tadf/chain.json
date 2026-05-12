@@ -1,0 +1,24 @@
+{
+  "name": "ADF Chain Testnet",
+  "chain": "ADF Chain Testnet",
+  "shortName": "tADF",
+  "category": "test",
+  "chainId": 1212,
+  "networkId": 1212,
+  "nativeCurrency": {
+    "name": "ADDFILL Testnet",
+    "symbol": "tADF",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet.adftechnology.com/"
+  ],
+  "explorers": [
+    {
+      "name": "ADF Testnet explorer",
+      "url": "https://testnet-explorer.adftechnology.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.adfstarworld.com/"
+}

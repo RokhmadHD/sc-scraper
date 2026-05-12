@@ -1,0 +1,17 @@
+{
+  "name": "Fuse Sparknet",
+  "chain": "fuse",
+  "shortName": "spark",
+  "category": "test",
+  "chainId": 123,
+  "networkId": 123,
+  "nativeCurrency": {
+    "name": "Spark",
+    "symbol": "SPARK",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.fusespark.io"
+  ],
+  "infoURL": "https://docs.fuse.io/general/fuse-network-blockchain/fuse-testnet"
+}

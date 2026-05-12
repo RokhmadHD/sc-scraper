@@ -1,0 +1,25 @@
+{
+  "name": "Ubiq",
+  "chain": "UBQ",
+  "shortName": "ubq",
+  "category": "mainnet",
+  "chainId": 8,
+  "networkId": 8,
+  "nativeCurrency": {
+    "name": "Ubiq Ether",
+    "symbol": "UBQ",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://pyrus2.ubiqscan.io",
+    "https://rpc.octano.dev"
+  ],
+  "explorers": [
+    {
+      "name": "ubiqscan",
+      "url": "https://ubiqscan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://ubiqsmart.com"
+}

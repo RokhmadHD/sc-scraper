@@ -1,0 +1,24 @@
+{
+  "name": "Callisto Mainnet",
+  "chain": "CLO",
+  "shortName": "clo",
+  "category": "mainnet",
+  "chainId": 820,
+  "networkId": 1,
+  "nativeCurrency": {
+    "name": "Callisto",
+    "symbol": "CLO",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.callistodao.org"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout-callisto-network",
+      "url": "https://explorer.callistodao.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://callistodao.org"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Robinhood Chain Testnet",
+  "chain": "ETH",
+  "shortName": "rh-testnet",
+  "category": "test",
+  "chainId": 46630,
+  "networkId": 46630,
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.testnet.chain.robinhood.com/rpc"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.testnet.chain.robinhood.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://docs.robinhood.com/chain/"
+}

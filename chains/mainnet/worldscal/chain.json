@@ -1,0 +1,17 @@
+{
+  "name": "Worlds Caldera",
+  "chain": "WCal",
+  "shortName": "worldscal",
+  "category": "mainnet",
+  "chainId": 4281033,
+  "networkId": 4281033,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://worlds-test.calderachain.xyz/http"
+  ],
+  "infoURL": "https://caldera.xyz/"
+}

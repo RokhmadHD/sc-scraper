@@ -1,0 +1,24 @@
+{
+  "name": "Privix Chain Mainnet",
+  "chain": "PRIVIX",
+  "shortName": "mpsc",
+  "category": "mainnet",
+  "chainId": 16969696,
+  "networkId": 16969696,
+  "nativeCurrency": {
+    "name": "Privix Coin",
+    "symbol": "PRIVIX",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet-rpc.privixchain.xyz/"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://privixscan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://privix.co/"
+}

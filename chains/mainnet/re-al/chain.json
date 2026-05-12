@@ -1,0 +1,26 @@
+{
+  "name": "re.al",
+  "chain": "re.al",
+  "shortName": "re-al",
+  "category": "mainnet",
+  "chainId": 111188,
+  "networkId": 111188,
+  "nativeCurrency": {
+    "name": "re.al Ether",
+    "symbol": "reETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://real.drpc.org",
+    "https://rpc.realforreal.gelato.digital",
+    "https://tangible-real.gateway.tenderly.co"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.re.al",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://re.al"
+}

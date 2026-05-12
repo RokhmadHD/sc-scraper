@@ -1,0 +1,24 @@
+{
+  "name": "Elux Chain",
+  "chain": "ELUX",
+  "shortName": "ELUX",
+  "category": "mainnet",
+  "chainId": 2907,
+  "networkId": 2907,
+  "nativeCurrency": {
+    "name": "Elux Chain",
+    "symbol": "ELUX",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.eluxscan.com"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://eluxscan.com",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://eluxscan.com"
+}

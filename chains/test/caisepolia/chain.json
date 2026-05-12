@@ -1,0 +1,17 @@
+{
+  "name": "Cuckoo Sepolia",
+  "chain": "CuckooAI",
+  "shortName": "caisepolia",
+  "category": "test",
+  "chainId": 1210,
+  "networkId": 1210,
+  "nativeCurrency": {
+    "name": "CuckooAI",
+    "symbol": "CAI",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet-rpc.cuckoo.network"
+  ],
+  "infoURL": "https://cuckoo.network"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "BasedAI",
+  "chain": "BasedAI",
+  "shortName": "basedai",
+  "category": "mainnet",
+  "chainId": 32323,
+  "networkId": 32323,
+  "nativeCurrency": {
+    "name": "BasedAI",
+    "symbol": "BASED",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet.basedaibridge.com/rpc/"
+  ],
+  "explorers": [
+    {
+      "name": "BasedAI Explorer",
+      "url": "https://explorer.getbased.ai",
+      "standard": "none"
+    },
+    {
+      "name": "BF1337 BasedAI Explorer",
+      "url": "https://explorer.bf1337.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://getbased.ai"
+}

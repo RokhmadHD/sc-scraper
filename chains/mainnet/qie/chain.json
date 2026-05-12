@@ -1,0 +1,25 @@
+{
+  "name": "QIE Blockchain",
+  "chain": "QIE",
+  "shortName": "QIE",
+  "category": "mainnet",
+  "chainId": 5656,
+  "networkId": 5656,
+  "nativeCurrency": {
+    "name": "QIE Blockchain",
+    "symbol": "QIE",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-main1.qiblockchain.online/",
+    "https://rpc-main2.qiblockchain.online/"
+  ],
+  "explorers": [
+    {
+      "name": "QIE Explorer",
+      "url": "https://mainnet.qiblockchain.online",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://qiblockchain.online/"
+}

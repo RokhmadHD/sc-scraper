@@ -1,0 +1,24 @@
+{
+  "name": "Pho Blockchain Mainnet",
+  "chain": "PHO",
+  "shortName": "pho",
+  "category": "mainnet",
+  "chainId": 2605,
+  "networkId": 2605,
+  "nativeCurrency": {
+    "name": "Pho",
+    "symbol": "PHO",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet.phochain.org"
+  ],
+  "explorers": [
+    {
+      "name": "Pho Scan",
+      "url": "https://phoscan.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "phochain.org"
+}

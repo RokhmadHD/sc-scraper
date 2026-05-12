@@ -1,0 +1,24 @@
+{
+  "name": "Reddio Testnet",
+  "chain": "ETH",
+  "shortName": "reddio-devnet",
+  "category": "test",
+  "chainId": 50341,
+  "networkId": 50341,
+  "nativeCurrency": {
+    "name": "Reddio",
+    "symbol": "RDO",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://reddio-dev.reddio.com"
+  ],
+  "explorers": [
+    {
+      "name": "L2scan",
+      "url": "https://reddio-devnet.l2scan.co",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.reddio.com"
+}

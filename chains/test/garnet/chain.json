@@ -1,0 +1,24 @@
+{
+  "name": "Garnet Holesky",
+  "chain": "ETH",
+  "shortName": "garnet",
+  "category": "test",
+  "chainId": 17069,
+  "networkId": 17069,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.garnetchain.com"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.garnetchain.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://redstone.xyz"
+}

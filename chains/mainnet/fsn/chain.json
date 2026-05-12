@@ -1,0 +1,24 @@
+{
+  "name": "Fusion Mainnet",
+  "chain": "FSN",
+  "shortName": "fsn",
+  "category": "mainnet",
+  "chainId": 32659,
+  "networkId": 32659,
+  "nativeCurrency": {
+    "name": "Fusion",
+    "symbol": "FSN",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet.fusionnetwork.io"
+  ],
+  "explorers": [
+    {
+      "name": "fsnscan",
+      "url": "https://fsnscan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://fusion.org"
+}

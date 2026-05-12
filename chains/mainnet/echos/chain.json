@@ -1,0 +1,24 @@
+{
+  "name": "Echos Chain",
+  "chain": "Echos",
+  "shortName": "echos",
+  "category": "mainnet",
+  "chainId": 4321,
+  "networkId": 4321,
+  "nativeCurrency": {
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-echos-mainnet-0.t.conduit.xyz"
+  ],
+  "explorers": [
+    {
+      "name": "Echos Explorer",
+      "url": "https://explorer.echos.fun",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://www.echos.fun/"
+}

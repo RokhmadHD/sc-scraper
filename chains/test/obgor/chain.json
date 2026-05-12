@@ -1,0 +1,26 @@
+{
+  "name": "Optimism Bedrock (Goerli Alpha Testnet)",
+  "chain": "ETH",
+  "shortName": "obgor",
+  "category": "test",
+  "chainId": 28528,
+  "networkId": 28528,
+  "nativeCurrency": {
+    "name": "Goerli Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://alpha-1-replica-0.bedrock-goerli.optimism.io",
+    "https://alpha-1-replica-1.bedrock-goerli.optimism.io",
+    "https://alpha-1-replica-2.bedrock-goerli.optimism.io"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://blockscout.com/optimism/bedrock-alpha",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://community.optimism.io/docs/developers/bedrock"
+}

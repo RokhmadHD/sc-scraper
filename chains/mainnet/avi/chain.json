@@ -1,0 +1,24 @@
+{
+  "name": "AVI Coin",
+  "chain": "AVI",
+  "shortName": "avi",
+  "category": "mainnet",
+  "chainId": 963369,
+  "networkId": 963369,
+  "nativeCurrency": {
+    "name": "AVI Coin",
+    "symbol": "AVI",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.avicoin.org"
+  ],
+  "explorers": [
+    {
+      "name": "AVI Coin Explorer",
+      "url": "https://explorer.avicoin.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.avicoin.org"
+}

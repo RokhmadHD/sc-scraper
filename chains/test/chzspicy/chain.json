@@ -1,0 +1,24 @@
+{
+  "name": "Chiliz Spicy Testnet",
+  "chain": "CHZ",
+  "shortName": "chzspicy",
+  "category": "test",
+  "chainId": 88882,
+  "networkId": 88882,
+  "nativeCurrency": {
+    "name": "Chiliz",
+    "symbol": "CHZ",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://spicy-rpc.chiliz.com"
+  ],
+  "explorers": [
+    {
+      "name": "spicy-explorer",
+      "url": "https://testnet.chiliscan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.chiliz.com/en/chain"
+}

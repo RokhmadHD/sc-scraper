@@ -1,0 +1,26 @@
+{
+  "name": "Xone Testnet",
+  "chain": "XOC",
+  "shortName": "tXOC",
+  "category": "test",
+  "chainId": 33772211,
+  "networkId": 33772211,
+  "nativeCurrency": {
+    "name": "Xone Coin",
+    "symbol": "XOC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-testnet.knight.center",
+    "https://rpc-testnet.xone.org",
+    "https://rpc-testnet.xone.plus"
+  ],
+  "explorers": [
+    {
+      "name": "xone_test",
+      "url": "https://testnet.xonescan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://xone.org"
+}

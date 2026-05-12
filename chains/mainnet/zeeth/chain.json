@@ -1,0 +1,23 @@
+{
+  "name": "Zeeth Chain",
+  "chain": "ZeethChain",
+  "shortName": "zeeth",
+  "category": "mainnet",
+  "chainId": 427,
+  "networkId": 427,
+  "nativeCurrency": {
+    "name": "Zeeth Token",
+    "symbol": "ZTH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.zeeth.io"
+  ],
+  "explorers": [
+    {
+      "name": "Zeeth Explorer",
+      "url": "https://explorer.zeeth.io",
+      "standard": "none"
+    }
+  ]
+}

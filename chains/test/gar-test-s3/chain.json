@@ -1,0 +1,24 @@
+{
+  "name": "Garizon Testnet Stage3",
+  "chain": "GAR",
+  "shortName": "gar-test-s3",
+  "category": "test",
+  "chainId": 903,
+  "networkId": 903,
+  "nativeCurrency": {
+    "name": "Garizon",
+    "symbol": "GAR",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://s3-testnet.garizon.net/rpc"
+  ],
+  "explorers": [
+    {
+      "name": "explorer",
+      "url": "https://explorer-testnet.garizon.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://garizon.com"
+}

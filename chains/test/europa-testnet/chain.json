@@ -1,0 +1,24 @@
+{
+  "name": "SKALE Europa Hub Testnet",
+  "chain": "juicy-low-small-testnet",
+  "shortName": "europa-testnet",
+  "category": "test",
+  "chainId": 1444673419,
+  "networkId": 1444673419,
+  "nativeCurrency": {
+    "name": "sFUEL",
+    "symbol": "sFUEL",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet.skalenodes.com/v1/juicy-low-small-testnet"
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout",
+      "url": "https://juicy-low-small-testnet.explorer.testnet.skalenodes.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://europahub.network/"
+}

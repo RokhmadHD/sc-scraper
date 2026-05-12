@@ -1,0 +1,17 @@
+{
+  "name": "Evanesco Testnet",
+  "chain": "Evanesco Testnet",
+  "shortName": "avis",
+  "category": "test",
+  "chainId": 1201,
+  "networkId": 1201,
+  "nativeCurrency": {
+    "name": "AVIS",
+    "symbol": "AVIS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://seed5.evanesco.org:8547"
+  ],
+  "infoURL": "https://evanesco.org/"
+}

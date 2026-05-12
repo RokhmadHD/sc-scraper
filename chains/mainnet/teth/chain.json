@@ -1,0 +1,24 @@
+{
+  "name": "Titan",
+  "chain": "ETH",
+  "shortName": "teth",
+  "category": "mainnet",
+  "chainId": 55004,
+  "networkId": 55004,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.titan.tokamak.network"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.titan.tokamak.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://tokamak.network"
+}

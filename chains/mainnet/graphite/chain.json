@@ -1,0 +1,24 @@
+{
+  "name": "Graphite Mainnet",
+  "chain": "Graphite",
+  "shortName": "graphite",
+  "category": "mainnet",
+  "chainId": 440017,
+  "networkId": 440017,
+  "nativeCurrency": {
+    "name": "Graphite",
+    "symbol": "@G",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://anon-entrypoint-1.atgraphite.com"
+  ],
+  "explorers": [
+    {
+      "name": "Graphite Mainnet Explorer",
+      "url": "https://main.atgraphite.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://atgraphite.com/"
+}

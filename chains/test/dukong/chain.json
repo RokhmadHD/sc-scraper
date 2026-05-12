@@ -1,0 +1,24 @@
+{
+  "name": "MANTRACHAIN Testnet",
+  "chain": "Dukong",
+  "shortName": "dukong",
+  "category": "test",
+  "chainId": 5887,
+  "networkId": 5887,
+  "nativeCurrency": {
+    "name": "MANTRA",
+    "symbol": "MANTRA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://evm.dukong.mantrachain.io"
+  ],
+  "explorers": [
+    {
+      "name": "Dukong Explorer",
+      "url": "http://mantrascan.io/dukong",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://mantrachain.io"
+}

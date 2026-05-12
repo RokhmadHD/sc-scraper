@@ -1,0 +1,24 @@
+{
+  "name": "Beverly Hills",
+  "chain": "ETH",
+  "shortName": "bvhl",
+  "category": "test",
+  "chainId": 90210,
+  "networkId": 90210,
+  "nativeCurrency": {
+    "name": "Beverly Hills Testnet Ether",
+    "symbol": "BVE",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.beverlyhills.ethdevops.io:8545"
+  ],
+  "explorers": [
+    {
+      "name": "Beverly Hills explorer",
+      "url": "https://explorer.beverlyhills.ethdevops.io",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://beverlyhills.ethdevops.io"
+}

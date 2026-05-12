@@ -1,0 +1,24 @@
+{
+  "name": "DataHaven Testnet",
+  "chain": "datahaven-testnet",
+  "shortName": "datahaven-testnet",
+  "category": "test",
+  "chainId": 55931,
+  "networkId": 55931,
+  "nativeCurrency": {
+    "name": "MOCK",
+    "symbol": "MOCK",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://services.datahaven-testnet.network/testnet"
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout",
+      "url": "https://testnet.dhscan.io",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://datahaven.xyz"
+}

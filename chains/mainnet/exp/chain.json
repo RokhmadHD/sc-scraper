@@ -1,0 +1,17 @@
+{
+  "name": "Expanse Network",
+  "chain": "EXP",
+  "shortName": "exp",
+  "category": "mainnet",
+  "chainId": 2,
+  "networkId": 1,
+  "nativeCurrency": {
+    "name": "Expanse Network Ether",
+    "symbol": "EXP",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://node.expanse.tech"
+  ],
+  "infoURL": "https://expanse.tech"
+}

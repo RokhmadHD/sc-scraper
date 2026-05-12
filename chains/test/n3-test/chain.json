@@ -1,0 +1,24 @@
+{
+  "name": "Nativ3 Testnet",
+  "chain": "N3-Test",
+  "shortName": "N3-Test",
+  "category": "test",
+  "chainId": 333333,
+  "networkId": 333333,
+  "nativeCurrency": {
+    "name": "USNT",
+    "symbol": "USNT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpctest.nativ3.network"
+  ],
+  "explorers": [
+    {
+      "name": "Nativ3 Test Explorer",
+      "url": "https://scantest.nativ3.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://nativ3.network"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "RSS3 VSL Mainnet",
+  "chain": "RSS3",
+  "shortName": "rss3",
+  "category": "mainnet",
+  "chainId": 12553,
+  "networkId": 12553,
+  "nativeCurrency": {
+    "name": "RSS3",
+    "symbol": "RSS3",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.rss3.io"
+  ],
+  "explorers": [
+    {
+      "name": "RSS3 VSL Scan",
+      "url": "https://scan.rss3.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://rss3.io"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "DAX CHAIN",
+  "chain": "DAX",
+  "shortName": "dax",
+  "category": "mainnet",
+  "chainId": 142,
+  "networkId": 142,
+  "nativeCurrency": {
+    "name": "Prodax",
+    "symbol": "DAX",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.prodax.io"
+  ],
+  "infoURL": "https://prodax.io/"
+}

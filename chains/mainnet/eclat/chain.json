@@ -1,0 +1,24 @@
+{
+  "name": "Eclat Mainnet",
+  "chain": "Eclat",
+  "shortName": "ECLAT",
+  "category": "mainnet",
+  "chainId": 165279,
+  "networkId": 165279,
+  "nativeCurrency": {
+    "name": "Eclat",
+    "symbol": "ECLAT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet-rpc.eclatscan.com"
+  ],
+  "explorers": [
+    {
+      "name": "Eclat Mainnet Explorer",
+      "url": "https://eclatscan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://eclatscan.com"
+}

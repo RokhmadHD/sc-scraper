@@ -1,0 +1,24 @@
+{
+  "name": "Rupaya",
+  "chain": "RUPX",
+  "shortName": "rupx",
+  "category": "test",
+  "chainId": 499,
+  "networkId": 499,
+  "nativeCurrency": {
+    "name": "Rupaya",
+    "symbol": "RUPX",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.rupaya.io"
+  ],
+  "explorers": [
+    {
+      "name": "Rupaya Explorer",
+      "url": "https://scan.rupaya.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.rupaya.io"
+}

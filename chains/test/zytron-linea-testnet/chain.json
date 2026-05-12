@@ -1,0 +1,24 @@
+{
+  "name": "Zytron Linea Testnet",
+  "chain": "ETH",
+  "shortName": "zytron-linea-testnet",
+  "category": "test",
+  "chainId": 19546,
+  "networkId": 19546,
+  "nativeCurrency": {
+    "name": "ETH",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://linea-testnet-zytron.zypher.game/"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://linea-testnet-zytron-blockscout.zypher.game",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://zytron.zypher.network/"
+}

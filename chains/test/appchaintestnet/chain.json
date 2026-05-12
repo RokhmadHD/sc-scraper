@@ -1,0 +1,24 @@
+{
+  "name": "AppChain Testnet",
+  "chain": "AppChain Testnet",
+  "shortName": "appchaintestnet",
+  "category": "test",
+  "chainId": 4661,
+  "networkId": 4661,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://appchaintestnet.rpc.caldera.xyz/http"
+  ],
+  "explorers": [
+    {
+      "name": "AppChain Testnet Explorer",
+      "url": "https://appchaintestnet.explorer.caldera.xyz",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://appchain.xyz"
+}

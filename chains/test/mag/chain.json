@@ -1,0 +1,24 @@
+{
+  "name": "MagApe Testnet",
+  "chain": "MagApe",
+  "shortName": "mag",
+  "category": "test",
+  "chainId": 141319,
+  "networkId": 141319,
+  "nativeCurrency": {
+    "name": "MagApe",
+    "symbol": "MAG",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet-api.magape.io/chain/"
+  ],
+  "explorers": [
+    {
+      "name": "etherscan",
+      "url": "http://testnet-api.magape.io:81",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://magape.io"
+}

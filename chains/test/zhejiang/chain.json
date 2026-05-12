@@ -1,0 +1,24 @@
+{
+  "name": "Zhejiang",
+  "chain": "ETH",
+  "shortName": "zhejiang",
+  "category": "test",
+  "chainId": 1337803,
+  "networkId": 1337803,
+  "nativeCurrency": {
+    "name": "Testnet ETH",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.zhejiang.ethpandaops.io"
+  ],
+  "explorers": [
+    {
+      "name": "Zhejiang Explorer",
+      "url": "https://zhejiang.beaconcha.in",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://zhejiang.ethpandaops.io"
+}

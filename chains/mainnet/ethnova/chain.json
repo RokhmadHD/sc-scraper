@@ -1,0 +1,24 @@
+{
+  "name": "Ethernova Mainnet",
+  "chain": "NOVA",
+  "shortName": "ethnova",
+  "category": "mainnet",
+  "chainId": 121525,
+  "networkId": 121525,
+  "nativeCurrency": {
+    "name": "Ethernova",
+    "symbol": "NOVA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.ethnova.net"
+  ],
+  "explorers": [
+    {
+      "name": "Ethernova Explorer",
+      "url": "https://explorer.ethnova.net",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://ethnova.net"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Combo Testnet",
+  "chain": "Combo",
+  "shortName": "combo-testnet",
+  "category": "test",
+  "chainId": 91715,
+  "networkId": 91715,
+  "nativeCurrency": {
+    "name": "BNB Chain Native Token",
+    "symbol": "tcBNB",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://test-rpc.combonetwork.io"
+  ],
+  "explorers": [
+    {
+      "name": "combotrace explorer",
+      "url": "https://combotrace-testnet.nodereal.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://combonetwork.io"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "mfenx",
+  "chain": "MFENX",
+  "shortName": "mfenx",
+  "category": "mainnet",
+  "chainId": 177155,
+  "networkId": 177155,
+  "nativeCurrency": {
+    "name": "JULIAN",
+    "symbol": "JULIAN",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://indexer.mfenx.com/rpc"
+  ],
+  "infoURL": "https://mfenx.com/power-house"
+}

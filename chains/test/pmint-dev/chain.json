@@ -1,0 +1,24 @@
+{
+  "name": "PublicMint Devnet",
+  "chain": "PublicMint",
+  "shortName": "pmint_dev",
+  "category": "test",
+  "chainId": 2018,
+  "networkId": 2018,
+  "nativeCurrency": {
+    "name": "USD",
+    "symbol": "USD",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.dev.publicmint.io:8545"
+  ],
+  "explorers": [
+    {
+      "name": "PublicMint Explorer",
+      "url": "https://explorer.dev.publicmint.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://publicmint.com"
+}

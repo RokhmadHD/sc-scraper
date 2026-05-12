@@ -1,0 +1,31 @@
+{
+  "name": "zKatana",
+  "chain": "ETH",
+  "shortName": "azktn",
+  "category": "mainnet",
+  "chainId": 1261120,
+  "networkId": 1261120,
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://astar-zkatana.drpc.org",
+    "https://rpc.startale.com/zkatana",
+    "https://rpc.zkatana.gelato.digital"
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout zKatana chain explorer",
+      "url": "https://zkatana.blockscout.com",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "Startale zKatana chain explorer",
+      "url": "https://zkatana.explorer.startale.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://astar.network"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "TBSI Testnet",
+  "chain": "TBSI",
+  "shortName": "tTBSI",
+  "category": "test",
+  "chainId": 1708,
+  "networkId": 1708,
+  "nativeCurrency": {
+    "name": "Jinda",
+    "symbol": "JINDA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.testnet.blockchain.or.th"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://exp.testnet.blockchain.or.th",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://blockchain.or.th"
+}

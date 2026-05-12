@@ -1,0 +1,24 @@
+{
+  "name": "PDC Mainnet",
+  "chain": "IPDC",
+  "shortName": "ipdc",
+  "category": "mainnet",
+  "chainId": 666301171999,
+  "networkId": 666301171999,
+  "nativeCurrency": {
+    "name": "PDC",
+    "symbol": "PDC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet.ipdc.io/"
+  ],
+  "explorers": [
+    {
+      "name": "ipdcscan",
+      "url": "https://scan.ipdc.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://ipdc.io"
+}

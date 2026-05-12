@@ -1,0 +1,24 @@
+{
+  "name": "PRM Testnet",
+  "chain": "prm",
+  "shortName": "prmtest",
+  "category": "test",
+  "chainId": 839320,
+  "networkId": 839320,
+  "nativeCurrency": {
+    "name": "Primal Network",
+    "symbol": "PRM",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet-rpc.prmscan.org"
+  ],
+  "explorers": [
+    {
+      "name": "Primal Network Testnet",
+      "url": "https://testnet-explorer.prmscan.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://primalnetwork.org"
+}

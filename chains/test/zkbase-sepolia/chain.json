@@ -1,0 +1,24 @@
+{
+  "name": "ZKBase Sepolia Testnet",
+  "chain": "ETH",
+  "shortName": "zkbase-sepolia",
+  "category": "test",
+  "chainId": 1789,
+  "networkId": 1789,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://sepolia-rpc.zkbase.app"
+  ],
+  "explorers": [
+    {
+      "name": "ZKbase Block Explorer",
+      "url": "https://sepolia-explorer.zkbase.app",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://zkbase.org/"
+}

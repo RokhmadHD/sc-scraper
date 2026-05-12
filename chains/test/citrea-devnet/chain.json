@@ -1,0 +1,24 @@
+{
+  "name": "Citrea Devnet",
+  "chain": "Citrea",
+  "shortName": "citrea-devnet",
+  "category": "test",
+  "chainId": 62298,
+  "networkId": 62298,
+  "nativeCurrency": {
+    "name": "Citrea BTC",
+    "symbol": "cBTC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.devnet.citrea.xyz"
+  ],
+  "explorers": [
+    {
+      "name": "Citrea Devnet Explorer",
+      "url": "https://explorer.devnet.citrea.xyz",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://citrea.xyz"
+}

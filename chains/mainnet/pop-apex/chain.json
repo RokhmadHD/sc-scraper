@@ -1,0 +1,24 @@
+{
+  "name": "Proof of Play - Apex",
+  "chain": "ETH",
+  "shortName": "pop-apex",
+  "category": "mainnet",
+  "chainId": 70700,
+  "networkId": 70700,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.apex.proofofplay.com"
+  ],
+  "explorers": [
+    {
+      "name": "Proof of Play Apex Explorer",
+      "url": "https://explorer.apex.proofofplay.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://proofofplay.com"
+}

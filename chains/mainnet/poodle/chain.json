@@ -1,0 +1,24 @@
+{
+  "name": "Poodl Mainnet",
+  "chain": "Poodl",
+  "shortName": "poodle",
+  "category": "mainnet",
+  "chainId": 15259,
+  "networkId": 15259,
+  "nativeCurrency": {
+    "name": "Poodl",
+    "symbol": "POODL",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.poodl.org"
+  ],
+  "explorers": [
+    {
+      "name": "Poodl Mainnet Explorer",
+      "url": "https://explorer.poodl.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://poodl.org"
+}

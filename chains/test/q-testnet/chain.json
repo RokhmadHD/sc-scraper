@@ -1,0 +1,24 @@
+{
+  "name": "Q Testnet",
+  "chain": "Q",
+  "shortName": "q-testnet",
+  "category": "test",
+  "chainId": 35443,
+  "networkId": 35443,
+  "nativeCurrency": {
+    "name": "Q token",
+    "symbol": "Q",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.qtestnet.org"
+  ],
+  "explorers": [
+    {
+      "name": "Q explorer",
+      "url": "https://explorer.qtestnet.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://q.org/"
+}

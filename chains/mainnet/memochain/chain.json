@@ -1,0 +1,24 @@
+{
+  "name": "Memo Smart Chain Mainnet",
+  "chain": "MEMO",
+  "shortName": "memochain",
+  "category": "mainnet",
+  "chainId": 985,
+  "networkId": 985,
+  "nativeCurrency": {
+    "name": "Memo",
+    "symbol": "CMEMO",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://chain.metamemo.one:8501"
+  ],
+  "explorers": [
+    {
+      "name": "Memo Mainnet Explorer",
+      "url": "https://scan.metamemo.one:8080",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "www.memolabs.org"
+}

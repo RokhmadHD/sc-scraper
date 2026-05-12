@@ -1,0 +1,24 @@
+{
+  "name": "NFB Chain Testnet",
+  "chain": "NFB Chain Testnet",
+  "shortName": "nfbchaintest",
+  "category": "test",
+  "chainId": 6320,
+  "networkId": 6320,
+  "nativeCurrency": {
+    "name": "NFBCoinTest",
+    "symbol": "NFBCT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet-node.nfbchain.com"
+  ],
+  "explorers": [
+    {
+      "name": "NFB Chain Testnet Explorer",
+      "url": "https://testnet-scan.nfbchain.com",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://nfbchain.com/"
+}

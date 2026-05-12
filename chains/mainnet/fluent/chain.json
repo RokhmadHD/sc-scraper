@@ -1,0 +1,24 @@
+{
+  "name": "Fluent",
+  "chain": "FLUENT",
+  "shortName": "fluent",
+  "category": "mainnet",
+  "chainId": 25363,
+  "networkId": 25363,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.fluent.xyz"
+  ],
+  "explorers": [
+    {
+      "name": "Fluent Explorer",
+      "url": "https://fluentscan.xyz",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.fluent.xyz/"
+}

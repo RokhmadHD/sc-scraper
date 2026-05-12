@@ -1,0 +1,24 @@
+{
+  "name": "Weber Governance Mainnet",
+  "chain": "PTT",
+  "shortName": "ptt",
+  "category": "mainnet",
+  "chainId": 881,
+  "networkId": 881,
+  "nativeCurrency": {
+    "name": "PALLET",
+    "symbol": "PTT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://chain.myweber.org"
+  ],
+  "explorers": [
+    {
+      "name": "Weber Governance Mainnet Explorer",
+      "url": "https://mainnet.myweber.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://myweber.org"
+}

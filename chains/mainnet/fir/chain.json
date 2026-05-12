@@ -1,0 +1,24 @@
+{
+  "name": "firachain",
+  "chain": "FIR",
+  "shortName": "FIR",
+  "category": "mainnet",
+  "chainId": 194,
+  "networkId": 194,
+  "nativeCurrency": {
+    "name": "firachain",
+    "symbol": "FIR",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.firachain.com"
+  ],
+  "explorers": [
+    {
+      "name": "FiraChain Explorer",
+      "url": "https://block.firachain.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://firachain.com"
+}

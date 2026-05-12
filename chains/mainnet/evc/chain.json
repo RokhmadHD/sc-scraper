@@ -1,0 +1,17 @@
+{
+  "name": "Evrice Network",
+  "chain": "EVC",
+  "shortName": "EVC",
+  "category": "mainnet",
+  "chainId": 1010,
+  "networkId": 1010,
+  "nativeCurrency": {
+    "name": "Evrice",
+    "symbol": "EVC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://meta.evrice.com"
+  ],
+  "infoURL": "https://evrice.com"
+}

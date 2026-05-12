@@ -1,0 +1,25 @@
+{
+  "name": "Fuse Mainnet",
+  "chain": "FUSE",
+  "shortName": "fuse",
+  "category": "mainnet",
+  "chainId": 122,
+  "networkId": 122,
+  "nativeCurrency": {
+    "name": "Fuse",
+    "symbol": "FUSE",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://fuse.drpc.org",
+    "https://rpc.fuse.io"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.fuse.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://fuse.io/"
+}

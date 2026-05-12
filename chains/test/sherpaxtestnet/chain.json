@@ -1,0 +1,24 @@
+{
+  "name": "Sherpax Testnet",
+  "chain": "Sherpax Testnet",
+  "shortName": "SherpaxTestnet",
+  "category": "test",
+  "chainId": 1507,
+  "networkId": 1507,
+  "nativeCurrency": {
+    "name": "KSX",
+    "symbol": "KSX",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://sherpax-testnet.chainx.org/rpc"
+  ],
+  "explorers": [
+    {
+      "name": "Sherpax Testnet Explorer",
+      "url": "https://evm-pre.sherpax.io",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://sherpax.io/"
+}

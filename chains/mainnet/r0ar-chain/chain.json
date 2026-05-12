@@ -1,0 +1,24 @@
+{
+  "name": "R0AR Chain",
+  "chain": "R0AR Chain",
+  "shortName": "R0AR-Chain",
+  "category": "mainnet",
+  "chainId": 193939,
+  "networkId": 193939,
+  "nativeCurrency": {
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-r0ar.io"
+  ],
+  "explorers": [
+    {
+      "name": "tracehawk",
+      "url": "https://r0arscan.io",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://r0arscan.io"
+}

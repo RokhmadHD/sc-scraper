@@ -1,0 +1,24 @@
+{
+  "name": "Gelatine Network",
+  "chain": "JELLO",
+  "shortName": "jello",
+  "category": "test",
+  "chainId": 61564,
+  "networkId": 61564,
+  "nativeCurrency": {
+    "name": "JELLO",
+    "symbol": "JELLO",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.pine.ink"
+  ],
+  "explorers": [
+    {
+      "name": "Gelatine Explorer",
+      "url": "https://explorer.pine.ink",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://gelatine.pine.ink"
+}

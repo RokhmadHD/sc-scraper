@@ -1,0 +1,24 @@
+{
+  "name": "BLXq Testnet",
+  "chain": "BLXQ",
+  "shortName": "tblxq",
+  "category": "test",
+  "chainId": 1107,
+  "networkId": 1107,
+  "nativeCurrency": {
+    "name": "BLXQ",
+    "symbol": "BLXQ",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnetq1.blx.org"
+  ],
+  "explorers": [
+    {
+      "name": "BLXq Explorer",
+      "url": "https://explorer.blx.org",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://blx.org"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Etho Protocol",
+  "chain": "ETHO",
+  "shortName": "etho",
+  "category": "mainnet",
+  "chainId": 1313114,
+  "networkId": 1313114,
+  "nativeCurrency": {
+    "name": "Etho Protocol",
+    "symbol": "ETHO",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.ethoprotocol.com"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.ethoprotocol.com",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://ethoprotocol.com"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "PAYSCAN CHAIN",
+  "chain": "PAYSCAN CHAIN",
+  "shortName": "payscan",
+  "category": "mainnet",
+  "chainId": 756689,
+  "networkId": 756689,
+  "nativeCurrency": {
+    "name": "PYZ",
+    "symbol": "PYZ",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.payscan.live"
+  ],
+  "explorers": [
+    {
+      "name": "PAYSCAN CHAIN",
+      "url": "https://payscan.live",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://payscan.live"
+}

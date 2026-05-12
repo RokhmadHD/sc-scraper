@@ -1,0 +1,24 @@
+{
+  "name": "BSL Mainnet",
+  "chain": "BSL",
+  "shortName": "onf",
+  "category": "mainnet",
+  "chainId": 21912,
+  "networkId": 21912,
+  "nativeCurrency": {
+    "name": "Origin NFT",
+    "symbol": "ONF",
+    "decimals": 18
+  },
+  "rpc": [
+    "http://rpc-mainnet.nftruth.io:8545"
+  ],
+  "explorers": [
+    {
+      "name": "BSL Mainnet Explorer",
+      "url": "https://scan.nftruth.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://bsquarelab.com/"
+}

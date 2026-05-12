@@ -1,0 +1,24 @@
+{
+  "name": "Haust Network Testnet",
+  "chain": "haust-network-testnet",
+  "shortName": "HaustTestnet",
+  "category": "test",
+  "chainId": 1523903251,
+  "networkId": 1523903251,
+  "nativeCurrency": {
+    "name": "HAUST",
+    "symbol": "HAUST",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-testnet.haust.app"
+  ],
+  "explorers": [
+    {
+      "name": "Haust Network Testnet Explorer",
+      "url": "https://explorer-testnet.haust.app",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://haust.network/"
+}

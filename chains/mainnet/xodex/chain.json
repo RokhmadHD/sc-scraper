@@ -1,0 +1,25 @@
+{
+  "name": "XODEX",
+  "chain": "XODEX",
+  "shortName": "xodex",
+  "category": "mainnet",
+  "chainId": 2415,
+  "networkId": 10,
+  "nativeCurrency": {
+    "name": "XODEX Native Token",
+    "symbol": "XODEX",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet.xo-dex.com/rpc",
+    "https://xo-dex.io"
+  ],
+  "explorers": [
+    {
+      "name": "XODEX Explorer",
+      "url": "https://explorer.xo-dex.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://xo-dex.com"
+}

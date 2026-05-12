@@ -1,0 +1,29 @@
+{
+  "name": "Zuux chain testnet",
+  "chain": "zuuxchain",
+  "shortName": "zuuxchain",
+  "category": "test",
+  "chainId": 4284265,
+  "networkId": 4284265,
+  "nativeCurrency": {
+    "name": "ZUUX",
+    "symbol": "ZUUX",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.zuux.network"
+  ],
+  "explorers": [
+    {
+      "name": "Zuux chain explorer",
+      "url": "https://blockscout.zuux.network",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "Zuux chain explorer",
+      "url": "https://explorer.zuux.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.zuux.network"
+}

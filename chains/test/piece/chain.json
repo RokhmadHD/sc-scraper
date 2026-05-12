@@ -1,0 +1,24 @@
+{
+  "name": "Piece testnet",
+  "chain": "PieceNetwork",
+  "shortName": "Piece",
+  "category": "test",
+  "chainId": 30067,
+  "networkId": 30067,
+  "nativeCurrency": {
+    "name": "ECE",
+    "symbol": "ECE",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet-rpc0.piecenetwork.com"
+  ],
+  "explorers": [
+    {
+      "name": "Piece Scan",
+      "url": "https://testnet-scan.piecenetwork.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://piecenetwork.com"
+}

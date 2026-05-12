@@ -1,0 +1,24 @@
+{
+  "name": "Xsolla ZK Sepolia Testnet",
+  "chain": "Xsolla ZK Sepolia",
+  "shortName": "xsollazk-sepolia",
+  "category": "test",
+  "chainId": 555777,
+  "networkId": 555777,
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://zkrpc-sepolia.xsollazk.com"
+  ],
+  "explorers": [
+    {
+      "name": "Xsolla ZK Sepolia Block Explorer",
+      "url": "https://x.la/explorer",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://xsolla.com/zk"
+}

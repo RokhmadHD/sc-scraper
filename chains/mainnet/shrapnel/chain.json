@@ -1,0 +1,17 @@
+{
+  "name": "Shrapnel Subnet",
+  "chain": "shrapnel",
+  "shortName": "Shrapnel",
+  "category": "mainnet",
+  "chainId": 2044,
+  "networkId": 2044,
+  "nativeCurrency": {
+    "name": "Shrapnel Gas Token",
+    "symbol": "SHRAPG",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://subnets.avax.network/shrapnel/mainnet/rpc"
+  ],
+  "infoURL": "https://www.shrapnel.com/"
+}

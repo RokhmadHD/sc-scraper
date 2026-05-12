@@ -1,0 +1,24 @@
+{
+  "name": "Lit Chain Mainnet",
+  "chain": "LITKEY",
+  "shortName": "lit",
+  "category": "mainnet",
+  "chainId": 175200,
+  "networkId": 175200,
+  "nativeCurrency": {
+    "name": "Lit Protocol",
+    "symbol": "LITKEY",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://lit-chain-rpc.litprotocol.com"
+  ],
+  "explorers": [
+    {
+      "name": "Lit Chain Explorer",
+      "url": "https://lit-chain-explorer.litprotocol.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://litprotocol.com"
+}

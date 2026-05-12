@@ -1,0 +1,24 @@
+{
+  "name": "Debounce Subnet Testnet",
+  "chain": "Debounce Network",
+  "shortName": "debounce-devnet",
+  "category": "test",
+  "chainId": 3306,
+  "networkId": 3306,
+  "nativeCurrency": {
+    "name": "Debounce Network",
+    "symbol": "DB",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://dev-rpc.debounce.network"
+  ],
+  "explorers": [
+    {
+      "name": "Debounce Devnet Explorer",
+      "url": "https://explorer.debounce.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://debounce.network"
+}

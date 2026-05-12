@@ -1,0 +1,24 @@
+{
+  "name": "Radius Network",
+  "chain": "RADIUS",
+  "shortName": "radius",
+  "category": "mainnet",
+  "chainId": 723487,
+  "networkId": 723487,
+  "nativeCurrency": {
+    "name": "Radius USD",
+    "symbol": "RUSD",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.radiustech.xyz"
+  ],
+  "explorers": [
+    {
+      "name": "Radius Network Explorer",
+      "url": "https://network.radiustech.xyz",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://network.radiustech.xyz/"
+}

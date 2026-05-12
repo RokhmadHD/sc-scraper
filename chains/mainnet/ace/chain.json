@@ -1,0 +1,24 @@
+{
+  "name": "Endurance Smart Chain Mainnet",
+  "chain": "ACE",
+  "shortName": "ace",
+  "category": "mainnet",
+  "chainId": 648,
+  "networkId": 648,
+  "nativeCurrency": {
+    "name": "Endurance Chain Native Token",
+    "symbol": "ACE",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-endurance.fusionist.io/"
+  ],
+  "explorers": [
+    {
+      "name": "Endurance Scan",
+      "url": "https://explorer.endurance.fusionist.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://ace.fusionist.io/"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Rome Palatine",
+  "chain": "ROME",
+  "shortName": "rome-palatine",
+  "category": "mainnet",
+  "chainId": 7531,
+  "networkId": 7531,
+  "nativeCurrency": {
+    "name": "RSOL",
+    "symbol": "RSOL",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://palatine.romeprotocol.xyz",
+    "https://palatine2.romeprotocol.xyz"
+  ],
+  "explorers": [
+    {
+      "name": "Rome Palatine Explorer",
+      "url": "https://romescout-palatine.romeprotocol.xyz",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://rome.builders"
+}

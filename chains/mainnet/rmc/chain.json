@@ -1,0 +1,24 @@
+{
+  "name": "Redmansion Chain",
+  "chain": "RMC",
+  "shortName": "rmc",
+  "category": "mainnet",
+  "chainId": 192,
+  "networkId": 192,
+  "nativeCurrency": {
+    "name": "Redmansion Coin",
+    "symbol": "RMC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://redmansion.io/srpc/"
+  ],
+  "explorers": [
+    {
+      "name": "Redmansion explorer",
+      "url": "https://redmansion.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.redmansion.io"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Denergy Network",
+  "chain": "DEN",
+  "shortName": "den-mainnet",
+  "category": "mainnet",
+  "chainId": 369369,
+  "networkId": 369369,
+  "nativeCurrency": {
+    "name": "WATT",
+    "symbol": "WATT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.d.energy/"
+  ],
+  "explorers": [
+    {
+      "name": "Denergy Explorer",
+      "url": "https://explorer.denergychain.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://d.energy/"
+}

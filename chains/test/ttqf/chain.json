@@ -1,0 +1,24 @@
+{
+  "name": "Torus Testnet",
+  "chain": "TQF",
+  "shortName": "ttqf",
+  "category": "test",
+  "chainId": 8194,
+  "networkId": 8194,
+  "nativeCurrency": {
+    "name": "tTQF",
+    "symbol": "TTQF",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.testnet.toruschain.com"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://testnet.toruscan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://docs.toruschain.com"
+}

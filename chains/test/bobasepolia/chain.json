@@ -1,0 +1,26 @@
+{
+  "name": "Boba Sepolia",
+  "chain": "ETH",
+  "shortName": "BobaSepolia",
+  "category": "test",
+  "chainId": 28882,
+  "networkId": 28882,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://boba-sepolia.gateway.tenderly.co",
+    "https://gateway.tenderly.co/public/boba-sepolia",
+    "https://sepolia.boba.network"
+  ],
+  "explorers": [
+    {
+      "name": "Routescan",
+      "url": "https://testnet.bobascan.com",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://boba.network"
+}

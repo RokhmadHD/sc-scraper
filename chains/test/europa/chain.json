@@ -1,0 +1,24 @@
+{
+  "name": "SKALE Europa Hub",
+  "chain": "europa",
+  "shortName": "europa",
+  "category": "test",
+  "chainId": 2046399126,
+  "networkId": 2046399126,
+  "nativeCurrency": {
+    "name": "sFUEL",
+    "symbol": "sFUEL",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet.skalenodes.com/v1/elated-tan-skat"
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout",
+      "url": "https://elated-tan-skat.explorer.mainnet.skalenodes.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://europahub.network/"
+}

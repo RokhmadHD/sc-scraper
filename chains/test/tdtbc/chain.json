@@ -1,0 +1,17 @@
+{
+  "name": "Deviant Token Blockchain Testnet",
+  "chain": "tDTBC",
+  "shortName": "tdtbc",
+  "category": "test",
+  "chainId": 52027080,
+  "networkId": 52027080,
+  "nativeCurrency": {
+    "name": "Deviant Token Testnet",
+    "symbol": "tDTBC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://trpc.devianttoken.net"
+  ],
+  "infoURL": "https://devianttoken.net"
+}

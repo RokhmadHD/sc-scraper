@@ -1,0 +1,24 @@
+{
+  "name": "Kintsugi",
+  "chain": "ETH",
+  "shortName": "kintsugi",
+  "category": "test",
+  "chainId": 1337702,
+  "networkId": 1337702,
+  "nativeCurrency": {
+    "name": "kintsugi Ethere",
+    "symbol": "kiETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.kintsugi.themerge.dev"
+  ],
+  "explorers": [
+    {
+      "name": "kintsugi explorer",
+      "url": "https://explorer.kintsugi.themerge.dev",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://kintsugi.themerge.dev/"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "MAAL Chain",
+  "chain": "MAAL",
+  "shortName": "maal",
+  "category": "mainnet",
+  "chainId": 786,
+  "networkId": 786,
+  "nativeCurrency": {
+    "name": "MAAL",
+    "symbol": "MAAL",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://node1-mainnet.maalscan.io/",
+    "https://node2-mainnet.maalscan.io/",
+    "https://node3-mainnet.maalscan.io/"
+  ],
+  "explorers": [
+    {
+      "name": "maalscan",
+      "url": "https://maalscan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.maalchain.com/"
+}

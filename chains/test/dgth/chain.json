@@ -1,0 +1,24 @@
+{
+  "name": "Gather Devnet Network",
+  "chain": "GTH",
+  "shortName": "dGTH",
+  "category": "test",
+  "chainId": 486217935,
+  "networkId": 486217935,
+  "nativeCurrency": {
+    "name": "Gather",
+    "symbol": "GTH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://devnet.gather.network"
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout",
+      "url": "https://devnet-explorer.gather.network",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://gather.network"
+}

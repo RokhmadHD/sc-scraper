@@ -1,0 +1,24 @@
+{
+  "name": "W3Gamez Holesky Testnet",
+  "chain": "ETH",
+  "shortName": "w3gamez",
+  "category": "test",
+  "chainId": 32001,
+  "networkId": 32001,
+  "nativeCurrency": {
+    "name": "W3Gamez Testnet Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-holesky.w3gamez.network"
+  ],
+  "explorers": [
+    {
+      "name": "W3Gamez Holesky Explorer",
+      "url": "https://w3gamez-holesky.web3games.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://web3games.com/"
+}

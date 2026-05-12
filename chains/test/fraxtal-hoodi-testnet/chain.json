@@ -1,0 +1,17 @@
+{
+  "name": "Fraxtal Hoodi Testnet",
+  "chain": "FRAX",
+  "shortName": "fraxtal-hoodi-testnet",
+  "category": "test",
+  "chainId": 2523,
+  "networkId": 2523,
+  "nativeCurrency": {
+    "name": "Frax",
+    "symbol": "FRAX",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.testnet.frax.com"
+  ],
+  "infoURL": "https://testnet.frax.com"
+}

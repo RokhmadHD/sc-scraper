@@ -1,0 +1,24 @@
+{
+  "name": "ADI Chain",
+  "chain": "ADI",
+  "shortName": "adi",
+  "category": "mainnet",
+  "chainId": 36900,
+  "networkId": 36900,
+  "nativeCurrency": {
+    "name": "ADI",
+    "symbol": "ADI",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.adifoundation.ai"
+  ],
+  "explorers": [
+    {
+      "name": "ADI Explorer",
+      "url": "https://explorer.adifoundation.ai",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://adifoundation.ai"
+}

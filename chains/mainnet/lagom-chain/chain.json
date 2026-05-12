@@ -1,0 +1,24 @@
+{
+  "name": "LAGOM Mainnet",
+  "chain": "LAGOM Mainnet",
+  "shortName": "Lagom-Chain",
+  "category": "mainnet",
+  "chainId": 986,
+  "networkId": 986,
+  "nativeCurrency": {
+    "name": "LAGO",
+    "symbol": "LAGO",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc1.lagom.mainnet.zeeve.net"
+  ],
+  "explorers": [
+    {
+      "name": "tracehawk",
+      "url": "https://Explorer.lagomchain.com",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://lagomchain.com"
+}

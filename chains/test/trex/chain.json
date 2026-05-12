@@ -1,0 +1,24 @@
+{
+  "name": "T-Rex Testnet",
+  "chain": "T-Rex",
+  "shortName": "TREX",
+  "category": "test",
+  "chainId": 1962,
+  "networkId": 1962,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnetrpc.trex.xyz"
+  ],
+  "explorers": [
+    {
+      "name": "T-Rex Testnet explorer",
+      "url": "https://testnet.trex.xyz",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://trex.xyz/"
+}

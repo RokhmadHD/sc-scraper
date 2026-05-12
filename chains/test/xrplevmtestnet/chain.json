@@ -1,0 +1,24 @@
+{
+  "name": "XRPL EVM Sidechain Testnet",
+  "chain": "XRPLEVM Testnet",
+  "shortName": "xrplevmtestnet",
+  "category": "test",
+  "chainId": 1449000,
+  "networkId": 1449000,
+  "nativeCurrency": {
+    "name": "XRP",
+    "symbol": "XRP",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.testnet.xrplevm.org"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.testnet.xrplevm.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://xrplevm.org"
+}

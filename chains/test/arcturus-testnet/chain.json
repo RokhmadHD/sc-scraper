@@ -1,0 +1,24 @@
+{
+  "name": "Arcturus Testneet",
+  "chain": "Arcturus",
+  "shortName": "arcturus-testnet",
+  "category": "test",
+  "chainId": 5615,
+  "networkId": 5615,
+  "nativeCurrency": {
+    "name": "tARC",
+    "symbol": "tARC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-testnet.arcturuschain.io/"
+  ],
+  "explorers": [
+    {
+      "name": "explorer-arcturus-testnet",
+      "url": "https://testnet.arcscan.net",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://arcturuschain.io"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Reddio",
+  "chain": "ETH",
+  "shortName": "reddio",
+  "category": "mainnet",
+  "chainId": 50342,
+  "networkId": 50342,
+  "nativeCurrency": {
+    "name": "Reddio",
+    "symbol": "RDO",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet.reddio.com/rpc"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://reddio.cloud.blockscout.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.reddio.com"
+}

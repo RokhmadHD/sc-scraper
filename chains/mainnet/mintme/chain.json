@@ -1,0 +1,17 @@
+{
+  "name": "MintMe.com Coin",
+  "chain": "MINTME",
+  "shortName": "mintme",
+  "category": "mainnet",
+  "chainId": 24734,
+  "networkId": 37480,
+  "nativeCurrency": {
+    "name": "MintMe.com Coin",
+    "symbol": "MINTME",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://node1.mintme.com"
+  ],
+  "infoURL": "https://www.mintme.com"
+}

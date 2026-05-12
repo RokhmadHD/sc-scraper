@@ -1,0 +1,24 @@
+{
+  "name": "Tipboxcoin Mainnet",
+  "chain": "TPBX",
+  "shortName": "TPBXm",
+  "category": "mainnet",
+  "chainId": 404040,
+  "networkId": 404040,
+  "nativeCurrency": {
+    "name": "Tipboxcoin",
+    "symbol": "TPBX",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet-rpc.tipboxcoin.net"
+  ],
+  "explorers": [
+    {
+      "name": "Tipboxcoin",
+      "url": "https://tipboxcoin.net",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://tipboxcoin.net"
+}

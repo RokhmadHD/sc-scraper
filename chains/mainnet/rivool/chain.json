@@ -1,0 +1,24 @@
+{
+  "name": "Rivool",
+  "chain": "Rivool",
+  "shortName": "rivool",
+  "category": "mainnet",
+  "chainId": 28540,
+  "networkId": 28540,
+  "nativeCurrency": {
+    "name": "RVO",
+    "symbol": "RVO",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://services.tanssi-mainnet.network/tanssi-2005"
+  ],
+  "explorers": [
+    {
+      "name": "Tanssi EVM Basic Explorer",
+      "url": "https://evmexplorer.tanssi-chains.network/?rpcUrl=https://services.tanssi-mainnet.network/tanssi-2005",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://rivool.finance/"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Lightlink Phoenix Mainnet",
+  "chain": "Lightlink Phoenix Mainnet",
+  "shortName": "lightlink_phoenix",
+  "category": "mainnet",
+  "chainId": 1890,
+  "networkId": 1890,
+  "nativeCurrency": {
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://replicator.phoenix.lightlink.io/rpc/v1"
+  ],
+  "explorers": [
+    {
+      "name": "phoenix",
+      "url": "https://phoenix.lightlink.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://lightlink.io"
+}

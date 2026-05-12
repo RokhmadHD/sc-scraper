@@ -1,0 +1,25 @@
+{
+  "name": "Kerleano",
+  "chain": "CRC",
+  "shortName": "kerleano",
+  "category": "test",
+  "chainId": 1804,
+  "networkId": 1804,
+  "nativeCurrency": {
+    "name": "Climate awaReness Coin",
+    "symbol": "CRC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc1.kerleano.ca-dag.work",
+    "https://rpc2.kerleano.ca-dag.work"
+  ],
+  "explorers": [
+    {
+      "name": "Lite Explorer",
+      "url": "https://ethereum-pocr.github.io/explorer/kerleano",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://github.com/ethereum-pocr/kerleano"
+}

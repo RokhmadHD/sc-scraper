@@ -1,0 +1,17 @@
+{
+  "name": "HOO Smart Chain Testnet",
+  "chain": "ETH",
+  "shortName": "hoosmartchain",
+  "category": "test",
+  "chainId": 170,
+  "networkId": 170,
+  "nativeCurrency": {
+    "name": "HOO",
+    "symbol": "HOO",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://http-testnet.hoosmartchain.com"
+  ],
+  "infoURL": "https://www.hoosmartchain.com"
+}

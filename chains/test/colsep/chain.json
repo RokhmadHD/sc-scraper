@@ -1,0 +1,24 @@
+{
+  "name": "Colossus Sepolia Testnet",
+  "chain": "ETH",
+  "shortName": "colsep",
+  "category": "test",
+  "chainId": 9511,
+  "networkId": 9511,
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.testnet.colossus.credit"
+  ],
+  "explorers": [
+    {
+      "name": "colossus-scout",
+      "url": "https://explorer.testnet.colossus.credit",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.colossus.credit/"
+}

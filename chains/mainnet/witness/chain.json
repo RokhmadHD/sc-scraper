@@ -1,0 +1,24 @@
+{
+  "name": "WITNESS CHAIN",
+  "chain": "Witness-Chain",
+  "shortName": "Witness",
+  "category": "mainnet",
+  "chainId": 1702448187,
+  "networkId": 1702448187,
+  "nativeCurrency": {
+    "name": "ETHER",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://sequencer.witnesschain.com"
+  ],
+  "explorers": [
+    {
+      "name": "Witness Chain Explorer",
+      "url": "https://explorer.witnesschain.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.witnesschain.com"
+}

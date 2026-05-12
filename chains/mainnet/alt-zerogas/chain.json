@@ -1,0 +1,24 @@
+{
+  "name": "AltLayer Zero Gas Network",
+  "chain": "ETH",
+  "shortName": "alt-zerogas",
+  "category": "mainnet",
+  "chainId": 4000003,
+  "networkId": 4000003,
+  "nativeCurrency": {
+    "name": "ZERO",
+    "symbol": "ZERO",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://zero.alt.technology"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://zero-explorer.alt.technology",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://altlayer.io"
+}

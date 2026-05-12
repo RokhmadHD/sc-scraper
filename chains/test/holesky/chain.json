@@ -1,0 +1,37 @@
+{
+  "name": "Holesky",
+  "chain": "ETH",
+  "shortName": "holesky",
+  "category": "test",
+  "chainId": 17000,
+  "networkId": 17000,
+  "nativeCurrency": {
+    "name": "Testnet ETH",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://ethereum-holesky-rpc.publicnode.com",
+    "https://holesky.drpc.org",
+    "https://rpc-holesky.rockx.com",
+    "https://rpc.holesky.ethpandaops.io"
+  ],
+  "explorers": [
+    {
+      "name": "Holesky Explorer",
+      "url": "https://holesky.beaconcha.in",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "otterscan-holesky",
+      "url": "https://holesky.otterscan.io",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "Holesky Etherscan",
+      "url": "https://holesky.etherscan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://holesky.ethpandaops.io"
+}

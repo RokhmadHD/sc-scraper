@@ -1,0 +1,24 @@
+{
+  "name": "BeanEco SmartChain",
+  "chain": "BESC",
+  "shortName": "BESC",
+  "category": "mainnet",
+  "chainId": 535037,
+  "networkId": 535037,
+  "nativeCurrency": {
+    "name": "BeanEco SmartChain",
+    "symbol": "BESC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet-rpc.bescscan.io"
+  ],
+  "explorers": [
+    {
+      "name": "bescscan",
+      "url": "https://Bescscan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "besceco.finance"
+}

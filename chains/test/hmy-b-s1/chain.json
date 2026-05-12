@@ -1,0 +1,24 @@
+{
+  "name": "Harmony Testnet Shard 1",
+  "chain": "Harmony",
+  "shortName": "hmy-b-s1",
+  "category": "test",
+  "chainId": 1666700001,
+  "networkId": 1666700001,
+  "nativeCurrency": {
+    "name": "ONE",
+    "symbol": "ONE",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://api.s1.b.hmny.io"
+  ],
+  "explorers": [
+    {
+      "name": "Harmony Block Explorer",
+      "url": "https://explorer.testnet.harmony.one",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://www.harmony.one/"
+}

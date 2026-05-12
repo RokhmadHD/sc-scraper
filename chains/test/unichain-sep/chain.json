@@ -1,0 +1,30 @@
+{
+  "name": "Unichain Sepolia Testnet",
+  "chain": "ETH",
+  "shortName": "unichain-sep",
+  "category": "test",
+  "chainId": 1301,
+  "networkId": 1301,
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://sepolia.unichain.org",
+    "https://unichain-sepolia-rpc.publicnode.com"
+  ],
+  "explorers": [
+    {
+      "name": "Unichain Sepolia Testnet Explorer",
+      "url": "https://unichain-sepolia.blockscout.com",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "Unichain Sepolia Testnet Explorer",
+      "url": "https://sepolia.uniscan.xyz",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://unichain.org"
+}

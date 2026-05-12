@@ -1,0 +1,24 @@
+{
+  "name": "IVAR Chain Testnet",
+  "chain": "IVAR",
+  "shortName": "tivar",
+  "category": "test",
+  "chainId": 16888,
+  "networkId": 16888,
+  "nativeCurrency": {
+    "name": "tIvar",
+    "symbol": "tIVAR",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet-rpc.ivarex.com"
+  ],
+  "explorers": [
+    {
+      "name": "ivarscan",
+      "url": "https://testnet.ivarscan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://ivarex.com"
+}

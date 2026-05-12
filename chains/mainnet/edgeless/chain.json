@@ -1,0 +1,24 @@
+{
+  "name": "Edgeless Network",
+  "chain": "Edgeless",
+  "shortName": "edgeless",
+  "category": "mainnet",
+  "chainId": 2026,
+  "networkId": 2026,
+  "nativeCurrency": {
+    "name": "Edgeless Wrapped Eth",
+    "symbol": "EwEth",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.edgeless.network/http"
+  ],
+  "explorers": [
+    {
+      "name": "Edgeless Explorer",
+      "url": "https://explorer.edgeless.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://edgeless.network"
+}

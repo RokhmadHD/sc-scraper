@@ -1,0 +1,24 @@
+{
+  "name": "SATUCHAIN Testnet",
+  "chain": "SATU",
+  "shortName": "satutestnet",
+  "category": "test",
+  "chainId": 17081945,
+  "networkId": 17081945,
+  "nativeCurrency": {
+    "name": "Satu Testnet",
+    "symbol": "tSTU",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-testnet.satuchain.com"
+  ],
+  "explorers": [
+    {
+      "name": "SATUCHAIN Testnet Explorer",
+      "url": "https://testnet.satuchain.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://satuchain.com"
+}

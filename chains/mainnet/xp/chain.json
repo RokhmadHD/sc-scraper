@@ -1,0 +1,24 @@
+{
+  "name": "Xphere Mainnet",
+  "chain": "Xphere",
+  "shortName": "xp",
+  "category": "mainnet",
+  "chainId": 20250217,
+  "networkId": 20250217,
+  "nativeCurrency": {
+    "name": "Xphere",
+    "symbol": "XP",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://en-bkk.x-phere.com"
+  ],
+  "explorers": [
+    {
+      "name": "Tamsa",
+      "url": "https://xp.tamsa.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://x-phere.com/"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "zkLink Nova Mainnet",
+  "chain": "ETH",
+  "shortName": "zklink-nova",
+  "category": "mainnet",
+  "chainId": 810180,
+  "networkId": 810180,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.zklink.io"
+  ],
+  "explorers": [
+    {
+      "name": "zkLink Nova Block Explorer",
+      "url": "https://explorer.zklink.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://zklink.io"
+}

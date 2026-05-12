@@ -1,0 +1,24 @@
+{
+  "name": "Abyss Protocol",
+  "chain": "Abyss Protocol Testnet",
+  "shortName": "abyss",
+  "category": "test",
+  "chainId": 229772,
+  "networkId": 229772,
+  "nativeCurrency": {
+    "name": "AbyssETH",
+    "symbol": "aETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet.rpc.abyssprotocol.ai/"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://testnet.abyssprotocol.ai",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://abyssprotocol.ai/"
+}

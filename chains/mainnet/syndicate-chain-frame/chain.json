@@ -1,0 +1,17 @@
+{
+  "name": "Syndicate Frame Chain",
+  "chain": "Syndicate Frame",
+  "shortName": "syndicate-chain-frame",
+  "category": "mainnet",
+  "chainId": 5101,
+  "networkId": 5101,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-frame.syndicate.io"
+  ],
+  "infoURL": "https://syndicate.io"
+}

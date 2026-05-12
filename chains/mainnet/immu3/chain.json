@@ -1,0 +1,17 @@
+{
+  "name": "Immu3 EVM",
+  "chain": "EVMCC",
+  "shortName": "Immu3",
+  "category": "mainnet",
+  "chainId": 3100,
+  "networkId": 3100,
+  "nativeCurrency": {
+    "name": "IMMU",
+    "symbol": "IMMU",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://fraa-flashbox-2800-rpc.a.stagenet.tanssi.network"
+  ],
+  "infoURL": "https://immu3.io"
+}

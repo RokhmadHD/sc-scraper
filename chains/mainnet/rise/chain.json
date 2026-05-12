@@ -1,0 +1,24 @@
+{
+  "name": "RISE",
+  "chain": "ETH",
+  "shortName": "rise",
+  "category": "mainnet",
+  "chainId": 4153,
+  "networkId": 4153,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.risechain.com/"
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout",
+      "url": "https://explorer.risechain.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://risechain.com"
+}

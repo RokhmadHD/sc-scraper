@@ -1,0 +1,30 @@
+{
+  "name": "GEB Mainnet",
+  "chain": "GEB",
+  "shortName": "geb",
+  "category": "mainnet",
+  "chainId": 11501,
+  "networkId": 11501,
+  "nativeCurrency": {
+    "name": "BTC",
+    "symbol": "BTC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-mainnet-1.geb.network/",
+    "https://rpc-mainnet-2.geb.network/"
+  ],
+  "explorers": [
+    {
+      "name": "geb mainnet scan",
+      "url": "https://scan.geb.network",
+      "standard": "none"
+    },
+    {
+      "name": "bevm mainnet oklink",
+      "url": "https://www.oklink.com/bevm",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://geb.network"
+}

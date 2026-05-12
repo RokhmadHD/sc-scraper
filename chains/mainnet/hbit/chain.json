@@ -1,0 +1,25 @@
+{
+  "name": "HashBit Mainnet",
+  "chain": "HBIT",
+  "shortName": "hbit",
+  "category": "mainnet",
+  "chainId": 11119,
+  "networkId": 11119,
+  "nativeCurrency": {
+    "name": "HashBit Native Token",
+    "symbol": "HBIT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet-rpc.hashbit.org",
+    "https://rpc.hashbit.org"
+  ],
+  "explorers": [
+    {
+      "name": "hashbitscan",
+      "url": "https://explorer.hashbit.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://hashbit.org"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Horizen Mainnet",
+  "chain": "horizen",
+  "shortName": "horizen",
+  "category": "mainnet",
+  "chainId": 26514,
+  "networkId": 26514,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://horizen.calderachain.xyz/http"
+  ],
+  "explorers": [
+    {
+      "name": "Horizen Mainnet Caldera Explorer",
+      "url": "https://horizen.calderaexplorer.xyz",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://horizen.hub.caldera.xyz"
+}

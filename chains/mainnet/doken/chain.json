@@ -1,0 +1,26 @@
+{
+  "name": "DoKEN Super Chain Mainnet",
+  "chain": "DoKEN Super Chain",
+  "shortName": "DoKEN",
+  "category": "mainnet",
+  "chainId": 61916,
+  "networkId": 61916,
+  "nativeCurrency": {
+    "name": "DoKEN",
+    "symbol": "DKN",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://nyrpc.doken.dev",
+    "https://sgrpc.doken.dev",
+    "https://ukrpc.doken.dev"
+  ],
+  "explorers": [
+    {
+      "name": "DSC Scan",
+      "url": "https://explore.doken.dev",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://doken.dev/"
+}

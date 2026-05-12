@@ -1,0 +1,24 @@
+{
+  "name": "Green Chain Testnet",
+  "chain": "Green Chain",
+  "shortName": "greenchain",
+  "category": "test",
+  "chainId": 97531,
+  "networkId": 97531,
+  "nativeCurrency": {
+    "name": "GREEN",
+    "symbol": "GREEN",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://node.greenchain.app/rpc/"
+  ],
+  "explorers": [
+    {
+      "name": "Green Chain Explorer",
+      "url": "https://explorer.greenchain.app",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.greenchain.app"
+}

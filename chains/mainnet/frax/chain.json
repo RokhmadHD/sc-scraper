@@ -1,0 +1,25 @@
+{
+  "name": "Fraxtal",
+  "chain": "FRAX",
+  "shortName": "frax",
+  "category": "mainnet",
+  "chainId": 252,
+  "networkId": 252,
+  "nativeCurrency": {
+    "name": "Frax",
+    "symbol": "FRAX",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://fraxtal-rpc.publicnode.com",
+    "https://rpc.frax.com"
+  ],
+  "explorers": [
+    {
+      "name": "fraxscan",
+      "url": "https://fraxscan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://mainnet.frax.com"
+}

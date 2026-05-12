@@ -1,0 +1,30 @@
+{
+  "name": "BNB Smart Chain Testnet",
+  "chain": "BSC",
+  "shortName": "bnbt",
+  "category": "test",
+  "chainId": 97,
+  "networkId": 97,
+  "nativeCurrency": {
+    "name": "BNB Chain Native Token",
+    "symbol": "tBNB",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://bsc-testnet-rpc.publicnode.com",
+    "https://data-seed-prebsc-1-s1.bnbchain.org:8545",
+    "https://data-seed-prebsc-1-s2.bnbchain.org:8545",
+    "https://data-seed-prebsc-1-s3.bnbchain.org:8545",
+    "https://data-seed-prebsc-2-s1.bnbchain.org:8545",
+    "https://data-seed-prebsc-2-s2.bnbchain.org:8545",
+    "https://data-seed-prebsc-2-s3.bnbchain.org:8545"
+  ],
+  "explorers": [
+    {
+      "name": "bscscan-testnet",
+      "url": "https://testnet.bscscan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.bnbchain.org/en"
+}

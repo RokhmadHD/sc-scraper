@@ -1,0 +1,24 @@
+{
+  "name": "Furtheon",
+  "chain": "Furtheon Network",
+  "shortName": "furtheon",
+  "category": "mainnet",
+  "chainId": 308,
+  "networkId": 308,
+  "nativeCurrency": {
+    "name": "Furtheon",
+    "symbol": "FTH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.furtheon.org"
+  ],
+  "explorers": [
+    {
+      "name": "furthscan",
+      "url": "http://furthscan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://furtheon.org/"
+}

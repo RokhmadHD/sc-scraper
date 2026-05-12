@@ -1,0 +1,24 @@
+{
+  "name": "Unicorn Ultra Nebulas Testnet",
+  "chain": "u2u",
+  "shortName": "u2u_nebulas",
+  "category": "test",
+  "chainId": 2484,
+  "networkId": 2484,
+  "nativeCurrency": {
+    "name": "Unicorn Ultra Nebulas Testnet",
+    "symbol": "U2U",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-nebulas-testnet.uniultra.xyz"
+  ],
+  "explorers": [
+    {
+      "name": "U2U Explorer",
+      "url": "https://testnet.u2uscan.xyz",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://uniultra.xyz"
+}

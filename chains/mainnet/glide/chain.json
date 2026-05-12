@@ -1,0 +1,17 @@
+{
+  "name": "Glide L1 Protocol XP",
+  "chain": "GLXP",
+  "shortName": "glide",
+  "category": "mainnet",
+  "chainId": 251,
+  "networkId": 251,
+  "nativeCurrency": {
+    "name": "Glide XP",
+    "symbol": "GLXP",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-api.glideprotocol.xyz/l1-rpc/"
+  ],
+  "infoURL": "https://glideprotocol.xyz"
+}

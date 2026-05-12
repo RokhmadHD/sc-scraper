@@ -1,0 +1,24 @@
+{
+  "name": "Z Chain",
+  "chain": "Z",
+  "shortName": "z",
+  "category": "mainnet",
+  "chainId": 9369,
+  "networkId": 9369,
+  "nativeCurrency": {
+    "name": "Z",
+    "symbol": "Z",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.zchain.org"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://zscan.live",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://zero.tech"
+}

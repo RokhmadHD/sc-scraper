@@ -1,0 +1,24 @@
+{
+  "name": "GM Network Testnet",
+  "chain": "GM Network Testnet",
+  "shortName": "gmnetwork-testnet",
+  "category": "test",
+  "chainId": 202402181627,
+  "networkId": 202402181627,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://gmnetwork-testnet.alt.technology/"
+  ],
+  "explorers": [
+    {
+      "name": "gmnetwork-testnet",
+      "url": "https://gmnetwork-testnet-explorer.alt.technology",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://gmnetwork.ai"
+}

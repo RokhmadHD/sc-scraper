@@ -1,0 +1,27 @@
+{
+  "name": "Jumbochain Mainnet",
+  "chain": "Jumbo",
+  "shortName": "Jumboscan",
+  "category": "mainnet",
+  "chainId": 1009,
+  "networkId": 1009,
+  "nativeCurrency": {
+    "name": "JNFTC",
+    "symbol": "JNFTC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-datajumbo1.jumbochain.org",
+    "https://rpc-datajumbo2.jumbochain.org",
+    "https://rpc-datajumbo3.jumbochain.org",
+    "https://rpcpriv.jumbochain.org"
+  ],
+  "explorers": [
+    {
+      "name": "Jumboscan",
+      "url": "https://jumboscan.jumbochain.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://jumbochain.org"
+}

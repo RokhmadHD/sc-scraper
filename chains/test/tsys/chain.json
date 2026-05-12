@@ -1,0 +1,25 @@
+{
+  "name": "Syscoin Tanenbaum Testnet",
+  "chain": "SYS",
+  "shortName": "tsys",
+  "category": "test",
+  "chainId": 5700,
+  "networkId": 5700,
+  "nativeCurrency": {
+    "name": "Testnet Syscoin",
+    "symbol": "tSYS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.tanenbaum.io",
+    "https://syscoin-tanenbaum-evm.publicnode.com"
+  ],
+  "explorers": [
+    {
+      "name": "Syscoin Testnet Block Explorer",
+      "url": "https://explorer.tanenbaum.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://syscoin.org"
+}

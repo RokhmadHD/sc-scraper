@@ -1,0 +1,17 @@
+{
+  "name": "Newton Testnet",
+  "chain": "NEW",
+  "shortName": "tnew",
+  "category": "test",
+  "chainId": 1007,
+  "networkId": 1007,
+  "nativeCurrency": {
+    "name": "Newton",
+    "symbol": "NEW",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc1.newchain.newtonproject.org"
+  ],
+  "infoURL": "https://www.newtonproject.org/"
+}

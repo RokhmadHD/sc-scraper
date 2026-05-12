@@ -1,0 +1,24 @@
+{
+  "name": "Dos Fuji Subnet",
+  "chain": "DOS",
+  "shortName": "TDOS",
+  "category": "test",
+  "chainId": 1311,
+  "networkId": 1311,
+  "nativeCurrency": {
+    "name": "Dos Native Token",
+    "symbol": "DOS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://test.doschain.com/jsonrpc"
+  ],
+  "explorers": [
+    {
+      "name": "dos-testnet",
+      "url": "https://test.doscan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "http://doschain.io/"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "BlockX Atlantis Testnet",
+  "chain": "blockx",
+  "shortName": "tbcx",
+  "category": "test",
+  "chainId": 19077,
+  "networkId": 19077,
+  "nativeCurrency": {
+    "name": "BCX",
+    "symbol": "BCX",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://atlantis-web3.blockxnet.com"
+  ],
+  "explorers": [
+    {
+      "name": "BlockX EVM Explorer (Blockscout)",
+      "url": "https://testnet-explorer.blockxnet.com",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "BlockX Cosmos Explorer (Ping)",
+      "url": "https://ping.blockxnet.com/blockx-atlantis-testnet",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://www.blockxnet.com/"
+}

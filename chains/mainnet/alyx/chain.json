@@ -1,0 +1,24 @@
+{
+  "name": "Alyx Mainnet",
+  "chain": "ALYX",
+  "shortName": "alyx",
+  "category": "mainnet",
+  "chainId": 1314,
+  "networkId": 1314,
+  "nativeCurrency": {
+    "name": "Alyx Chain Native Token",
+    "symbol": "ALYX",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.alyxchain.com"
+  ],
+  "explorers": [
+    {
+      "name": "alyxscan",
+      "url": "https://www.alyxscan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.alyxchain.com"
+}

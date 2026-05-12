@@ -1,0 +1,24 @@
+{
+  "name": "PlayBlock",
+  "chain": "playblock",
+  "shortName": "playblock",
+  "category": "mainnet",
+  "chainId": 1829,
+  "networkId": 1829,
+  "nativeCurrency": {
+    "name": "PlayBlock",
+    "symbol": "PBG",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.playblock.io"
+  ],
+  "explorers": [
+    {
+      "name": "PlayBlock",
+      "url": "https://explorer.playblock.io",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://www.playnance.com"
+}

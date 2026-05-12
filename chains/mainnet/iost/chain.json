@@ -1,0 +1,24 @@
+{
+  "name": "IOST Mainnet",
+  "chain": "iost",
+  "shortName": "iost",
+  "category": "mainnet",
+  "chainId": 182,
+  "networkId": 182,
+  "nativeCurrency": {
+    "name": "BNB Chain Native Token",
+    "symbol": "BNB",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://l2-mainnet.iost.io"
+  ],
+  "explorers": [
+    {
+      "name": "IOSTscan",
+      "url": "https://l2-scan.iost.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://iost.io"
+}

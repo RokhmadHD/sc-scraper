@@ -1,0 +1,24 @@
+{
+  "name": "MAZZE Testnet",
+  "chain": "MAZZE Testnet",
+  "shortName": "MAZZE",
+  "category": "test",
+  "chainId": 199991,
+  "networkId": 199991,
+  "nativeCurrency": {
+    "name": "MAZZE Testnet",
+    "symbol": "MAZZE",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet-rpc.mazze.io/"
+  ],
+  "explorers": [
+    {
+      "name": "MAZZE Testnet Explorer",
+      "url": "https://mazzescan.io",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://mazze.io/"
+}

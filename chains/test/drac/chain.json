@@ -1,0 +1,24 @@
+{
+  "name": "DRAC Network",
+  "chain": "DRAC",
+  "shortName": "drac",
+  "category": "test",
+  "chainId": 3912,
+  "networkId": 3912,
+  "nativeCurrency": {
+    "name": "DRAC",
+    "symbol": "DRAC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://www.dracscan.com/rpc"
+  ],
+  "explorers": [
+    {
+      "name": "DRAC_Network Scan",
+      "url": "https://www.dracscan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://drac.io/"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "VELO Labs Mainnet",
+  "chain": "NOVA chain",
+  "shortName": "VELO",
+  "category": "mainnet",
+  "chainId": 56789,
+  "networkId": 56789,
+  "nativeCurrency": {
+    "name": "Nova",
+    "symbol": "NOVA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://nova.velo.org"
+  ],
+  "explorers": [
+    {
+      "name": "novascan",
+      "url": "https://novascan.velo.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://velo.org"
+}

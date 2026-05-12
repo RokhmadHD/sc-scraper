@@ -1,0 +1,24 @@
+{
+  "name": "H2 Chain Testnet Lambda",
+  "chain": "H2",
+  "shortName": "h2-lambda",
+  "category": "test",
+  "chainId": 25821,
+  "networkId": 25821,
+  "nativeCurrency": {
+    "name": "Lambda H2",
+    "symbol": "H2",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.h-1.io"
+  ],
+  "explorers": [
+    {
+      "name": "h2scan-lambda",
+      "url": "https://lambda.h2scan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://h2chain.io"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Henesys",
+  "chain": "Henesys",
+  "shortName": "nxpc",
+  "category": "mainnet",
+  "chainId": 68414,
+  "networkId": 68414,
+  "nativeCurrency": {
+    "name": "NEXPACE",
+    "symbol": "NXPC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://henesys-rpc.msu.io"
+  ],
+  "explorers": [
+    {
+      "name": "Xangle MSU Explorer",
+      "url": "https://msu-explorer.xangle.io",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "Avalanche Explorer",
+      "url": "https://subnets.avax.network/henesys",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://nexpace.io"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "AltLayer Testnet",
+  "chain": "ETH",
+  "shortName": "alt-testnet",
+  "category": "test",
+  "chainId": 9997,
+  "networkId": 9997,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet-rollup-api.altlayer.io"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://testnet-rollup-explorer.altlayer.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://altlayer.io"
+}

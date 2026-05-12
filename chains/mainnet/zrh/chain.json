@@ -1,0 +1,24 @@
+{
+  "name": "Zeroth Mainnet",
+  "chain": "ZRH",
+  "shortName": "ZRH",
+  "category": "mainnet",
+  "chainId": 4088,
+  "networkId": 4088,
+  "nativeCurrency": {
+    "name": "ZRH",
+    "symbol": "ZRH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://my.zeroth.run"
+  ],
+  "explorers": [
+    {
+      "name": "Zeroth Explorer",
+      "url": "https://scan.zeroth.run",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.zeroth.foundation"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Tangle Testnet",
+  "chain": "Tangle Testnet",
+  "shortName": "tTangle",
+  "category": "test",
+  "chainId": 3799,
+  "networkId": 3799,
+  "nativeCurrency": {
+    "name": "Testnet Tangle Network Token",
+    "symbol": "tTNT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet-rpc-archive.tangle.tools",
+    "https://testnet-rpc.tangle.tools"
+  ],
+  "explorers": [
+    {
+      "name": "ttntscan",
+      "url": "https://testnet-explorer.tangle.tools",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://docs.tangle.tools"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Bitcichain Testnet",
+  "chain": "TBITCI",
+  "shortName": "tbitci",
+  "category": "test",
+  "chainId": 1908,
+  "networkId": 1908,
+  "nativeCurrency": {
+    "name": "Test Bitci",
+    "symbol": "TBITCI",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet.bitcichain.com"
+  ],
+  "explorers": [
+    {
+      "name": "Bitci Explorer Testnet",
+      "url": "https://testnet.bitciexplorer.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.bitcichain.com"
+}

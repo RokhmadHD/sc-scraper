@@ -1,0 +1,24 @@
+{
+  "name": "Anomaly Andromeda Testnet",
+  "chain": "anomaly-andromeda-testnet",
+  "shortName": "anomaly-andromeda-testnet",
+  "category": "test",
+  "chainId": 241120,
+  "networkId": 241120,
+  "nativeCurrency": {
+    "name": "TestNom",
+    "symbol": "tNOM",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.anomaly-andromeda.anomalygames.io"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://andromeda.anomalyscan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://raas.gelato.network/rollups/details/public/anomaly-andromeda-testnet"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Swellchain Testnet",
+  "chain": "ETH",
+  "shortName": "swellchain-sep",
+  "category": "test",
+  "chainId": 1924,
+  "networkId": 1924,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.ankr.com/swell-testnet",
+    "https://swell-testnet.alt.technology"
+  ],
+  "explorers": [
+    {
+      "name": "Swellchain Testnet Explorer",
+      "url": "https://swell-testnet-explorer.alt.technology",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://app.swellnetwork.io/layer2/swell-l2"
+}

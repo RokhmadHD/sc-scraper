@@ -1,0 +1,24 @@
+{
+  "name": "Global Trust Network",
+  "chain": "GTN",
+  "shortName": "stabilityprotocol",
+  "category": "mainnet",
+  "chainId": 101010,
+  "networkId": 101010,
+  "nativeCurrency": {
+    "name": "FREE",
+    "symbol": "FREE",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://gtn.stabilityprotocol.com"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://stability.blockscout.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://stabilityprotocol.com"
+}

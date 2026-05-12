@@ -1,0 +1,24 @@
+{
+  "name": "SEC Testnet",
+  "chain": "SEC",
+  "shortName": "SEPt",
+  "category": "test",
+  "chainId": 19515,
+  "networkId": 19515,
+  "nativeCurrency": {
+    "name": "SEP",
+    "symbol": "SEP",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet-rpc.secexplorer.io"
+  ],
+  "explorers": [
+    {
+      "name": "SEC Testnet Explorer",
+      "url": "https://testnet.secexplorer.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://smartenergychain.org"
+}

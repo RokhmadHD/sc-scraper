@@ -1,0 +1,24 @@
+{
+  "name": "TSC Testnet",
+  "chain": "Trust Smart Chain Testnet",
+  "shortName": "tTSC",
+  "category": "test",
+  "chainId": 820522,
+  "networkId": 820025,
+  "nativeCurrency": {
+    "name": "TAS",
+    "symbol": "tTAS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet.tscscan.io/testrpc"
+  ],
+  "explorers": [
+    {
+      "name": "tscscan",
+      "url": "https://testnet.tscscan.io",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://www.trias.one"
+}

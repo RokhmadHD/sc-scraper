@@ -1,0 +1,24 @@
+{
+  "name": "StreetDog Chain",
+  "chain": "SDC",
+  "shortName": "sdc",
+  "category": "mainnet",
+  "chainId": 77778,
+  "networkId": 77778,
+  "nativeCurrency": {
+    "name": "StreetDog",
+    "symbol": "SD",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.chain.streetdog.me"
+  ],
+  "explorers": [
+    {
+      "name": "StreetDog Chain Explorer",
+      "url": "https://chain.streetdog.me",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://chain.streetdog.me"
+}

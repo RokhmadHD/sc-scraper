@@ -1,0 +1,24 @@
+{
+  "name": "RISE Testnet",
+  "chain": "ETH",
+  "shortName": "rise-testnet",
+  "category": "test",
+  "chainId": 11155931,
+  "networkId": 11155931,
+  "nativeCurrency": {
+    "name": "RISE Testnet Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet.riselabs.xyz"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.testnet.riselabs.xyz",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://risechain.com/"
+}

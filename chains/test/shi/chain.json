@@ -1,0 +1,24 @@
+{
+  "name": "Shinarium Beta",
+  "chain": "Shinarium",
+  "shortName": "shi",
+  "category": "test",
+  "chainId": 534849,
+  "networkId": 534849,
+  "nativeCurrency": {
+    "name": "Shina Inu",
+    "symbol": "SHI",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.shinarium.org"
+  ],
+  "explorers": [
+    {
+      "name": "shinascan",
+      "url": "https://shinascan.shinarium.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://shinarium.org"
+}

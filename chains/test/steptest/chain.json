@@ -1,0 +1,24 @@
+{
+  "name": "Step Testnet",
+  "chain": "STEP",
+  "shortName": "steptest",
+  "category": "test",
+  "chainId": 12345,
+  "networkId": 12345,
+  "nativeCurrency": {
+    "name": "FITFI",
+    "symbol": "FITFI",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.testnet.step.network"
+  ],
+  "explorers": [
+    {
+      "name": "StepScan",
+      "url": "https://testnet.stepscan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://step.network"
+}

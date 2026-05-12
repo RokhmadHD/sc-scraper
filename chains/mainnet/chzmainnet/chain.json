@@ -1,0 +1,31 @@
+{
+  "name": "Chiliz Chain Mainnet",
+  "chain": "CHZ",
+  "shortName": "chzmainnet",
+  "category": "mainnet",
+  "chainId": 88888,
+  "networkId": 88888,
+  "nativeCurrency": {
+    "name": "Chiliz",
+    "symbol": "CHZ",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://chiliz.publicnode.com",
+    "https://rpc.ankr.com/chiliz",
+    "https://rpc.chiliz.com"
+  ],
+  "explorers": [
+    {
+      "name": "chiliscan",
+      "url": "https://chiliscan.com",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "chilizscan",
+      "url": "https://scan.chiliz.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://chiliz.com"
+}

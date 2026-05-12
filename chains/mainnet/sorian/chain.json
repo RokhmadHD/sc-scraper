@@ -1,0 +1,17 @@
+{
+  "name": "Sorian",
+  "chain": "SOR",
+  "shortName": "sorian",
+  "category": "mainnet",
+  "chainId": 210209,
+  "networkId": 210209,
+  "nativeCurrency": {
+    "name": "Sorian",
+    "symbol": "SOR",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.sorian.io"
+  ],
+  "infoURL": "https://sorian.io"
+}

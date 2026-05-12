@@ -1,0 +1,26 @@
+{
+  "name": "Kava Testnet",
+  "chain": "KAVA",
+  "shortName": "tkava",
+  "category": "test",
+  "chainId": 2221,
+  "networkId": 2221,
+  "nativeCurrency": {
+    "name": "TKava",
+    "symbol": "TKAVA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://evm.testnet.kava.io",
+    "https://kava-evm-testnet.rpc.thirdweb.com",
+    "https://kava-testnet.drpc.org"
+  ],
+  "explorers": [
+    {
+      "name": "Kava Testnet Explorer",
+      "url": "http://testnet.kavascan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.kava.io"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Lumoz Quidditch Testnet",
+  "chain": "ETH",
+  "shortName": "Lumoz-Quidditch-Testnet",
+  "category": "test",
+  "chainId": 58680,
+  "networkId": 58680,
+  "nativeCurrency": {
+    "name": "Lumoz Quidditch Testnet Token",
+    "symbol": "MOZ",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://quidditch-rpc.lumoz.org"
+  ],
+  "explorers": [
+    {
+      "name": "LumozQuidditchTestnetInfo",
+      "url": "https://quidditch.lumoz.info",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://lumoz.org"
+}

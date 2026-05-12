@@ -1,0 +1,17 @@
+{
+  "name": "xFair.AI Testnet",
+  "chain": "FAIT",
+  "shortName": "fait",
+  "category": "test",
+  "chainId": 200000,
+  "networkId": 200000,
+  "nativeCurrency": {
+    "name": "FAI",
+    "symbol": "FAI",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc_testnet.xfair.ai"
+  ],
+  "infoURL": "https://xfair.ai"
+}

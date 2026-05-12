@@ -1,0 +1,25 @@
+{
+  "name": "Compverse Mainnet",
+  "chain": "CPV",
+  "shortName": "compverse",
+  "category": "mainnet",
+  "chainId": 6779,
+  "networkId": 6779,
+  "nativeCurrency": {
+    "name": "compverse",
+    "symbol": "CPV",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-useast1.compverse.io/",
+    "https://rpc.compverse.io/"
+  ],
+  "explorers": [
+    {
+      "name": "cpvscan",
+      "url": "https://scan.compverse.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://compverse.io"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "cheapETH",
+  "chain": "cheapETH",
+  "shortName": "cth",
+  "category": "mainnet",
+  "chainId": 777,
+  "networkId": 777,
+  "nativeCurrency": {
+    "name": "cTH",
+    "symbol": "cTH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://node.cheapeth.org/rpc"
+  ],
+  "infoURL": "https://cheapeth.org/"
+}

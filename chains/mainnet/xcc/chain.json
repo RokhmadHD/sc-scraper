@@ -1,0 +1,24 @@
+{
+  "name": "CyberChain Mainnet",
+  "chain": "XCC",
+  "shortName": "xcc",
+  "category": "mainnet",
+  "chainId": 65535,
+  "networkId": 65535,
+  "nativeCurrency": {
+    "name": "XCC",
+    "symbol": "XCC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.cyberchain.xyz/"
+  ],
+  "explorers": [
+    {
+      "name": "CyberChain explorer",
+      "url": "https://scan.cyberchain.xyz",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://cyberchain.xyz"
+}

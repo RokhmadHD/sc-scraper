@@ -1,0 +1,17 @@
+{
+  "name": "TMY Chain",
+  "chain": "TMY",
+  "shortName": "tmy",
+  "category": "test",
+  "chainId": 8768,
+  "networkId": 8768,
+  "nativeCurrency": {
+    "name": "TMY",
+    "symbol": "TMY",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://node1.tmyblockchain.org/rpc"
+  ],
+  "infoURL": "https://tmychain.org/"
+}

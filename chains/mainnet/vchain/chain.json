@@ -1,0 +1,24 @@
+{
+  "name": "VChain Mainnet",
+  "chain": "VChain",
+  "shortName": "VChain",
+  "category": "mainnet",
+  "chainId": 2223,
+  "networkId": 2223,
+  "nativeCurrency": {
+    "name": "VNDT",
+    "symbol": "VNDT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://bc.vcex.xyz"
+  ],
+  "explorers": [
+    {
+      "name": "VChain Scan",
+      "url": "https://scan.vcex.xyz",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://bo.vcex.xyz/"
+}

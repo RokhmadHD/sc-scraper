@@ -1,0 +1,24 @@
+{
+  "name": "Ethereum Hoodi",
+  "chain": "ETH",
+  "shortName": "hoe",
+  "category": "test",
+  "chainId": 560048,
+  "networkId": 560048,
+  "nativeCurrency": {
+    "name": "Hoodi Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.hoodi.ethpandaops.io"
+  ],
+  "explorers": [
+    {
+      "name": "dora",
+      "url": "https://light-hoodi.beaconcha.in",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://hoodi.ethpandaops.io"
+}

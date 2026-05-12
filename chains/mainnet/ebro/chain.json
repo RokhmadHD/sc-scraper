@@ -1,0 +1,17 @@
+{
+  "name": "Ebro Network",
+  "chain": "ebro",
+  "shortName": "ebro",
+  "category": "mainnet",
+  "chainId": 2306,
+  "networkId": 2306,
+  "nativeCurrency": {
+    "name": "Ebro",
+    "symbol": "ebro",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://greendinoswap.com"
+  ],
+  "infoURL": "https://www.ebrochain.com"
+}

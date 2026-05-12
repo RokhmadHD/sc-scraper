@@ -1,0 +1,24 @@
+{
+  "name": "Graphite Testnet",
+  "chain": "Graphite",
+  "shortName": "graphiteTest",
+  "category": "test",
+  "chainId": 54170,
+  "networkId": 54170,
+  "nativeCurrency": {
+    "name": "Graphite",
+    "symbol": "@G",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://anon-entrypoint-test-1.atgraphite.com"
+  ],
+  "explorers": [
+    {
+      "name": "Graphite Testnet Explorer",
+      "url": "https://test.atgraphite.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://atgraphite.com/"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Arvix Testnet",
+  "chain": "Arvix",
+  "shortName": "arvix",
+  "category": "test",
+  "chainId": 1927,
+  "networkId": 1927,
+  "nativeCurrency": {
+    "name": "Arvix Testnet Native Token",
+    "symbol": "tARV",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-dev-testnet.arvix.network",
+    "https://rpc-testnet-market.arvix.network"
+  ],
+  "explorers": [
+    {
+      "name": "Arvix Explorer Testnet",
+      "url": "https://testnet.arvixscan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://arvix.network"
+}

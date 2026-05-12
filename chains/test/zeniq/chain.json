@@ -1,0 +1,29 @@
+{
+  "name": "Zeniq",
+  "chain": "ZENIQ",
+  "shortName": "zeniq",
+  "category": "test",
+  "chainId": 383414847825,
+  "networkId": 383414847825,
+  "nativeCurrency": {
+    "name": "Zeniq",
+    "symbol": "ZENIQ",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://api.zeniq.network"
+  ],
+  "explorers": [
+    {
+      "name": "zeniqscan",
+      "url": "https://zeniqscan.com",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "zeniq-smart-chain-explorer",
+      "url": "https://smart.zeniq.net",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.zeniq.dev/"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "GPT Testnet",
+  "chain": "Skopje Testnet",
+  "shortName": "Skopje",
+  "category": "test",
+  "chainId": 476462898,
+  "networkId": 476462898,
+  "nativeCurrency": {
+    "name": "SkpGPT",
+    "symbol": "SkpGPT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet-rpc.gptprotocol.io"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://testnet-explorer.gptprotocol.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://gptprotocol.com"
+}

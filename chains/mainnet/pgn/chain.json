@@ -1,0 +1,24 @@
+{
+  "name": "PGN (Public Goods Network)",
+  "chain": "ETH",
+  "shortName": "PGN",
+  "category": "mainnet",
+  "chainId": 424,
+  "networkId": 424,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.publicgoods.network"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.publicgoods.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://publicgoods.network/"
+}

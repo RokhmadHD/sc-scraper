@@ -1,0 +1,24 @@
+{
+  "name": "SPS Testnet",
+  "chain": "SPS-Testnet",
+  "shortName": "SPS-Test",
+  "category": "test",
+  "chainId": 14000,
+  "networkId": 14000,
+  "nativeCurrency": {
+    "name": "ECG",
+    "symbol": "ECG",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://www.3sps.net"
+  ],
+  "explorers": [
+    {
+      "name": "SPS Test Explorer",
+      "url": "https://explorer.3sps.net",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://ssquad.games/"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "SuperAIChain Mainnet",
+  "chain": "SuperAIChain",
+  "shortName": "sup",
+  "category": "mainnet",
+  "chainId": 19998,
+  "networkId": 19998,
+  "nativeCurrency": {
+    "name": "SUP",
+    "symbol": "SUP",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.superaichain.ai"
+  ],
+  "explorers": [
+    {
+      "name": "SuperAIChain Explorer",
+      "url": "https://scan.superaichain.ai",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://superaichain.ai"
+}

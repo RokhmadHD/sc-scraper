@@ -1,0 +1,24 @@
+{
+  "name": "Openpiece Testnet",
+  "chain": "OPENPIECE",
+  "shortName": "OPtest",
+  "category": "test",
+  "chainId": 141,
+  "networkId": 141,
+  "nativeCurrency": {
+    "name": "Belly",
+    "symbol": "BELLY",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet.openpiece.io"
+  ],
+  "explorers": [
+    {
+      "name": "Belly Scan",
+      "url": "https://testnet.bellyscan.com",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://cryptopiece.online"
+}

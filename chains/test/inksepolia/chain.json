@@ -1,0 +1,24 @@
+{
+  "name": "Ink Sepolia",
+  "chain": "ETH",
+  "shortName": "inksepolia",
+  "category": "test",
+  "chainId": 763373,
+  "networkId": 763373,
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-gel-sepolia.inkonchain.com"
+  ],
+  "explorers": [
+    {
+      "name": "Ink Sepolia Explorer",
+      "url": "https://explorer-sepolia.inkonchain.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://inkonchain.com/"
+}

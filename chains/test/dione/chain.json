@@ -1,0 +1,17 @@
+{
+  "name": "Odyssey Chain (Testnet)",
+  "chain": "DIONE",
+  "shortName": "DIONE",
+  "category": "test",
+  "chainId": 131313,
+  "networkId": 131313,
+  "nativeCurrency": {
+    "name": "DIONE",
+    "symbol": "DIONE",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnode.dioneprotocol.com/ext/bc/D/rpc"
+  ],
+  "infoURL": "https://www.dioneprotocol.com/"
+}

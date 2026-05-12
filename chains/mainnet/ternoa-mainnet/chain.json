@@ -1,0 +1,23 @@
+{
+  "name": "Ternoa",
+  "chain": "Ternoa",
+  "shortName": "ternoa-mainnet",
+  "category": "mainnet",
+  "chainId": 752025,
+  "networkId": 7502025,
+  "nativeCurrency": {
+    "name": "Capsule Coin",
+    "symbol": "CAPS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-mainnet.zkevm.ternoa.network"
+  ],
+  "explorers": [
+    {
+      "name": "Tracehawk",
+      "url": "https://explorer-mainnet.zkevm.ternoa.network",
+      "standard": "none"
+    }
+  ]
+}

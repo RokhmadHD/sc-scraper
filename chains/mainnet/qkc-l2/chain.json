@@ -1,0 +1,17 @@
+{
+  "name": "QuarkChain L2 Mainnet",
+  "chain": "QuarkChain",
+  "shortName": "qkc-l2",
+  "category": "mainnet",
+  "chainId": 100011,
+  "networkId": 100011,
+  "nativeCurrency": {
+    "name": "QKC",
+    "symbol": "QKC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet-l2-ethapi.quarkchain.io"
+  ],
+  "infoURL": "https://www.quarkchain.io"
+}

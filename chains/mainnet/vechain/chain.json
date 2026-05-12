@@ -1,0 +1,29 @@
+{
+  "name": "VeChain",
+  "chain": "VeChain",
+  "shortName": "vechain",
+  "category": "mainnet",
+  "chainId": 100009,
+  "networkId": 100009,
+  "nativeCurrency": {
+    "name": "VeChain",
+    "symbol": "VET",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-mainnet.vechain.energy"
+  ],
+  "explorers": [
+    {
+      "name": "VeChain Stats",
+      "url": "https://vechainstats.com",
+      "standard": "none"
+    },
+    {
+      "name": "VeChain Explorer",
+      "url": "https://explore.vechain.org",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://vechain.org"
+}

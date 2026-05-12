@@ -1,0 +1,26 @@
+{
+  "name": "Amoy",
+  "chain": "Polygon",
+  "shortName": "polygonamoy",
+  "category": "test",
+  "chainId": 80002,
+  "networkId": 80002,
+  "nativeCurrency": {
+    "name": "POL",
+    "symbol": "POL",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://polygon-amoy-bor-rpc.publicnode.com",
+    "https://polygon-amoy.drpc.org",
+    "https://rpc-amoy.polygon.technology"
+  ],
+  "explorers": [
+    {
+      "name": "polygonscan-amoy",
+      "url": "https://amoy.polygonscan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://polygon.technology/"
+}

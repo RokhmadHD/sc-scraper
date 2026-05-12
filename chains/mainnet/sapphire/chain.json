@@ -1,0 +1,24 @@
+{
+  "name": "Oasis Sapphire",
+  "chain": "Sapphire",
+  "shortName": "sapphire",
+  "category": "mainnet",
+  "chainId": 23294,
+  "networkId": 23294,
+  "nativeCurrency": {
+    "name": "Sapphire Rose",
+    "symbol": "ROSE",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://sapphire.oasis.io"
+  ],
+  "explorers": [
+    {
+      "name": "Oasis Sapphire Explorer",
+      "url": "https://explorer.oasis.io/mainnet/sapphire",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://docs.oasis.io/dapp/sapphire"
+}

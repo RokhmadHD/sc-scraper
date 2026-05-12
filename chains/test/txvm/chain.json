@@ -1,0 +1,24 @@
+{
+  "name": "Venidium Testnet",
+  "chain": "XVM",
+  "shortName": "txvm",
+  "category": "test",
+  "chainId": 4918,
+  "networkId": 4918,
+  "nativeCurrency": {
+    "name": "Venidium",
+    "symbol": "XVM",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-evm-testnet.venidium.io"
+  ],
+  "explorers": [
+    {
+      "name": "Venidium EVM Testnet Explorer",
+      "url": "https://evm-testnet.venidiumexplorer.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://venidium.io"
+}

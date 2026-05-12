@@ -1,0 +1,24 @@
+{
+  "name": "Nebula Testnet",
+  "chain": "NTN",
+  "shortName": "ntn",
+  "category": "test",
+  "chainId": 107,
+  "networkId": 107,
+  "nativeCurrency": {
+    "name": "Nebula X",
+    "symbol": "NBX",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet.rpc.novanetwork.io"
+  ],
+  "explorers": [
+    {
+      "name": "nebulatestnet",
+      "url": "https://explorer.novanetwork.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://novanetwork.io"
+}

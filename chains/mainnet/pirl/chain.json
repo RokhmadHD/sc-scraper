@@ -1,0 +1,17 @@
+{
+  "name": "Pirl",
+  "chain": "PIRL",
+  "shortName": "pirl",
+  "category": "mainnet",
+  "chainId": 3125659152,
+  "networkId": 3125659152,
+  "nativeCurrency": {
+    "name": "Pirl Ether",
+    "symbol": "PIRL",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://wallrpc.pirl.io"
+  ],
+  "infoURL": "https://pirl.io"
+}

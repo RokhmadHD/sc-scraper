@@ -1,0 +1,24 @@
+{
+  "name": "OYchain Testnet",
+  "chain": "OYchain",
+  "shortName": "OYchainTestnet",
+  "category": "test",
+  "chainId": 125,
+  "networkId": 125,
+  "nativeCurrency": {
+    "name": "OYchain Token",
+    "symbol": "OY",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.testnet.oychain.io"
+  ],
+  "explorers": [
+    {
+      "name": "OYchain Testnet Explorer",
+      "url": "https://explorer.testnet.oychain.io",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://www.oychain.io"
+}

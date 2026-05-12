@@ -1,0 +1,24 @@
+{
+  "name": "Viridis Testnet",
+  "chain": "VRD",
+  "shortName": "VRD-Testnet",
+  "category": "test",
+  "chainId": 224,
+  "networkId": 224,
+  "nativeCurrency": {
+    "name": "Viridis Token",
+    "symbol": "VRD",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet-rpc.vrd.network"
+  ],
+  "explorers": [
+    {
+      "name": "Viridis Testnet",
+      "url": "https://testnet.vrd.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://viridis.network"
+}

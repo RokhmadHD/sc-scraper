@@ -1,0 +1,24 @@
+{
+  "name": "ZERO Network",
+  "chain": "ZERONetwork",
+  "shortName": "zero-network",
+  "category": "mainnet",
+  "chainId": 543210,
+  "networkId": 543210,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.zerion.io/v1/zero"
+  ],
+  "explorers": [
+    {
+      "name": "ZERO Network Explorer",
+      "url": "https://explorer.zero.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://docs.zero.network"
+}

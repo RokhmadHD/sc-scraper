@@ -1,0 +1,24 @@
+{
+  "name": "Algen Layer2 Testnet",
+  "chain": "ALG L2",
+  "shortName": "algl2Test",
+  "category": "test",
+  "chainId": 8922,
+  "networkId": 8922,
+  "nativeCurrency": {
+    "name": "ALG",
+    "symbol": "ALG",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.alg2-test.algen.network"
+  ],
+  "explorers": [
+    {
+      "name": "algl2scan",
+      "url": "https://scan.alg2-test.algen.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.algen.network"
+}

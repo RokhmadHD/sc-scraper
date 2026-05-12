@@ -1,0 +1,24 @@
+{
+  "name": "DiamondzChain",
+  "chain": "DZX",
+  "shortName": "dzx",
+  "category": "mainnet",
+  "chainId": 7791,
+  "networkId": 7791,
+  "nativeCurrency": {
+    "name": "Diamondz Shadow Game and Movies",
+    "symbol": "SDM",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-mainnet.diamondz.baby"
+  ],
+  "explorers": [
+    {
+      "name": "DiamondzChain Explorer",
+      "url": "https://diamondz.tryethernal.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://diamondzshadow.info"
+}

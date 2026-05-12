@@ -1,0 +1,24 @@
+{
+  "name": "Smart Host Teknoloji TESTNET",
+  "chain": "SHT",
+  "shortName": "sht",
+  "category": "test",
+  "chainId": 1177,
+  "networkId": 1177,
+  "nativeCurrency": {
+    "name": "Smart Host Teknoloji TESTNET",
+    "symbol": "tSHT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://s2.tl.web.tr:4041"
+  ],
+  "explorers": [
+    {
+      "name": "Smart Host Teknoloji TESTNET Explorer",
+      "url": "https://s2.tl.web.tr:4000",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://smart-host.com.tr"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Darwinia Network",
+  "chain": "darwinia",
+  "shortName": "darwinia",
+  "category": "mainnet",
+  "chainId": 46,
+  "networkId": 46,
+  "nativeCurrency": {
+    "name": "Darwinia Network Native Token",
+    "symbol": "RING",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://darwinia-rpc.dcdao.box",
+    "https://darwinia-rpc.dwellir.com",
+    "https://darwinia.rpc.subquery.network/public",
+    "https://rpc.darwinia.network"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.darwinia.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://darwinia.network"
+}

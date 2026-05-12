@@ -1,0 +1,17 @@
+{
+  "name": "UPB CRESCDI Testnet",
+  "chain": "UPBEth",
+  "shortName": "UPBEth",
+  "category": "test",
+  "chainId": 1918,
+  "networkId": 1918,
+  "nativeCurrency": {
+    "name": "UPBEth",
+    "symbol": "UPBEth",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet.crescdi.pub.ro"
+  ],
+  "infoURL": "https://mobylab.docs.crescdi.pub.ro/blog/UPB-CRESCDI-Testnet"
+}

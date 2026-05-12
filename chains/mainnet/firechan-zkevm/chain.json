@@ -1,0 +1,18 @@
+{
+  "name": "Firechain zkEVM",
+  "chain": "Firechain",
+  "shortName": "firechan-zkEVM",
+  "category": "mainnet",
+  "chainId": 814,
+  "networkId": 814,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-zkevm.firestation.io",
+    "https://rpc-zkevm.thefirechain.com"
+  ],
+  "infoURL": "https://docs.thefirechain.com/"
+}

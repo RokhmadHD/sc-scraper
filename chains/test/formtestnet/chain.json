@@ -1,0 +1,24 @@
+{
+  "name": "Form Testnet",
+  "chain": "formtestnet",
+  "shortName": "formtestnet",
+  "category": "test",
+  "chainId": 132902,
+  "networkId": 132902,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://sepolia-rpc.form.network/http"
+  ],
+  "explorers": [
+    {
+      "name": "Form Testnet explorer",
+      "url": "https://sepolia-explorer.form.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://sepolia-info.form.network"
+}

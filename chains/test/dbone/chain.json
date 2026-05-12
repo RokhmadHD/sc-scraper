@@ -1,0 +1,17 @@
+{
+  "name": "DecentraBone Layer1 Testnet",
+  "chain": "DBONE",
+  "shortName": "DBONE",
+  "category": "test",
+  "chainId": 910,
+  "networkId": 910,
+  "nativeCurrency": {
+    "name": "DecentraBone",
+    "symbol": "DBONE",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://layer1test.decentrabone.com"
+  ],
+  "infoURL": "https://decentrabone.com"
+}

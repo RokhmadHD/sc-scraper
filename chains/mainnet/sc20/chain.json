@@ -1,0 +1,24 @@
+{
+  "name": "Shine Chain",
+  "chain": "SC20",
+  "shortName": "SC20",
+  "category": "mainnet",
+  "chainId": 11221,
+  "networkId": 11221,
+  "nativeCurrency": {
+    "name": "Shine",
+    "symbol": "SC20",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.shinescan.io"
+  ],
+  "explorers": [
+    {
+      "name": "shinescan",
+      "url": "https://shinescan.io",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://shinechain.tech"
+}

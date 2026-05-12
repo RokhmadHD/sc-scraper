@@ -1,0 +1,24 @@
+{
+  "name": "Weelink Testnet",
+  "chain": "WLK",
+  "shortName": "wlkt",
+  "category": "test",
+  "chainId": 444900,
+  "networkId": 444900,
+  "nativeCurrency": {
+    "name": "Weelink Chain Token",
+    "symbol": "tWLK",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://weelinknode1c.gw002.oneitfarm.com"
+  ],
+  "explorers": [
+    {
+      "name": "weelink-testnet",
+      "url": "https://weelink.cloud/#/blockView/overview",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://weelink.cloud"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Aternos",
+  "chain": "Aternos",
+  "shortName": "ATR",
+  "category": "test",
+  "chainId": 12020,
+  "networkId": 12020,
+  "nativeCurrency": {
+    "name": "Aternos",
+    "symbol": "ATR",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.aternoschain.com"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.aternoschain.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://aternoschain.com"
+}

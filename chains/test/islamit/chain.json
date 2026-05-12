@@ -1,0 +1,24 @@
+{
+  "name": "iChain Testnet",
+  "chain": "iChain Testnet",
+  "shortName": "ISLAMIT",
+  "category": "test",
+  "chainId": 3645,
+  "networkId": 3645,
+  "nativeCurrency": {
+    "name": "ISLAMICOIN",
+    "symbol": "ISLAMI",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://istanbul.ichainscan.com"
+  ],
+  "explorers": [
+    {
+      "name": "iChainscan",
+      "url": "https://test.ichainscan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://islamicoin.finance"
+}

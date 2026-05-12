@@ -1,0 +1,29 @@
+{
+  "name": "Lux Testnet",
+  "chain": "Lux",
+  "shortName": "tlux",
+  "category": "test",
+  "chainId": 96368,
+  "networkId": 96368,
+  "nativeCurrency": {
+    "name": "tLux",
+    "symbol": "tLUX",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://api.lux-test.network"
+  ],
+  "explorers": [
+    {
+      "name": "Lux Network Explorer",
+      "url": "https://explore.lux.network",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "Lux Network Explorer",
+      "url": "https://explore.lux-test.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://lux.network"
+}

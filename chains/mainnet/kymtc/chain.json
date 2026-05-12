@@ -1,0 +1,24 @@
+{
+  "name": "KYMTC Mainnet",
+  "chain": "KYMTC",
+  "shortName": "KYMTC",
+  "category": "mainnet",
+  "chainId": 15430,
+  "networkId": 15430,
+  "nativeCurrency": {
+    "name": "KYMTC",
+    "symbol": "KYMTC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet-rpc.kymaticscan.online"
+  ],
+  "explorers": [
+    {
+      "name": "KYMTC Mainnet Explorer",
+      "url": "https://kymaticscan.online",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://kymaticscan.online"
+}

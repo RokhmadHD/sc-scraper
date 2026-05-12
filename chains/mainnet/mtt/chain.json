@@ -1,0 +1,17 @@
+{
+  "name": "MetaDot Mainnet",
+  "chain": "MTT",
+  "shortName": "mtt",
+  "category": "mainnet",
+  "chainId": 16000,
+  "networkId": 16000,
+  "nativeCurrency": {
+    "name": "MetaDot Token",
+    "symbol": "MTT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet.metadot.network"
+  ],
+  "infoURL": "https://metadot.network"
+}

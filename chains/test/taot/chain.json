@@ -1,0 +1,24 @@
+{
+  "name": "TAO EVM Testnet",
+  "chain": "TAO EVM",
+  "shortName": "TAOt",
+  "category": "test",
+  "chainId": 10324,
+  "networkId": 10324,
+  "nativeCurrency": {
+    "name": "TAO",
+    "symbol": "TAO",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet-rpc.taoevm.io"
+  ],
+  "explorers": [
+    {
+      "name": "TAO Testnet Explorer",
+      "url": "https://testnet.taoscan.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://taoevm.io"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Humanode Mainnet",
+  "chain": "HMND",
+  "shortName": "hmnd",
+  "category": "mainnet",
+  "chainId": 5234,
+  "networkId": 5234,
+  "nativeCurrency": {
+    "name": "eHMND",
+    "symbol": "eHMND",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://explorer-rpc-http.mainnet.stages.humanode.io"
+  ],
+  "explorers": [
+    {
+      "name": "Subscan",
+      "url": "https://humanode.subscan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://humanode.io"
+}

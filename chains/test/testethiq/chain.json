@@ -1,0 +1,24 @@
+{
+  "name": "Testethiq",
+  "chain": "ETH",
+  "shortName": "testethiq",
+  "category": "test",
+  "chainId": 853211,
+  "networkId": 853211,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.testnet.ethiq.network"
+  ],
+  "explorers": [
+    {
+      "name": "Ethiq Blockscout",
+      "url": "https://explorer.testnet.ethiq.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.ethiq.network"
+}

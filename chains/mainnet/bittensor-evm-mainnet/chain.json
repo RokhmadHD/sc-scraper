@@ -1,0 +1,17 @@
+{
+  "name": "Subtensor EVM",
+  "chain": "Bittensor",
+  "shortName": "bittensor-evm-mainnet",
+  "category": "mainnet",
+  "chainId": 964,
+  "networkId": 964,
+  "nativeCurrency": {
+    "name": "TAO",
+    "symbol": "TAO",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://lite.chain.opentensor.ai"
+  ],
+  "infoURL": "https://bittensor.com/"
+}

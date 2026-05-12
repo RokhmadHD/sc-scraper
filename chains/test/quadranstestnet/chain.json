@@ -1,0 +1,25 @@
+{
+  "name": "Quadrans Blockchain Testnet",
+  "chain": "tQDC",
+  "shortName": "quadranstestnet",
+  "category": "test",
+  "chainId": 10947,
+  "networkId": 10947,
+  "nativeCurrency": {
+    "name": "Quadrans Testnet Coin",
+    "symbol": "tQDC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpctest.quadrans.io",
+    "https://rpctest2.quadrans.io"
+  ],
+  "explorers": [
+    {
+      "name": "explorer",
+      "url": "https://explorer.testnet.quadrans.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://quadrans.io"
+}

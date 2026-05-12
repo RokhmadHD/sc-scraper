@@ -1,0 +1,29 @@
+{
+  "name": "Arbitrum Rinkeby",
+  "chain": "ETH",
+  "shortName": "arb-rinkeby",
+  "category": "test",
+  "chainId": 421611,
+  "networkId": 421611,
+  "nativeCurrency": {
+    "name": "Arbitrum Rinkeby Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rinkeby.arbitrum.io/rpc"
+  ],
+  "explorers": [
+    {
+      "name": "arbiscan-testnet",
+      "url": "https://testnet.arbiscan.io",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "arbitrum-rinkeby",
+      "url": "https://rinkeby-explorer.arbitrum.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://arbitrum.io"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "DeBank Sepolia Testnet",
+  "chain": "DeBank",
+  "shortName": "dbkse",
+  "category": "test",
+  "chainId": 20240324,
+  "networkId": 20240324,
+  "nativeCurrency": {
+    "name": "DeBank USD",
+    "symbol": "USD",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://sepolia-rpc.testnet.debank.com"
+  ],
+  "explorers": [
+    {
+      "name": "DeBank Chain Explorer",
+      "url": "https://sepolia-explorer.testnet.debank.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://debank.com"
+}

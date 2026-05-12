@@ -1,0 +1,24 @@
+{
+  "name": "Oasys Mainnet",
+  "chain": "Oasys",
+  "shortName": "OAS",
+  "category": "mainnet",
+  "chainId": 248,
+  "networkId": 248,
+  "nativeCurrency": {
+    "name": "OAS",
+    "symbol": "OAS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.mainnet.oasys.games"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.oasys.games",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://oasys.games"
+}

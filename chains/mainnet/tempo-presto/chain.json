@@ -1,0 +1,24 @@
+{
+  "name": "Tempo Mainnet Presto",
+  "chain": "ETH",
+  "shortName": "tempo-presto",
+  "category": "mainnet",
+  "chainId": 4217,
+  "networkId": 4217,
+  "nativeCurrency": {
+    "name": "No native currency",
+    "symbol": "USD",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.mainnet.tempo.xyz"
+  ],
+  "explorers": [
+    {
+      "name": "tempo-explorer",
+      "url": "https://explore.tempo.xyz",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://tempo.xyz"
+}

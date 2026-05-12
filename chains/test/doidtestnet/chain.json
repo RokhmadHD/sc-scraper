@@ -1,0 +1,24 @@
+{
+  "name": "DOID Testnet",
+  "chain": "DOID",
+  "shortName": "doidTestnet",
+  "category": "test",
+  "chainId": 56797,
+  "networkId": 56797,
+  "nativeCurrency": {
+    "name": "DOID",
+    "symbol": "DOID",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.testnet.doid.tech"
+  ],
+  "explorers": [
+    {
+      "name": "DOID Testnet Scan",
+      "url": "https://scan.testnet.doid.tech",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://doid.tech"
+}

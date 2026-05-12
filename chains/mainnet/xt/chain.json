@@ -1,0 +1,26 @@
+{
+  "name": "XT Smart Chain Mainnet",
+  "chain": "XSC",
+  "shortName": "xt",
+  "category": "mainnet",
+  "chainId": 520,
+  "networkId": 1024,
+  "nativeCurrency": {
+    "name": "XT Smart Chain Native Token",
+    "symbol": "XT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://datarpc1.xsc.pub",
+    "https://datarpc2.xsc.pub",
+    "https://datarpc3.xsc.pub"
+  ],
+  "explorers": [
+    {
+      "name": "xscscan",
+      "url": "https://xscscan.pub",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://xsc.pub/"
+}

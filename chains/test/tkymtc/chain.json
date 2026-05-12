@@ -1,0 +1,24 @@
+{
+  "name": "KYMTC Testnet",
+  "chain": "KYMTC",
+  "shortName": "tKYMTC",
+  "category": "test",
+  "chainId": 24076,
+  "networkId": 24076,
+  "nativeCurrency": {
+    "name": "KYMTC",
+    "symbol": "KYMTC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet-rpc.kymaticscan.online"
+  ],
+  "explorers": [
+    {
+      "name": "KYMTC Testnet Explorer",
+      "url": "https://testnet-explorer.kymaticscan.online",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://testnet-explorer.kymaticscan.online"
+}

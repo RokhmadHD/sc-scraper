@@ -1,0 +1,24 @@
+{
+  "name": "One World Chain Mainnet",
+  "chain": "One World Chain",
+  "shortName": "OWCTm",
+  "category": "mainnet",
+  "chainId": 309075,
+  "networkId": 309075,
+  "nativeCurrency": {
+    "name": "OWCT",
+    "symbol": "OWCT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet-rpc.oneworldchain.org"
+  ],
+  "explorers": [
+    {
+      "name": "One World Chain Mainnet Explorer",
+      "url": "https://mainnet.oneworldchain.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://oneworldchain.org"
+}

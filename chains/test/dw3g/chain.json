@@ -1,0 +1,24 @@
+{
+  "name": "Web3Games Devnet",
+  "chain": "Web3Games",
+  "shortName": "dw3g",
+  "category": "test",
+  "chainId": 105,
+  "networkId": 105,
+  "nativeCurrency": {
+    "name": "Web3Games",
+    "symbol": "W3G",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://devnet.web3games.org/evm"
+  ],
+  "explorers": [
+    {
+      "name": "Web3Games Explorer",
+      "url": "https://explorer-devnet.web3games.org",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://web3games.org/"
+}

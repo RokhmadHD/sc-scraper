@@ -1,0 +1,24 @@
+{
+  "name": "Reactive Kopli",
+  "chain": "REACT",
+  "shortName": "kreact",
+  "category": "test",
+  "chainId": 5318008,
+  "networkId": 5318008,
+  "nativeCurrency": {
+    "name": "Kopli React",
+    "symbol": "REACT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://kopli-rpc.rnk.dev"
+  ],
+  "explorers": [
+    {
+      "name": "Reactscan",
+      "url": "https://kopli.reactscan.net",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://reactive.network"
+}

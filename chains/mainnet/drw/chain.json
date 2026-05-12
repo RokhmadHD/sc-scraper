@@ -1,0 +1,24 @@
+{
+  "name": "Draw Coin",
+  "chain": "DRW",
+  "shortName": "drw",
+  "category": "mainnet",
+  "chainId": 7788,
+  "networkId": 7788,
+  "nativeCurrency": {
+    "name": "DRW",
+    "symbol": "DRW",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.drawchain.org"
+  ],
+  "explorers": [
+    {
+      "name": "Draw Chain Explorer",
+      "url": "https://drawscan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://drawchain.io/"
+}

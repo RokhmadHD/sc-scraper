@@ -1,0 +1,25 @@
+{
+  "name": "QuarkChain Mainnet Shard 3",
+  "chain": "QuarkChain",
+  "shortName": "qkc-s3",
+  "category": "mainnet",
+  "chainId": 100004,
+  "networkId": 100004,
+  "nativeCurrency": {
+    "name": "QKC",
+    "symbol": "QKC",
+    "decimals": 18
+  },
+  "rpc": [
+    "http://eth-jrpc.mainnet.quarkchain.io:39003",
+    "https://mainnet-s3-ethapi.quarkchain.io"
+  ],
+  "explorers": [
+    {
+      "name": "quarkchain-mainnet",
+      "url": "https://mainnet.quarkchain.io/3",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.quarkchain.io"
+}

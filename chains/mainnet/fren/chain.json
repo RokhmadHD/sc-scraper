@@ -1,0 +1,24 @@
+{
+  "name": "Frenchain",
+  "chain": "fren",
+  "shortName": "FREN",
+  "category": "mainnet",
+  "chainId": 44444,
+  "networkId": 44444,
+  "nativeCurrency": {
+    "name": "FREN",
+    "symbol": "FREN",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-02.frenscan.io"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://frenscan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://frenchain.app"
+}

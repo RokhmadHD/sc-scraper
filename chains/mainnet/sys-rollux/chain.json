@@ -1,0 +1,25 @@
+{
+  "name": "Rollux Mainnet",
+  "chain": "SYS",
+  "shortName": "sys-rollux",
+  "category": "mainnet",
+  "chainId": 570,
+  "networkId": 570,
+  "nativeCurrency": {
+    "name": "Syscoin",
+    "symbol": "SYS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.ankr.com/rollux",
+    "https://rpc.rollux.com"
+  ],
+  "explorers": [
+    {
+      "name": "Rollux Mainnet Explorer",
+      "url": "https://explorer.rollux.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://rollux.com"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "EgonCoin Testnet",
+  "chain": "EGON",
+  "shortName": "EGONt",
+  "category": "test",
+  "chainId": 271271,
+  "networkId": 271271,
+  "nativeCurrency": {
+    "name": "EgonCoin",
+    "symbol": "EGON",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpctest.egonscan.com"
+  ],
+  "explorers": [
+    {
+      "name": "EgonCoin Testnet",
+      "url": "https://testnet.egonscan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://egonscan.com"
+}

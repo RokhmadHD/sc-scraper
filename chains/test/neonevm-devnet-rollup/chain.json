@@ -1,0 +1,17 @@
+{
+  "name": "Neon EVM Devnet Rollup",
+  "chain": "Solana",
+  "shortName": "neonevm-devnet-rollup",
+  "category": "test",
+  "chainId": 245022929,
+  "networkId": 245022929,
+  "nativeCurrency": {
+    "name": "Neon",
+    "symbol": "NEON",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://devnet.rollup.neonevm.org/"
+  ],
+  "infoURL": "https://neonevm.org/"
+}

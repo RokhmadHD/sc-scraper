@@ -1,0 +1,24 @@
+{
+  "name": "Doric Network",
+  "chain": "DRC",
+  "shortName": "DRC",
+  "category": "mainnet",
+  "chainId": 1717,
+  "networkId": 1717,
+  "nativeCurrency": {
+    "name": "Doric Native Token",
+    "symbol": "DRC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet.doric.network"
+  ],
+  "explorers": [
+    {
+      "name": "Doric Explorer",
+      "url": "https://explorer.doric.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://doric.network"
+}

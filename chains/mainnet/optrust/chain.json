@@ -1,0 +1,24 @@
+{
+  "name": "OpTrust Mainnet",
+  "chain": "OpTrust",
+  "shortName": "optrust",
+  "category": "mainnet",
+  "chainId": 537,
+  "networkId": 537,
+  "nativeCurrency": {
+    "name": "BSC",
+    "symbol": "BNB",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.optrust.io"
+  ],
+  "explorers": [
+    {
+      "name": "OpTrust explorer",
+      "url": "https://scan.optrust.io",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://optrust.io"
+}

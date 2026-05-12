@@ -1,0 +1,24 @@
+{
+  "name": "Beresheet BereEVM Testnet",
+  "chain": "EDG",
+  "shortName": "edgt",
+  "category": "test",
+  "chainId": 2022,
+  "networkId": 2022,
+  "nativeCurrency": {
+    "name": "Testnet EDG",
+    "symbol": "tEDG",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://beresheet-evm.jelliedowl.net"
+  ],
+  "explorers": [
+    {
+      "name": "Edgscan by Bharathcoorg",
+      "url": "https://testnet.edgscan.live",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://edgeware.io/build"
+}

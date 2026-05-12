@@ -1,0 +1,42 @@
+{
+  "name": "Base",
+  "chain": "ETH",
+  "shortName": "base",
+  "category": "mainnet",
+  "chainId": 8453,
+  "networkId": 8453,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://base-rpc.publicnode.com",
+    "https://base.gateway.tenderly.co",
+    "https://developer-access-mainnet.base.org/",
+    "https://mainnet.base.org/"
+  ],
+  "explorers": [
+    {
+      "name": "basescan",
+      "url": "https://basescan.org",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "basescout",
+      "url": "https://base.blockscout.com",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "dexguru",
+      "url": "https://base.dex.guru",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "Routescan",
+      "url": "https://base.superscan.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://base.org"
+}

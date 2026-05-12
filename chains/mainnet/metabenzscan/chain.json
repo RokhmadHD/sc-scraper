@@ -1,0 +1,24 @@
+{
+  "name": "MetaBenz CHAIN",
+  "chain": "MetaBenz CHAIN",
+  "shortName": "metabenzscan",
+  "category": "mainnet",
+  "chainId": 97766,
+  "networkId": 97766,
+  "nativeCurrency": {
+    "name": "MBC",
+    "symbol": "MBC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.metabenzscan.com"
+  ],
+  "explorers": [
+    {
+      "name": "MetaBenz CHAIN",
+      "url": "https://metabenzscan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://metabenzscan.com"
+}

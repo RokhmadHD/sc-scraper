@@ -1,0 +1,24 @@
+{
+  "name": "PUMPFI CHAIN TESTNET",
+  "chain": "PUMPFI CHAIN TESTNET",
+  "shortName": "pumpfi-testnet",
+  "category": "test",
+  "chainId": 490092,
+  "networkId": 490092,
+  "nativeCurrency": {
+    "name": "PMPT",
+    "symbol": "PMPT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc1testnet.pumpfi.me"
+  ],
+  "explorers": [
+    {
+      "name": "Pumpfi Testnet Scan",
+      "url": "https://testnetscan.pumpfi.me",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://pumpfi.me"
+}

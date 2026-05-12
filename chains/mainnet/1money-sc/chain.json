@@ -1,0 +1,20 @@
+{
+  "name": "1Money Sidechain Mainnet",
+  "chain": "1MoneySidechain",
+  "shortName": "1money-sc",
+  "category": "mainnet",
+  "chainId": 21211,
+  "networkId": 21211,
+  "nativeCurrency": {
+    "name": "FREE",
+    "symbol": "FREE",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.sidechain.mainnet.1money.network",
+    "https://rpc1.sidechain.mainnet.1money.network",
+    "https://rpc2.sidechain.mainnet.1money.network",
+    "https://rpc3.sidechain.mainnet.1money.network"
+  ],
+  "infoURL": "https://www.1moneynetwork.com"
+}

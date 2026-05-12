@@ -1,0 +1,24 @@
+{
+  "name": "BounceBit Mainnet",
+  "chain": "BounceBit",
+  "shortName": "bouncebit-mainnet",
+  "category": "mainnet",
+  "chainId": 6001,
+  "networkId": 6001,
+  "nativeCurrency": {
+    "name": "BounceBit",
+    "symbol": "BB",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://fullnode-mainnet.bouncebitapi.com/"
+  ],
+  "explorers": [
+    {
+      "name": "BBScan Mainnet Explorer",
+      "url": "https://bbscan.io",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://bouncebit.io"
+}

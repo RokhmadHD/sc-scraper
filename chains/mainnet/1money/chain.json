@@ -1,0 +1,27 @@
+{
+  "name": "1Money Network Mainnet",
+  "chain": "1MoneyNetwork",
+  "shortName": "1money",
+  "category": "mainnet",
+  "chainId": 21210,
+  "networkId": 21210,
+  "nativeCurrency": {
+    "name": "FREE",
+    "symbol": "FREE",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.mainnet.1money.network",
+    "https://rpc1.mainnet.1money.network",
+    "https://rpc2.mainnet.1money.network",
+    "https://rpc3.mainnet.1money.network"
+  ],
+  "explorers": [
+    {
+      "name": "1Money Network Explorer",
+      "url": "https://www.1moneynetwork.com/explorer",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.1moneynetwork.com"
+}

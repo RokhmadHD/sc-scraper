@@ -1,0 +1,17 @@
+{
+  "name": "ThaiChain 2.0 ThaiFi",
+  "chain": "TCH",
+  "shortName": "tfi",
+  "category": "mainnet",
+  "chainId": 17,
+  "networkId": 17,
+  "nativeCurrency": {
+    "name": "Thaifi Ether",
+    "symbol": "TFI",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.thaifi.com"
+  ],
+  "infoURL": "https://exp.thaifi.com"
+}

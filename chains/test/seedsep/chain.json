@@ -1,0 +1,24 @@
+{
+  "name": "Superseed Sepolia Testnet",
+  "chain": "ETH",
+  "shortName": "seedsep",
+  "category": "test",
+  "chainId": 53302,
+  "networkId": 53302,
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://sepolia.superseed.xyz"
+  ],
+  "explorers": [
+    {
+      "name": "seedscout",
+      "url": "https://sepolia-explorer.superseed.xyz",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.superseed.xyz"
+}

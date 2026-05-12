@@ -1,0 +1,16 @@
+{
+  "name": "Tycooncoin",
+  "chain": "TYCON",
+  "shortName": "TYCON",
+  "category": "mainnet",
+  "chainId": 3630,
+  "networkId": 3630,
+  "nativeCurrency": {
+    "name": "Tycooncoin",
+    "symbol": "TYCO",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet-rpc.tycoscan.com"
+  ]
+}

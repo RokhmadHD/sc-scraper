@@ -1,0 +1,34 @@
+{
+  "name": "Hydration",
+  "chain": "HDX",
+  "shortName": "hdx",
+  "category": "mainnet",
+  "chainId": 222222,
+  "networkId": 222222,
+  "nativeCurrency": {
+    "name": "Wrapped ETH",
+    "symbol": "WETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://hydration-rpc.n.dwellir.com",
+    "https://hydration.dotters.network",
+    "https://hydration.ibp.network",
+    "https://rpc.cay.hydration.cloud",
+    "https://rpc.coke.hydration.cloud",
+    "https://rpc.helikon.io/hydradx",
+    "https://rpc.hydradx.cloud",
+    "https://rpc.parm.hydration.cloud",
+    "https://rpc.roach.hydration.cloud",
+    "https://rpc.sin.hydration.cloud",
+    "https://rpc.zipp.hydration.cloud"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.evm.hydration.cloud",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://hydration.net/"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "MaalChain V2",
+  "chain": "MAAL",
+  "shortName": "maal-v2",
+  "category": "mainnet",
+  "chainId": 7862,
+  "networkId": 7862,
+  "nativeCurrency": {
+    "name": "MAAL",
+    "symbol": "MAAL",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://node1-mainnet-new.maalscan.io/",
+    "https://node2-mainnet-new.maalscan.io/",
+    "https://node3-mainnet-new.maalscan.io/"
+  ],
+  "explorers": [
+    {
+      "name": "maalscan",
+      "url": "https://v2.maalscan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.maalchain.com/"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Haust Testnet",
+  "chain": "Haust-testnet",
+  "shortName": "hst-test",
+  "category": "test",
+  "chainId": 1570754601,
+  "networkId": 1570754601,
+  "nativeCurrency": {
+    "name": "HAUST",
+    "symbol": "HAUST",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-test.haust.network"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://haust-testnet-blockscout.eu-north-2.gateway.fm",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://haust.network/"
+}

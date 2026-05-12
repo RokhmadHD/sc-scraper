@@ -1,0 +1,17 @@
+{
+  "name": "EthStorage Devnet",
+  "chain": "EthStorage",
+  "shortName": "es-d",
+  "category": "test",
+  "chainId": 3337,
+  "networkId": 3337,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.devnet.ethstorage.io:9540"
+  ],
+  "infoURL": "https://ethstorage.io/"
+}

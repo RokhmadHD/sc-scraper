@@ -1,0 +1,25 @@
+{
+  "name": "Kinto Mainnet",
+  "chain": "Kinto Mainnet",
+  "shortName": "kintoMainnet",
+  "category": "mainnet",
+  "chainId": 7887,
+  "networkId": 7887,
+  "nativeCurrency": {
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://kinto-mainnet.calderachain.xyz/http",
+    "https://rpc.kinto.xyz/http"
+  ],
+  "explorers": [
+    {
+      "name": "Kinto Explorer",
+      "url": "https://explorer.kinto.xyz",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://kinto.xyz"
+}

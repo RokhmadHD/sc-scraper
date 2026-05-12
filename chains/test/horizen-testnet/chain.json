@@ -1,0 +1,24 @@
+{
+  "name": "Horizen Testnet",
+  "chain": "horizen",
+  "shortName": "horizen-testnet",
+  "category": "test",
+  "chainId": 2651420,
+  "networkId": 2651420,
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://horizen-testnet.rpc.caldera.xyz/http"
+  ],
+  "explorers": [
+    {
+      "name": "Horizen Testnet Caldera Explorer",
+      "url": "https://horizen-testnet.explorer.caldera.xyz",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://horizen-testnet.hub.caldera.xyz"
+}

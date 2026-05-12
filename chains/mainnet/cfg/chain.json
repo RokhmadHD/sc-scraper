@@ -1,0 +1,27 @@
+{
+  "name": "Centrifuge",
+  "chain": "CFG",
+  "shortName": "cfg",
+  "category": "mainnet",
+  "chainId": 2031,
+  "networkId": 2031,
+  "nativeCurrency": {
+    "name": "Centrifuge",
+    "symbol": "CFG",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://centrifuge-parachain.api.onfinality.io/public",
+    "https://centrifuge-rpc.dwellir.com",
+    "https://fullnode.centrifuge.io",
+    "https://rpc-centrifuge.luckyfriday.io"
+  ],
+  "explorers": [
+    {
+      "name": "subscan",
+      "url": "https://centrifuge.subscan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://centrifuge.io"
+}

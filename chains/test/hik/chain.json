@@ -1,0 +1,24 @@
+{
+  "name": "Hika Network Testnet",
+  "chain": "HIK",
+  "shortName": "hik",
+  "category": "test",
+  "chainId": 5729,
+  "networkId": 5729,
+  "nativeCurrency": {
+    "name": "Hik Token",
+    "symbol": "HIK",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-testnet.hika.network/"
+  ],
+  "explorers": [
+    {
+      "name": "Hika Network Testnet Explorer",
+      "url": "https://scan-testnet.hika.network",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://hika.network/"
+}

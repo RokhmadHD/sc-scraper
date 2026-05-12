@@ -1,0 +1,25 @@
+{
+  "name": "WorldLand Mainnet",
+  "chain": "Worldland",
+  "shortName": "WLC",
+  "category": "mainnet",
+  "chainId": 103,
+  "networkId": 103,
+  "nativeCurrency": {
+    "name": "Worldland",
+    "symbol": "WLC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://seoul.worldland.foundation",
+    "https://seoul2.worldland.foundation"
+  ],
+  "explorers": [
+    {
+      "name": "Worldland Explorer",
+      "url": "https://scan.worldland.foundation",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://worldland.foundation"
+}

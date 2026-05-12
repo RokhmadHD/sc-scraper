@@ -1,0 +1,23 @@
+{
+  "name": "AEON Chain",
+  "chain": "AEON Chain",
+  "shortName": "aeon",
+  "category": "mainnet",
+  "chainId": 10025,
+  "networkId": 10025,
+  "nativeCurrency": {
+    "name": "AEON Token",
+    "symbol": "AEON",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://node.aeon.xyz/rpc"
+  ],
+  "explorers": [
+    {
+      "name": "AEON Explorer",
+      "url": "https://scan.aeon.xyz",
+      "standard": "none"
+    }
+  ]
+}

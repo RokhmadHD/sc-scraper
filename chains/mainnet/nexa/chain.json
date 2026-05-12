@@ -1,0 +1,25 @@
+{
+  "name": "Nexa Mainnet Block",
+  "chain": "Nexa Mainnet",
+  "shortName": "Nexa",
+  "category": "mainnet",
+  "chainId": 9025,
+  "networkId": 9025,
+  "nativeCurrency": {
+    "name": "Nexa Mainnet Token",
+    "symbol": "NEXB",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-nodes-delta.nexablockscan.io",
+    "https://rpc-nodes.nexablockscan.io"
+  ],
+  "explorers": [
+    {
+      "name": "Nexablock Mainnet Explorer",
+      "url": "https://nexablockscan.io",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://www.nexablock.io"
+}

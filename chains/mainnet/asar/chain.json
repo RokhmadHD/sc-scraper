@@ -1,0 +1,24 @@
+{
+  "name": "AmStar Mainnet",
+  "chain": "AmStar",
+  "shortName": "ASAR",
+  "category": "mainnet",
+  "chainId": 1388,
+  "networkId": 1388,
+  "nativeCurrency": {
+    "name": "SINSO",
+    "symbol": "SINSO",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet-rpc.amstarscan.com"
+  ],
+  "explorers": [
+    {
+      "name": "amstarscan",
+      "url": "https://mainnet.amstarscan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://sinso.io"
+}

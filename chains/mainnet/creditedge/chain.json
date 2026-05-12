@@ -1,0 +1,24 @@
+{
+  "name": "Credit Smart Chain Mainnet",
+  "chain": "CREDIT",
+  "shortName": "CreditEdge",
+  "category": "mainnet",
+  "chainId": 4400,
+  "networkId": 4400,
+  "nativeCurrency": {
+    "name": "Credit",
+    "symbol": "CREDIT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.creditsmartchain.com"
+  ],
+  "explorers": [
+    {
+      "name": "Creditscan",
+      "url": "https://scan.creditsmartchain.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://creditsmartchain.com"
+}

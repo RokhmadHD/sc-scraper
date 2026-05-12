@@ -1,0 +1,24 @@
+{
+  "name": "ProtoJumbo Testnet",
+  "chain": "Jumbo",
+  "shortName": "ProtoJumbo",
+  "category": "test",
+  "chainId": 234,
+  "networkId": 234,
+  "nativeCurrency": {
+    "name": "JNFTC",
+    "symbol": "JNFTC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnode.jumbochain.org"
+  ],
+  "explorers": [
+    {
+      "name": "ProtoJumbo",
+      "url": "https://protojumbo.jumbochain.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://jumbochain.org"
+}

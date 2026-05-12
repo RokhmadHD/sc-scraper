@@ -1,0 +1,24 @@
+{
+  "name": "Reactive Mainnet",
+  "chain": "REACT",
+  "shortName": "react",
+  "category": "mainnet",
+  "chainId": 1597,
+  "networkId": 1597,
+  "nativeCurrency": {
+    "name": "React",
+    "symbol": "REACT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet-rpc.rnk.dev"
+  ],
+  "explorers": [
+    {
+      "name": "Reactscan",
+      "url": "https://reactscan.net",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://reactive.network"
+}

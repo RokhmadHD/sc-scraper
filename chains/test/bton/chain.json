@@ -1,0 +1,24 @@
+{
+  "name": "Blockton Blockchain",
+  "chain": "Blockton Blockchain",
+  "shortName": "BTON",
+  "category": "test",
+  "chainId": 8272,
+  "networkId": 8272,
+  "nativeCurrency": {
+    "name": "BLOCKTON",
+    "symbol": "BTON",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.blocktonscan.com/"
+  ],
+  "explorers": [
+    {
+      "name": "Blockton Explorer",
+      "url": "https://blocktonscan.com",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://blocktoncoin.com"
+}

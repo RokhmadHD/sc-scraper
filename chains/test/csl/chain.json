@@ -1,0 +1,24 @@
+{
+  "name": "Cytonic Settlement Layer Testnet",
+  "chain": "CytonicSL",
+  "shortName": "CSL",
+  "category": "test",
+  "chainId": 52225,
+  "networkId": 52225,
+  "nativeCurrency": {
+    "name": "Cytonic",
+    "symbol": "CCC",
+    "decimals": 18
+  },
+  "rpc": [
+    "http://rpc.sl.testnet.cytonic.com"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.sl.testnet.cytonic.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://cytonic.com"
+}

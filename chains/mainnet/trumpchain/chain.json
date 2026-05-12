@@ -1,0 +1,24 @@
+{
+  "name": "TRUMPCHAIN",
+  "chain": "trumpchain",
+  "shortName": "TRUMPCHAIN",
+  "category": "mainnet",
+  "chainId": 4547,
+  "networkId": 4547,
+  "nativeCurrency": {
+    "name": "Official Trump",
+    "symbol": "TRUMP",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet.trumpchain.dev/http"
+  ],
+  "explorers": [
+    {
+      "name": "TRUMPCHAIN Explorer",
+      "url": "https://explorer.trumpchain.dev",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://trumpchain.dev"
+}

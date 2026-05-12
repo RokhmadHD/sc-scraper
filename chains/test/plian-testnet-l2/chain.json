@@ -1,0 +1,24 @@
+{
+  "name": "Plian Testnet Subchain 1",
+  "chain": "Plian",
+  "shortName": "plian-testnet-l2",
+  "category": "test",
+  "chainId": 10067275,
+  "networkId": 10067275,
+  "nativeCurrency": {
+    "name": "Plian Token",
+    "symbol": "TPI",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet.plian.io/child_test"
+  ],
+  "explorers": [
+    {
+      "name": "piscan",
+      "url": "https://testnet.plian.org/child_test",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://plian.org/"
+}

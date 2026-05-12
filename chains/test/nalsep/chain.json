@@ -1,0 +1,24 @@
+{
+  "name": "Nal Sepolia Testnet",
+  "chain": "ETH",
+  "shortName": "nalsep",
+  "category": "test",
+  "chainId": 328527624,
+  "networkId": 328527624,
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet-rpc.nal.network"
+  ],
+  "explorers": [
+    {
+      "name": "Nal Sepolia Testnet Network Explorer",
+      "url": "https://testnet-scan.nal.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.nal.network"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Mirasmanda",
+  "chain": "MIRASMANDA",
+  "shortName": "mirasmanda",
+  "category": "test",
+  "chainId": 1213549903,
+  "networkId": 1213549903,
+  "nativeCurrency": {
+    "name": "Gas",
+    "symbol": "GAS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.evm.mirasmanda.uz"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://blockscout.evm.mirasmanda.uz",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://asterium.uz/"
+}

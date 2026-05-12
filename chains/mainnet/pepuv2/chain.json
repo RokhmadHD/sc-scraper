@@ -1,0 +1,24 @@
+{
+  "name": "Pepe Unchained V2",
+  "chain": "PEPU",
+  "shortName": "pepuv2",
+  "category": "mainnet",
+  "chainId": 97741,
+  "networkId": 97741,
+  "nativeCurrency": {
+    "name": "PEPU",
+    "symbol": "PEPU",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-pepu-v2-mainnet-0.t.conduit.xyz"
+  ],
+  "explorers": [
+    {
+      "name": "pepuscan",
+      "url": "https://pepuscan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://pepeunchained.com/"
+}

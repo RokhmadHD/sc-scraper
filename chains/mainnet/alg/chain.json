@@ -1,0 +1,24 @@
+{
+  "name": "Algen",
+  "chain": "ALG",
+  "shortName": "alg",
+  "category": "mainnet",
+  "chainId": 8911,
+  "networkId": 8911,
+  "nativeCurrency": {
+    "name": "ALG",
+    "symbol": "ALG",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.algen.network"
+  ],
+  "explorers": [
+    {
+      "name": "algscan",
+      "url": "https://scan.algen.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.algen.network"
+}

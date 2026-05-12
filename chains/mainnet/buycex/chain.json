@@ -1,0 +1,24 @@
+{
+  "name": "BuyCex Infinity Chain",
+  "chain": "BUYCEX",
+  "shortName": "buycex",
+  "category": "mainnet",
+  "chainId": 323,
+  "networkId": 323,
+  "nativeCurrency": {
+    "name": "Buycex",
+    "symbol": "BCX",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.buycex.net"
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout",
+      "url": "https://buycex.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://infinity.buycex.com"
+}

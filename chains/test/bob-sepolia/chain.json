@@ -1,0 +1,24 @@
+{
+  "name": "BOB Sepolia",
+  "chain": "ETH",
+  "shortName": "bob-sepolia",
+  "category": "test",
+  "chainId": 808813,
+  "networkId": 808813,
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://bob-sepolia.rpc.gobob.xyz"
+  ],
+  "explorers": [
+    {
+      "name": "bobscout",
+      "url": "https://bob-sepolia.explorer.gobob.xyz",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://gobob.xyz"
+}

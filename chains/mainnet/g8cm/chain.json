@@ -1,0 +1,24 @@
+{
+  "name": "G8Chain Mainnet",
+  "chain": "G8C",
+  "shortName": "G8Cm",
+  "category": "mainnet",
+  "chainId": 17171,
+  "networkId": 17171,
+  "nativeCurrency": {
+    "name": "G8Chain",
+    "symbol": "G8C",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet-rpc.oneg8.network"
+  ],
+  "explorers": [
+    {
+      "name": "G8Chain",
+      "url": "https://mainnet.oneg8.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://oneg8.one"
+}

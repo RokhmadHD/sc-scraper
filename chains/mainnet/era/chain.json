@@ -1,0 +1,24 @@
+{
+  "name": "Eteria Mainnet",
+  "chain": "ERA",
+  "shortName": "ERA",
+  "category": "mainnet",
+  "chainId": 140,
+  "networkId": 140,
+  "nativeCurrency": {
+    "name": "Eteria",
+    "symbol": "ERA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet.eteria.io/v1"
+  ],
+  "explorers": [
+    {
+      "name": "eteriascan",
+      "url": "https://explorer.eteria.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://eteria.io"
+}

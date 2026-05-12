@@ -1,0 +1,24 @@
+{
+  "name": "Uptick Mainnet",
+  "chain": "Uptick",
+  "shortName": "auptick",
+  "category": "mainnet",
+  "chainId": 117,
+  "networkId": 117,
+  "nativeCurrency": {
+    "name": "Uptick",
+    "symbol": "UPTICK",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://json-rpc.uptick.network"
+  ],
+  "explorers": [
+    {
+      "name": "Uptick Explorer",
+      "url": "https://evm-explorer.uptick.network",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://www.uptick.network"
+}

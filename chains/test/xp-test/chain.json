@@ -1,0 +1,17 @@
+{
+  "name": "Xphere Testnet",
+  "chain": "Xphere Testnet",
+  "shortName": "xp-test",
+  "category": "test",
+  "chainId": 1998991,
+  "networkId": 1998991,
+  "nativeCurrency": {
+    "name": "Xphere Testnet",
+    "symbol": "XPT",
+    "decimals": 18
+  },
+  "rpc": [
+    "http://testnet.x-phere.com"
+  ],
+  "infoURL": "https://x-phere.com/"
+}

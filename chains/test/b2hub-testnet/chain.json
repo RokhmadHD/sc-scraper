@@ -1,0 +1,24 @@
+{
+  "name": "B2 Hub Testnet",
+  "chain": "BSQ",
+  "shortName": "B2Hub-testnet",
+  "category": "test",
+  "chainId": 1113,
+  "networkId": 1113,
+  "nativeCurrency": {
+    "name": "BSquared Token",
+    "symbol": "B2",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet-hub-rpc.bsquared.network"
+  ],
+  "explorers": [
+    {
+      "name": "B2 Hub Habitat Testnet Explorer",
+      "url": "https://testnet-hub-explorer.bsquared.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.bsquared.network"
+}

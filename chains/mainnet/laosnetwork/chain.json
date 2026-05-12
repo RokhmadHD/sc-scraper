@@ -1,0 +1,24 @@
+{
+  "name": "LAOS",
+  "chain": "LAOS",
+  "shortName": "laosnetwork",
+  "category": "mainnet",
+  "chainId": 6283,
+  "networkId": 6283,
+  "nativeCurrency": {
+    "name": "LAOS",
+    "symbol": "LAOS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.laos.laosfoundation.io"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://blockscout.laos.laosfoundation.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://laosnetwork.io"
+}

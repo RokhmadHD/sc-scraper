@@ -1,0 +1,24 @@
+{
+  "name": "Cypherium Mainnet",
+  "chain": "CPH",
+  "shortName": "cph",
+  "category": "mainnet",
+  "chainId": 16166,
+  "networkId": 16166,
+  "nativeCurrency": {
+    "name": "Cypherium",
+    "symbol": "CPH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://pubnodes.cypherium.io/rpc"
+  ],
+  "explorers": [
+    {
+      "name": "Cypherium Explorer (Ethernal)",
+      "url": "https://cypherium.tryethernal.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.cypherium.io/"
+}

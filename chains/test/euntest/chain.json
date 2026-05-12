@@ -1,0 +1,24 @@
+{
+  "name": "Eurus Testnet",
+  "chain": "EUN",
+  "shortName": "euntest",
+  "category": "test",
+  "chainId": 1984,
+  "networkId": 1984,
+  "nativeCurrency": {
+    "name": "Eurus",
+    "symbol": "EUN",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet.eurus.network"
+  ],
+  "explorers": [
+    {
+      "name": "testnetexplorer",
+      "url": "https://testnetexplorer.eurus.network",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://eurus.network"
+}

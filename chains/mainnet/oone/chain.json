@@ -1,0 +1,24 @@
+{
+  "name": "Oone Chain Mainnet",
+  "chain": "OONE",
+  "shortName": "oone",
+  "category": "mainnet",
+  "chainId": 777888,
+  "networkId": 777888,
+  "nativeCurrency": {
+    "name": "OONE",
+    "symbol": "OONE",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.oonechain.com"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://oonescan.com",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://oonechain.com"
+}

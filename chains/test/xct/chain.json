@@ -1,0 +1,24 @@
+{
+  "name": "XCHAIN Testnet",
+  "chain": "XCHAIN",
+  "shortName": "xct",
+  "category": "test",
+  "chainId": 64002,
+  "networkId": 64002,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://xchain-testnet-rpc.kuma.bid"
+  ],
+  "explorers": [
+    {
+      "name": "XCHAIN Testnet Explorer",
+      "url": "https://xchain-testnet-explorer.kuma.bid",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://kuma.bid"
+}

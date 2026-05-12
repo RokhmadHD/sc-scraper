@@ -1,0 +1,24 @@
+{
+  "name": "Gold Smart Chain Testnet",
+  "chain": "STAND",
+  "shortName": "STANDt",
+  "category": "test",
+  "chainId": 79879,
+  "networkId": 79879,
+  "nativeCurrency": {
+    "name": "Standard in Gold",
+    "symbol": "STAND",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-testnet.goldsmartchain.com"
+  ],
+  "explorers": [
+    {
+      "name": "Gold Smart Chain",
+      "url": "https://testnet.goldsmartchain.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://goldsmartchain.com"
+}

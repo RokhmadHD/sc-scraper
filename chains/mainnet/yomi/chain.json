@@ -1,0 +1,17 @@
+{
+  "name": "Yominet",
+  "chain": "YOMINET",
+  "shortName": "yomi",
+  "category": "mainnet",
+  "chainId": 428962654539583,
+  "networkId": 428962654539583,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://jsonrpc-yominet-1.anvil.asia-southeast.initia.xyz"
+  ],
+  "infoURL": "https://www.kamigotchi.io/"
+}

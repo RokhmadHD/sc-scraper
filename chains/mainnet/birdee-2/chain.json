@@ -1,0 +1,24 @@
+{
+  "name": "Birdee-2",
+  "chain": "Tucana",
+  "shortName": "birdee-2",
+  "category": "mainnet",
+  "chainId": 712,
+  "networkId": 712,
+  "nativeCurrency": {
+    "name": "Tucana",
+    "symbol": "TUC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://evm-rpc.birdee-2.tucana.zone"
+  ],
+  "explorers": [
+    {
+      "name": "Birdee-2 Explorer",
+      "url": "https://explorer.birdee-2.tucana.zone",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://tucana.zone"
+}

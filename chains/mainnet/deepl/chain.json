@@ -1,0 +1,24 @@
+{
+  "name": "DeepL Mainnet",
+  "chain": "DEEPL",
+  "shortName": "deepl",
+  "category": "mainnet",
+  "chainId": 222555,
+  "networkId": 222555,
+  "nativeCurrency": {
+    "name": "DeepL",
+    "symbol": "DEEPL",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.deeplnetwork.org"
+  ],
+  "explorers": [
+    {
+      "name": "DeepL Mainnet Explorer",
+      "url": "https://scan.deeplnetwork.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://deeplnetwork.org"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "KWALA Stagenet",
+  "chain": "KWALA",
+  "shortName": "kwala-stagenet",
+  "category": "mainnet",
+  "chainId": 1906,
+  "networkId": 1906,
+  "nativeCurrency": {
+    "name": "KWALA",
+    "symbol": "KWALA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://qa-kwala-rpc-node.p2eppl.com"
+  ],
+  "infoURL": "https://kwala.network"
+}

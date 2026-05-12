@@ -1,0 +1,24 @@
+{
+  "name": "Forta Chain",
+  "chain": "Forta Chain",
+  "shortName": "forta",
+  "category": "mainnet",
+  "chainId": 80931,
+  "networkId": 80931,
+  "nativeCurrency": {
+    "name": "FORT",
+    "symbol": "FORT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-forta-chain-8gj1qndmfc.t.conduit.xyz"
+  ],
+  "explorers": [
+    {
+      "name": "Forta Chain Explorer",
+      "url": "https://explorer.forta.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.forta.org/"
+}

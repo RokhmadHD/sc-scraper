@@ -1,0 +1,24 @@
+{
+  "name": "Bear Network Chain Testnet",
+  "chain": "BRNKCTEST",
+  "shortName": "BRNKCTEST",
+  "category": "test",
+  "chainId": 751230,
+  "networkId": 751230,
+  "nativeCurrency": {
+    "name": "Bear Network Chain Testnet Token",
+    "symbol": "tBRNKC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://brnkc-test.bearnetwork.net"
+  ],
+  "explorers": [
+    {
+      "name": "brnktestscan",
+      "url": "https://brnktest-scan.bearnetwork.net",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://bearnetwork.net"
+}

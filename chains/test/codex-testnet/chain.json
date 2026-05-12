@@ -1,0 +1,24 @@
+{
+  "name": "Codex Testnet",
+  "chain": "ETH",
+  "shortName": "codex-testnet",
+  "category": "test",
+  "chainId": 812242,
+  "networkId": 812242,
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.codex-stg.xyz"
+  ],
+  "explorers": [
+    {
+      "name": "Codex Testnet Explorer",
+      "url": "https://explorer.codex-stg.xyz",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.codex.xyz/"
+}

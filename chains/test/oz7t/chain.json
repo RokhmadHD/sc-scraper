@@ -1,0 +1,24 @@
+{
+  "name": "OptimusZ7 Testnet",
+  "chain": "OptimusZ7",
+  "shortName": "OZ7t",
+  "category": "test",
+  "chainId": 97970,
+  "networkId": 97970,
+  "nativeCurrency": {
+    "name": "OptimusZ7",
+    "symbol": "OZ7",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet-rpc.optimusz7.com"
+  ],
+  "explorers": [
+    {
+      "name": "OptimusZ7 Testnet Explorer",
+      "url": "https://testnet.optimusz7.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "http://optimusz7.com"
+}

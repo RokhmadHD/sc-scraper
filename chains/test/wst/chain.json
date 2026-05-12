@@ -1,0 +1,24 @@
+{
+  "name": "Westend Asset Hub",
+  "chain": "WST",
+  "shortName": "wst",
+  "category": "test",
+  "chainId": 420420421,
+  "networkId": 420420421,
+  "nativeCurrency": {
+    "name": "Westies",
+    "symbol": "WND",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://westend-asset-hub-eth-rpc.polkadot.io"
+  ],
+  "explorers": [
+    {
+      "name": "subscan",
+      "url": "https://assethub-westend.subscan.io",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://polkadot.network"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "arena-z",
+  "chain": "arena-z",
+  "shortName": "arena-z",
+  "category": "mainnet",
+  "chainId": 7897,
+  "networkId": 7897,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.arena-z.gg"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.arena-z.gg",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://raas.gelato.network/rollups/details/public/arena-z"
+}

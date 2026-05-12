@@ -1,0 +1,24 @@
+{
+  "name": "Flag Mainnet",
+  "chain": "Flag",
+  "shortName": "FLAG",
+  "category": "mainnet",
+  "chainId": 147,
+  "networkId": 147,
+  "nativeCurrency": {
+    "name": "Flag",
+    "symbol": "FLAG",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet-rpc.flagscan.xyz"
+  ],
+  "explorers": [
+    {
+      "name": "Flag Mainnet Explorer",
+      "url": "https://flagscan.xyz",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://flagscan.xyz"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "ThaiChain",
+  "chain": "TCH",
+  "shortName": "tch",
+  "category": "mainnet",
+  "chainId": 7,
+  "networkId": 7,
+  "nativeCurrency": {
+    "name": "ThaiChain Ether",
+    "symbol": "TCH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.dome.cloud",
+    "https://rpc.thaichain.org"
+  ],
+  "explorers": [
+    {
+      "name": "Thaichain Explorer",
+      "url": "https://exp.thaichain.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://thaichain.io"
+}

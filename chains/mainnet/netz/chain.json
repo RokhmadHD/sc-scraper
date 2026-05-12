@@ -1,0 +1,25 @@
+{
+  "name": "MainnetZ Mainnet",
+  "chain": "NetZ",
+  "shortName": "netz",
+  "category": "mainnet",
+  "chainId": 2016,
+  "networkId": 2016,
+  "nativeCurrency": {
+    "name": "MainnetZ",
+    "symbol": "NetZ",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://eu-rpc.mainnetz.io",
+    "https://mainnet-rpc.mainnetz.io"
+  ],
+  "explorers": [
+    {
+      "name": "MainnetZ",
+      "url": "https://explorer.mainnetz.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://mainnetz.io"
+}

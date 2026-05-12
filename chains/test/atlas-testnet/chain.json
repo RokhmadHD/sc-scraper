@@ -1,0 +1,24 @@
+{
+  "name": "Atlas",
+  "chain": "ATLAS",
+  "shortName": "atlas-testnet",
+  "category": "test",
+  "chainId": 622463,
+  "networkId": 622463,
+  "nativeCurrency": {
+    "name": "TON",
+    "symbol": "TON",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.testnet.atl.network"
+  ],
+  "explorers": [
+    {
+      "name": "Atlas Testnet Scan",
+      "url": "https://explorer.testnet.atl.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://atl.network"
+}

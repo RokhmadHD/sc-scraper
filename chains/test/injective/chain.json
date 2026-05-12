@@ -1,0 +1,25 @@
+{
+  "name": "Injective",
+  "chain": "Injective",
+  "shortName": "injective",
+  "category": "test",
+  "chainId": 1776,
+  "networkId": 1776,
+  "nativeCurrency": {
+    "name": "Injective",
+    "symbol": "INJ",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://injectiveevm-rpc.polkachu.com",
+    "https://sentry.evm-rpc.injective.network"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://blockscout.injective.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://injective.com"
+}

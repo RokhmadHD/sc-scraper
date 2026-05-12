@@ -1,0 +1,26 @@
+{
+  "name": "Plinga Mainnet",
+  "chain": "Plinga",
+  "shortName": "plgchain",
+  "category": "mainnet",
+  "chainId": 242,
+  "networkId": 242,
+  "nativeCurrency": {
+    "name": "Plinga",
+    "symbol": "PLINGA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpcurl.mainnet.plgchain.com",
+    "https://rpcurl.mainnet.plgchain.plinga.technology",
+    "https://rpcurl.plgchain.blockchain.evmnode.online"
+  ],
+  "explorers": [
+    {
+      "name": "plgscan",
+      "url": "https://www.plgscan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.plinga.technology/"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "ArmaChain Testnet",
+  "chain": "ARMA",
+  "shortName": "arma-testnet",
+  "category": "test",
+  "chainId": 2028,
+  "networkId": 2028,
+  "nativeCurrency": {
+    "name": "tARMA",
+    "symbol": "tARMA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.armascan.io"
+  ],
+  "explorers": [
+    {
+      "name": "ArmaScan",
+      "url": "https://armascan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://armadex.io"
+}

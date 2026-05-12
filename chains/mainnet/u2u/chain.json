@@ -1,0 +1,24 @@
+{
+  "name": "U2U Solaris Mainnet",
+  "chain": "u2u",
+  "shortName": "u2u",
+  "category": "mainnet",
+  "chainId": 39,
+  "networkId": 39,
+  "nativeCurrency": {
+    "name": "U2U Network",
+    "symbol": "U2U",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-mainnet.u2u.xyz"
+  ],
+  "explorers": [
+    {
+      "name": "U2U Explorer",
+      "url": "https://u2uscan.xyz",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://u2u.xyz"
+}

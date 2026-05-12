@@ -1,0 +1,17 @@
+{
+  "name": "Metadium Mainnet",
+  "chain": "META",
+  "shortName": "meta",
+  "category": "mainnet",
+  "chainId": 11,
+  "networkId": 11,
+  "nativeCurrency": {
+    "name": "Metadium Mainnet Ether",
+    "symbol": "META",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://api.metadium.com/prod"
+  ],
+  "infoURL": "https://metadium.com"
+}

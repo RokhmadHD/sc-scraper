@@ -1,0 +1,18 @@
+{
+  "name": "KLYNTAR",
+  "chain": "KLY",
+  "shortName": "kly",
+  "category": "mainnet",
+  "chainId": 7331,
+  "networkId": 7331,
+  "nativeCurrency": {
+    "name": "KLYNTAR",
+    "symbol": "KLY",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://evm.klyntar.org/kly_evm_rpc",
+    "https://evm.klyntarscan.org/kly_evm_rpc"
+  ],
+  "infoURL": "https://klyntar.org"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Lumoz Testnet Alpha",
+  "chain": "ETH",
+  "shortName": "Lumoz-Testnet",
+  "category": "test",
+  "chainId": 51178,
+  "networkId": 51178,
+  "nativeCurrency": {
+    "name": "Lumoz Test Token",
+    "symbol": "MOZ",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://alpha-hk-http-geth.lumoz.org",
+    "https://alpha-us-http-geth.lumoz.org"
+  ],
+  "explorers": [
+    {
+      "name": "LumozTestnetInfo",
+      "url": "https://lumoz.info",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://lumoz.org"
+}

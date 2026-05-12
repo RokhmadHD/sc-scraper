@@ -1,0 +1,24 @@
+{
+  "name": "Autonomys Chronos Testnet",
+  "chain": "autonomys-chronos-testnet",
+  "shortName": "ATN",
+  "category": "test",
+  "chainId": 8700,
+  "networkId": 8700,
+  "nativeCurrency": {
+    "name": "AI3",
+    "symbol": "AI3",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://auto-evm.chronos.autonomys.xyz/ws"
+  ],
+  "explorers": [
+    {
+      "name": "Autonomys Chronos EVM Testnet Explorer",
+      "url": "https://explorer.auto-evm.chronos.autonomys.xyz",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.autonomys.xyz"
+}

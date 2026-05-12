@@ -1,0 +1,24 @@
+{
+  "name": "IOTA EVM",
+  "chain": "IOTA EVM",
+  "shortName": "iotaevm",
+  "category": "mainnet",
+  "chainId": 8822,
+  "networkId": 8822,
+  "nativeCurrency": {
+    "name": "IOTA",
+    "symbol": "IOTA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://json-rpc.evm.iotaledger.net"
+  ],
+  "explorers": [
+    {
+      "name": "explorer",
+      "url": "https://explorer.evm.iota.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.iota.org"
+}

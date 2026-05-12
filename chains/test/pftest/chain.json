@@ -1,0 +1,17 @@
+{
+  "name": "Portal Fantasy Chain Test",
+  "chain": "PF",
+  "shortName": "PFTEST",
+  "category": "test",
+  "chainId": 808,
+  "networkId": 808,
+  "nativeCurrency": {
+    "name": "Portal Fantasy Token",
+    "symbol": "PFT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://subnets.avax.network/portal-fantasy/testnet/rpc"
+  ],
+  "infoURL": "https://portalfantasy.io"
+}

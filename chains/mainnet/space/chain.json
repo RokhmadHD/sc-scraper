@@ -1,0 +1,24 @@
+{
+  "name": "Space Subnet",
+  "chain": "SPACE",
+  "shortName": "space",
+  "category": "mainnet",
+  "chainId": 8227,
+  "networkId": 8227,
+  "nativeCurrency": {
+    "name": "FUEL",
+    "symbol": "FUEL",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://subnets.avax.network/space/mainnet/rpc"
+  ],
+  "explorers": [
+    {
+      "name": "SPACE Explorer",
+      "url": "https://subnets.avax.network/space",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://otherworld.network"
+}

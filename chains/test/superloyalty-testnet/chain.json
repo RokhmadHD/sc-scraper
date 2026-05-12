@@ -1,0 +1,17 @@
+{
+  "name": "Superloyalty Testnet",
+  "chain": "Superloyalty Testnet",
+  "shortName": "superloyalty-testnet",
+  "category": "test",
+  "chainId": 5105,
+  "networkId": 5105,
+  "nativeCurrency": {
+    "name": "ETH",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-superloyalty-testnet-1m5gwjbsv1.t.conduit.xyz"
+  ],
+  "infoURL": "https://www.superloyal.com/"
+}

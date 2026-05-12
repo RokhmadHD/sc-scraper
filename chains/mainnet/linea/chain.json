@@ -1,0 +1,35 @@
+{
+  "name": "Linea",
+  "chain": "ETH",
+  "shortName": "linea",
+  "category": "mainnet",
+  "chainId": 59144,
+  "networkId": 59144,
+  "nativeCurrency": {
+    "name": "Linea Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://linea-rpc.publicnode.com",
+    "https://rpc.linea.build"
+  ],
+  "explorers": [
+    {
+      "name": "Etherscan",
+      "url": "https://lineascan.build",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "Blockscout",
+      "url": "https://explorer.linea.build",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "L2scan",
+      "url": "https://linea.l2scan.co",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://linea.build"
+}

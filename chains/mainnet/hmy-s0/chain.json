@@ -1,0 +1,29 @@
+{
+  "name": "Harmony Mainnet Shard 0",
+  "chain": "Harmony",
+  "shortName": "hmy-s0",
+  "category": "mainnet",
+  "chainId": 1666600000,
+  "networkId": 1666600000,
+  "nativeCurrency": {
+    "name": "ONE",
+    "symbol": "ONE",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://1rpc.io/one",
+    "https://a.api.s0.t.hmny.io",
+    "https://api.harmony.one",
+    "https://api.s0.t.hmny.io",
+    "https://harmony-0.drpc.org",
+    "https://rpc.ankr.com/harmony"
+  ],
+  "explorers": [
+    {
+      "name": "Harmony Block Explorer",
+      "url": "https://explorer.harmony.one",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.harmony.one/"
+}

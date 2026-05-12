@@ -1,0 +1,24 @@
+{
+  "name": "Genesys Mainnet",
+  "chain": "Genesys",
+  "shortName": "Genesys",
+  "category": "mainnet",
+  "chainId": 16507,
+  "networkId": 16507,
+  "nativeCurrency": {
+    "name": "Genesys",
+    "symbol": "GSYS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.genesys.network"
+  ],
+  "explorers": [
+    {
+      "name": "GchainExplorer",
+      "url": "https://gchainexplorer.genesys.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.genesys.network/"
+}

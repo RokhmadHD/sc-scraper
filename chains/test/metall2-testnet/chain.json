@@ -1,0 +1,24 @@
+{
+  "name": "Metal L2 Testnet",
+  "chain": "Metal L2 Testnet",
+  "shortName": "metall2-testnet",
+  "category": "test",
+  "chainId": 1740,
+  "networkId": 1740,
+  "nativeCurrency": {
+    "name": "ETH",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet.rpc.metall2.com"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://testnet.explorer.metall2.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://metall2.com"
+}

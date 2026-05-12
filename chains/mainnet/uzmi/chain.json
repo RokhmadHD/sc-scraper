@@ -1,0 +1,17 @@
+{
+  "name": "Uzmi Network Mainnet",
+  "chain": "UZMI",
+  "shortName": "UZMI",
+  "category": "mainnet",
+  "chainId": 5315,
+  "networkId": 5315,
+  "nativeCurrency": {
+    "name": "UZMI",
+    "symbol": "UZMI",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://network.uzmigames.com.br/"
+  ],
+  "infoURL": "https://uzmigames.com.br/"
+}

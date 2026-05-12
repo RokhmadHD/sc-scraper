@@ -1,0 +1,31 @@
+{
+  "name": "TAC Mainnet",
+  "chain": "TAC",
+  "shortName": "tacchain_239-1",
+  "category": "mainnet",
+  "chainId": 239,
+  "networkId": 239,
+  "nativeCurrency": {
+    "name": "TAC",
+    "symbol": "TAC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.ankr.com/tac",
+    "https://rpc.tac.build",
+    "https://ws.rpc.tac.build"
+  ],
+  "explorers": [
+    {
+      "name": "TAC Explorer",
+      "url": "https://explorer.tac.build",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "Blockscout",
+      "url": "https://tac.blockscout.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://tac.build/"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Nanon",
+  "chain": "ETH",
+  "shortName": "Nanon",
+  "category": "mainnet",
+  "chainId": 2748,
+  "networkId": 2748,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.nanon.network"
+  ],
+  "explorers": [
+    {
+      "name": "Nanon Rollup Explorer",
+      "url": "https://explorer.nanon.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.nanon.network"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Funki Sepolia Testnet",
+  "chain": "ETH",
+  "shortName": "funkisepolia",
+  "category": "test",
+  "chainId": 3397901,
+  "networkId": 3397901,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://funki-testnet.alt.technology"
+  ],
+  "explorers": [
+    {
+      "name": "Funki Sepolia Testnet Explorer",
+      "url": "https://testnet.funkiscan.io",
+      "standard": "none"
+    },
+    {
+      "name": "Funki Sepolia Sandbox Explorer",
+      "url": "https://testnet-explorer.funkichain.com",
+      "standard": "none"
+    },
+    {
+      "name": "Funki Sepolia Testnet Explorer",
+      "url": "https://testnet.funkiscan.io",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://funkichain.com"
+}

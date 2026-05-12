@@ -1,0 +1,17 @@
+{
+  "name": "ZCore Testnet",
+  "chain": "Beach",
+  "shortName": "zcrbeach",
+  "category": "test",
+  "chainId": 3331,
+  "networkId": 3331,
+  "nativeCurrency": {
+    "name": "ZCore",
+    "symbol": "ZCR",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-testnet.zcore.cash"
+  ],
+  "infoURL": "https://zcore.cash"
+}

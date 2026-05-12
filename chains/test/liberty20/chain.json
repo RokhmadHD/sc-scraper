@@ -1,0 +1,24 @@
+{
+  "name": "Shardeum Liberty 2.X",
+  "chain": "Shardeum",
+  "shortName": "Liberty20",
+  "category": "test",
+  "chainId": 8081,
+  "networkId": 8081,
+  "nativeCurrency": {
+    "name": "Shardeum SHM",
+    "symbol": "SHM",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://liberty20.shardeum.org/"
+  ],
+  "explorers": [
+    {
+      "name": "Shardeum Scan",
+      "url": "https://explorer-liberty20.shardeum.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://docs.shardeum.org/"
+}

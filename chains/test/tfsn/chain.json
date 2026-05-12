@@ -1,0 +1,24 @@
+{
+  "name": "Fusion Testnet",
+  "chain": "FSN",
+  "shortName": "tfsn",
+  "category": "test",
+  "chainId": 46688,
+  "networkId": 46688,
+  "nativeCurrency": {
+    "name": "Testnet Fusion",
+    "symbol": "T-FSN",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet.fusionnetwork.io"
+  ],
+  "explorers": [
+    {
+      "name": "fsnscan",
+      "url": "https://testnet.fsnscan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://fusion.org"
+}

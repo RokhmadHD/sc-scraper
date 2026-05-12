@@ -1,0 +1,24 @@
+{
+  "name": "GoldXChain Testnet",
+  "chain": "GoldXTestnet",
+  "shortName": "goldx-testnet",
+  "category": "test",
+  "chainId": 22324,
+  "networkId": 22324,
+  "nativeCurrency": {
+    "name": "GoldX",
+    "symbol": "GOLDX",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet-rpc.goldxchain.io"
+  ],
+  "explorers": [
+    {
+      "name": "GoldXChain Testnet Explorer",
+      "url": "https://testnet-explorer.goldxchain.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://goldxchain.io"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Bitnet",
+  "chain": "BTN",
+  "shortName": "BTN",
+  "category": "mainnet",
+  "chainId": 210,
+  "networkId": 210,
+  "nativeCurrency": {
+    "name": "Bitnet",
+    "symbol": "BTN",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.bitnet.money",
+    "https://rpc.bitnetmoney.com",
+    "https://rpc.btn-network.org",
+    "https://rpc.btn.network",
+    "https://rpc.btnscan.com"
+  ],
+  "explorers": [
+    {
+      "name": "Bitnet Explorer",
+      "url": "https://btnscan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://bitnet.technology"
+}

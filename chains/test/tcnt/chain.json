@@ -1,0 +1,24 @@
+{
+  "name": "Consta Testnet",
+  "chain": "tCNT",
+  "shortName": "tCNT",
+  "category": "test",
+  "chainId": 371,
+  "networkId": 371,
+  "nativeCurrency": {
+    "name": "tCNT",
+    "symbol": "tCNT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-testnet.theconsta.com"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer-testnet.theconsta.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "http://theconsta.com"
+}

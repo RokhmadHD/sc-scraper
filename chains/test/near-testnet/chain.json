@@ -1,0 +1,24 @@
+{
+  "name": "NEAR Protocol Testnet",
+  "chain": "NEAR",
+  "shortName": "near-testnet",
+  "category": "test",
+  "chainId": 398,
+  "networkId": 398,
+  "nativeCurrency": {
+    "name": "NEAR",
+    "symbol": "NEAR",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://eth-rpc.testnet.near.org"
+  ],
+  "explorers": [
+    {
+      "name": "NEAR Explorer",
+      "url": "https://eth-explorer-testnet.near.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://near.org"
+}

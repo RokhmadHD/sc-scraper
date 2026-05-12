@@ -1,0 +1,24 @@
+{
+  "name": "Pentagon Chain",
+  "chain": "Pentagon Chain",
+  "shortName": "PentagonChain",
+  "category": "test",
+  "chainId": 3344,
+  "networkId": 3344,
+  "nativeCurrency": {
+    "name": "Pentagon Chain",
+    "symbol": "PC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.pentagon.games"
+  ],
+  "explorers": [
+    {
+      "name": "Pentagon Chain Explorer",
+      "url": "https://explorer.pentagon.games",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://pentagon.games"
+}

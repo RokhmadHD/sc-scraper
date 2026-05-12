@@ -1,0 +1,25 @@
+{
+  "name": "Bifrost Mainnet",
+  "chain": "BFC",
+  "shortName": "bfc",
+  "category": "mainnet",
+  "chainId": 3068,
+  "networkId": 3068,
+  "nativeCurrency": {
+    "name": "Bifrost",
+    "symbol": "BFC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://public-01.mainnet.bifrostnetwork.com/rpc",
+    "https://public-02.mainnet.bifrostnetwork.com/rpc"
+  ],
+  "explorers": [
+    {
+      "name": "explorer-thebifrost",
+      "url": "https://explorer.mainnet.bifrostnetwork.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://bifrostnetwork.com"
+}

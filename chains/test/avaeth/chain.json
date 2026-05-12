@@ -1,0 +1,17 @@
+{
+  "name": "Athereum",
+  "chain": "ATH",
+  "shortName": "avaeth",
+  "category": "test",
+  "chainId": 43110,
+  "networkId": 43110,
+  "nativeCurrency": {
+    "name": "Athereum Ether",
+    "symbol": "ATH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://ava.network:21015/ext/evm/rpc"
+  ],
+  "infoURL": "https://athereum.ava.network"
+}

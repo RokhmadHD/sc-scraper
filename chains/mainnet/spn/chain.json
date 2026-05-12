@@ -1,0 +1,24 @@
+{
+  "name": "Superposition",
+  "chain": "Superposition",
+  "shortName": "spn",
+  "category": "mainnet",
+  "chainId": 55244,
+  "networkId": 55244,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.superposition.so"
+  ],
+  "explorers": [
+    {
+      "name": "Superposition Explorer",
+      "url": "https://explorer.superposition.so",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://superposition.so"
+}

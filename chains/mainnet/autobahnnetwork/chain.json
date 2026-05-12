@@ -1,0 +1,24 @@
+{
+  "name": "Autobahn Network",
+  "chain": "TXL",
+  "shortName": "AutobahnNetwork",
+  "category": "mainnet",
+  "chainId": 45000,
+  "networkId": 45000,
+  "nativeCurrency": {
+    "name": "TXL",
+    "symbol": "TXL",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.autobahn.network"
+  ],
+  "explorers": [
+    {
+      "name": "autobahn explorer",
+      "url": "https://explorer.autobahn.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://autobahn.network"
+}

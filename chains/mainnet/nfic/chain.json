@@ -1,0 +1,17 @@
+{
+  "name": "Namefi Chain Mainnet",
+  "chain": "NFIC",
+  "shortName": "nfic",
+  "category": "mainnet",
+  "chainId": 132,
+  "networkId": 132,
+  "nativeCurrency": {
+    "name": "Namefi Coin",
+    "symbol": "NFIC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.chain.namefi.io"
+  ],
+  "infoURL": "https://namefi.io/"
+}

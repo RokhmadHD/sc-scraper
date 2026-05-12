@@ -1,0 +1,24 @@
+{
+  "name": "Winr Protocol Mainnet",
+  "chain": "WINR",
+  "shortName": "winr",
+  "category": "mainnet",
+  "chainId": 777777,
+  "networkId": 777777,
+  "nativeCurrency": {
+    "name": "Winr",
+    "symbol": "WINR",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.winr.games"
+  ],
+  "explorers": [
+    {
+      "name": "Winr Protocol Explorer",
+      "url": "https://explorer.winr.games",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://winr.games"
+}

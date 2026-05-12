@@ -1,0 +1,24 @@
+{
+  "name": "Plume Testnet",
+  "chain": "PLUME Testnet",
+  "shortName": "plume-testnet",
+  "category": "test",
+  "chainId": 98867,
+  "networkId": 98867,
+  "nativeCurrency": {
+    "name": "Plume",
+    "symbol": "PLUME",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet-rpc.plume.org"
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout",
+      "url": "https://testnet-explorer.plume.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://plume.org"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Fuse Testnet",
+  "chain": "Fuse",
+  "shortName": "fuseZK",
+  "category": "test",
+  "chainId": 12001,
+  "networkId": 12001,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.flash.fuse.io"
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout",
+      "url": "https://explorer.flash.fuse.io",
+      "standard": "none"
+    }
+  ]
+}

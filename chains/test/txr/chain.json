@@ -1,0 +1,24 @@
+{
+  "name": "XR Sepolia",
+  "chain": "ETH",
+  "shortName": "txr",
+  "category": "test",
+  "chainId": 2730,
+  "networkId": 2730,
+  "nativeCurrency": {
+    "name": "tXR",
+    "symbol": "tXR",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://xr-sepolia-testnet.rpc.caldera.xyz/http"
+  ],
+  "explorers": [
+    {
+      "name": "XR Sepolia Explorer",
+      "url": "https://xr-sepolia-testnet.explorer.caldera.xyz",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://xr-one.gitbook.io"
+}

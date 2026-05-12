@@ -1,0 +1,24 @@
+{
+  "name": "Fluence",
+  "chain": "Fluence",
+  "shortName": "fluence",
+  "category": "mainnet",
+  "chainId": 9999999,
+  "networkId": 9999999,
+  "nativeCurrency": {
+    "name": "FLT",
+    "symbol": "FLT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.mainnet.fluence.dev/"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://blockscout.mainnet.fluence.dev",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://fluence.network/"
+}

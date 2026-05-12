@@ -1,0 +1,24 @@
+{
+  "name": "Space Subnet Testnet",
+  "chain": "SPACETESTNET",
+  "shortName": "spacetestnet",
+  "category": "test",
+  "chainId": 48795,
+  "networkId": 48795,
+  "nativeCurrency": {
+    "name": "FUEL",
+    "symbol": "FUEL",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://subnets.avax.network/space/testnet/rpc"
+  ],
+  "explorers": [
+    {
+      "name": "SPACE Explorer",
+      "url": "https://subnets-test.avax.network/space",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://otherworld.network"
+}

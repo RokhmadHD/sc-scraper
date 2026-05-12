@@ -1,0 +1,33 @@
+{
+  "name": "Bahamut",
+  "chain": "Bahamut",
+  "shortName": "ftn",
+  "category": "mainnet",
+  "chainId": 5165,
+  "networkId": 5165,
+  "nativeCurrency": {
+    "name": "FTN",
+    "symbol": "FTN",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://bahamut-rpc.publicnode.com",
+    "https://rpc1.bahamut.io",
+    "https://rpc1.ftnscan.io",
+    "https://rpc2.bahamut.io",
+    "https://rpc2.ftnscan.io"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://ftnscan.com",
+      "standard": "none"
+    },
+    {
+      "name": "blockscout",
+      "url": "https://ftnscan.io",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://bahamut.io"
+}

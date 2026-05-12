@@ -1,0 +1,24 @@
+{
+  "name": "Neurochain Testnet",
+  "chain": "NCN",
+  "shortName": "ncnt",
+  "category": "test",
+  "chainId": 303,
+  "networkId": 303,
+  "nativeCurrency": {
+    "name": "Neurochain",
+    "symbol": "tNCN",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://nc-rpc-test1.neurochain.io"
+  ],
+  "explorers": [
+    {
+      "name": "neuroscan",
+      "url": "https://testnet.ncnscan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.neurochain.ai"
+}

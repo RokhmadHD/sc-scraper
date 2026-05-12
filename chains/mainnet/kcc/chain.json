@@ -1,0 +1,24 @@
+{
+  "name": "King Of Legends Mainnet",
+  "chain": "KCC",
+  "shortName": "kcc",
+  "category": "mainnet",
+  "chainId": 2425,
+  "networkId": 2425,
+  "nativeCurrency": {
+    "name": "King Of Legends",
+    "symbol": "KCC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-mainnet.kinggamer.org/"
+  ],
+  "explorers": [
+    {
+      "name": "King Of Legends Mainnet Explorer",
+      "url": "https://kingscan.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://kingoflegends.net/"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "SX Network Testnet",
+  "chain": "SX",
+  "shortName": "SX-Testnet",
+  "category": "test",
+  "chainId": 647,
+  "networkId": 647,
+  "nativeCurrency": {
+    "name": "SX Network",
+    "symbol": "SX",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.toronto.sx.technology"
+  ],
+  "explorers": [
+    {
+      "name": "SX Network Toronto Explorer",
+      "url": "https://explorer.toronto.sx.technology",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.sx.technology"
+}

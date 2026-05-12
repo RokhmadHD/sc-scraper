@@ -1,0 +1,17 @@
+{
+  "name": "Recall",
+  "chain": "Recall",
+  "shortName": "recall",
+  "category": "mainnet",
+  "chainId": 24816,
+  "networkId": 24816,
+  "nativeCurrency": {
+    "name": "Recall",
+    "symbol": "RECALL",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://evm.node-0.mainnet.recall.network"
+  ],
+  "infoURL": "https://recall.network"
+}

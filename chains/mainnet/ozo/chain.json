@@ -1,0 +1,24 @@
+{
+  "name": "Ozone Chain Mainnet",
+  "chain": "OZONE",
+  "shortName": "ozo",
+  "category": "mainnet",
+  "chainId": 4000,
+  "networkId": 4000,
+  "nativeCurrency": {
+    "name": "OZONE",
+    "symbol": "OZO",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://node1.ozonechain.io"
+  ],
+  "explorers": [
+    {
+      "name": "OZONE Scan",
+      "url": "https://ozonescan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://ozonechain.io"
+}

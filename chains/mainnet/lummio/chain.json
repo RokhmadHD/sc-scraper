@@ -1,0 +1,24 @@
+{
+  "name": "Lummio Network",
+  "chain": "Lummio Network",
+  "shortName": "lummio",
+  "category": "mainnet",
+  "chainId": 12020498,
+  "networkId": 12020498,
+  "nativeCurrency": {
+    "name": "Lummio Reward Points",
+    "symbol": "LRPO",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.lummio.net"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://blockscout.lummio.net",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://lummio.net"
+}

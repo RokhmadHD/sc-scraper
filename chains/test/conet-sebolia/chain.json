@@ -1,0 +1,24 @@
+{
+  "name": "CONET Sebolia Testnet",
+  "chain": "CONET",
+  "shortName": "conet-sebolia",
+  "category": "test",
+  "chainId": 224422,
+  "networkId": 224422,
+  "nativeCurrency": {
+    "name": "CONET Sebolia",
+    "symbol": "CONET",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc1.conet.network"
+  ],
+  "explorers": [
+    {
+      "name": "CONET Scan",
+      "url": "https://scan.conet.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://conet.network"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "CarrChain Testnet",
+  "chain": "CarrChain Testnet",
+  "shortName": "CarrChain-Testnet",
+  "category": "test",
+  "chainId": 76672,
+  "networkId": 76672,
+  "nativeCurrency": {
+    "name": "CarrChain Coin",
+    "symbol": "CARR",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-testnet.carrchain.io"
+  ],
+  "explorers": [
+    {
+      "name": "tracehawk",
+      "url": "https://testnet.carrscan.io",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://carrchain.io"
+}

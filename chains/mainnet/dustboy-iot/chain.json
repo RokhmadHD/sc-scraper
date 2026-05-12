@@ -1,0 +1,24 @@
+{
+  "name": "DustBoy IoT",
+  "chain": "DUSTBOY",
+  "shortName": "DustBoy_IoT",
+  "category": "mainnet",
+  "chainId": 555888,
+  "networkId": 555888,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "DST",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://dustboy-rpc.jibl2.com/"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://dustboy.jibl2.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.cmuccdc.org/"
+}

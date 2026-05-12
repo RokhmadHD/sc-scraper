@@ -1,0 +1,23 @@
+{
+  "name": "Edge Matrix Chain Testnet",
+  "chain": "EMC Testnet",
+  "shortName": "EMCTestnet",
+  "category": "test",
+  "chainId": 99876,
+  "networkId": 99876,
+  "nativeCurrency": {
+    "name": "Edge Matrix Chain Token",
+    "symbol": "EMC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc1-testnet.emc.network"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://testnet.emcscan.com",
+      "standard": "EIP3091"
+    }
+  ]
+}

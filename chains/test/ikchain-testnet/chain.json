@@ -1,0 +1,24 @@
+{
+  "name": "IKChain Testnet",
+  "chain": "IKChain",
+  "shortName": "ikchain-testnet",
+  "category": "test",
+  "chainId": 4270,
+  "networkId": 4270,
+  "nativeCurrency": {
+    "name": "IKCrypto",
+    "symbol": "IKCr",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet-rpc.ikchain.net"
+  ],
+  "explorers": [
+    {
+      "name": "IKChain Testnet Explorer",
+      "url": "https://testnet-explorer.ikchain.net",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://ikchain.net"
+}

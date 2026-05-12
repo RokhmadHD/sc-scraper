@@ -1,0 +1,30 @@
+{
+  "name": "River",
+  "chain": "river",
+  "shortName": "river",
+  "category": "mainnet",
+  "chainId": 550,
+  "networkId": 550,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet.rpc.river.build",
+    "https://towns-mainnet.calderachain.xyz/http"
+  ],
+  "explorers": [
+    {
+      "name": "River Explorer",
+      "url": "https://explorer.river.build",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "River Caldera Explorer",
+      "url": "https://towns-mainnet.calderaexplorer.xyz",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.river.build"
+}

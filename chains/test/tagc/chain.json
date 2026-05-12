@@ -1,0 +1,25 @@
+{
+  "name": "Argochain Testnet",
+  "chain": "Argochain",
+  "shortName": "tAGC",
+  "category": "test",
+  "chainId": 1298,
+  "networkId": 1298,
+  "nativeCurrency": {
+    "name": "Argocoin",
+    "symbol": "AGC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-testnet.devolvedai.com",
+    "https://test-rpc.devolvedai.com"
+  ],
+  "explorers": [
+    {
+      "name": "Argochain Test Scanner",
+      "url": "https://test-scanner.devolvedai.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://devolvedai.com"
+}

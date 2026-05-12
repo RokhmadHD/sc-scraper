@@ -1,0 +1,24 @@
+{
+  "name": "Whitechain",
+  "chain": "WBT",
+  "shortName": "wbt",
+  "category": "mainnet",
+  "chainId": 1875,
+  "networkId": 1875,
+  "nativeCurrency": {
+    "name": "WhiteBIT Coin",
+    "symbol": "WBT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.whitechain.io"
+  ],
+  "explorers": [
+    {
+      "name": "whitechain-explorer",
+      "url": "https://explorer.whitechain.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://whitechain.io"
+}

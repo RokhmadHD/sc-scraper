@@ -1,0 +1,29 @@
+{
+  "name": "BlockX Mainnet",
+  "chain": "blockx",
+  "shortName": "bcx",
+  "category": "mainnet",
+  "chainId": 19191,
+  "networkId": 19191,
+  "nativeCurrency": {
+    "name": "BCX",
+    "symbol": "BCX",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://web3.blockxnet.com"
+  ],
+  "explorers": [
+    {
+      "name": "BlockX EVM Explorer (Blockscout)",
+      "url": "https://explorer-evm.blockxnet.com",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "BlockX Cosmos Explorer (Ping)",
+      "url": "https://ping.pub/BlockX",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://www.blockxnet.com/"
+}

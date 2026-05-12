@@ -1,0 +1,24 @@
+{
+  "name": "VEX EVM TESTNET",
+  "chain": "vex",
+  "shortName": "VEX",
+  "category": "test",
+  "chainId": 5522,
+  "networkId": 5522,
+  "nativeCurrency": {
+    "name": "VEX EVM TESTNET",
+    "symbol": "VEX",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet.vexascan.com/evmapi"
+  ],
+  "explorers": [
+    {
+      "name": "Vexascan-EVM-TestNet",
+      "url": "https://testnet.vexascan.com/evmexplorer",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://vexanium.com"
+}

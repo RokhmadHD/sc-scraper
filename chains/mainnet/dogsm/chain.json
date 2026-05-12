@@ -1,0 +1,24 @@
+{
+  "name": "Dogcoin Mainnet",
+  "chain": "DOGS",
+  "shortName": "DOGSm",
+  "category": "mainnet",
+  "chainId": 1117,
+  "networkId": 1117,
+  "nativeCurrency": {
+    "name": "Dogcoin",
+    "symbol": "DOGS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet-rpc.dogcoin.me"
+  ],
+  "explorers": [
+    {
+      "name": "Dogcoin",
+      "url": "https://explorer.dogcoin.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://dogcoin.network"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Rangers Protocol Mainnet",
+  "chain": "Rangers",
+  "shortName": "rpg",
+  "category": "mainnet",
+  "chainId": 2025,
+  "networkId": 2025,
+  "nativeCurrency": {
+    "name": "Rangers Protocol Gas",
+    "symbol": "RPG",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet.rangersprotocol.com/api/jsonrpc"
+  ],
+  "explorers": [
+    {
+      "name": "rangersscan",
+      "url": "https://scan.rangersprotocol.com",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://rangersprotocol.com"
+}

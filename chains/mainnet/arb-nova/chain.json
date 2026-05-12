@@ -1,0 +1,25 @@
+{
+  "name": "Arbitrum Nova",
+  "chain": "ETH",
+  "shortName": "arb-nova",
+  "category": "mainnet",
+  "chainId": 42170,
+  "networkId": 42170,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://arbitrum-nova-rpc.publicnode.com",
+    "https://nova.arbitrum.io/rpc"
+  ],
+  "explorers": [
+    {
+      "name": "Arbitrum Nova Chain Explorer",
+      "url": "https://nova-explorer.arbitrum.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://arbitrum.io"
+}

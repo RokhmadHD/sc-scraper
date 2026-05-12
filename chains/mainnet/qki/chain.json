@@ -1,0 +1,29 @@
+{
+  "name": "quarkblockchain",
+  "chain": "QKI",
+  "shortName": "qki",
+  "category": "mainnet",
+  "chainId": 20181205,
+  "networkId": 20181205,
+  "nativeCurrency": {
+    "name": "quarkblockchain Native Token",
+    "symbol": "QKI",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc1.qkirpc.org",
+    "https://rpc1.qkiscan.io",
+    "https://rpc2.qkirpc.org",
+    "https://rpc2.qkiscan.io",
+    "https://rpc3.qkirpc.org",
+    "https://rpc3.qkiscan.io"
+  ],
+  "explorers": [
+    {
+      "name": "qkiscan",
+      "url": "https://qkiscan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://quarkblockchain.org/"
+}

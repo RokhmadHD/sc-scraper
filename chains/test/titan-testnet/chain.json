@@ -1,0 +1,23 @@
+{
+  "name": "SKALE Titan Hub Testnet",
+  "chain": "aware-fake-trim-testnet",
+  "shortName": "titan-testnet",
+  "category": "test",
+  "chainId": 1020352220,
+  "networkId": 1020352220,
+  "nativeCurrency": {
+    "name": "sFUEL",
+    "symbol": "sFUEL",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet.skalenodes.com/v1/aware-fake-trim-testnet"
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout",
+      "url": "https://aware-fake-trim-testnet.explorer.testnet.skalenodes.com",
+      "standard": "EIP3091"
+    }
+  ]
+}

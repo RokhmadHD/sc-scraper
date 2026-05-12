@@ -1,0 +1,24 @@
+{
+  "name": "Quai Network Mainnet",
+  "chain": "QUAI",
+  "shortName": "quai",
+  "category": "mainnet",
+  "chainId": 9,
+  "networkId": 9,
+  "nativeCurrency": {
+    "name": "Quai",
+    "symbol": "QUAI",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.quai.network/cyprus1"
+  ],
+  "explorers": [
+    {
+      "name": "Quaiscan",
+      "url": "https://quaiscan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://qu.ai"
+}

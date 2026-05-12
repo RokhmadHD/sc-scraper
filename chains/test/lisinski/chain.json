@@ -1,0 +1,17 @@
+{
+  "name": "Lisinski",
+  "chain": "CRO",
+  "shortName": "lisinski",
+  "category": "test",
+  "chainId": 385,
+  "networkId": 385,
+  "nativeCurrency": {
+    "name": "Lisinski Ether",
+    "symbol": "LISINS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-bitfalls1.lisinski.online"
+  ],
+  "infoURL": "https://lisinski.online"
+}

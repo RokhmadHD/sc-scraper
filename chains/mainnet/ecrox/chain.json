@@ -1,0 +1,24 @@
+{
+  "name": "Ecrox Chain Mainnet",
+  "chain": "Ecrox Chain",
+  "shortName": "ecrox",
+  "category": "mainnet",
+  "chainId": 988207,
+  "networkId": 988207,
+  "nativeCurrency": {
+    "name": "ECROX COIN",
+    "symbol": "ECROX",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet-rpc.ecroxscan.com/"
+  ],
+  "explorers": [
+    {
+      "name": "Ecrox Chain Explorer",
+      "url": "https://ecroxscan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://ecroxcoin.io/"
+}

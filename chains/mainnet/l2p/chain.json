@@ -1,0 +1,24 @@
+{
+  "name": "L2 Protocol Mainnet",
+  "chain": "L2P",
+  "shortName": "l2p",
+  "category": "mainnet",
+  "chainId": 12216,
+  "networkId": 12216,
+  "nativeCurrency": {
+    "name": "L2P",
+    "symbol": "L2P",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.l2protocol.com"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://l2pscan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://l2protocol.com"
+}

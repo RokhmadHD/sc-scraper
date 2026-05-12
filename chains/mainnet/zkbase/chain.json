@@ -1,0 +1,24 @@
+{
+  "name": "ZKBase Mainnet",
+  "chain": "ETH",
+  "shortName": "zkbase",
+  "category": "mainnet",
+  "chainId": 1456,
+  "networkId": 1456,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet-rpc.zkbase.app"
+  ],
+  "explorers": [
+    {
+      "name": "ZKbase Block Explorer",
+      "url": "https://explorer.zkbase.app",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://zkbase.org/"
+}

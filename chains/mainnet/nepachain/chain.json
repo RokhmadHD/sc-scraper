@@ -1,0 +1,18 @@
+{
+  "name": "Nepachain",
+  "chain": "Nepachain",
+  "shortName": "Nepachain",
+  "category": "mainnet",
+  "chainId": 9770,
+  "networkId": 9770,
+  "nativeCurrency": {
+    "name": "Nepacoin",
+    "symbol": "NPC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://network.nepachain.com",
+    "https://network.nepachain.org"
+  ],
+  "infoURL": "https://docs.nepachain.org/"
+}

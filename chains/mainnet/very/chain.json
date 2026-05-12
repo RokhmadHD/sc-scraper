@@ -1,0 +1,24 @@
+{
+  "name": "VERY Mainnet",
+  "chain": "VERY Mainnet",
+  "shortName": "very",
+  "category": "mainnet",
+  "chainId": 4613,
+  "networkId": 4613,
+  "nativeCurrency": {
+    "name": "VERY",
+    "symbol": "VERY",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.verylabs.io"
+  ],
+  "explorers": [
+    {
+      "name": "VERY explorer",
+      "url": "https://www.veryscan.io",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://www.verylabs.io/"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Swan Chain Mainnet",
+  "chain": "SWAN",
+  "shortName": "Swan",
+  "category": "mainnet",
+  "chainId": 254,
+  "networkId": 254,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet-rpc-01.swanchain.org",
+    "https://mainnet-rpc-02.swanchain.org",
+    "https://mainnet-rpc-03.swanchain.org",
+    "https://mainnet-rpc-04.swanchain.org",
+    "https://mainnet-rpc.swanchain.org"
+  ],
+  "explorers": [
+    {
+      "name": "Swanchain Explorer",
+      "url": "https://swanscan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://swanchain.io/"
+}

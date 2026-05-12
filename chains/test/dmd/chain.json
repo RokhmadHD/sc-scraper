@@ -1,0 +1,24 @@
+{
+  "name": "DMD Diamond",
+  "chain": "DMD",
+  "shortName": "dmd",
+  "category": "test",
+  "chainId": 17771,
+  "networkId": 17771,
+  "nativeCurrency": {
+    "name": "DMD",
+    "symbol": "DMD",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.bit.diamonds"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.bit.diamonds",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://bit.diamonds"
+}

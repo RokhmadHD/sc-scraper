@@ -1,0 +1,24 @@
+{
+  "name": "NOW Chain Mainnet",
+  "chain": "NOW",
+  "shortName": "now",
+  "category": "mainnet",
+  "chainId": 2488,
+  "networkId": 2488,
+  "nativeCurrency": {
+    "name": "NOW Coin",
+    "symbol": "NOW",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.nowscan.io"
+  ],
+  "explorers": [
+    {
+      "name": "NOW Scan",
+      "url": "https://nowscan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://nowchain.co"
+}

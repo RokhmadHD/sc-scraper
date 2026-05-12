@@ -1,0 +1,24 @@
+{
+  "name": "Mande Network Mainnet",
+  "chain": "Mande",
+  "shortName": "Mande",
+  "category": "mainnet",
+  "chainId": 18071918,
+  "networkId": 18071918,
+  "nativeCurrency": {
+    "name": "Mand",
+    "symbol": "MAND",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mande-mainnet.public.blastapi.io"
+  ],
+  "explorers": [
+    {
+      "name": "FYI",
+      "url": "https://dym.fyi/r/mande",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://mande.network/"
+}

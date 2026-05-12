@@ -1,0 +1,24 @@
+{
+  "name": "Camp Network Testnet V2",
+  "chain": "ETH",
+  "shortName": "CampV2",
+  "category": "test",
+  "chainId": 325000,
+  "networkId": 325000,
+  "nativeCurrency": {
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-campnetwork.xyz"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://camp-network-testnet.blockscout.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://docs.campnetwork.xyz/"
+}

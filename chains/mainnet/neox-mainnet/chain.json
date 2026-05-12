@@ -1,0 +1,25 @@
+{
+  "name": "Neo X Mainnet",
+  "chain": "Neo X",
+  "shortName": "neox-mainnet",
+  "category": "mainnet",
+  "chainId": 47763,
+  "networkId": 47763,
+  "nativeCurrency": {
+    "name": "Gas",
+    "symbol": "GAS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet-1.rpc.banelabs.org",
+    "https://mainnet-2.rpc.banelabs.org"
+  ],
+  "explorers": [
+    {
+      "name": "Neo X - Explorer",
+      "url": "https://xexplorer.neo.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://neo.org/"
+}

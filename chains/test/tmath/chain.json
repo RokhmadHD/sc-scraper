@@ -1,0 +1,17 @@
+{
+  "name": "MathChain Testnet",
+  "chain": "MATH",
+  "shortName": "tMATH",
+  "category": "test",
+  "chainId": 1140,
+  "networkId": 1140,
+  "nativeCurrency": {
+    "name": "MathChain",
+    "symbol": "MATH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://galois-hk.maiziqianbao.net/rpc"
+  ],
+  "infoURL": "https://mathchain.org"
+}

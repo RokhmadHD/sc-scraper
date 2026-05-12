@@ -1,0 +1,24 @@
+{
+  "name": "Lamina1 Identity Testnet",
+  "chain": "Lamina1 Identity Testnet",
+  "shortName": "lamina1idtest",
+  "category": "test",
+  "chainId": 767368,
+  "networkId": 767368,
+  "nativeCurrency": {
+    "name": "L1ID Test",
+    "symbol": "L1IDT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://subnets.avax.network/lamina1id/testnet/rpc"
+  ],
+  "explorers": [
+    {
+      "name": "Lamina1 Identity Testnet Explorer",
+      "url": "https://subnets-test.avax.network/lamina1id",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://fuji.lamina1.com/"
+}

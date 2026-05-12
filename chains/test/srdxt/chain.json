@@ -1,0 +1,24 @@
+{
+  "name": "Sardis Testnet",
+  "chain": "SRDX",
+  "shortName": "SRDXt",
+  "category": "test",
+  "chainId": 11612,
+  "networkId": 11612,
+  "nativeCurrency": {
+    "name": "Sardis",
+    "symbol": "SRDX",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet-rpc.sardisnetwork.com"
+  ],
+  "explorers": [
+    {
+      "name": "Sardis",
+      "url": "https://testnet.sardisnetwork.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://mysardis.com"
+}

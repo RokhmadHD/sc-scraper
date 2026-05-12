@@ -1,0 +1,24 @@
+{
+  "name": "X1 Network",
+  "chain": "X1",
+  "shortName": "x1-testnet",
+  "category": "test",
+  "chainId": 204005,
+  "networkId": 204005,
+  "nativeCurrency": {
+    "name": "XN",
+    "symbol": "XN",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://x1-testnet.xen.network"
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout",
+      "url": "https://explorer.x1-testnet.xen.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://docs.xen.network/go-x1/"
+}

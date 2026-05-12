@@ -1,0 +1,24 @@
+{
+  "name": "CMP-Testnet",
+  "chain": "CMP",
+  "shortName": "cmp",
+  "category": "test",
+  "chainId": 512512,
+  "networkId": 512512,
+  "nativeCurrency": {
+    "name": "Caduceus Testnet Token",
+    "symbol": "CMP",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://galaxy.block.caduceus.foundation"
+  ],
+  "explorers": [
+    {
+      "name": "Galaxy Scan",
+      "url": "https://galaxy.scan.caduceus.foundation",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://caduceus.foundation/"
+}

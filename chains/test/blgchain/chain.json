@@ -1,0 +1,17 @@
+{
+  "name": "BLG Testnet",
+  "chain": "BLG",
+  "shortName": "blgchain",
+  "category": "test",
+  "chainId": 12321,
+  "networkId": 12321,
+  "nativeCurrency": {
+    "name": "Blg",
+    "symbol": "BLG",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.blgchain.com"
+  ],
+  "infoURL": "https://blgchain.com"
+}

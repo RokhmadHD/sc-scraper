@@ -1,0 +1,28 @@
+{
+  "name": "Orenium Testnet Protocol",
+  "chain": "ORE",
+  "shortName": "tore",
+  "category": "test",
+  "chainId": 8890,
+  "networkId": 8890,
+  "nativeCurrency": {
+    "name": "ORENIUM",
+    "symbol": "tORE",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://oredex-node.oredex.finance",
+    "https://rpc-dev-testnet.orenium.org/",
+    "https://rpc-orc.oredex.finance",
+    "https://rpc-testnet.orenium.org/",
+    "https://testnet-rpc.oredex.finance"
+  ],
+  "explorers": [
+    {
+      "name": "ORE Testnet Explorer",
+      "url": "https://testnet.oreniumscan.org",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://orenium.org"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Cascadia Testnet",
+  "chain": "Cascadia",
+  "shortName": "cascadia",
+  "category": "test",
+  "chainId": 6102,
+  "networkId": 6102,
+  "nativeCurrency": {
+    "name": "CC",
+    "symbol": "tCC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet.cascadia.foundation"
+  ],
+  "explorers": [
+    {
+      "name": "Cascadia EVM Explorer",
+      "url": "https://explorer.cascadia.foundation",
+      "standard": "none"
+    },
+    {
+      "name": "Cascadia Cosmos Explorer",
+      "url": "https://validator.cascadia.foundation",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://www.cascadia.foundation"
+}

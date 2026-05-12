@@ -1,0 +1,25 @@
+{
+  "name": "Metis Sepolia Testnet",
+  "chain": "ETH",
+  "shortName": "metis-sepolia",
+  "category": "test",
+  "chainId": 59902,
+  "networkId": 59902,
+  "nativeCurrency": {
+    "name": "tMetis",
+    "symbol": "tMETIS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://metis-sepolia-rpc.publicnode.com",
+    "https://sepolia.metisdevops.link"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://sepolia-explorer.metisdevops.link",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.metis.io"
+}

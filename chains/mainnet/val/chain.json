@@ -1,0 +1,17 @@
+{
+  "name": "Valorbit",
+  "chain": "VAL",
+  "shortName": "val",
+  "category": "mainnet",
+  "chainId": 38,
+  "networkId": 38,
+  "nativeCurrency": {
+    "name": "Valorbit",
+    "symbol": "VAL",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.valorbit.com/v2"
+  ],
+  "infoURL": "https://valorbit.com"
+}

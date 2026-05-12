@@ -1,0 +1,25 @@
+{
+  "name": "Beam Testnet",
+  "chain": "BEAM",
+  "shortName": "beam-testnet",
+  "category": "test",
+  "chainId": 13337,
+  "networkId": 13337,
+  "nativeCurrency": {
+    "name": "Beam",
+    "symbol": "BEAM",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://build.onbeam.com/rpc/testnet",
+    "https://subnets.avax.network/beam/testnet/rpc"
+  ],
+  "explorers": [
+    {
+      "name": "Beam Explorer",
+      "url": "https://subnets-test.avax.network/beam",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.onbeam.com"
+}

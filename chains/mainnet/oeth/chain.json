@@ -1,0 +1,42 @@
+{
+  "name": "OP Mainnet",
+  "chain": "ETH",
+  "shortName": "oeth",
+  "category": "mainnet",
+  "chainId": 10,
+  "networkId": 10,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet.optimism.io",
+    "https://optimism-rpc.publicnode.com",
+    "https://optimism.drpc.org",
+    "https://optimism.gateway.tenderly.co"
+  ],
+  "explorers": [
+    {
+      "name": "etherscan",
+      "url": "https://optimistic.etherscan.io",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "blockscout",
+      "url": "https://optimism.blockscout.com",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "dexguru",
+      "url": "https://optimism.dex.guru",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "Routescan",
+      "url": "https://mainnet.superscan.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://optimism.io"
+}

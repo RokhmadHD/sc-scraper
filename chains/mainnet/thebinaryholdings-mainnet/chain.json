@@ -1,0 +1,23 @@
+{
+  "name": "Binary Mainnet",
+  "chain": "The Binary Holdings",
+  "shortName": "thebinaryholdings-mainnet",
+  "category": "mainnet",
+  "chainId": 624,
+  "networkId": 624,
+  "nativeCurrency": {
+    "name": "Binary Token",
+    "symbol": "BNRY",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.zero.thebinaryholdings.com"
+  ],
+  "explorers": [
+    {
+      "name": "Tracehawk",
+      "url": "https://explorer.thebinaryholdings.com",
+      "standard": "none"
+    }
+  ]
+}

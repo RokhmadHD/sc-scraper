@@ -1,0 +1,17 @@
+{
+  "name": "Kortho Mainnet",
+  "chain": "Kortho Chain",
+  "shortName": "ktoc",
+  "category": "mainnet",
+  "chainId": 2559,
+  "networkId": 2559,
+  "nativeCurrency": {
+    "name": "KorthoChain",
+    "symbol": "KTO",
+    "decimals": 11
+  },
+  "rpc": [
+    "https://www.kortho-chain.com"
+  ],
+  "infoURL": "https://www.kortho.io/"
+}

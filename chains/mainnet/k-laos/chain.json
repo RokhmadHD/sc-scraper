@@ -1,0 +1,24 @@
+{
+  "name": "K-LAOS",
+  "chain": "K-LAOS",
+  "shortName": "k-laos",
+  "category": "mainnet",
+  "chainId": 2718,
+  "networkId": 2718,
+  "nativeCurrency": {
+    "name": "KLAOS",
+    "symbol": "KLAOS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.klaos.laosfoundation.io"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://blockscout.klaos.laosfoundation.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.laosfoundation.io/"
+}

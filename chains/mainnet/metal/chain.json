@@ -1,0 +1,24 @@
+{
+  "name": "Metal C-Chain",
+  "chain": "Metal",
+  "shortName": "metal",
+  "category": "mainnet",
+  "chainId": 381931,
+  "networkId": 381931,
+  "nativeCurrency": {
+    "name": "Metal",
+    "symbol": "METAL",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://api.metalblockchain.org/ext/bc/C/rpc"
+  ],
+  "explorers": [
+    {
+      "name": "metalscan",
+      "url": "https://metalscan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.metalblockchain.org/"
+}

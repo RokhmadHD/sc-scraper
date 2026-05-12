@@ -1,0 +1,24 @@
+{
+  "name": "AppLayer Testnet",
+  "chain": "AppLayer",
+  "shortName": "applayer-testnet",
+  "category": "test",
+  "chainId": 75338,
+  "networkId": 75338,
+  "nativeCurrency": {
+    "name": "AppLayer",
+    "symbol": "APPL",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet-api.applayer.com"
+  ],
+  "explorers": [
+    {
+      "name": "Applayer Testnet Explorer",
+      "url": "https://testnet-explorer.applayer.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://applayer.com"
+}

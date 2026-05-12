@@ -1,0 +1,25 @@
+{
+  "name": "Tenet",
+  "chain": "TENET",
+  "shortName": "tenet",
+  "category": "mainnet",
+  "chainId": 1559,
+  "networkId": 1559,
+  "nativeCurrency": {
+    "name": "TENET",
+    "symbol": "TENET",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.tenet.org",
+    "https://tenet-evm.publicnode.com"
+  ],
+  "explorers": [
+    {
+      "name": "TenetScan Mainnet",
+      "url": "https://tenetscan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://tenet.org/"
+}

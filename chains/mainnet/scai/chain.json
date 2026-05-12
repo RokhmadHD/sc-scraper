@@ -1,0 +1,24 @@
+{
+  "name": "SecureChain Mainnet",
+  "chain": "SCAI",
+  "shortName": "scai",
+  "category": "mainnet",
+  "chainId": 34,
+  "networkId": 34,
+  "nativeCurrency": {
+    "name": "SecureChain",
+    "symbol": "SCAI",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet-rpc.scai.network"
+  ],
+  "explorers": [
+    {
+      "name": "SecureChain Mainnet",
+      "url": "https://explorer.securechain.ai",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://securechain.ai"
+}

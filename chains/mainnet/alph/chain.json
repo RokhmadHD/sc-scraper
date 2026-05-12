@@ -1,0 +1,24 @@
+{
+  "name": "Alph Network",
+  "chain": "ALPH",
+  "shortName": "alph",
+  "category": "mainnet",
+  "chainId": 8738,
+  "networkId": 8738,
+  "nativeCurrency": {
+    "name": "Alph Network",
+    "symbol": "ALPH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.alph.network"
+  ],
+  "explorers": [
+    {
+      "name": "alphscan",
+      "url": "https://explorer.alph.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://alph.network"
+}

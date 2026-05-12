@@ -1,0 +1,35 @@
+{
+  "name": "Hedera Mainnet",
+  "chain": "Hedera",
+  "shortName": "hedera-mainnet",
+  "category": "mainnet",
+  "chainId": 295,
+  "networkId": 295,
+  "nativeCurrency": {
+    "name": "hbar",
+    "symbol": "HBAR",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://hedera.linkpool.pro",
+    "https://mainnet.hashio.io/api"
+  ],
+  "explorers": [
+    {
+      "name": "Arkhia Explorer",
+      "url": "https://explorer.arkhia.io",
+      "standard": "none"
+    },
+    {
+      "name": "DragonGlass",
+      "url": "https://app.dragonglass.me",
+      "standard": "none"
+    },
+    {
+      "name": "Hedera Explorer",
+      "url": "https://hederaexplorer.io",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://hedera.com"
+}

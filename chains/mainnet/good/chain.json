@@ -1,0 +1,17 @@
+{
+  "name": "GoodData Mainnet",
+  "chain": "GooD",
+  "shortName": "GooD",
+  "category": "mainnet",
+  "chainId": 33,
+  "networkId": 33,
+  "nativeCurrency": {
+    "name": "GoodData Mainnet Ether",
+    "symbol": "GooD",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.goodata.io"
+  ],
+  "infoURL": "https://www.goodata.org"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "QuarkChain L2 Beta Testnet",
+  "chain": "QuarkChain",
+  "shortName": "qkcl2-b",
+  "category": "test",
+  "chainId": 3335,
+  "networkId": 3335,
+  "nativeCurrency": {
+    "name": "QKC",
+    "symbol": "QKC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.beta.testnet.l2.quarkchain.io:8545"
+  ],
+  "explorers": [
+    {
+      "name": "quarkchain-beta-test",
+      "url": "https://explorer.beta.testnet.l2.quarkchain.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.quarkchain.io"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Rivalz",
+  "chain": "rivalz",
+  "shortName": "rivalz",
+  "category": "mainnet",
+  "chainId": 753,
+  "networkId": 753,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rivalz.calderachain.xyz/http"
+  ],
+  "explorers": [
+    {
+      "name": "Rivalz Caldera Explorer",
+      "url": "https://rivalz.calderaexplorer.xyz",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://rivalz.hub.caldera.xyz"
+}

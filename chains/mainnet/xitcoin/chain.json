@@ -1,0 +1,17 @@
+{
+  "name": "Xitcoin",
+  "chain": "XITCOIN",
+  "shortName": "Xitcoin",
+  "category": "mainnet",
+  "chainId": 101088,
+  "networkId": 101088,
+  "nativeCurrency": {
+    "name": "Xitcoin",
+    "symbol": "$XTC",
+    "decimals": 8
+  },
+  "rpc": [
+    "https://network.xitcoin.org"
+  ],
+  "infoURL": "https://docs.xitcoin.org/"
+}

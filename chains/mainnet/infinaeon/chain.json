@@ -1,0 +1,24 @@
+{
+  "name": "Infinaeon",
+  "chain": "Infinaeon",
+  "shortName": "Infinaeon",
+  "category": "mainnet",
+  "chainId": 420000,
+  "networkId": 420000,
+  "nativeCurrency": {
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.infinaeon.com"
+  ],
+  "explorers": [
+    {
+      "name": "tracehawk",
+      "url": "https://explorer.infinaeon.com",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "hhttps://rpc.infinaeon.com"
+}

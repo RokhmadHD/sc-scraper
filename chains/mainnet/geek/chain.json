@@ -1,0 +1,24 @@
+{
+  "name": "GEEK Verse Mainnet",
+  "chain": "GEEK",
+  "shortName": "GEEK",
+  "category": "mainnet",
+  "chainId": 75512,
+  "networkId": 75512,
+  "nativeCurrency": {
+    "name": "OAS",
+    "symbol": "OAS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.geekout-pte.com"
+  ],
+  "explorers": [
+    {
+      "name": "Geek Explorer",
+      "url": "https://explorer.geekout-pte.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.geekout-pte.com"
+}

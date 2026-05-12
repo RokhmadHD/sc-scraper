@@ -1,0 +1,24 @@
+{
+  "name": "Vitruveo Mainnet",
+  "chain": "Vitruveo",
+  "shortName": "vitruveo",
+  "category": "mainnet",
+  "chainId": 1490,
+  "networkId": 1490,
+  "nativeCurrency": {
+    "name": "Vitruveo Coin",
+    "symbol": "VTRU",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.vitruveo.xyz"
+  ],
+  "explorers": [
+    {
+      "name": "Vitruveo Explorer",
+      "url": "https://explorer.vitruveo.xyz",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.vitruveo.xyz"
+}

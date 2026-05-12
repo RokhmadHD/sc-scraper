@@ -1,0 +1,24 @@
+{
+  "name": "Raba Network Mainnet",
+  "chain": "Raba",
+  "shortName": "raba",
+  "category": "mainnet",
+  "chainId": 7484,
+  "networkId": 7484,
+  "nativeCurrency": {
+    "name": "Raba",
+    "symbol": "RABA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.x.raba.app/"
+  ],
+  "explorers": [
+    {
+      "name": "raba",
+      "url": "https://x.raba.app/explorer",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://x.raba.app/"
+}

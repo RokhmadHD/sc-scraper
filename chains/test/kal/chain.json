@@ -1,0 +1,17 @@
+{
+  "name": "Metadium Testnet",
+  "chain": "META",
+  "shortName": "kal",
+  "category": "test",
+  "chainId": 12,
+  "networkId": 12,
+  "nativeCurrency": {
+    "name": "Metadium Testnet Ether",
+    "symbol": "KAL",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://api.metadium.com/dev"
+  ],
+  "infoURL": "https://metadium.com"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Dxchain Mainnet",
+  "chain": "Dxchain",
+  "shortName": "dx",
+  "category": "mainnet",
+  "chainId": 36,
+  "networkId": 36,
+  "nativeCurrency": {
+    "name": "Dxchain",
+    "symbol": "DX",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet.dxchain.com"
+  ],
+  "explorers": [
+    {
+      "name": "dxscan",
+      "url": "https://dxscan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.dxchain.com/"
+}

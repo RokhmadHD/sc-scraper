@@ -1,0 +1,24 @@
+{
+  "name": "Quantum Chain Testnet",
+  "chain": "tQNET",
+  "shortName": "tqnet",
+  "category": "test",
+  "chainId": 12890,
+  "networkId": 12890,
+  "nativeCurrency": {
+    "name": "Quantum Chain",
+    "symbol": "tQNET",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet-rpc.quantumscan.org"
+  ],
+  "explorers": [
+    {
+      "name": "Quantum Scan Testnet",
+      "url": "https://testnet.quantumscan.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://quantumnetwork.gg"
+}

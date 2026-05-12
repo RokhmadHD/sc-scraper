@@ -1,0 +1,24 @@
+{
+  "name": "Ultron Mainnet",
+  "chain": "Ultron",
+  "shortName": "UtronMainnet",
+  "category": "mainnet",
+  "chainId": 1231,
+  "networkId": 1231,
+  "nativeCurrency": {
+    "name": "Ultron",
+    "symbol": "ULX",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://ultron-rpc.net"
+  ],
+  "explorers": [
+    {
+      "name": "Ultron Explorer",
+      "url": "https://ulxscan.com",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://ultron.foundation"
+}

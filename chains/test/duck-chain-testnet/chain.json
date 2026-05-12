@@ -1,0 +1,30 @@
+{
+  "name": "DuckChain Testnet",
+  "chain": "DuckChain",
+  "shortName": "Duck-Chain-Testnet",
+  "category": "test",
+  "chainId": 202105,
+  "networkId": 202105,
+  "nativeCurrency": {
+    "name": "TON",
+    "symbol": "TON",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet-rpc-hk.duckchain.io",
+    "https://testnet-rpc.duckchain.io"
+  ],
+  "explorers": [
+    {
+      "name": "DuckChain Scan",
+      "url": "https://www.okx.com/web3/explorer/duckchain-testnet",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "DuckChain Scan",
+      "url": "https://www.oklink.com/duckchain-testnet",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://duckchain.io"
+}

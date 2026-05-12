@@ -1,0 +1,24 @@
+{
+  "name": "unreal",
+  "chain": "unreal",
+  "shortName": "unreal",
+  "category": "mainnet",
+  "chainId": 18233,
+  "networkId": 18233,
+  "nativeCurrency": {
+    "name": "unreal Ether",
+    "symbol": "reETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.unreal-orbit.gelato.digital"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://unreal.blockscout.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://raas.gelato.network/rollups/details/public/unreal"
+}

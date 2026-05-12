@@ -1,0 +1,25 @@
+{
+  "name": "Carbonium Testnet Network",
+  "chain": "CBR",
+  "shortName": "tcbr",
+  "category": "test",
+  "chainId": 4040,
+  "networkId": 4040,
+  "nativeCurrency": {
+    "name": "Carbonium",
+    "symbol": "tCBR",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-dev.carbonium.network/",
+    "https://server-testnet.carbonium.network"
+  ],
+  "explorers": [
+    {
+      "name": "Carbonium Network tesnet Explorer",
+      "url": "https://testnet.carboniumscan.com",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://carbonium.network"
+}

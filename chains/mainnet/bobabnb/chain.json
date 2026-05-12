@@ -1,0 +1,27 @@
+{
+  "name": "Boba BNB Mainnet",
+  "chain": "Boba BNB Mainnet",
+  "shortName": "BobaBnb",
+  "category": "mainnet",
+  "chainId": 56288,
+  "networkId": 56288,
+  "nativeCurrency": {
+    "name": "Boba Token",
+    "symbol": "BOBA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://bnb.boba.network",
+    "https://boba-bnb.gateway.tenderly.co/",
+    "https://gateway.tenderly.co/public/boba-bnb",
+    "https://replica.bnb.boba.network"
+  ],
+  "explorers": [
+    {
+      "name": "Boba BNB block explorer",
+      "url": "https://bobascan.com",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://boba.network"
+}

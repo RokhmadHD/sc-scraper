@@ -1,0 +1,17 @@
+{
+  "name": "Charmverse Testnet",
+  "chain": "Charmverse Testnet",
+  "shortName": "charmverse-testnet",
+  "category": "test",
+  "chainId": 5104,
+  "networkId": 5104,
+  "nativeCurrency": {
+    "name": "ETH",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-charmverse-testnet-g6blnaebes.t.conduit.xyz"
+  ],
+  "infoURL": "https://charmverse.io/"
+}

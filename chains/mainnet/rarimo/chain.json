@@ -1,0 +1,24 @@
+{
+  "name": "Rarimo",
+  "chain": "ETH",
+  "shortName": "rarimo",
+  "category": "mainnet",
+  "chainId": 7368,
+  "networkId": 7368,
+  "nativeCurrency": {
+    "name": "Rarimo Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://l2.rarimo.com"
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout",
+      "url": "https://scan.rarimo.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://rarimo.com"
+}

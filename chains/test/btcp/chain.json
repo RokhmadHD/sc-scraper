@@ -1,0 +1,24 @@
+{
+  "name": "Bitcoin Protocol Testnet",
+  "chain": "BTCP Testnet",
+  "shortName": "BTCP",
+  "category": "test",
+  "chainId": 1227,
+  "networkId": 1227,
+  "nativeCurrency": {
+    "name": "BTC Protocol",
+    "symbol": "BTCP",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet-chain.btcprotocol.io/"
+  ],
+  "explorers": [
+    {
+      "name": "BTCP explorer",
+      "url": "https://explorer.btcprotocol.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://btcprotocol.io/"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "DreyerX Testnet",
+  "chain": "DreyerX",
+  "shortName": "dreyerx-testnet",
+  "category": "test",
+  "chainId": 23452,
+  "networkId": 23452,
+  "nativeCurrency": {
+    "name": "DreyerX",
+    "symbol": "DRX",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet-rpc.dreyerx.com"
+  ],
+  "explorers": [
+    {
+      "name": "drxscan",
+      "url": "https://testnet-scan.dreyerx.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://dreyerx.com"
+}

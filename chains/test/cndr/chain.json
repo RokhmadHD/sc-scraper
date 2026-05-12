@@ -1,0 +1,24 @@
+{
+  "name": "Condrieu",
+  "chain": "ETH",
+  "shortName": "cndr",
+  "category": "test",
+  "chainId": 69420,
+  "networkId": 69420,
+  "nativeCurrency": {
+    "name": "Condrieu Testnet Ether",
+    "symbol": "CTE",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.condrieu.ethdevops.io:8545"
+  ],
+  "explorers": [
+    {
+      "name": "Condrieu explorer",
+      "url": "https://explorer.condrieu.ethdevops.io",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://condrieu.ethdevops.io"
+}

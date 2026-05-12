@@ -1,0 +1,24 @@
+{
+  "name": "Unit Zero Stagenet",
+  "chain": "Unit Zero",
+  "shortName": "unit0-stagenet",
+  "category": "mainnet",
+  "chainId": 88819,
+  "networkId": 88819,
+  "nativeCurrency": {
+    "name": "UNIT0",
+    "symbol": "UNIT0",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-stagenet.unit0.dev"
+  ],
+  "explorers": [
+    {
+      "name": "explorer-stagenet",
+      "url": "https://explorer-stagenet.unit0.dev",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://units.network"
+}

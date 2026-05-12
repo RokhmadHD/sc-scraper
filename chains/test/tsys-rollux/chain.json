@@ -1,0 +1,25 @@
+{
+  "name": "Rollux Testnet",
+  "chain": "SYS",
+  "shortName": "tsys-rollux",
+  "category": "test",
+  "chainId": 57000,
+  "networkId": 57000,
+  "nativeCurrency": {
+    "name": "Testnet Syscoin",
+    "symbol": "TSYS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rollux.rpc.tanenbaum.io",
+    "https://rpc-tanenbaum.rollux.com"
+  ],
+  "explorers": [
+    {
+      "name": "Rollux Testnet Explorer",
+      "url": "https://rollux.tanenbaum.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://rollux.com"
+}

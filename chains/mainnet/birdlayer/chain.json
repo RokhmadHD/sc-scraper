@@ -1,0 +1,25 @@
+{
+  "name": "BirdLayer",
+  "chain": "BirdLayer",
+  "shortName": "birdlayer",
+  "category": "mainnet",
+  "chainId": 53456,
+  "networkId": 53456,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.birdlayer.xyz",
+    "https://rpc1.birdlayer.xyz"
+  ],
+  "explorers": [
+    {
+      "name": "BirdLayer Explorer",
+      "url": "https://scan.birdlayer.xyz",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.dodochain.com"
+}

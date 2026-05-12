@@ -1,0 +1,25 @@
+{
+  "name": "QL1",
+  "chain": "QOM",
+  "shortName": "qom",
+  "category": "mainnet",
+  "chainId": 766,
+  "networkId": 766,
+  "nativeCurrency": {
+    "name": "Shiba Predator",
+    "symbol": "QOM",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://evm-rpc-ql1.foxxone.one",
+    "https://rpc.qom.one"
+  ],
+  "explorers": [
+    {
+      "name": "QL1 Mainnet Explorer",
+      "url": "https://scan.qom.one",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://qom.one"
+}

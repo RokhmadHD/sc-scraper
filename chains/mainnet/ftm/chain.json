@@ -1,0 +1,31 @@
+{
+  "name": "Fantom Opera",
+  "chain": "FTM",
+  "shortName": "ftm",
+  "category": "mainnet",
+  "chainId": 250,
+  "networkId": 250,
+  "nativeCurrency": {
+    "name": "Fantom",
+    "symbol": "FTM",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://fantom-rpc.publicnode.com",
+    "https://fantom.drpc.org",
+    "https://rpc.ftm.tools"
+  ],
+  "explorers": [
+    {
+      "name": "ftmscan",
+      "url": "https://ftmscan.com",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "dexguru",
+      "url": "https://fantom.dex.guru",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://fantom.foundation"
+}

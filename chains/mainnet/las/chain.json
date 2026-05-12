@@ -1,0 +1,18 @@
+{
+  "name": "Living Assets Mainnet",
+  "chain": "LAS",
+  "shortName": "LAS",
+  "category": "mainnet",
+  "chainId": 1440,
+  "networkId": 1440,
+  "nativeCurrency": {
+    "name": "LAS",
+    "symbol": "LAS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://beta.mainnet.livingassets.io/rpc",
+    "https://gamma.mainnet.livingassets.io/rpc"
+  ],
+  "infoURL": "https://dev.livingassets.io/"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Popcateum Mainnet",
+  "chain": "POPCATEUM",
+  "shortName": "popcat",
+  "category": "mainnet",
+  "chainId": 1213,
+  "networkId": 1213,
+  "nativeCurrency": {
+    "name": "Popcat",
+    "symbol": "POP",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://dataseed.popcateum.org"
+  ],
+  "explorers": [
+    {
+      "name": "popcateum explorer",
+      "url": "https://explorer.popcateum.org",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://popcateum.org"
+}

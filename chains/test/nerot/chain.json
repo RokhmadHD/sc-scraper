@@ -1,0 +1,24 @@
+{
+  "name": "NERO Testnet",
+  "chain": "NERO Chain",
+  "shortName": "NEROT",
+  "category": "test",
+  "chainId": 689,
+  "networkId": 689,
+  "nativeCurrency": {
+    "name": "NERO",
+    "symbol": "NERO",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-testnet.nerochain.io"
+  ],
+  "explorers": [
+    {
+      "name": "nero testnet scan",
+      "url": "https://testnet.neroscan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://docs.nerochain.io/"
+}

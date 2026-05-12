@@ -1,0 +1,31 @@
+{
+  "name": "Corn Testnet",
+  "chain": "BTCN",
+  "shortName": "corn-testnet",
+  "category": "test",
+  "chainId": 21000001,
+  "networkId": 21000001,
+  "nativeCurrency": {
+    "name": "Bitcorn",
+    "symbol": "BTCN",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.ankr.com/corn_testnet",
+    "https://testnet-rpc.usecorn.com",
+    "https://testnet.corn-rpc.com"
+  ],
+  "explorers": [
+    {
+      "name": "Corn Testnet Explorer",
+      "url": "https://testnet.cornscan.io",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "Corn Testnet Blockscout",
+      "url": "https://testnet-explorer.usecorn.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://usecorn.com"
+}

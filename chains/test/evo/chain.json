@@ -1,0 +1,24 @@
+{
+  "name": "EVOLVE Testnet",
+  "chain": "EVO",
+  "shortName": "evo",
+  "category": "test",
+  "chainId": 14324,
+  "networkId": 14324,
+  "nativeCurrency": {
+    "name": "Evolve",
+    "symbol": "EVO",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet-rpc.evolveblockchain.io"
+  ],
+  "explorers": [
+    {
+      "name": "Evolve Testnet Explorer",
+      "url": "https://testnet.evolveblockchain.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://evolveblockchain.io"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "ARTIS Testnet tau1",
+  "chain": "ARTIS",
+  "shortName": "atstau",
+  "category": "test",
+  "chainId": 246785,
+  "networkId": 246785,
+  "nativeCurrency": {
+    "name": "ARTIS tau1 Ether",
+    "symbol": "tATS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.tau1.artis.network"
+  ],
+  "infoURL": "https://artis.network"
+}

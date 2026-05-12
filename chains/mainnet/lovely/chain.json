@@ -1,0 +1,24 @@
+{
+  "name": "Lovely Network Mainnet",
+  "chain": "Lovely",
+  "shortName": "LOVELY",
+  "category": "mainnet",
+  "chainId": 730,
+  "networkId": 730,
+  "nativeCurrency": {
+    "name": "Lovely",
+    "symbol": "LOVELY",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.lovely.network"
+  ],
+  "explorers": [
+    {
+      "name": "Lovely Network Mainnet",
+      "url": "https://scan.lovely.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://lovely.network"
+}

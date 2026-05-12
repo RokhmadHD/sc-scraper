@@ -1,0 +1,25 @@
+{
+  "name": "ONFA Chain",
+  "chain": "onfa",
+  "shortName": "onfa",
+  "category": "mainnet",
+  "chainId": 8691942025,
+  "networkId": 8691942025,
+  "nativeCurrency": {
+    "name": "Onfa Coin",
+    "symbol": "OFC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.onfa.io",
+    "https://rpc.onfachain.com"
+  ],
+  "explorers": [
+    {
+      "name": "ONFA Scan",
+      "url": "https://onfascan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://onfa.io"
+}

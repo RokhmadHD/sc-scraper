@@ -1,0 +1,24 @@
+{
+  "name": "Nativ3 Mainnet",
+  "chain": "Nativ3",
+  "shortName": "N3",
+  "category": "mainnet",
+  "chainId": 399,
+  "networkId": 399,
+  "nativeCurrency": {
+    "name": "USNT",
+    "symbol": "USNT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.nativ3.network"
+  ],
+  "explorers": [
+    {
+      "name": "N3scan",
+      "url": "https://scan.nativ3.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://nativ3.network"
+}

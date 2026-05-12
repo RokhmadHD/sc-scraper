@@ -1,0 +1,17 @@
+{
+  "name": "Lightstreams Testnet",
+  "chain": "PHT",
+  "shortName": "tpht",
+  "category": "test",
+  "chainId": 162,
+  "networkId": 162,
+  "nativeCurrency": {
+    "name": "Lightstreams PHT",
+    "symbol": "PHT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://node.sirius.lightstreams.io"
+  ],
+  "infoURL": "https://explorer.sirius.lightstreams.io"
+}

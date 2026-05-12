@@ -1,0 +1,26 @@
+{
+  "name": "Movo Smart Chain Mainnet",
+  "chain": "MOVO",
+  "shortName": "movo",
+  "category": "mainnet",
+  "chainId": 2049,
+  "networkId": 2049,
+  "nativeCurrency": {
+    "name": "Movo Smart Chain",
+    "symbol": "MOVO",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://msc-rpc.movochain.org",
+    "https://msc-rpc.movoscan.com",
+    "https://msc-rpc.movoswap.com"
+  ],
+  "explorers": [
+    {
+      "name": "movoscan",
+      "url": "https://movoscan.com",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://movo.uk"
+}

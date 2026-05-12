@@ -1,0 +1,24 @@
+{
+  "name": "Ting Chain Testnet",
+  "chain": "tingchain",
+  "shortName": "ting-testnet",
+  "category": "test",
+  "chainId": 6666689,
+  "networkId": 6666689,
+  "nativeCurrency": {
+    "name": "Ting",
+    "symbol": "TING",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-testnet.tingscan.com"
+  ],
+  "explorers": [
+    {
+      "name": "TingScan",
+      "url": "https://testnet.tingscan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://tingscan.com"
+}

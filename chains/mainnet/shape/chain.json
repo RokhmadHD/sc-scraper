@@ -1,0 +1,25 @@
+{
+  "name": "Shape",
+  "chain": "ETH",
+  "shortName": "shape",
+  "category": "mainnet",
+  "chainId": 360,
+  "networkId": 360,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet.shape.network",
+    "https://shape-mainnet.g.alchemy.com/public"
+  ],
+  "explorers": [
+    {
+      "name": "shapescan",
+      "url": "https://shapescan.xyz",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://shape.network"
+}

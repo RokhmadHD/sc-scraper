@@ -1,0 +1,17 @@
+{
+  "name": "Radius Testnet",
+  "chain": "Radius",
+  "shortName": "radius-testnet",
+  "category": "test",
+  "chainId": 863,
+  "networkId": 863,
+  "nativeCurrency": {
+    "name": "Useless",
+    "symbol": "USLS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://dev-secure.rpc.theradius.xyz"
+  ],
+  "infoURL": "https://www.theradius.xyz/"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "XferChain Mainnet",
+  "chain": "XferChain Mainnet",
+  "shortName": "DPm",
+  "category": "mainnet",
+  "chainId": 28125,
+  "networkId": 28125,
+  "nativeCurrency": {
+    "name": "Dapo",
+    "symbol": "Dapo",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.xferchain.org"
+  ],
+  "explorers": [
+    {
+      "name": "XferChain Mainnet Explorer",
+      "url": "https://network.xferchain.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://xferchain.org"
+}

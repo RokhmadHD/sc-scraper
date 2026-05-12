@@ -1,0 +1,24 @@
+{
+  "name": "Transparency Solution",
+  "chain": "CLT",
+  "shortName": "clts",
+  "category": "mainnet",
+  "chainId": 179170,
+  "networkId": 179170,
+  "nativeCurrency": {
+    "name": "ClearToken",
+    "symbol": "CLT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-api.transparency.solutions"
+  ],
+  "explorers": [
+    {
+      "name": "Transparency Solution Explorer",
+      "url": "https://blockchain.transparency.solutions",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://transparency.solutions"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Ultra EVM Network",
+  "chain": "Ultra",
+  "shortName": "ultra",
+  "category": "mainnet",
+  "chainId": 19991,
+  "networkId": 19991,
+  "nativeCurrency": {
+    "name": "Ultra Token",
+    "symbol": "UOS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://evm.ultra.eosusa.io"
+  ],
+  "explorers": [
+    {
+      "name": "Ultra EVM Explorer",
+      "url": "https://evmexplorer.ultra.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://ultra.io"
+}

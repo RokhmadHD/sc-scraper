@@ -1,0 +1,24 @@
+{
+  "name": "Abstract Sepolia Testnet",
+  "chain": "Abstract Sepolia Testnet",
+  "shortName": "abstract-sepolia",
+  "category": "test",
+  "chainId": 11124,
+  "networkId": 11124,
+  "nativeCurrency": {
+    "name": "ETH",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://api.testnet.abs.xyz"
+  ],
+  "explorers": [
+    {
+      "name": "Abstract Sepolia Testnet Explorer",
+      "url": "https://sepolia.abscan.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://abs.xyz/"
+}

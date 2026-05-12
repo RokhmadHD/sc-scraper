@@ -1,0 +1,17 @@
+{
+  "name": "Gold Chain",
+  "chain": "Gold",
+  "shortName": "gold",
+  "category": "mainnet",
+  "chainId": 4653,
+  "networkId": 4653,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://chain-rpc.gold.dev"
+  ],
+  "infoURL": "https://gold.dev"
+}

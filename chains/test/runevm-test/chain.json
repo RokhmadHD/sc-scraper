@@ -1,0 +1,23 @@
+{
+  "name": "RUNEVM Testnet",
+  "chain": "RuneVM",
+  "shortName": "runevm-test",
+  "category": "test",
+  "chainId": 840000,
+  "networkId": 840000,
+  "nativeCurrency": {
+    "name": "Test Bitcoin",
+    "symbol": "tBTC",
+    "decimals": 8
+  },
+  "rpc": [
+    "https://rpc.runevm.io/"
+  ],
+  "explorers": [
+    {
+      "name": "Tracehawk",
+      "url": "https://explorer.runevm.io",
+      "standard": "none"
+    }
+  ]
+}

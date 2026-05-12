@@ -1,0 +1,24 @@
+{
+  "name": "FNCY Testnet",
+  "chain": "FNCY",
+  "shortName": "tFNCY",
+  "category": "test",
+  "chainId": 923018,
+  "networkId": 923018,
+  "nativeCurrency": {
+    "name": "FNCY",
+    "symbol": "FNCY",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://fncy-testnet-seed.fncy.world"
+  ],
+  "explorers": [
+    {
+      "name": "fncy scan testnet",
+      "url": "https://fncyscan-testnet.fncy.world",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://fncyscan-testnet.fncy.world"
+}

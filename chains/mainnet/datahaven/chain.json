@@ -1,0 +1,24 @@
+{
+  "name": "DataHaven Mainnet",
+  "chain": "datahaven",
+  "shortName": "datahaven",
+  "category": "mainnet",
+  "chainId": 55930,
+  "networkId": 55930,
+  "nativeCurrency": {
+    "name": "HAVE",
+    "symbol": "HAVE",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://services.datahaven-mainnet.network/mainnet"
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout",
+      "url": "https://dhscan.io",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://datahaven.xyz"
+}

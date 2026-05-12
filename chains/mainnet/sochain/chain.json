@@ -1,0 +1,17 @@
+{
+  "name": "Social Smart Chain Mainnet",
+  "chain": "SoChain",
+  "shortName": "SoChain",
+  "category": "mainnet",
+  "chainId": 281121,
+  "networkId": 281121,
+  "nativeCurrency": {
+    "name": "SoChain",
+    "symbol": "$OC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://socialsmartchain.digitalnext.business"
+  ],
+  "infoURL": "https://digitalnext.business/SocialSmartChain"
+}

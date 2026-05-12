@@ -1,0 +1,24 @@
+{
+  "name": "Tron Shasta",
+  "chain": "TRON",
+  "shortName": "tron-shasta",
+  "category": "test",
+  "chainId": 2494104990,
+  "networkId": 2494104990,
+  "nativeCurrency": {
+    "name": "Tron",
+    "symbol": "TRX",
+    "decimals": 6
+  },
+  "rpc": [
+    "https://api.shasta.trongrid.io/jsonrpc"
+  ],
+  "explorers": [
+    {
+      "name": "shasta tronscan",
+      "url": "https://shasta.tronscan.org",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://tron.network"
+}

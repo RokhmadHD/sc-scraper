@@ -1,0 +1,23 @@
+{
+  "name": "Oneness TestNet",
+  "chain": "Oneness-Testnet",
+  "shortName": "oneness-testnet",
+  "category": "test",
+  "chainId": 2141,
+  "networkId": 2141,
+  "nativeCurrency": {
+    "name": "BTC",
+    "symbol": "BTC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.testnet.onenesslabs.io/"
+  ],
+  "explorers": [
+    {
+      "name": "oneness-testnet",
+      "url": "https://scan.testnet.onenesslabs.io",
+      "standard": "EIP3091"
+    }
+  ]
+}

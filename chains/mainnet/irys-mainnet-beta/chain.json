@@ -1,0 +1,25 @@
+{
+  "name": "Irys Mainnet Beta",
+  "chain": "IRYS",
+  "shortName": "irys-mainnet-beta",
+  "category": "mainnet",
+  "chainId": 3282,
+  "networkId": 3282,
+  "nativeCurrency": {
+    "name": "Irys",
+    "symbol": "IRYS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet-beta-rpc-2.irys.xyz/v1/execution-rpc",
+    "https://mainnet-beta-rpc.irys.xyz/v1/execution-rpc"
+  ],
+  "explorers": [
+    {
+      "name": "Irys Mainnet Beta Explorer",
+      "url": "https://evm-explorer.irys.xyz",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://irys.xyz"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Powerloom Mainnet",
+  "chain": "POWER",
+  "shortName": "power",
+  "category": "mainnet",
+  "chainId": 7865,
+  "networkId": 7865,
+  "nativeCurrency": {
+    "name": "Powerloom Token",
+    "symbol": "POWER",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.powerloom.network"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.powerloom.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://powerloom.network"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Funki",
+  "chain": "ETH",
+  "shortName": "funki",
+  "category": "mainnet",
+  "chainId": 33979,
+  "networkId": 33979,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-mainnet.funkichain.com"
+  ],
+  "explorers": [
+    {
+      "name": "Funki Mainnet Explorer",
+      "url": "https://explorer.funkichain.com",
+      "standard": "none"
+    },
+    {
+      "name": "FunkiScan",
+      "url": "https://funkiscan.io",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://funkichain.com"
+}

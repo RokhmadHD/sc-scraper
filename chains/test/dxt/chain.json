@@ -1,0 +1,24 @@
+{
+  "name": "Dexit Network",
+  "chain": "DXT",
+  "shortName": "DXT",
+  "category": "test",
+  "chainId": 877,
+  "networkId": 877,
+  "nativeCurrency": {
+    "name": "Dexit network",
+    "symbol": "DXT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://dxt.dexit.network"
+  ],
+  "explorers": [
+    {
+      "name": "dxtscan",
+      "url": "https://dxtscan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://dexit.network"
+}

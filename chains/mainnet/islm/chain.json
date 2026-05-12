@@ -1,0 +1,26 @@
+{
+  "name": "Haqq Network",
+  "chain": "Haqq",
+  "shortName": "ISLM",
+  "category": "mainnet",
+  "chainId": 11235,
+  "networkId": 11235,
+  "nativeCurrency": {
+    "name": "Islamic Coin",
+    "symbol": "ISLM",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://haqq-evm-rpc.publicnode.com",
+    "https://haqq.drpc.org",
+    "https://rpc.eth.haqq.network"
+  ],
+  "explorers": [
+    {
+      "name": "Mainnet HAQQ Explorer",
+      "url": "https://explorer.haqq.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://islamiccoin.net"
+}

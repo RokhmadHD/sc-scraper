@@ -1,0 +1,24 @@
+{
+  "name": "Redstone",
+  "chain": "ETH",
+  "shortName": "redstone",
+  "category": "mainnet",
+  "chainId": 690,
+  "networkId": 690,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.redstonechain.com"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.redstone.xyz",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://redstone.xyz"
+}

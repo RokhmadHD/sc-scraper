@@ -1,0 +1,24 @@
+{
+  "name": "OP Celestia Raspberry",
+  "chain": "ETH",
+  "shortName": "opcelestia-raspberry",
+  "category": "mainnet",
+  "chainId": 123420111,
+  "networkId": 123420111,
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.opcelestia-raspberry.gelato.digital"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://opcelestia-raspberry.gelatoscout.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://raas.gelato.network/rollups/details/public/opcelestia-raspberry"
+}

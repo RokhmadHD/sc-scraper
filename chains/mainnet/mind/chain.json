@@ -1,0 +1,27 @@
+{
+  "name": "Mind Smart Chain Mainnet",
+  "chain": "MIND",
+  "shortName": "MIND",
+  "category": "mainnet",
+  "chainId": 9996,
+  "networkId": 9996,
+  "nativeCurrency": {
+    "name": "MIND Coin",
+    "symbol": "MIND",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://archive.mindchain.info/",
+    "https://mind-smart-chain.rpc.thirdweb.com",
+    "https://rpc-msc.mindchain.info/",
+    "https://seednode.mindchain.info"
+  ],
+  "explorers": [
+    {
+      "name": "Mind Chain explorer",
+      "url": "https://mainnet.mindscan.info",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://mindchain.info"
+}

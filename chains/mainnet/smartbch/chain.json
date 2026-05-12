@@ -1,0 +1,20 @@
+{
+  "name": "Smart Bitcoin Cash",
+  "chain": "smartBCH",
+  "shortName": "smartbch",
+  "category": "mainnet",
+  "chainId": 10000,
+  "networkId": 10000,
+  "nativeCurrency": {
+    "name": "Bitcoin Cash",
+    "symbol": "BCH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-mainnet.smartbch.org",
+    "https://smartbch.devops.cash/mainnet",
+    "https://smartbch.fountainhead.cash/mainnet",
+    "https://smartbch.greyh.at"
+  ],
+  "infoURL": "https://smartbch.org/"
+}

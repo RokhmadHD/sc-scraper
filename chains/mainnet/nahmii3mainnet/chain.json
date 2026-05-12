@@ -1,0 +1,24 @@
+{
+  "name": "Nahmii 3 Mainnet",
+  "chain": "Nahmii",
+  "shortName": "Nahmii3Mainnet",
+  "category": "mainnet",
+  "chainId": 4061,
+  "networkId": 4061,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.n3.nahmii.io"
+  ],
+  "explorers": [
+    {
+      "name": "Nahmii 3 Mainnet Explorer",
+      "url": "https://explorer.nahmii.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://nahmii.io"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "BIZ Smart Chain Testnet",
+  "chain": "BIZT Testnet",
+  "shortName": "bizt-testnet",
+  "category": "test",
+  "chainId": 808080,
+  "networkId": 808080,
+  "nativeCurrency": {
+    "name": "tBIZT",
+    "symbol": "tBIZT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-testnet.bizex.io/"
+  ],
+  "explorers": [
+    {
+      "name": "BIZ Smart Chain Testnet Explorer",
+      "url": "https://testnet.btscan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.biztoken.io/"
+}

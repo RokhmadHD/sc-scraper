@@ -1,0 +1,24 @@
+{
+  "name": "Pixie Chain Mainnet",
+  "chain": "PixieChain",
+  "shortName": "pixie-chain",
+  "category": "mainnet",
+  "chainId": 6626,
+  "networkId": 6626,
+  "nativeCurrency": {
+    "name": "Pixie Chain Native Token",
+    "symbol": "PIX",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://http-mainnet.chain.pixie.xyz"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://scan.chain.pixie.xyz",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://chain.pixie.xyz"
+}

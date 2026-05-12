@@ -1,0 +1,23 @@
+{
+  "name": "ZKasino Mainnet",
+  "chain": "ZKasino",
+  "shortName": "ZKasino",
+  "category": "mainnet",
+  "chainId": 88800,
+  "networkId": 88800,
+  "nativeCurrency": {
+    "name": "ZKAS",
+    "symbol": "ZKAS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.zkas.zeeve.net"
+  ],
+  "explorers": [
+    {
+      "name": "Tracehawk",
+      "url": "https://explorer.zkas.zeeve.net",
+      "standard": "none"
+    }
+  ]
+}

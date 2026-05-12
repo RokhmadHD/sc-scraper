@@ -1,0 +1,24 @@
+{
+  "name": "Litheum Test Network",
+  "chain": "Litheum",
+  "shortName": "lith",
+  "category": "test",
+  "chainId": 1174,
+  "networkId": 1174,
+  "nativeCurrency": {
+    "name": "Lith",
+    "symbol": "LTH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet.litheum.com"
+  ],
+  "explorers": [
+    {
+      "name": "Litheum Test Network Explorer",
+      "url": "https://explorer.litheum.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://litheum.com"
+}

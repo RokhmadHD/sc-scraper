@@ -1,0 +1,24 @@
+{
+  "name": "Iora Chain",
+  "chain": "IORA",
+  "shortName": "iora",
+  "category": "mainnet",
+  "chainId": 1197,
+  "networkId": 1197,
+  "nativeCurrency": {
+    "name": "Iora",
+    "symbol": "IORA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://dataseed.iorachain.com"
+  ],
+  "explorers": [
+    {
+      "name": "ioraexplorer",
+      "url": "https://explorer.iorachain.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://iorachain.com"
+}

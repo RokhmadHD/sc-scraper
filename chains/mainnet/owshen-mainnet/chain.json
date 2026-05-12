@@ -1,0 +1,17 @@
+{
+  "name": "Owshen Mainnet",
+  "chain": "ETH",
+  "shortName": "owshen-mainnet",
+  "category": "mainnet",
+  "chainId": 918273,
+  "networkId": 918273,
+  "nativeCurrency": {
+    "name": "DIVE",
+    "symbol": "DIVE",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.owshen.io"
+  ],
+  "infoURL": "https://owshen.io"
+}

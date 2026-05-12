@@ -1,0 +1,27 @@
+{
+  "name": "Layer Edge Mainnet",
+  "chain": "EDGEN",
+  "shortName": "LayerEdge",
+  "category": "mainnet",
+  "chainId": 4207,
+  "networkId": 4207,
+  "nativeCurrency": {
+    "name": "Layer Edge",
+    "symbol": "EDGEN",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://layeredge-mainnet-evm.itrocket.net",
+    "https://layeredge.rpc.subquery.network/public",
+    "https://rpc.layeredge.foundation",
+    "https://rpc.layeredge.io"
+  ],
+  "explorers": [
+    {
+      "name": "Layer Edge Explorer",
+      "url": "https://edgenscan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://layeredge.io"
+}

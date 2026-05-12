@@ -1,0 +1,25 @@
+{
+  "name": "Bitrock Mainnet",
+  "chain": "Bitrock",
+  "shortName": "bitrock",
+  "category": "mainnet",
+  "chainId": 7171,
+  "networkId": 7171,
+  "nativeCurrency": {
+    "name": "BITROCK",
+    "symbol": "BROCK",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://brockrpc.io",
+    "https://connect.bit-rock.io"
+  ],
+  "explorers": [
+    {
+      "name": "Bitrock Explorer",
+      "url": "https://brockscan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://bit-rock.io"
+}

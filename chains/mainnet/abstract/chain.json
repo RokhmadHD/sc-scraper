@@ -1,0 +1,29 @@
+{
+  "name": "Abstract",
+  "chain": "Abstract",
+  "shortName": "abstract",
+  "category": "mainnet",
+  "chainId": 2741,
+  "networkId": 2741,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://api.mainnet.abs.xyz"
+  ],
+  "explorers": [
+    {
+      "name": "Etherscan",
+      "url": "https://abscan.org",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "Abstract Explorer",
+      "url": "https://explorer.mainnet.abs.xyz",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://abs.xyz"
+}

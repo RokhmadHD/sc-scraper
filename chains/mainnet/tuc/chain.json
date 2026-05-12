@@ -1,0 +1,24 @@
+{
+  "name": "Tucana",
+  "chain": "Tucana",
+  "shortName": "tuc",
+  "category": "mainnet",
+  "chainId": 711,
+  "networkId": 711,
+  "nativeCurrency": {
+    "name": "Tucana",
+    "symbol": "TUC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://evm-rpc.tucana.zone"
+  ],
+  "explorers": [
+    {
+      "name": "Tucana Explorer",
+      "url": "https://explorer.tucana.zone",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://tucana.zone"
+}

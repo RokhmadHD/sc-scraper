@@ -1,0 +1,24 @@
+{
+  "name": "Crypto Emergency",
+  "chain": "CEM",
+  "shortName": "cem",
+  "category": "mainnet",
+  "chainId": 193,
+  "networkId": 193,
+  "nativeCurrency": {
+    "name": "Crypto Emergency",
+    "symbol": "CEM",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://cemchain.com"
+  ],
+  "explorers": [
+    {
+      "name": "cemscan",
+      "url": "https://cemscan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://cemblockchain.com/"
+}

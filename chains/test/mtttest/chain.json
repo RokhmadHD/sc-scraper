@@ -1,0 +1,17 @@
+{
+  "name": "MetaDot Testnet",
+  "chain": "MTTTest",
+  "shortName": "mtttest",
+  "category": "test",
+  "chainId": 16001,
+  "networkId": 16001,
+  "nativeCurrency": {
+    "name": "MetaDot Token TestNet",
+    "symbol": "MTTest",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet.metadot.network"
+  ],
+  "infoURL": "https://metadot.network"
+}

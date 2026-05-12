@@ -1,0 +1,24 @@
+{
+  "name": "Karura Network",
+  "chain": "KAR",
+  "shortName": "kar",
+  "category": "mainnet",
+  "chainId": 686,
+  "networkId": 686,
+  "nativeCurrency": {
+    "name": "Karura Token",
+    "symbol": "KAR",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://eth-rpc-karura.aca-api.network"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://blockscout.karura.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://acala.network/karura"
+}

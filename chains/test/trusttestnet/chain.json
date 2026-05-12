@@ -1,0 +1,24 @@
+{
+  "name": "Trust EVM Testnet",
+  "chain": "Trust EVM Testnet",
+  "shortName": "TrustTestnet",
+  "category": "test",
+  "chainId": 15555,
+  "networkId": 15555,
+  "nativeCurrency": {
+    "name": "Trust EVM",
+    "symbol": "EVM",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://api.testnet-dev.trust.one"
+  ],
+  "explorers": [
+    {
+      "name": "Trust EVM Explorer",
+      "url": "https://trustscan.one",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.trust.one/"
+}

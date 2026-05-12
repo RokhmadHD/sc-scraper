@@ -1,0 +1,24 @@
+{
+  "name": "STO Chain",
+  "chain": "STOC",
+  "shortName": "stoc",
+  "category": "mainnet",
+  "chainId": 1306,
+  "networkId": 1306,
+  "nativeCurrency": {
+    "name": "STOC",
+    "symbol": "STOC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://evm-stoc-mainnet.stochainscan.io"
+  ],
+  "explorers": [
+    {
+      "name": "STO Chain Explorer",
+      "url": "https://stochainscan.io/en",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://www.stochain.io/"
+}

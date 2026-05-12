@@ -1,0 +1,24 @@
+{
+  "name": "JFINPOS",
+  "chain": "JFINPOS",
+  "shortName": "jzero",
+  "category": "mainnet",
+  "chainId": 3502,
+  "networkId": 3502,
+  "nativeCurrency": {
+    "name": "JFINPOS",
+    "symbol": "JPOS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.jfinpos.com"
+  ],
+  "explorers": [
+    {
+      "name": "JFINPOS Explorer",
+      "url": "https://exp.jfinpos.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://jfinpos.com"
+}

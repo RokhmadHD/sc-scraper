@@ -1,0 +1,29 @@
+{
+  "name": "Lycan Chain",
+  "chain": "LYC",
+  "shortName": "LYC",
+  "category": "mainnet",
+  "chainId": 721,
+  "networkId": 721,
+  "nativeCurrency": {
+    "name": "Lycan",
+    "symbol": "LYC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://asia-southeast.lycanchain.com",
+    "https://eu-north.lycanchain.com",
+    "https://eu-west.lycanchain.com",
+    "https://rpc.lycanchain.com/",
+    "https://us-east.lycanchain.com",
+    "https://us-west.lycanchain.com"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.lycanchain.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://lycanchain.com"
+}

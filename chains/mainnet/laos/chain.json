@@ -1,0 +1,24 @@
+{
+  "name": "LAOS Arrakis",
+  "chain": "LAOS",
+  "shortName": "laos",
+  "category": "mainnet",
+  "chainId": 667,
+  "networkId": 667,
+  "nativeCurrency": {
+    "name": "LAOS",
+    "symbol": "LAOS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://arrakis.gorengine.com/own"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://arrakis.gorengine.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.laosfoundation.io/"
+}

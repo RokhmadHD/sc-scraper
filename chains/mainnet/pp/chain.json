@@ -1,0 +1,24 @@
+{
+  "name": "PointPay Mainnet",
+  "chain": "pointpay",
+  "shortName": "PP",
+  "category": "mainnet",
+  "chainId": 5511,
+  "networkId": 5511,
+  "nativeCurrency": {
+    "name": "PointPay",
+    "symbol": "PXP",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-mainnet.pointpay.io"
+  ],
+  "explorers": [
+    {
+      "name": "PointPay Mainnet Explorer",
+      "url": "https://explorer.pointpay.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://pointpay.io"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "PoCRNet",
+  "chain": "CRC",
+  "shortName": "pocrnet",
+  "category": "mainnet",
+  "chainId": 2606,
+  "networkId": 2606,
+  "nativeCurrency": {
+    "name": "Climate awaReness Coin",
+    "symbol": "CRC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc1.pocrnet.ca-dag.work",
+    "https://rpc2.pocrnet.ca-dag.work"
+  ],
+  "explorers": [
+    {
+      "name": "Lite Explorer",
+      "url": "https://ethereum-pocr.github.io/explorer/pocrnet",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://github.com/ethereum-pocr/pocrnet"
+}

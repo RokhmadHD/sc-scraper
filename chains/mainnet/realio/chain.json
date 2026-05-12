@@ -1,0 +1,25 @@
+{
+  "name": "Realio",
+  "chain": "Realio",
+  "shortName": "realio",
+  "category": "mainnet",
+  "chainId": 3301,
+  "networkId": 3301,
+  "nativeCurrency": {
+    "name": "Rio",
+    "symbol": "RIO",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://json-rpc.realio.network",
+    "https://realio.json-rpc.decentrio.ventures"
+  ],
+  "explorers": [
+    {
+      "name": "Realio Explorer",
+      "url": "https://explorer.realio.network",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://www.realio.network"
+}

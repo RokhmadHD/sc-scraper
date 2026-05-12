@@ -1,0 +1,25 @@
+{
+  "name": "Dymension",
+  "chain": "Dymension",
+  "shortName": "dymension",
+  "category": "mainnet",
+  "chainId": 1100,
+  "networkId": 1100,
+  "nativeCurrency": {
+    "name": "DYM",
+    "symbol": "DYM",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://dymension-evm-rpc.publicnode.com",
+    "https://dymension-evm.blockpi.network/v1/rpc/public"
+  ],
+  "explorers": [
+    {
+      "name": "dym.fyi",
+      "url": "https://dym.fyi",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://dymension.xyz"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "PlatON Dev Testnet",
+  "chain": "PlatON",
+  "shortName": "platondev3",
+  "category": "test",
+  "chainId": 20250407,
+  "networkId": 1,
+  "nativeCurrency": {
+    "name": "LAT",
+    "symbol": "lat",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://devnet3openapi.platon.network/rpc"
+  ],
+  "explorers": [
+    {
+      "name": "PlatON devnet explorer",
+      "url": "https://devnet3scan.platon.network",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://www.platon.network"
+}

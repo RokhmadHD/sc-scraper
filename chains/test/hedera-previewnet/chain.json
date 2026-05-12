@@ -1,0 +1,24 @@
+{
+  "name": "Hedera Previewnet",
+  "chain": "Hedera",
+  "shortName": "hedera-previewnet",
+  "category": "test",
+  "chainId": 297,
+  "networkId": 297,
+  "nativeCurrency": {
+    "name": "hbar",
+    "symbol": "HBAR",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://previewnet.hashio.io/api"
+  ],
+  "explorers": [
+    {
+      "name": "HashScan",
+      "url": "https://hashscan.io/previewnet",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://hedera.com"
+}

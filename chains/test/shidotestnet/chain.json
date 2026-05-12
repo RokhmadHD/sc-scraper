@@ -1,0 +1,24 @@
+{
+  "name": "Shido Testnet Block",
+  "chain": "Shido Testnet",
+  "shortName": "ShidoTestnet",
+  "category": "test",
+  "chainId": 9007,
+  "networkId": 9007,
+  "nativeCurrency": {
+    "name": "Shido Testnet Token",
+    "symbol": "SHIDO",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-testnet-nodes.shidoscan.com"
+  ],
+  "explorers": [
+    {
+      "name": "Shidoblock Testnet Explorer",
+      "url": "https://testnet.shidoscan.com",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://www.nexablock.io"
+}

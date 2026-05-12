@@ -1,0 +1,23 @@
+{
+  "name": "Supernet Testnet",
+  "chain": "Supernet Testnet",
+  "shortName": "supernetchain",
+  "category": "test",
+  "chainId": 998899,
+  "networkId": 998899,
+  "nativeCurrency": {
+    "name": "CHAIN",
+    "symbol": "CHAIN",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet-rpc.supernet.chaingames.io/"
+  ],
+  "explorers": [
+    {
+      "name": "supernet-testnet-explorer",
+      "url": "https://testnet-explorer.supernet.chaingames.io",
+      "standard": "EIP3091"
+    }
+  ]
+}

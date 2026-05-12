@@ -1,0 +1,24 @@
+{
+  "name": "ALL Mainnet",
+  "chain": "ALL",
+  "shortName": "ALL",
+  "category": "mainnet",
+  "chainId": 651940,
+  "networkId": 651940,
+  "nativeCurrency": {
+    "name": "ALL",
+    "symbol": "ALL",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet-rpc.alltra.global"
+  ],
+  "explorers": [
+    {
+      "name": "Alltra SmartChain Explorer",
+      "url": "https://alltra.global",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://alltra.world"
+}

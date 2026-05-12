@@ -1,0 +1,24 @@
+{
+  "name": "Bitcoin EVM",
+  "chain": "Bitcoin EVM",
+  "shortName": "BTC",
+  "category": "mainnet",
+  "chainId": 2203,
+  "networkId": 2203,
+  "nativeCurrency": {
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://connect.bitcoinevm.com"
+  ],
+  "explorers": [
+    {
+      "name": "Bitcoin EVM Explorer",
+      "url": "https://explorer.bitcoinevm.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://bitcoinevm.com"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Energy Web Volta Testnet",
+  "chain": "Volta",
+  "shortName": "vt",
+  "category": "test",
+  "chainId": 73799,
+  "networkId": 73799,
+  "nativeCurrency": {
+    "name": "Volta Token",
+    "symbol": "VT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://volta-rpc.energyweb.org"
+  ],
+  "infoURL": "https://energyweb.org"
+}

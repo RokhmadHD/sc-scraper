@@ -1,0 +1,24 @@
+{
+  "name": "The Root Network - Mainnet",
+  "chain": "TRN",
+  "shortName": "trn-mainnet",
+  "category": "mainnet",
+  "chainId": 7668,
+  "networkId": 7668,
+  "nativeCurrency": {
+    "name": "XRP",
+    "symbol": "XRP",
+    "decimals": 6
+  },
+  "rpc": [
+    "https://root.rootnet.live/archive"
+  ],
+  "explorers": [
+    {
+      "name": "rootnet",
+      "url": "https://explorer.rootnet.live",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.futureverse.com/technology/root"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Proxy Network Testnet",
+  "chain": "Proxy Network",
+  "shortName": "prx",
+  "category": "test",
+  "chainId": 1031,
+  "networkId": 1031,
+  "nativeCurrency": {
+    "name": "PRX",
+    "symbol": "PRX",
+    "decimals": 18
+  },
+  "rpc": [
+    "http://128.199.94.183:8041"
+  ],
+  "explorers": [
+    {
+      "name": "proxy network testnet",
+      "url": "http://testnet-explorer.theproxy.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://theproxy.network"
+}

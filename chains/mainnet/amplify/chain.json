@@ -1,0 +1,24 @@
+{
+  "name": "Amplify Subnet",
+  "chain": "AMPLIFY",
+  "shortName": "amplify",
+  "category": "mainnet",
+  "chainId": 78430,
+  "networkId": 78430,
+  "nativeCurrency": {
+    "name": "AMP",
+    "symbol": "AMP",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://subnets.avax.network/amplify/testnet/rpc"
+  ],
+  "explorers": [
+    {
+      "name": "AMPLIFY Explorer",
+      "url": "https://subnets-test.avax.network/amplify",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.avax.network"
+}

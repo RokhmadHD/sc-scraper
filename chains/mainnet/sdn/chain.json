@@ -1,0 +1,31 @@
+{
+  "name": "Shiden",
+  "chain": "SDN",
+  "shortName": "sdn",
+  "category": "mainnet",
+  "chainId": 336,
+  "networkId": 336,
+  "nativeCurrency": {
+    "name": "Shiden",
+    "symbol": "SDN",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://shiden-rpc.dwellir.com",
+    "https://shiden.api.onfinality.io/public",
+    "https://shiden.public.blastapi.io"
+  ],
+  "explorers": [
+    {
+      "name": "subscan",
+      "url": "https://shiden.subscan.io",
+      "standard": "none"
+    },
+    {
+      "name": "blockscout",
+      "url": "https://blockscout.com/shiden",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://shiden.astar.network/"
+}

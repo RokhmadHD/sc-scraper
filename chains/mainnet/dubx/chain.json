@@ -1,0 +1,17 @@
+{
+  "name": "Dubxcoin network",
+  "chain": "DUBX",
+  "shortName": "dubx",
+  "category": "mainnet",
+  "chainId": 3269,
+  "networkId": 3269,
+  "nativeCurrency": {
+    "name": "Dubxcoin mainnet",
+    "symbol": "DUBX",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpcmain.arabianchain.org"
+  ],
+  "infoURL": "https://arabianchain.org"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Bitlayer Mainnet",
+  "chain": "Bitlayer",
+  "shortName": "btr",
+  "category": "mainnet",
+  "chainId": 200901,
+  "networkId": 200901,
+  "nativeCurrency": {
+    "name": "BTC",
+    "symbol": "BTC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-bitlayer.rockx.com",
+    "https://rpc.ankr.com/bitlayer",
+    "https://rpc.bitlayer-rpc.com",
+    "https://rpc.bitlayer.org"
+  ],
+  "explorers": [
+    {
+      "name": "bitlayer mainnet scan",
+      "url": "https://www.btrscan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://docs.bitlayer.org/"
+}

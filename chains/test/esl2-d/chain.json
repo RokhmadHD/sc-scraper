@@ -1,0 +1,17 @@
+{
+  "name": "EthStorage L2 Devnet",
+  "chain": "EthStorage L2",
+  "shortName": "esl2-d",
+  "category": "test",
+  "chainId": 3339,
+  "networkId": 3339,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.devnet.l2.ethstorage.io:9540"
+  ],
+  "infoURL": "https://ethstorage.io/"
+}

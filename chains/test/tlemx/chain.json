@@ -1,0 +1,18 @@
+{
+  "name": "LemonChainTestnet",
+  "chain": "tLEMX",
+  "shortName": "tlemx",
+  "category": "test",
+  "chainId": 1005,
+  "networkId": 1005,
+  "nativeCurrency": {
+    "name": "testnet LEMX",
+    "symbol": "tLEMX",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.testnet.allthingslemon.io",
+    "https://rpc.testnet.lemonchain.io"
+  ],
+  "infoURL": "https://dapp.allthingslemon.io/home"
+}

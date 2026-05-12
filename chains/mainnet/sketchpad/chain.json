@@ -1,0 +1,24 @@
+{
+  "name": "Forma Sketchpad",
+  "chain": "Forma",
+  "shortName": "sketchpad",
+  "category": "mainnet",
+  "chainId": 984123,
+  "networkId": 984123,
+  "nativeCurrency": {
+    "name": "TIA",
+    "symbol": "TIA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.sketchpad-1.forma.art"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.sketchpad-1.forma.art",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://forma.art"
+}

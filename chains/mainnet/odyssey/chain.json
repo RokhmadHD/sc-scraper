@@ -1,0 +1,24 @@
+{
+  "name": "Odyssey Chain Mainnet",
+  "chain": "DIONE",
+  "shortName": "Odyssey",
+  "category": "mainnet",
+  "chainId": 153153,
+  "networkId": 153153,
+  "nativeCurrency": {
+    "name": "DIONE",
+    "symbol": "DIONE",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://node.dioneprotocol.com/ext/bc/D/rpc"
+  ],
+  "explorers": [
+    {
+      "name": "Odyssey Scan",
+      "url": "https://odysseyscan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.dioneprotocol.com"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Atleta Network",
+  "chain": "Atleta",
+  "shortName": "atla",
+  "category": "mainnet",
+  "chainId": 2440,
+  "networkId": 2440,
+  "nativeCurrency": {
+    "name": "Atla",
+    "symbol": "ATLA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.mainnet.atleta.network"
+  ],
+  "explorers": [
+    {
+      "name": "Atleta Explorer",
+      "url": "https://blockscout.atleta.network",
+      "standard": "none"
+    },
+    {
+      "name": "Atleta Polka Explorer",
+      "url": "https://polkadot-explorer.atleta.network/#/explorer",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://atleta.network"
+}

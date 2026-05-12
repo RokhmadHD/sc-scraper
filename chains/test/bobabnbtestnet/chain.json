@@ -1,0 +1,26 @@
+{
+  "name": "Boba BNB Testnet",
+  "chain": "Boba BNB Testnet",
+  "shortName": "BobaBnbTestnet",
+  "category": "test",
+  "chainId": 9728,
+  "networkId": 9728,
+  "nativeCurrency": {
+    "name": "Boba Token",
+    "symbol": "BOBA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://boba-bnb-testnet.gateway.tenderly.co",
+    "https://replica.testnet.bnb.boba.network",
+    "https://testnet.bnb.boba.network"
+  ],
+  "explorers": [
+    {
+      "name": "Boba BNB Testnet block explorer",
+      "url": "https://testnet.bobascan.com",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://boba.network"
+}

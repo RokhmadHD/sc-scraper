@@ -1,0 +1,17 @@
+{
+  "name": "EthStorage Mainnet",
+  "chain": "EthStorage",
+  "shortName": "es-m",
+  "category": "mainnet",
+  "chainId": 333,
+  "networkId": 333,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.mainnet.ethstorage.io:9540"
+  ],
+  "infoURL": "https://ethstorage.io/"
+}

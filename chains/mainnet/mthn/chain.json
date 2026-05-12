@@ -1,0 +1,24 @@
+{
+  "name": "Evoke Mainnet",
+  "chain": "MTHN",
+  "shortName": "MTHN",
+  "category": "mainnet",
+  "chainId": 9395,
+  "networkId": 9395,
+  "nativeCurrency": {
+    "name": "MTHN",
+    "symbol": "MTHN",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet-rpc.evokescan.org"
+  ],
+  "explorers": [
+    {
+      "name": "Evoke SmartChain Explorer",
+      "url": "https://explorer.evokescan.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://explorer.evokescan.org"
+}

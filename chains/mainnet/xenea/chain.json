@@ -1,0 +1,24 @@
+{
+  "name": "Xenea Ubusuna",
+  "chain": "TXENE",
+  "shortName": "Xenea",
+  "category": "mainnet",
+  "chainId": 1096,
+  "networkId": 1096,
+  "nativeCurrency": {
+    "name": "Xenea Ubusuna Testnet Token",
+    "symbol": "TXENE",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-ubusuna.xeneascan.com"
+  ],
+  "explorers": [
+    {
+      "name": "Xenea Ubusuna Testnet Explorer",
+      "url": "https://ubusuna.xeneascan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://xenea.io"
+}

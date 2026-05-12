@@ -1,0 +1,25 @@
+{
+  "name": "Evmos",
+  "chain": "Evmos",
+  "shortName": "evmos",
+  "category": "mainnet",
+  "chainId": 9001,
+  "networkId": 9001,
+  "nativeCurrency": {
+    "name": "Evmos",
+    "symbol": "EVMOS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://evmos-evm-rpc.publicnode.com",
+    "https://evmos.lava.build"
+  ],
+  "explorers": [
+    {
+      "name": "Evmos Explorer (Escan)",
+      "url": "https://escan.live",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://evmos.org"
+}

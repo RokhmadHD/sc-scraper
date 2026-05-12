@@ -1,0 +1,23 @@
+{
+  "name": "Bethel Sydney",
+  "chain": "Bethel",
+  "shortName": "bethel-sydney",
+  "category": "test",
+  "chainId": 202202,
+  "networkId": 202202,
+  "nativeCurrency": {
+    "name": "Bethel",
+    "symbol": "BECX",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-sydney.bethel.network"
+  ],
+  "explorers": [
+    {
+      "name": "Betehl Sydney Explorer",
+      "url": "https://sydney.bethel.network",
+      "standard": "none"
+    }
+  ]
+}

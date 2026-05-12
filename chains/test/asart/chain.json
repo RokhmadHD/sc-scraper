@@ -1,0 +1,24 @@
+{
+  "name": "AmStar Testnet",
+  "chain": "AmStar",
+  "shortName": "ASARt",
+  "category": "test",
+  "chainId": 1138,
+  "networkId": 1138,
+  "nativeCurrency": {
+    "name": "SINSO",
+    "symbol": "SINSO",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet-rpc.amstarscan.com"
+  ],
+  "explorers": [
+    {
+      "name": "amstarscan-testnet",
+      "url": "https://testnet.amstarscan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://sinso.io"
+}

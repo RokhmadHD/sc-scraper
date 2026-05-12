@@ -1,0 +1,29 @@
+{
+  "name": "ENI Mainnet",
+  "chain": "ENI",
+  "shortName": "eni",
+  "category": "mainnet",
+  "chainId": 173,
+  "networkId": 173,
+  "nativeCurrency": {
+    "name": "EGAS",
+    "symbol": "EGAS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://enirpc.com",
+    "https://jp.eniacrpc.net",
+    "https://jp.enirpc.com",
+    "https://rpc.eniac.network",
+    "https://rpc1.eniac.network",
+    "https://rpc2.eniac.network"
+  ],
+  "explorers": [
+    {
+      "name": "ENI Explorer",
+      "url": "https://scan.eniac.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://eniac.network/"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Playdapp Network",
+  "chain": "PDA",
+  "shortName": "PDA",
+  "category": "mainnet",
+  "chainId": 504441,
+  "networkId": 504441,
+  "nativeCurrency": {
+    "name": "Playdapp",
+    "symbol": "PDA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://subnets.avax.network/playdappne/mainnet/rpc"
+  ],
+  "explorers": [
+    {
+      "name": "Playdapp Explorer",
+      "url": "https://subnets.avax.network/playdappne",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://playdapp.io"
+}

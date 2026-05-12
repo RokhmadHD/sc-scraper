@@ -1,0 +1,17 @@
+{
+  "name": "OTC",
+  "chain": "OTC",
+  "shortName": "OTC",
+  "category": "mainnet",
+  "chainId": 175,
+  "networkId": 175,
+  "nativeCurrency": {
+    "name": "OTC",
+    "symbol": "OTC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.otc.run"
+  ],
+  "infoURL": "https://otc.network"
+}

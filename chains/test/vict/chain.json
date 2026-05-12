@@ -1,0 +1,17 @@
+{
+  "name": "Viction Testnet",
+  "chain": "Viction",
+  "shortName": "vict",
+  "category": "test",
+  "chainId": 89,
+  "networkId": 89,
+  "nativeCurrency": {
+    "name": "Viction",
+    "symbol": "VIC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-testnet.viction.xyz"
+  ],
+  "infoURL": "https://viction.xyz"
+}

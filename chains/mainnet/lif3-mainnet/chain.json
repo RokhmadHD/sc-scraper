@@ -1,0 +1,24 @@
+{
+  "name": "Lif3 Chain",
+  "chain": "lif3chain",
+  "shortName": "lif3-mainnet",
+  "category": "mainnet",
+  "chainId": 8869,
+  "networkId": 8869,
+  "nativeCurrency": {
+    "name": "LIF3",
+    "symbol": "LIF3",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.lif3.com"
+  ],
+  "explorers": [
+    {
+      "name": "lif3scout",
+      "url": "https://lif3scout.com",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://docs.lif3.com/"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "5ireChain Mainnet",
+  "chain": "5ireChain",
+  "shortName": "5ire",
+  "category": "mainnet",
+  "chainId": 995,
+  "networkId": 995,
+  "nativeCurrency": {
+    "name": "5ire Token",
+    "symbol": "5ire",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.5ire.network"
+  ],
+  "explorers": [
+    {
+      "name": "5ireChain Explorer",
+      "url": "https://5irescan.io",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://5ire.org"
+}

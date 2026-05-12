@@ -1,0 +1,24 @@
+{
+  "name": "Stavanger Public Testnet",
+  "chain": "stavanger",
+  "shortName": "stavanger",
+  "category": "test",
+  "chainId": 50591822,
+  "networkId": 50591822,
+  "nativeCurrency": {
+    "name": "Polygon",
+    "symbol": "POL",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.stavanger.gateway.fm"
+  ],
+  "explorers": [
+    {
+      "name": "BlockScout",
+      "url": "https://explorer.stavanger.gateway.fm",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://gateway.fm"
+}

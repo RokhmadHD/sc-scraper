@@ -1,0 +1,31 @@
+{
+  "name": "PulseChain",
+  "chain": "PLS",
+  "shortName": "pls",
+  "category": "mainnet",
+  "chainId": 369,
+  "networkId": 369,
+  "nativeCurrency": {
+    "name": "Pulse",
+    "symbol": "PLS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://pulsechain-rpc.publicnode.com",
+    "https://rpc-pulsechain.g4mm4.io",
+    "https://rpc.pulsechain.com"
+  ],
+  "explorers": [
+    {
+      "name": "pulsechain",
+      "url": "https://ipfs.scan.pulsechain.com",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "otterscan",
+      "url": "https://otter.pulsechain.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://pulsechain.com/"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "ENULS Testnet",
+  "chain": "ENULS",
+  "shortName": "enulst",
+  "category": "test",
+  "chainId": 120,
+  "networkId": 120,
+  "nativeCurrency": {
+    "name": "NULS",
+    "symbol": "NULS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://beta.evmapi.nuls.io",
+    "https://beta.evmapi2.nuls.io"
+  ],
+  "explorers": [
+    {
+      "name": "enulsscan",
+      "url": "https://beta.evmscan.nuls.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://nuls.io"
+}

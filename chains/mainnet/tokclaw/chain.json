@@ -1,0 +1,24 @@
+{
+  "name": "TokClaw Blockchain",
+  "chain": "TOKCLAW",
+  "shortName": "TokClaw",
+  "category": "mainnet",
+  "chainId": 7447,
+  "networkId": 7447,
+  "nativeCurrency": {
+    "name": "FEE",
+    "symbol": "FEE",
+    "decimals": 6
+  },
+  "rpc": [
+    "https://rpc.tokclaw.com"
+  ],
+  "explorers": [
+    {
+      "name": "TokClaw Explorer",
+      "url": "https://exp.tokclaw.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://tokclaw.com"
+}

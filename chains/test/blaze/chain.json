@@ -1,0 +1,18 @@
+{
+  "name": "Sonic Blaze Testnet",
+  "chain": "blaze-testnet",
+  "shortName": "blaze",
+  "category": "test",
+  "chainId": 57054,
+  "networkId": 57054,
+  "nativeCurrency": {
+    "name": "Sonic",
+    "symbol": "S",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.blaze.soniclabs.com",
+    "https://sonic-blaze-rpc.publicnode.com"
+  ],
+  "infoURL": "https://blaze.soniclabs.com"
+}

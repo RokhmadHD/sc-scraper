@@ -1,0 +1,24 @@
+{
+  "name": "Deelance Mainnet",
+  "chain": "DEE",
+  "shortName": "dee",
+  "category": "mainnet",
+  "chainId": 45510,
+  "networkId": 45510,
+  "nativeCurrency": {
+    "name": "Deelance",
+    "symbol": "DEE",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.deelance.com"
+  ],
+  "explorers": [
+    {
+      "name": "Deelance Mainnet Explorer",
+      "url": "https://deescan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://deelance.com"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "UPchain Testnet",
+  "chain": "UPchain",
+  "shortName": "UPchain-testnet",
+  "category": "test",
+  "chainId": 336655,
+  "networkId": 336655,
+  "nativeCurrency": {
+    "name": "UBTC",
+    "symbol": "UBTC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-testnet.uniport.network"
+  ],
+  "explorers": [
+    {
+      "name": "UPchain Testnet Explorer",
+      "url": "https://explorer-testnet.uniport.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://uniport.network"
+}

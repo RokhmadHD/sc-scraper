@@ -1,0 +1,24 @@
+{
+  "name": "TikTrix Testnet",
+  "chain": "tTTX",
+  "shortName": "tiktrix-testnet",
+  "category": "test",
+  "chainId": 62092,
+  "networkId": 62092,
+  "nativeCurrency": {
+    "name": "tTTX",
+    "symbol": "tTTX",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://tiktrix-rpc.xyz"
+  ],
+  "explorers": [
+    {
+      "name": "TikTrix Testnet Explorer",
+      "url": "https://tiktrix.xyz",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://tiktrix.gg"
+}

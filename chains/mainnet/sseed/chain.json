@@ -1,0 +1,24 @@
+{
+  "name": "Superseed",
+  "chain": "ETH",
+  "shortName": "sseed",
+  "category": "mainnet",
+  "chainId": 5330,
+  "networkId": 5330,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet.superseed.xyz"
+  ],
+  "explorers": [
+    {
+      "name": "seedscout",
+      "url": "https://explorer.superseed.xyz",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.superseed.xyz"
+}

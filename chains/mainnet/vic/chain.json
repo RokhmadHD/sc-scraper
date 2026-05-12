@@ -1,0 +1,17 @@
+{
+  "name": "Viction",
+  "chain": "Viction",
+  "shortName": "vic",
+  "category": "mainnet",
+  "chainId": 88,
+  "networkId": 88,
+  "nativeCurrency": {
+    "name": "Viction",
+    "symbol": "VIC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.viction.xyz"
+  ],
+  "infoURL": "https://viction.xyz"
+}

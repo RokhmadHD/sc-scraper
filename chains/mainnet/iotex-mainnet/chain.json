@@ -1,0 +1,24 @@
+{
+  "name": "IoTeX Network Mainnet",
+  "chain": "iotex.io",
+  "shortName": "iotex-mainnet",
+  "category": "mainnet",
+  "chainId": 4689,
+  "networkId": 4689,
+  "nativeCurrency": {
+    "name": "IoTeX",
+    "symbol": "IOTX",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://babel-api.mainnet.iotex.io"
+  ],
+  "explorers": [
+    {
+      "name": "iotexscan",
+      "url": "https://iotexscan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://iotex.io"
+}

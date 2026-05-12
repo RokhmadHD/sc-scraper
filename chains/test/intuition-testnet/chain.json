@@ -1,0 +1,24 @@
+{
+  "name": "Intuition Testnet",
+  "chain": "TRUST",
+  "shortName": "intuition-testnet",
+  "category": "test",
+  "chainId": 13579,
+  "networkId": 13579,
+  "nativeCurrency": {
+    "name": "Testnet TRUST",
+    "symbol": "tTRUST",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet.rpc.intuition.systems"
+  ],
+  "explorers": [
+    {
+      "name": "Intuition Testnet Explorer",
+      "url": "https://testnet.explorer.intuition.systems",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://intuition.systems"
+}

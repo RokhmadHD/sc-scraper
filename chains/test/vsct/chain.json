@@ -1,0 +1,24 @@
+{
+  "name": "Vention Smart Chain Testnet",
+  "chain": "VSCT",
+  "shortName": "vsct",
+  "category": "test",
+  "chainId": 741,
+  "networkId": 741,
+  "nativeCurrency": {
+    "name": "VNT",
+    "symbol": "VNT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://node-testnet.vention.network"
+  ],
+  "explorers": [
+    {
+      "name": "ventionscan",
+      "url": "https://testnet.ventionscan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://testnet.ventionscan.io"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "ARK Mainnet",
+  "chain": "ARK",
+  "shortName": "ark",
+  "category": "mainnet",
+  "chainId": 11811,
+  "networkId": 11811,
+  "nativeCurrency": {
+    "name": "ARK Token",
+    "symbol": "ARK",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.ark.io"
+  ],
+  "explorers": [
+    {
+      "name": "ARK Mainnet Explorer",
+      "url": "https://arkscan.io",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://ark.io"
+}

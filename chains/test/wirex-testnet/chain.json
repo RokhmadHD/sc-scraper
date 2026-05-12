@@ -1,0 +1,24 @@
+{
+  "name": "Wirex Pay Testnet",
+  "chain": "WirexPay",
+  "shortName": "wirex-testnet",
+  "category": "test",
+  "chainId": 1001996,
+  "networkId": 1001996,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-dev.wirexpaychain.com"
+  ],
+  "explorers": [
+    {
+      "name": "Wirex Pay Testnet Explorer",
+      "url": "https://explorer-dev.wirexpaychain.com",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://docs.wirexpaychain.com/tech/wirex-pay-chain"
+}

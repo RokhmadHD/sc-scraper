@@ -1,0 +1,24 @@
+{
+  "name": "Chronicle - Lit Protocol Testnet",
+  "chain": "LPC",
+  "shortName": "lpc",
+  "category": "test",
+  "chainId": 175177,
+  "networkId": 175177,
+  "nativeCurrency": {
+    "name": "Test LIT",
+    "symbol": "tstLIT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://chain-rpc.litprotocol.com/http"
+  ],
+  "explorers": [
+    {
+      "name": "Lit Chronicle Explorer",
+      "url": "https://chain.litprotocol.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://developer.litprotocol.com/v3/network/rollup"
+}

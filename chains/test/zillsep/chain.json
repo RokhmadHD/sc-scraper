@@ -1,0 +1,24 @@
+{
+  "name": "Zillion Sepolia Testnet",
+  "chain": "ETH",
+  "shortName": "zillsep",
+  "category": "test",
+  "chainId": 282828,
+  "networkId": 282828,
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://sepolia.zillnet.io/rpc"
+  ],
+  "explorers": [
+    {
+      "name": "zillscout",
+      "url": "https://sepolia.zillnet.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://zillnet.io"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Polygon zkEVM Cardona Testnet",
+  "chain": "Polygon",
+  "shortName": "zkevm-testnet-cardona",
+  "category": "test",
+  "chainId": 2442,
+  "networkId": 2442,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.cardona.zkevm-rpc.com"
+  ],
+  "explorers": [
+    {
+      "name": "polygonscan",
+      "url": "https://cardona-zkevm.polygonscan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://polygon.technology/polygon-zkevm"
+}

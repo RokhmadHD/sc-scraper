@@ -1,0 +1,24 @@
+{
+  "name": "DCHAIN",
+  "chain": "dchainmainnet",
+  "shortName": "dchainmainnet",
+  "category": "mainnet",
+  "chainId": 2716446429837000,
+  "networkId": 2716446429837000,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://dchain-2716446429837000-1.jsonrpc.sagarpc.io"
+  ],
+  "explorers": [
+    {
+      "name": "dchain scan",
+      "url": "https://dchain-2716446429837000-1.sagaexplorer.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.dchain.foundation/"
+}

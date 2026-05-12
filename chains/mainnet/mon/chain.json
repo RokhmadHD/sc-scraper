@@ -1,0 +1,29 @@
+{
+  "name": "Monad",
+  "chain": "MON",
+  "shortName": "mon",
+  "category": "mainnet",
+  "chainId": 143,
+  "networkId": 143,
+  "nativeCurrency": {
+    "name": "Monad",
+    "symbol": "MON",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.monad.xyz"
+  ],
+  "explorers": [
+    {
+      "name": "Monad Vision",
+      "url": "https://monadvision.com",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "Monadscan",
+      "url": "https://monadscan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://monad.xyz"
+}

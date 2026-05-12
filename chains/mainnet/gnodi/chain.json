@@ -1,0 +1,24 @@
+{
+  "name": "Gnodi Mainnet",
+  "chain": "GNODI",
+  "shortName": "gnodi",
+  "category": "mainnet",
+  "chainId": 46634,
+  "networkId": 46634,
+  "nativeCurrency": {
+    "name": "Gnodi",
+    "symbol": "GNOD",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://evm.rpc.gnodi.zone"
+  ],
+  "explorers": [
+    {
+      "name": "gnodiscan",
+      "url": "https://evm.gnodiscanner.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://gnodi.info"
+}

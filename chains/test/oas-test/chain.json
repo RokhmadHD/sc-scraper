@@ -1,0 +1,24 @@
+{
+  "name": "Oasys Testnet",
+  "chain": "Oasys",
+  "shortName": "OAS_TEST",
+  "category": "test",
+  "chainId": 9372,
+  "networkId": 9372,
+  "nativeCurrency": {
+    "name": "OAS",
+    "symbol": "OAS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.testnet.oasys.games"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.testnet.oasys.games",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://oasys.games"
+}

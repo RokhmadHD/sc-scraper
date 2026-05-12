@@ -1,0 +1,23 @@
+{
+  "name": "Bitharvest Chain Mainnet",
+  "chain": "Bitharvest Chain Mainnet",
+  "shortName": "BitharvestMainnet",
+  "category": "mainnet",
+  "chainId": 14149,
+  "networkId": 14149,
+  "nativeCurrency": {
+    "name": "Bitharvest Mainnet Native Token",
+    "symbol": "BTH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.bthscan.io/"
+  ],
+  "explorers": [
+    {
+      "name": "Bitharvest Mainnet Scan",
+      "url": "https://bthscan.io",
+      "standard": "EIP3091"
+    }
+  ]
+}

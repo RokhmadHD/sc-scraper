@@ -1,0 +1,17 @@
+{
+  "name": "GitSwarm Test Network",
+  "chain": "ETH",
+  "shortName": "GS-ETH",
+  "category": "test",
+  "chainId": 28872323069,
+  "networkId": 28872323069,
+  "nativeCurrency": {
+    "name": "GitSwarm Ether",
+    "symbol": "GS-ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet.gitswarm.com:2096"
+  ],
+  "infoURL": "https://gitswarm.com/"
+}

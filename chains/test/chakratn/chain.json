@@ -1,0 +1,16 @@
+{
+  "name": "Chakra Testnet",
+  "chain": "Chakra Testnet",
+  "shortName": "ChakraTN",
+  "category": "test",
+  "chainId": 8545,
+  "networkId": 8545,
+  "nativeCurrency": {
+    "name": "Chakra",
+    "symbol": "CKR",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpcv1-dn-1.chakrachain.io/"
+  ]
+}

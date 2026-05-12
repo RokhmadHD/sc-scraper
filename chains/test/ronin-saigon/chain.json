@@ -1,0 +1,25 @@
+{
+  "name": "Ronin Saigon Testnet",
+  "chain": "ronin",
+  "shortName": "ronin-saigon",
+  "category": "test",
+  "chainId": 202601,
+  "networkId": 202601,
+  "nativeCurrency": {
+    "name": "Ronin",
+    "symbol": "RON",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://ronin-saigon.drpc.org",
+    "https://saigon-testnet.roninchain.com/rpc"
+  ],
+  "explorers": [
+    {
+      "name": "Ronin Saigon Explorer",
+      "url": "https://saigon-explorer.roninchain.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://roninchain.com"
+}

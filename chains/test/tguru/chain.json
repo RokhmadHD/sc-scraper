@@ -1,0 +1,24 @@
+{
+  "name": "Guru Network Testnet",
+  "chain": "tGURU",
+  "shortName": "tguru",
+  "category": "test",
+  "chainId": 261,
+  "networkId": 261,
+  "nativeCurrency": {
+    "name": "testGURU",
+    "symbol": "tGURU",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-test.gurunetwork.ai"
+  ],
+  "explorers": [
+    {
+      "name": "guruscan",
+      "url": "https://sepolia.gurunetwork.ai",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://gurunetwork.ai"
+}

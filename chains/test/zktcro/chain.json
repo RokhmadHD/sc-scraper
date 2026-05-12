@@ -1,0 +1,24 @@
+{
+  "name": "Cronos zkEVM Testnet",
+  "chain": "CronosZkEVMTestnet",
+  "shortName": "zkTCRO",
+  "category": "test",
+  "chainId": 240,
+  "networkId": 240,
+  "nativeCurrency": {
+    "name": "Cronos zkEVM Test Coin",
+    "symbol": "zkTCRO",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet.zkevm.cronos.org"
+  ],
+  "explorers": [
+    {
+      "name": "Cronos zkEVM Testnet Explorer",
+      "url": "https://explorer.zkevm.cronos.org/testnet",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://docs-zkevm.cronos.org"
+}

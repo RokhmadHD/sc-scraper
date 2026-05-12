@@ -1,0 +1,25 @@
+{
+  "name": "Aurora Testnet",
+  "chain": "NEAR",
+  "shortName": "aurora-testnet",
+  "category": "test",
+  "chainId": 1313161555,
+  "networkId": 1313161555,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://aurora-testnet.drpc.org",
+    "https://testnet.aurora.dev/"
+  ],
+  "explorers": [
+    {
+      "name": "Aurora Explorer",
+      "url": "https://explorer.testnet.aurora.dev",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://aurora.dev"
+}

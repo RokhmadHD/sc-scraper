@@ -1,0 +1,28 @@
+{
+  "name": "ZetaChain Mainnet",
+  "chain": "ZetaChain",
+  "shortName": "zetachain-mainnet",
+  "category": "mainnet",
+  "chainId": 7000,
+  "networkId": 7000,
+  "nativeCurrency": {
+    "name": "Zeta",
+    "symbol": "ZETA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://7000.rpc.thirdweb.com",
+    "https://zeta-chain.drpc.org",
+    "https://zetachain-evm.blockpi.network/v1/rpc/public",
+    "https://zetachain-mainnet.g.allthatnode.com/archive/evm",
+    "https://zetachain-mainnet.public.blastapi.io"
+  ],
+  "explorers": [
+    {
+      "name": "ZetaScan",
+      "url": "https://zetascan.com",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://zetachain.com/docs"
+}

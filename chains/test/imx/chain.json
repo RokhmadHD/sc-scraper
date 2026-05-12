@@ -1,0 +1,25 @@
+{
+  "name": "Immutable zkEVM",
+  "chain": "Immutable zkEVM",
+  "shortName": "imx",
+  "category": "test",
+  "chainId": 13371,
+  "networkId": 13371,
+  "nativeCurrency": {
+    "name": "IMX",
+    "symbol": "IMX",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://immutable-zkevm.drpc.org",
+    "https://rpc.immutable.com"
+  ],
+  "explorers": [
+    {
+      "name": "Immutable explorer",
+      "url": "https://explorer.immutable.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.immutable.com"
+}

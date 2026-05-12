@@ -1,0 +1,17 @@
+{
+  "name": "GRVT Exchange Testnet",
+  "chain": "ETH",
+  "shortName": "grvt-sepolia",
+  "category": "test",
+  "chainId": 326,
+  "networkId": 326,
+  "nativeCurrency": {
+    "name": "ETH",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://zkrpc.testnet.grvt.io"
+  ],
+  "infoURL": "https://grvt.io/"
+}

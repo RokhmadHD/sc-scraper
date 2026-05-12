@@ -1,0 +1,29 @@
+{
+  "name": "Celo Mainnet",
+  "chain": "CELO",
+  "shortName": "celo",
+  "category": "mainnet",
+  "chainId": 42220,
+  "networkId": 42220,
+  "nativeCurrency": {
+    "name": "CELO",
+    "symbol": "CELO",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://forno.celo.org"
+  ],
+  "explorers": [
+    {
+      "name": "Celoscan",
+      "url": "https://celoscan.io",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "blockscout",
+      "url": "https://celo.blockscout.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://docs.celo.org/"
+}

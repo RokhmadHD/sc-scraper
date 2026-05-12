@@ -1,0 +1,25 @@
+{
+  "name": "BitTorrent Chain Mainnet",
+  "chain": "BTTC",
+  "shortName": "BTT",
+  "category": "mainnet",
+  "chainId": 199,
+  "networkId": 199,
+  "nativeCurrency": {
+    "name": "BitTorrent",
+    "symbol": "BTT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://bittorrent.drpc.org",
+    "https://rpc.bt.io"
+  ],
+  "explorers": [
+    {
+      "name": "BitTorrent Chain Explorer",
+      "url": "https://bttcscan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://bt.io"
+}

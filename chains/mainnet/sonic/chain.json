@@ -1,0 +1,30 @@
+{
+  "name": "Sonic Mainnet",
+  "chain": "sonic",
+  "shortName": "sonic",
+  "category": "mainnet",
+  "chainId": 146,
+  "networkId": 146,
+  "nativeCurrency": {
+    "name": "Sonic",
+    "symbol": "S",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.soniclabs.com",
+    "https://sonic-rpc.publicnode.com"
+  ],
+  "explorers": [
+    {
+      "name": "etherscan",
+      "url": "https://sonicscan.org",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "sonic",
+      "url": "https://explorer.soniclabs.com",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://soniclabs.com"
+}

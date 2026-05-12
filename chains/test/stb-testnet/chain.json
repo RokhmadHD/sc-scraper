@@ -1,0 +1,23 @@
+{
+  "name": "STB Testnet",
+  "chain": "STB Testnet",
+  "shortName": "stb-testnet",
+  "category": "test",
+  "chainId": 50505,
+  "networkId": 50505,
+  "nativeCurrency": {
+    "name": "STB",
+    "symbol": "STB",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.quorum.sps.dev.kode.ru/"
+  ],
+  "explorers": [
+    {
+      "name": "stb-testnet",
+      "url": "https://explorer.quorum.sps.dev.kode.ru",
+      "standard": "none"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Cosmic Chain",
+  "chain": "COSMIC",
+  "shortName": "Cosmic",
+  "category": "mainnet",
+  "chainId": 67588,
+  "networkId": 3344,
+  "nativeCurrency": {
+    "name": "Cosmic Chain",
+    "symbol": "COSMIC",
+    "decimals": 18
+  },
+  "rpc": [
+    "http://testnet.cosmicchain.site:3344"
+  ],
+  "infoURL": "https://cosmicchain.site"
+}

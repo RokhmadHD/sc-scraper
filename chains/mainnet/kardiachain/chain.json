@@ -1,0 +1,17 @@
+{
+  "name": "KardiaChain Mainnet",
+  "chain": "KAI",
+  "shortName": "kardiachain",
+  "category": "mainnet",
+  "chainId": 24,
+  "networkId": 0,
+  "nativeCurrency": {
+    "name": "KardiaChain",
+    "symbol": "KAI",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.kardiachain.io"
+  ],
+  "infoURL": "https://kardiachain.io"
+}

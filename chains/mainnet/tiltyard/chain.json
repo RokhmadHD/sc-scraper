@@ -1,0 +1,23 @@
+{
+  "name": "Tiltyard Subnet",
+  "chain": "TILTYARD",
+  "shortName": "tiltyard",
+  "category": "mainnet",
+  "chainId": 1127469,
+  "networkId": 1127469,
+  "nativeCurrency": {
+    "name": "Tiltyard Token",
+    "symbol": "TILTG",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://subnets.avax.network/tiltyard/testnet/rpc"
+  ],
+  "explorers": [
+    {
+      "name": "TILTYARD Explorer",
+      "url": "http://testnet-explorer.tiltyard.gg",
+      "standard": "EIP3091"
+    }
+  ]
+}

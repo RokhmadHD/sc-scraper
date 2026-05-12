@@ -1,0 +1,17 @@
+{
+  "name": "Freight Trust Network",
+  "chain": "EDI",
+  "shortName": "EDI",
+  "category": "test",
+  "chainId": 211,
+  "networkId": 0,
+  "nativeCurrency": {
+    "name": "Freight Trust Native",
+    "symbol": "0xF",
+    "decimals": 18
+  },
+  "rpc": [
+    "http://13.57.207.168:3435"
+  ],
+  "infoURL": "https://freighttrust.com"
+}

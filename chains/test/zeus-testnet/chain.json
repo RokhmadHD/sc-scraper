@@ -1,0 +1,24 @@
+{
+  "name": "ZEUS Testnet",
+  "chain": "tZEUS",
+  "shortName": "ZEUS-Testnet",
+  "category": "test",
+  "chainId": 7244,
+  "networkId": 7244,
+  "nativeCurrency": {
+    "name": "The ZEUS Token",
+    "symbol": "ZEUSX",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet-rpc.zeuschainscan.io"
+  ],
+  "explorers": [
+    {
+      "name": "ZEUS Testnet Explorer",
+      "url": "https://testnet-explorer.zeuschainscan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://testnet-explorer.zeuschainscan.io"
+}

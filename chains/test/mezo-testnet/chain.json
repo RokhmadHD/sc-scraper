@@ -1,0 +1,24 @@
+{
+  "name": "Mezo Testnet",
+  "chain": "Mezo Testnet",
+  "shortName": "mezo-testnet",
+  "category": "test",
+  "chainId": 31611,
+  "networkId": 31611,
+  "nativeCurrency": {
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.test.mezo.org"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.test.mezo.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://mezo.org/"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Ramestta Mainnet",
+  "chain": "Ramestta",
+  "shortName": "RAMA",
+  "category": "mainnet",
+  "chainId": 1370,
+  "networkId": 1370,
+  "nativeCurrency": {
+    "name": "Rama",
+    "symbol": "RAMA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://blockchain.ramestta.com",
+    "https://blockchain2.ramestta.com"
+  ],
+  "explorers": [
+    {
+      "name": "ramascan",
+      "url": "https://ramascan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.ramestta.com"
+}

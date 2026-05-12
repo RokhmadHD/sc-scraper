@@ -1,0 +1,17 @@
+{
+  "name": "Janction",
+  "chain": "Janction",
+  "shortName": "janction",
+  "category": "mainnet",
+  "chainId": 678,
+  "networkId": 678,
+  "nativeCurrency": {
+    "name": "Janction",
+    "symbol": "JCT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.janction.io"
+  ],
+  "infoURL": "https://janction.io"
+}

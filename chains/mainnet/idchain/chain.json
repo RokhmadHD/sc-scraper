@@ -1,0 +1,24 @@
+{
+  "name": "IDChain Mainnet",
+  "chain": "IDChain",
+  "shortName": "idchain",
+  "category": "mainnet",
+  "chainId": 74,
+  "networkId": 74,
+  "nativeCurrency": {
+    "name": "EIDI",
+    "symbol": "EIDI",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://idchain.one/rpc/"
+  ],
+  "explorers": [
+    {
+      "name": "explorer",
+      "url": "https://explorer.idchain.one",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://idchain.one/begin/"
+}

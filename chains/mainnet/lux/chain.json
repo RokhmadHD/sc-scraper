@@ -1,0 +1,29 @@
+{
+  "name": "Lux Mainnet",
+  "chain": "Lux",
+  "shortName": "lux",
+  "category": "mainnet",
+  "chainId": 96369,
+  "networkId": 96369,
+  "nativeCurrency": {
+    "name": "Lux",
+    "symbol": "LUX",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://api.lux.network"
+  ],
+  "explorers": [
+    {
+      "name": "Lux Network Explorer",
+      "url": "https://explore.lux.network",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "Lux Network Explorer",
+      "url": "https://explore.lux-test.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://lux.network"
+}

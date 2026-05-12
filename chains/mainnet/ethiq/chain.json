@@ -1,0 +1,24 @@
+{
+  "name": "Ethiq",
+  "chain": "ETH",
+  "shortName": "ethiq",
+  "category": "mainnet",
+  "chainId": 30303,
+  "networkId": 30303,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.ethiq.network"
+  ],
+  "explorers": [
+    {
+      "name": "Ethiq Blockscout",
+      "url": "https://explorer.ethiq.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.ethiq.network"
+}

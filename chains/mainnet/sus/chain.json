@@ -1,0 +1,23 @@
+{
+  "name": "Susono",
+  "chain": "SUS",
+  "shortName": "sus",
+  "category": "mainnet",
+  "chainId": 13812,
+  "networkId": 13812,
+  "nativeCurrency": {
+    "name": "Susono",
+    "symbol": "OPN",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://gateway.opn.network/node/ext/bc/2VsZe5DstWw2bfgdx3YbjKcMsJnNDjni95sZorBEdk9L9Qr9Fr/rpc"
+  ],
+  "explorers": [
+    {
+      "name": "Susono",
+      "url": "http://explorer.opn.network",
+      "standard": "none"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Mantle Testnet",
+  "chain": "ETH",
+  "shortName": "mantle-testnet",
+  "category": "test",
+  "chainId": 5001,
+  "networkId": 5001,
+  "nativeCurrency": {
+    "name": "Testnet Mantle",
+    "symbol": "MNT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.testnet.mantle.xyz"
+  ],
+  "explorers": [
+    {
+      "name": "Mantle Testnet Explorer",
+      "url": "https://explorer.testnet.mantle.xyz",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://mantle.xyz"
+}

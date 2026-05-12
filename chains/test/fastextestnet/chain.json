@@ -1,0 +1,24 @@
+{
+  "name": "Fastex Chain testnet",
+  "chain": "FTN",
+  "shortName": "fastexTestnet",
+  "category": "test",
+  "chainId": 424242,
+  "networkId": 424242,
+  "nativeCurrency": {
+    "name": "FTN",
+    "symbol": "FTN",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.testnet.fastexchain.com"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://testnet.ftnscan.com",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://fastex.com"
+}

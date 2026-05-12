@@ -1,0 +1,23 @@
+{
+  "name": "Sophon Testnet",
+  "chain": "Sophon Testnet",
+  "shortName": "sophon-testnet",
+  "category": "test",
+  "chainId": 531050104,
+  "networkId": 531050104,
+  "nativeCurrency": {
+    "name": "Sophon",
+    "symbol": "SOPH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.testnet.sophon.xyz"
+  ],
+  "explorers": [
+    {
+      "name": "Sophon Block Explorer",
+      "url": "https://explorer.testnet.sophon.xyz",
+      "standard": "none"
+    }
+  ]
+}

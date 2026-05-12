@@ -1,0 +1,24 @@
+{
+  "name": "Aves Mainnet",
+  "chain": "AVS",
+  "shortName": "avs",
+  "category": "mainnet",
+  "chainId": 33333,
+  "networkId": 33333,
+  "nativeCurrency": {
+    "name": "Aves",
+    "symbol": "AVS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.avescoin.io"
+  ],
+  "explorers": [
+    {
+      "name": "avescan",
+      "url": "https://avescan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://avescoin.io"
+}

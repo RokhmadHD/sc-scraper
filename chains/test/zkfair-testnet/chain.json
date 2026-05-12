@@ -1,0 +1,24 @@
+{
+  "name": "ZKFair Testnet",
+  "chain": "ETH",
+  "shortName": "ZKFair-Testnet",
+  "category": "test",
+  "chainId": 43851,
+  "networkId": 43851,
+  "nativeCurrency": {
+    "name": "USDC Token",
+    "symbol": "USDC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet-rpc.zkfair.io"
+  ],
+  "explorers": [
+    {
+      "name": "ZKFair Testnet Info",
+      "url": "https://testnet-scan.zkfair.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://zkfair.io"
+}

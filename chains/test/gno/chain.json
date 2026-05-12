@@ -1,0 +1,43 @@
+{
+  "name": "Gnosis",
+  "chain": "GNO",
+  "shortName": "gno",
+  "category": "test",
+  "chainId": 100,
+  "networkId": 100,
+  "nativeCurrency": {
+    "name": "xDAI",
+    "symbol": "XDAI",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://gnosis-mainnet.public.blastapi.io",
+    "https://gnosis-rpc.publicnode.com",
+    "https://gnosis.api.onfinality.io/public",
+    "https://gnosis.blockpi.network/v1/rpc/public",
+    "https://gnosis.oat.farm",
+    "https://gnosischain-rpc.gateway.pokt.network",
+    "https://rpc.ankr.com/gnosis",
+    "https://rpc.gnosis.gateway.fm",
+    "https://rpc.gnosischain.com",
+    "https://web3endpoints.com/gnosischain-mainnet"
+  ],
+  "explorers": [
+    {
+      "name": "gnosisscan",
+      "url": "https://gnosisscan.io",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "blockscout",
+      "url": "https://gnosis.blockscout.com",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "dexguru",
+      "url": "https://gnosis.dex.guru",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://docs.gnosischain.com"
+}

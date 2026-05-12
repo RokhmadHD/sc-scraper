@@ -1,0 +1,24 @@
+{
+  "name": "Volcano Chain Mainnet",
+  "chain": "Volcano",
+  "shortName": "volcanochain",
+  "category": "mainnet",
+  "chainId": 10085,
+  "networkId": 10085,
+  "nativeCurrency": {
+    "name": "Volcano Coin",
+    "symbol": "VC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet.vchain.pro"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://vchainscan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://vex.pro"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Perennial Sepolia",
+  "chain": "perennialSepolia",
+  "shortName": "perennial-sepolia",
+  "category": "test",
+  "chainId": 60850,
+  "networkId": 60850,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-sepolia.perennial.foundation"
+  ],
+  "explorers": [
+    {
+      "name": "Perennial Explorer",
+      "url": "https://explorer-sepolia.perennial.foundation",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://perennial.finance"
+}

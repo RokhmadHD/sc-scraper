@@ -1,0 +1,31 @@
+{
+  "name": "World Chain Sepolia Testnet",
+  "chain": "ETH",
+  "shortName": "wcsep",
+  "category": "test",
+  "chainId": 4801,
+  "networkId": 4801,
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://4801.rpc.thirdweb.com",
+    "https://worldchain-sepolia.g.alchemy.com/public",
+    "https://worldchain-sepolia.gateway.tenderly.co"
+  ],
+  "explorers": [
+    {
+      "name": "etherscan",
+      "url": "https://sepolia.worldscan.org",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "blockscout",
+      "url": "https://worldchain-sepolia.explorer.alchemy.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://world.org/world-chain"
+}

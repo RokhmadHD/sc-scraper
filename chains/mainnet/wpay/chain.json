@@ -1,0 +1,24 @@
+{
+  "name": "Wirex Pay Mainnet",
+  "chain": "WirexPay",
+  "shortName": "wpay",
+  "category": "mainnet",
+  "chainId": 31415,
+  "networkId": 31415,
+  "nativeCurrency": {
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.wirexpaychain.com"
+  ],
+  "explorers": [
+    {
+      "name": "Wirex Pay Explorer",
+      "url": "https://blockscout.wirexpaychain.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://docs.wirexpaychain.com/tech/wirex-pay-chain"
+}

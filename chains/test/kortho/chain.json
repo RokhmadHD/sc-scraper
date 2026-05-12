@@ -1,0 +1,17 @@
+{
+  "name": "KorthoTest",
+  "chain": "Kortho",
+  "shortName": "Kortho",
+  "category": "test",
+  "chainId": 8285,
+  "networkId": 8285,
+  "nativeCurrency": {
+    "name": "Kortho Test",
+    "symbol": "KTO",
+    "decimals": 11
+  },
+  "rpc": [
+    "https://www.krotho-test.net"
+  ],
+  "infoURL": "https://www.kortho.io/"
+}

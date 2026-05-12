@@ -1,0 +1,24 @@
+{
+  "name": "Elysium Testnet",
+  "chain": "Atlantis",
+  "shortName": "ATL",
+  "category": "test",
+  "chainId": 1338,
+  "networkId": 1338,
+  "nativeCurrency": {
+    "name": "PYR",
+    "symbol": "PYR",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.atlantischain.network"
+  ],
+  "explorers": [
+    {
+      "name": "Atlantis explorer",
+      "url": "https://blockscout.atlantischain.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://elysiumchain.tech"
+}

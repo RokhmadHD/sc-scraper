@@ -1,0 +1,24 @@
+{
+  "name": "Treasure",
+  "chain": "Treasure",
+  "shortName": "treasure",
+  "category": "test",
+  "chainId": 61166,
+  "networkId": 61166,
+  "nativeCurrency": {
+    "name": "MAGIC",
+    "symbol": "MAGIC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.treasure.lol"
+  ],
+  "explorers": [
+    {
+      "name": "Treasure Block Explorer",
+      "url": "https://treasurescan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://app.treasure.lol"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Symplexia Smart Chain",
+  "chain": "Plexchain",
+  "shortName": "Plexchain",
+  "category": "mainnet",
+  "chainId": 1149,
+  "networkId": 1149,
+  "nativeCurrency": {
+    "name": "Plex Native Token",
+    "symbol": "PLEX",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://plex-rpc.plexfinance.us"
+  ],
+  "explorers": [
+    {
+      "name": "Plexchain Explorer",
+      "url": "https://explorer.plexfinance.us",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://plexfinance.us/"
+}

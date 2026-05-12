@@ -1,0 +1,24 @@
+{
+  "name": "Quantum Network",
+  "chain": "Quantum",
+  "shortName": "QTM",
+  "category": "mainnet",
+  "chainId": 44445,
+  "networkId": 44445,
+  "nativeCurrency": {
+    "name": "Quantum",
+    "symbol": "QTM",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpcqtm.avescoin.io"
+  ],
+  "explorers": [
+    {
+      "name": "Quantum Explorer",
+      "url": "https://qtm.avescoin.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://avescoin.io/"
+}

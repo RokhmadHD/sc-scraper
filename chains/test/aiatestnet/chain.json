@@ -1,0 +1,24 @@
+{
+  "name": "AIA Testnet",
+  "chain": "AIA",
+  "shortName": "aiatestnet",
+  "category": "test",
+  "chainId": 1320,
+  "networkId": 1320,
+  "nativeCurrency": {
+    "name": "AIA Testnet",
+    "symbol": "AIA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://aia-dataseed1-testnet.aiachain.org"
+  ],
+  "explorers": [
+    {
+      "name": "AIA Chain Explorer Testnet",
+      "url": "https://testnet.aiascan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://aiachain.org"
+}

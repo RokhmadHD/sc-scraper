@@ -1,0 +1,24 @@
+{
+  "name": "OFFICIAL VASYL",
+  "chain": "Official-Vasyl",
+  "shortName": "Vasyl",
+  "category": "test",
+  "chainId": 1278060416,
+  "networkId": 1278060416,
+  "nativeCurrency": {
+    "name": "OFFICIAL VASYL",
+    "symbol": "VASYL",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.official-vasyl.network"
+  ],
+  "explorers": [
+    {
+      "name": "Official Vasyl Explorer",
+      "url": "https://explorer.official-vasyl.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "official-vasyl.network"
+}

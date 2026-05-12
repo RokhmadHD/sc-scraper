@@ -1,0 +1,24 @@
+{
+  "name": "Althea L1 Mainnet",
+  "chain": "ALTHEA",
+  "shortName": "ALTHEA",
+  "category": "mainnet",
+  "chainId": 258432,
+  "networkId": 258432,
+  "nativeCurrency": {
+    "name": "Althea",
+    "symbol": "ALTHEA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.althea.zone"
+  ],
+  "explorers": [
+    {
+      "name": "Mintscan",
+      "url": "https://mintscan.io/althea",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://althea.net"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "HYCHAIN",
+  "chain": "ETH",
+  "shortName": "hychain",
+  "category": "mainnet",
+  "chainId": 2911,
+  "networkId": 2911,
+  "nativeCurrency": {
+    "name": "TOPIA",
+    "symbol": "TOPIA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.hychain.com/http"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.hychain.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.hychain.com"
+}

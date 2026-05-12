@@ -1,0 +1,17 @@
+{
+  "name": "Toki Testnet",
+  "chain": "TOKI",
+  "shortName": "toki-testnet",
+  "category": "test",
+  "chainId": 8655,
+  "networkId": 8655,
+  "nativeCurrency": {
+    "name": "Toki",
+    "symbol": "TOKI",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet.buildwithtoki.com/v0/rpc"
+  ],
+  "infoURL": "https://www.buildwithtoki.com"
+}

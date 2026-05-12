@@ -1,0 +1,25 @@
+{
+  "name": "Polkadot",
+  "chain": "DOT",
+  "shortName": "dot",
+  "category": "mainnet",
+  "chainId": 420420419,
+  "networkId": 420420419,
+  "nativeCurrency": {
+    "name": "DOT",
+    "symbol": "DOT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://eth-rpc.polkadot.io",
+    "https://services.polkadothub-rpc.com/mainnet"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://blockscout.polkadot.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://polkadot.com"
+}

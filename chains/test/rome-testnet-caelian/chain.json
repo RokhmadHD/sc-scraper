@@ -1,0 +1,24 @@
+{
+  "name": "Rome Testnet Caelian",
+  "chain": "ROME",
+  "shortName": "rome-testnet-caelian",
+  "category": "test",
+  "chainId": 121215,
+  "networkId": 121215,
+  "nativeCurrency": {
+    "name": "RSOL",
+    "symbol": "RSOL",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://caelian-i.testnet.romeprotocol.xyz"
+  ],
+  "explorers": [
+    {
+      "name": "Rome Testnet Caelian Explorer",
+      "url": "https://romescout-caelian-i.testnet.romeprotocol.xyz",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://rome.builders"
+}

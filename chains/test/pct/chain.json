@@ -1,0 +1,24 @@
+{
+  "name": "Palette Chain Testnet",
+  "chain": "PLT",
+  "shortName": "PCT",
+  "category": "test",
+  "chainId": 17180,
+  "networkId": 17180,
+  "nativeCurrency": {
+    "name": "Palette Token",
+    "symbol": "PLT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://palette-opennet.com:22000"
+  ],
+  "explorers": [
+    {
+      "name": "Palettescan",
+      "url": "https://testnet.palettescan.com",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://hashpalette.com/"
+}

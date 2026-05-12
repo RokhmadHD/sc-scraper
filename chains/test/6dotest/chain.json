@@ -1,0 +1,24 @@
+{
+  "name": "6Degree of Outreach - Testnet",
+  "chain": "6DO",
+  "shortName": "6dotest",
+  "category": "test",
+  "chainId": 24772477,
+  "networkId": 24772477,
+  "nativeCurrency": {
+    "name": "6Degree-Testnet Coin",
+    "symbol": "6DO-T",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-testnet.6dochain.com"
+  ],
+  "explorers": [
+    {
+      "name": "6Degree Testnet Chain Explorer",
+      "url": "https://explorer-testnet.6dochain.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://6do.world"
+}

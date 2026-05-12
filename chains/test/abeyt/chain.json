@@ -1,0 +1,24 @@
+{
+  "name": "Abey Testnet",
+  "chain": "Abey",
+  "shortName": "abeyt",
+  "category": "test",
+  "chainId": 178,
+  "networkId": 178,
+  "nativeCurrency": {
+    "name": "ABEY",
+    "symbol": "tABEY",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testrpc.abeychain.com"
+  ],
+  "explorers": [
+    {
+      "name": "abeyscan-testnet",
+      "url": "https://testnet.abeyscan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://abey.com"
+}

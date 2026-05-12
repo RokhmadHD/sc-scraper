@@ -1,0 +1,17 @@
+{
+  "name": "Callisto Testnet",
+  "chain": "CLO",
+  "shortName": "CLOTestnet",
+  "category": "test",
+  "chainId": 20729,
+  "networkId": 79,
+  "nativeCurrency": {
+    "name": "Callisto",
+    "symbol": "CLO",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet-rpc.callisto.network/"
+  ],
+  "infoURL": "https://callisto.network"
+}

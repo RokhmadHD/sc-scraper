@@ -1,0 +1,29 @@
+{
+  "name": "AMA Testnet",
+  "chain": "AMA",
+  "shortName": "AMA-TESTNET",
+  "category": "test",
+  "chainId": 36968,
+  "networkId": 36968,
+  "nativeCurrency": {
+    "name": "AMA",
+    "symbol": "AMA",
+    "decimals": 9
+  },
+  "rpc": [
+    "https://testnet-rpc.ama.one"
+  ],
+  "explorers": [
+    {
+      "name": "AMA Explorer Testnet",
+      "url": "https://testnet-ama.ddns.net",
+      "standard": "none"
+    },
+    {
+      "name": "AMA Explorer Testnet Alt",
+      "url": "https://testnet.explorer.ama.one",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://ama.one"
+}

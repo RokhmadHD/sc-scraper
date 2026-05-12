@@ -1,0 +1,24 @@
+{
+  "name": "RACE Testnet",
+  "chain": "ETH",
+  "shortName": "racesep",
+  "category": "test",
+  "chainId": 6806,
+  "networkId": 6806,
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://racetestnet.io/"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://testnet.racescan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://race.foundation/"
+}

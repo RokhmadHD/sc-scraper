@@ -1,0 +1,25 @@
+{
+  "name": "KaspaClassic Mainnet",
+  "chain": "KaspaClassic",
+  "shortName": "cas",
+  "category": "mainnet",
+  "chainId": 104566,
+  "networkId": 104566,
+  "nativeCurrency": {
+    "name": "KaspaClassic",
+    "symbol": "CAS",
+    "decimals": 18
+  },
+  "rpc": [
+    "http://80.178.101.118:8000/",
+    "https://api.kaspaclassic.world/"
+  ],
+  "explorers": [
+    {
+      "name": "KaspaClassic Explorer",
+      "url": "https://explorer.kaspaclassic.world",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://kaspaclassic.com/"
+}

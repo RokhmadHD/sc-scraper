@@ -1,0 +1,24 @@
+{
+  "name": "Origin Testnet",
+  "chain": "Origin",
+  "shortName": "auoc",
+  "category": "test",
+  "chainId": 1170,
+  "networkId": 1170,
+  "nativeCurrency": {
+    "name": "Origin",
+    "symbol": "UOC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://json-rpc.origin.uptick.network"
+  ],
+  "explorers": [
+    {
+      "name": "Origin Explorer",
+      "url": "https://evm-explorer.origin.uptick.network",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://www.uptick.network"
+}

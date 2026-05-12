@@ -1,0 +1,24 @@
+{
+  "name": "Stable Testnet",
+  "chain": "Stable",
+  "shortName": "stable-testnet",
+  "category": "test",
+  "chainId": 2201,
+  "networkId": 2201,
+  "nativeCurrency": {
+    "name": "USDT0",
+    "symbol": "USDT0",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.testnet.stable.xyz"
+  ],
+  "explorers": [
+    {
+      "name": "Stablescan",
+      "url": "https://testnet.stablescan.xyz",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://stable.xyz"
+}

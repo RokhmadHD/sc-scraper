@@ -1,0 +1,24 @@
+{
+  "name": "Inco Gentry Testnet",
+  "chain": "INCO",
+  "shortName": "inco-gentry",
+  "category": "test",
+  "chainId": 9090,
+  "networkId": 9090,
+  "nativeCurrency": {
+    "name": "INCO",
+    "symbol": "INCO",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet.inco.org"
+  ],
+  "explorers": [
+    {
+      "name": "Inco Gentry Testnet Explorer",
+      "url": "https://explorer.testnet.inco.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.inco.org"
+}

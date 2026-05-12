@@ -1,0 +1,24 @@
+{
+  "name": "BinaryChain Mainnet",
+  "chain": "BinaryChain",
+  "shortName": "binary",
+  "category": "mainnet",
+  "chainId": 987,
+  "networkId": 987,
+  "nativeCurrency": {
+    "name": "BINARY",
+    "symbol": "BNRY",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.binarychain.org"
+  ],
+  "explorers": [
+    {
+      "name": "BinaryChain Explorer",
+      "url": "https://explorer.binarychain.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://binarychain.org"
+}

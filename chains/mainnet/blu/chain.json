@@ -1,0 +1,17 @@
+{
+  "name": "Blucrates",
+  "chain": "BLU",
+  "shortName": "blu",
+  "category": "mainnet",
+  "chainId": 727,
+  "networkId": 727,
+  "nativeCurrency": {
+    "name": "Blucrates",
+    "symbol": "BLU",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://data.bluchain.pro"
+  ],
+  "infoURL": "https://www.blucrates.com"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "RaptorChain",
+  "chain": "RPTR",
+  "shortName": "rptr",
+  "category": "mainnet",
+  "chainId": 1380996178,
+  "networkId": 1380996178,
+  "nativeCurrency": {
+    "name": "Raptor",
+    "symbol": "RPTR",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.raptorchain.io/web3"
+  ],
+  "explorers": [
+    {
+      "name": "RaptorChain Explorer",
+      "url": "https://explorer.raptorchain.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://raptorchain.io"
+}

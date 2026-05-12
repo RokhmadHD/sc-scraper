@@ -1,0 +1,17 @@
+{
+  "name": "Humans.ai Testnet",
+  "chain": "Humans Testnet",
+  "shortName": "humans_testnet",
+  "category": "test",
+  "chainId": 4139,
+  "networkId": 4139,
+  "nativeCurrency": {
+    "name": "HEART",
+    "symbol": "HEART",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://evm-rpc.testnet.humans.zone"
+  ],
+  "infoURL": "https://humans.ai"
+}

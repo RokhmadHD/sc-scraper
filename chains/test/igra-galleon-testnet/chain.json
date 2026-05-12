@@ -1,0 +1,24 @@
+{
+  "name": "Igra Testnet",
+  "chain": "IGRA",
+  "shortName": "igra-galleon-testnet",
+  "category": "test",
+  "chainId": 38836,
+  "networkId": 38836,
+  "nativeCurrency": {
+    "name": "iKAS",
+    "symbol": "iKAS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://galleon-testnet.igralabs.com:8545"
+  ],
+  "explorers": [
+    {
+      "name": "Igra Galleon Testnet Explorer",
+      "url": "https://explorer.galleon-testnet.igralabs.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://igralabs.com"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "HashKey Chain Testnet",
+  "chain": "HashKey Chain Testnet",
+  "shortName": "HSKT",
+  "category": "test",
+  "chainId": 133,
+  "networkId": 133,
+  "nativeCurrency": {
+    "name": "HashKey EcoPoints",
+    "symbol": "HSK",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet.hsk.xyz"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://testnet-explorer.hsk.xyz",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://hashkeychain.net"
+}

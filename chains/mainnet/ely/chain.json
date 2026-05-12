@@ -1,0 +1,30 @@
+{
+  "name": "Elysium Mainnet",
+  "chain": "Elysium",
+  "shortName": "ELY",
+  "category": "mainnet",
+  "chainId": 1339,
+  "networkId": 1339,
+  "nativeCurrency": {
+    "name": "ELY",
+    "symbol": "ELY",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.elysiumchain.tech",
+    "https://rpc.elysiumchain.us"
+  ],
+  "explorers": [
+    {
+      "name": "Elysium mainnet explorer",
+      "url": "https://explorer.elysiumchain.tech",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "Elysium blockscout explorer",
+      "url": "https://blockscout.elysiumchain.tech",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://elysiumchain.tech/"
+}

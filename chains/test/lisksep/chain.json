@@ -1,0 +1,24 @@
+{
+  "name": "Lisk Sepolia Testnet",
+  "chain": "ETH",
+  "shortName": "lisksep",
+  "category": "test",
+  "chainId": 4202,
+  "networkId": 4202,
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.sepolia-api.lisk.com"
+  ],
+  "explorers": [
+    {
+      "name": "liskscout",
+      "url": "https://sepolia-blockscout.lisk.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://lisk.com"
+}

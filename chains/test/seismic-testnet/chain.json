@@ -1,0 +1,25 @@
+{
+  "name": "Seismic Testnet",
+  "chain": "Seismic",
+  "shortName": "seismic-testnet",
+  "category": "test",
+  "chainId": 5124,
+  "networkId": 5124,
+  "nativeCurrency": {
+    "name": "Seismic Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://gcp-1.seismictest.net/rpc",
+    "https://gcp-2.seismictest.net/rpc"
+  ],
+  "explorers": [
+    {
+      "name": "Seismic Testnet Explorer",
+      "url": "https://seismic-testnet.socialscan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://seismic.systems"
+}

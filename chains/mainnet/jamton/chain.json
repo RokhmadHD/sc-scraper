@@ -1,0 +1,17 @@
+{
+  "name": "Jamton",
+  "chain": "Jamton",
+  "shortName": "jamton",
+  "category": "mainnet",
+  "chainId": 5589,
+  "networkId": 5589,
+  "nativeCurrency": {
+    "name": "DOTON",
+    "symbol": "DOTON",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.jamton.network/"
+  ],
+  "infoURL": "https://app.jamton.network/"
+}

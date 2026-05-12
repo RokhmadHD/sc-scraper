@@ -1,0 +1,24 @@
+{
+  "name": "Acala Network Testnet",
+  "chain": "ACA",
+  "shortName": "taca",
+  "category": "test",
+  "chainId": 597,
+  "networkId": 597,
+  "nativeCurrency": {
+    "name": "Acala Token",
+    "symbol": "ACA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://eth-rpc-acala-testnet.aca-staging.network"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://blockscout.acala-dev.aca-dev.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://acala.network"
+}

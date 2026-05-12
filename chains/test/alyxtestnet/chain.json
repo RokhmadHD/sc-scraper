@@ -1,0 +1,24 @@
+{
+  "name": "Alyx Chain Testnet",
+  "chain": "Alyx Chain Testnet",
+  "shortName": "AlyxTestnet",
+  "category": "test",
+  "chainId": 135,
+  "networkId": 135,
+  "nativeCurrency": {
+    "name": "Alyx Testnet Native Token",
+    "symbol": "ALYX",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet-rpc.alyxchain.com"
+  ],
+  "explorers": [
+    {
+      "name": "alyx testnet scan",
+      "url": "https://testnet.alyxscan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.alyxchain.com"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Syndr L3 Sepolia",
+  "chain": "SYNDRSEPOLIA",
+  "shortName": "syndr",
+  "category": "test",
+  "chainId": 444444,
+  "networkId": 444444,
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://sepolia.syndr.com/http"
+  ],
+  "explorers": [
+    {
+      "name": "Syndr L3 Sepolia Testnet Explorer",
+      "url": "https://sepolia-explorer.syndr.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://syndr.com"
+}

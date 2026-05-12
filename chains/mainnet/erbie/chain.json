@@ -1,0 +1,24 @@
+{
+  "name": "Erbie Mainnet",
+  "chain": "Erbie",
+  "shortName": "Erbie",
+  "category": "mainnet",
+  "chainId": 50888,
+  "networkId": 50888,
+  "nativeCurrency": {
+    "name": "ERB",
+    "symbol": "ERB",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://api.erbie.io"
+  ],
+  "explorers": [
+    {
+      "name": "Erbie Explorer",
+      "url": "https://www.erbie.io/explorer",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://www.erbie.io"
+}

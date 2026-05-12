@@ -1,0 +1,26 @@
+{
+  "name": "Fantom Testnet",
+  "chain": "FTM",
+  "shortName": "tftm",
+  "category": "test",
+  "chainId": 4002,
+  "networkId": 4002,
+  "nativeCurrency": {
+    "name": "Fantom",
+    "symbol": "FTM",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://fantom-testnet-rpc.publicnode.com",
+    "https://fantom-testnet.drpc.org",
+    "https://rpc.testnet.fantom.network"
+  ],
+  "explorers": [
+    {
+      "name": "ftmscan",
+      "url": "https://testnet.ftmscan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://docs.fantom.foundation/quick-start/short-guide#fantom-testnet"
+}

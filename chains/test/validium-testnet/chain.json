@@ -1,0 +1,24 @@
+{
+  "name": "Validium Network",
+  "chain": "Validium Network Testnet",
+  "shortName": "validium-testnet",
+  "category": "test",
+  "chainId": 567,
+  "networkId": 567,
+  "nativeCurrency": {
+    "name": "Validium",
+    "symbol": "VLDM",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet.l2.rpc.validium.network"
+  ],
+  "explorers": [
+    {
+      "name": "Validium Network Testnet Block Explorer",
+      "url": "https://testnet.explorer.validium.network",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://www.validium.network"
+}

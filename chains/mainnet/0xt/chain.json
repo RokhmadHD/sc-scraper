@@ -1,0 +1,24 @@
+{
+  "name": "0XTade",
+  "chain": "0XTade Chain",
+  "shortName": "0xt",
+  "category": "mainnet",
+  "chainId": 10248,
+  "networkId": 10248,
+  "nativeCurrency": {
+    "name": "0XT",
+    "symbol": "0XT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://node.0xtchain.com"
+  ],
+  "explorers": [
+    {
+      "name": "0xtrade Scan",
+      "url": "https://www.0xtscan.com",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://www.0xtrade.finance/"
+}

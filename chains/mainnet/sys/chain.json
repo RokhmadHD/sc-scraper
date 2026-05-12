@@ -1,0 +1,27 @@
+{
+  "name": "Syscoin Mainnet",
+  "chain": "SYS",
+  "shortName": "sys",
+  "category": "mainnet",
+  "chainId": 57,
+  "networkId": 57,
+  "nativeCurrency": {
+    "name": "Syscoin",
+    "symbol": "SYS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://57.rpc.thirdweb.com",
+    "https://rpc.syscoin.org",
+    "https://syscoin-evm.publicnode.com",
+    "https://syscoin.public-rpc.com"
+  ],
+  "explorers": [
+    {
+      "name": "Syscoin Block Explorer",
+      "url": "https://explorer.syscoin.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.syscoin.org"
+}

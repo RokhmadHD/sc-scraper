@@ -1,0 +1,26 @@
+{
+  "name": "TAC Turin",
+  "chain": "TAC",
+  "shortName": "tacchain_2390-1",
+  "category": "test",
+  "chainId": 2390,
+  "networkId": 2390,
+  "nativeCurrency": {
+    "name": "TAC",
+    "symbol": "TAC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.ankr.com/tac_turin",
+    "https://turin-ws.rpc.tac.build",
+    "https://turin.rpc.tac.build"
+  ],
+  "explorers": [
+    {
+      "name": "TAC Turin Blockscout",
+      "url": "https://turin.explorer.tac.build",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://tac.build/"
+}

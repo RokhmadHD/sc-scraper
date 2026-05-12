@@ -1,0 +1,24 @@
+{
+  "name": "Treasure Topaz",
+  "chain": "Treasure Topaz",
+  "shortName": "treasure-topaz",
+  "category": "test",
+  "chainId": 978658,
+  "networkId": 978658,
+  "nativeCurrency": {
+    "name": "Testnet MAGIC",
+    "symbol": "MAGIC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.topaz.treasure.lol"
+  ],
+  "explorers": [
+    {
+      "name": "Treasure Topaz Block Explorer",
+      "url": "https://topaz.treasurescan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://app.treasure.lol"
+}

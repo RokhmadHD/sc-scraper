@@ -1,0 +1,25 @@
+{
+  "name": "Telos EVM Mainnet",
+  "chain": "TLOS",
+  "shortName": "TelosEVM",
+  "category": "mainnet",
+  "chainId": 40,
+  "networkId": 40,
+  "nativeCurrency": {
+    "name": "Telos",
+    "symbol": "TLOS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.telos.net",
+    "https://telos.drpc.org"
+  ],
+  "explorers": [
+    {
+      "name": "teloscan",
+      "url": "https://teloscan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://telos.net"
+}

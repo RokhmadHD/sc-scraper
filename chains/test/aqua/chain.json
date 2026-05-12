@@ -1,0 +1,18 @@
+{
+  "name": "Aquachain",
+  "chain": "AQUA",
+  "shortName": "aqua",
+  "category": "test",
+  "chainId": 61717561,
+  "networkId": 61717561,
+  "nativeCurrency": {
+    "name": "Aquachain Ether",
+    "symbol": "AQUA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://c.onical.org",
+    "https://tx.aquacha.in/api"
+  ],
+  "infoURL": "https://aquachain.github.io"
+}

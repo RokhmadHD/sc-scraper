@@ -1,0 +1,24 @@
+{
+  "name": "Sonic Testnet",
+  "chain": "sonic-testnet",
+  "shortName": "sonic-testnet",
+  "category": "test",
+  "chainId": 14601,
+  "networkId": 14601,
+  "nativeCurrency": {
+    "name": "Sonic",
+    "symbol": "S",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.testnet.soniclabs.com"
+  ],
+  "explorers": [
+    {
+      "name": "Sonic Testnet Explorer",
+      "url": "https://explorer.testnet.soniclabs.com",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://testnet.soniclabs.com"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Sahara AI",
+  "chain": "Sahara",
+  "shortName": "sahara",
+  "category": "mainnet",
+  "chainId": 3132023,
+  "networkId": 3132023,
+  "nativeCurrency": {
+    "name": "Sahara AI",
+    "symbol": "SAHARA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet.saharalabs.ai"
+  ],
+  "infoURL": "https://saharalabs.ai"
+}

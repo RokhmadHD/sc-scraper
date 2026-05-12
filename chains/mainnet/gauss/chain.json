@@ -1,0 +1,24 @@
+{
+  "name": "Gauss Mainnet",
+  "chain": "Gauss",
+  "shortName": "gauss",
+  "category": "mainnet",
+  "chainId": 1777,
+  "networkId": 1777,
+  "nativeCurrency": {
+    "name": "GANG",
+    "symbol": "GANG",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.gaussgang.com"
+  ],
+  "explorers": [
+    {
+      "name": "Gauss Explorer",
+      "url": "https://explorer.gaussgang.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://gaussgang.com/"
+}

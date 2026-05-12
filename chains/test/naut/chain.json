@@ -1,0 +1,24 @@
+{
+  "name": "Nautilus Trition Chain",
+  "chain": "ETH",
+  "shortName": "NAUT",
+  "category": "test",
+  "chainId": 91002,
+  "networkId": 91002,
+  "nativeCurrency": {
+    "name": "Nautilus Zebec Testnet Tokens",
+    "symbol": "tZBC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://triton.api.nautchain.xyz"
+  ],
+  "explorers": [
+    {
+      "name": "Nautscan",
+      "url": "https://triton.nautscan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://docs.nautchain.xyz"
+}

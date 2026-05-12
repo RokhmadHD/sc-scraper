@@ -1,0 +1,24 @@
+{
+  "name": "Deamchain Mainnet",
+  "chain": "Deamchain",
+  "shortName": "deam",
+  "category": "mainnet",
+  "chainId": 136,
+  "networkId": 136,
+  "nativeCurrency": {
+    "name": "Deamchain Native Token",
+    "symbol": "DEAM",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet.deamchain.com"
+  ],
+  "explorers": [
+    {
+      "name": "Deamchain Block Explorer",
+      "url": "https://scan.deamchain.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://deamchain.com"
+}

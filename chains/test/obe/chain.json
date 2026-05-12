@@ -1,0 +1,24 @@
+{
+  "name": "OEBlock Testnet",
+  "chain": "OEBt",
+  "shortName": "obe",
+  "category": "test",
+  "chainId": 156,
+  "networkId": 156,
+  "nativeCurrency": {
+    "name": "OEBlock",
+    "symbol": "OEB",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet-rpc.oeblock.com"
+  ],
+  "explorers": [
+    {
+      "name": "OEScan explorer",
+      "url": "https://testnet.oescan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.oeblock.com/"
+}

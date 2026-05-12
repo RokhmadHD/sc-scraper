@@ -1,0 +1,24 @@
+{
+  "name": "Eclipse Subnet",
+  "chain": "ECLIPSE",
+  "shortName": "eclipse",
+  "category": "mainnet",
+  "chainId": 17172,
+  "networkId": 17172,
+  "nativeCurrency": {
+    "name": "Eclipse",
+    "symbol": "ECLP",
+    "decimals": 16
+  },
+  "rpc": [
+    "https://subnets.avax.network/eclipse/testnet/rpc"
+  ],
+  "explorers": [
+    {
+      "name": "ECLIPSE Explorer",
+      "url": "https://subnets-test.avax.network/eclipse",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "http://eclipsenet.io"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "5ireChain Thunder Testnet",
+  "chain": "5ireChain",
+  "shortName": "T5ire",
+  "category": "test",
+  "chainId": 997,
+  "networkId": 997,
+  "nativeCurrency": {
+    "name": "5ire Testnet Token",
+    "symbol": "T5IRE",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.testnet.5ire.network"
+  ],
+  "explorers": [
+    {
+      "name": "5ireChain Testnet Explorer",
+      "url": "https://testnet.5irescan.io",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://5ire.org"
+}

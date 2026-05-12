@@ -1,0 +1,24 @@
+{
+  "name": "PremiumBlock",
+  "chain": "PBLK",
+  "shortName": "pblk",
+  "category": "mainnet",
+  "chainId": 23023,
+  "networkId": 23023,
+  "nativeCurrency": {
+    "name": "Premium Block",
+    "symbol": "PBLK",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.premiumblock.org"
+  ],
+  "explorers": [
+    {
+      "name": "PremiumBlocks Explorer",
+      "url": "https://scan.premiumblock.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://scan.premiumblock.org"
+}

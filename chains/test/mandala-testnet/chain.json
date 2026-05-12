@@ -1,0 +1,24 @@
+{
+  "name": "Mandala Chain Testnet",
+  "chain": "MANDALA",
+  "shortName": "mandala-testnet",
+  "category": "test",
+  "chainId": 20011,
+  "networkId": 20011,
+  "nativeCurrency": {
+    "name": "Kepeng Test",
+    "symbol": "KPGT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc1-testnet.mandalachain.io"
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout",
+      "url": "https://explorer.testnet.mandalachain.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://mandalachain.io"
+}

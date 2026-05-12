@@ -1,0 +1,24 @@
+{
+  "name": "Cybria Testnet",
+  "chain": "CYBA",
+  "shortName": "tcyba",
+  "category": "test",
+  "chainId": 6666,
+  "networkId": 6666,
+  "nativeCurrency": {
+    "name": "Cybria",
+    "symbol": "CYBA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://l2-rpc.cybascan.io"
+  ],
+  "explorers": [
+    {
+      "name": "Cybria Explorer",
+      "url": "https://explorer.cybascan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://cybria.io"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Elastos Smart Chain",
+  "chain": "ETH",
+  "shortName": "esc",
+  "category": "mainnet",
+  "chainId": 20,
+  "networkId": 20,
+  "nativeCurrency": {
+    "name": "Elastos",
+    "symbol": "ELA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://api.elastos.io/eth"
+  ],
+  "explorers": [
+    {
+      "name": "elastos esc explorer",
+      "url": "https://esc.elastos.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.elastos.org/"
+}

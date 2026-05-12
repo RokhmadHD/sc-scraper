@@ -1,0 +1,24 @@
+{
+  "name": "XANAChain",
+  "chain": "XANAChain",
+  "shortName": "XANAChain",
+  "category": "mainnet",
+  "chainId": 8888,
+  "networkId": 8888,
+  "nativeCurrency": {
+    "name": "XETA",
+    "symbol": "XETA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet.xana.net/rpc"
+  ],
+  "explorers": [
+    {
+      "name": "XANAChain",
+      "url": "https://xanachain.xana.net",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://xanachain.xana.net/"
+}

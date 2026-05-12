@@ -1,0 +1,17 @@
+{
+  "name": "FileFileGo",
+  "chain": "FFG",
+  "shortName": "ffg",
+  "category": "mainnet",
+  "chainId": 191,
+  "networkId": 191,
+  "nativeCurrency": {
+    "name": "FFG",
+    "symbol": "FFG",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.filefilego.com/rpc"
+  ],
+  "infoURL": "https://filefilego.com"
+}

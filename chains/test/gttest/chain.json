@@ -1,0 +1,24 @@
+{
+  "name": "GateChain Testnet",
+  "chain": "GTTEST",
+  "shortName": "gttest",
+  "category": "test",
+  "chainId": 85,
+  "networkId": 85,
+  "nativeCurrency": {
+    "name": "GateToken",
+    "symbol": "GT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet.gatenode.cc"
+  ],
+  "explorers": [
+    {
+      "name": "GateScan",
+      "url": "https://www.gatescan.org/testnet",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.gatechain.io"
+}

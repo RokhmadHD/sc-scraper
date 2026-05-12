@@ -1,0 +1,18 @@
+{
+  "name": "Mars Credit",
+  "chain": "MARS",
+  "shortName": "mars",
+  "category": "mainnet",
+  "chainId": 110110,
+  "networkId": 110110,
+  "nativeCurrency": {
+    "name": "Mars Credit",
+    "symbol": "MARS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://node99-production-dd5f.up.railway.app:443",
+    "https://rpc.marscredit.xyz:443"
+  ],
+  "infoURL": "https://marscredit.xyz/"
+}

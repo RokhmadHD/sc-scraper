@@ -1,0 +1,24 @@
+{
+  "name": "Plian Mainnet Subchain 1",
+  "chain": "Plian",
+  "shortName": "plian-mainnet-l2",
+  "category": "mainnet",
+  "chainId": 8007736,
+  "networkId": 8007736,
+  "nativeCurrency": {
+    "name": "Plian Token",
+    "symbol": "PI",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet.plian.io/child_0"
+  ],
+  "explorers": [
+    {
+      "name": "piscan",
+      "url": "https://piscan.plian.org/child_0",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://plian.org"
+}

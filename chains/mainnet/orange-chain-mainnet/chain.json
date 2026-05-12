@@ -1,0 +1,25 @@
+{
+  "name": "Orange Chain Mainnet",
+  "chain": "Orange Chain",
+  "shortName": "Orange-Chain-Mainnet",
+  "category": "mainnet",
+  "chainId": 61022,
+  "networkId": 61022,
+  "nativeCurrency": {
+    "name": "BTC",
+    "symbol": "BTC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://hk-rpc.orangechain.xyz",
+    "https://rpc.orangechain.xyz"
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout",
+      "url": "https://scan.orangechain.xyz",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://orangechain.xyz"
+}

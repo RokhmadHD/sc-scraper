@@ -1,0 +1,17 @@
+{
+  "name": "Toki Network",
+  "chain": "TOKI",
+  "shortName": "toki",
+  "category": "mainnet",
+  "chainId": 8654,
+  "networkId": 8654,
+  "nativeCurrency": {
+    "name": "Toki",
+    "symbol": "TOKI",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet.buildwithtoki.com/v0/rpc"
+  ],
+  "infoURL": "https://www.buildwithtoki.com"
+}

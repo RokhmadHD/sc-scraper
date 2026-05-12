@@ -1,0 +1,24 @@
+{
+  "name": "Proof of Play - Boss",
+  "chain": "ETH",
+  "shortName": "pop-boss",
+  "category": "mainnet",
+  "chainId": 70701,
+  "networkId": 70701,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.boss.proofofplay.com"
+  ],
+  "explorers": [
+    {
+      "name": "Proof of Play Boss Explorer",
+      "url": "https://explorer.boss.proofofplay.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://proofofplay.com"
+}

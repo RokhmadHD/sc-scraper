@@ -1,0 +1,24 @@
+{
+  "name": "MAXI Chain Mainnet",
+  "chain": "MAXI",
+  "shortName": "maxi-mainnet",
+  "category": "mainnet",
+  "chainId": 899,
+  "networkId": 899,
+  "nativeCurrency": {
+    "name": "MAXI GAS",
+    "symbol": "MGAS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.maxi.network"
+  ],
+  "explorers": [
+    {
+      "name": "Maxi Chain Mainnet Explorer",
+      "url": "https://mainnet.maxi.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://maxi.network"
+}

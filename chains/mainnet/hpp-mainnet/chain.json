@@ -1,0 +1,24 @@
+{
+  "name": "HPP Mainnet",
+  "chain": "ETH",
+  "shortName": "hpp-mainnet",
+  "category": "mainnet",
+  "chainId": 190415,
+  "networkId": 190415,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet.hpp.io"
+  ],
+  "explorers": [
+    {
+      "name": "HPP Mainnet Explorer",
+      "url": "https://explorer.hpp.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.hpp.io"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "NFB Chain",
+  "chain": "NFB Chain",
+  "shortName": "nfbchain",
+  "category": "mainnet",
+  "chainId": 632,
+  "networkId": 632,
+  "nativeCurrency": {
+    "name": "NFBCoin",
+    "symbol": "NFBC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://node.nfbchain.com"
+  ],
+  "explorers": [
+    {
+      "name": "NFB Chain Explorer",
+      "url": "https://scan.nfbchain.com",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://nfbchain.com/"
+}

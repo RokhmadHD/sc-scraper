@@ -1,0 +1,24 @@
+{
+  "name": "Aerie Network",
+  "chain": "Aerie",
+  "shortName": "Aerie",
+  "category": "mainnet",
+  "chainId": 84886,
+  "networkId": 84886,
+  "nativeCurrency": {
+    "name": "Aerie",
+    "symbol": "AER",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet.aerielab.io"
+  ],
+  "explorers": [
+    {
+      "name": "Aerie Explorer",
+      "url": "https://explorer.aerielab.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://aerielab.io/"
+}

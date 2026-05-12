@@ -1,0 +1,24 @@
+{
+  "name": "Credit Smart Chain",
+  "chain": "CREDIT",
+  "shortName": "Credit",
+  "category": "mainnet",
+  "chainId": 13308,
+  "networkId": 13308,
+  "nativeCurrency": {
+    "name": "Credit",
+    "symbol": "CREDIT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.creditsmartchain.com"
+  ],
+  "explorers": [
+    {
+      "name": "Creditscan",
+      "url": "https://scan.creditsmartchain.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://creditsmartchain.com"
+}

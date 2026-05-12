@@ -1,0 +1,17 @@
+{
+  "name": "Panarchy",
+  "chain": "Panarchy",
+  "shortName": "panarchy",
+  "category": "mainnet",
+  "chainId": 2013,
+  "networkId": 1,
+  "nativeCurrency": {
+    "name": "GAS",
+    "symbol": "GAS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://polytopia.org:8545"
+  ],
+  "infoURL": "https://polytopia.org/"
+}

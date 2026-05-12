@@ -1,0 +1,24 @@
+{
+  "name": "TBSI Mainnet",
+  "chain": "TBSI",
+  "shortName": "TBSI",
+  "category": "mainnet",
+  "chainId": 1707,
+  "networkId": 1707,
+  "nativeCurrency": {
+    "name": "Jinda",
+    "symbol": "JINDA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.blockchain.or.th"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://exp.blockchain.or.th",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://blockchain.or.th"
+}

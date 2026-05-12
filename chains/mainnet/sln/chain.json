@@ -1,0 +1,24 @@
+{
+  "name": "Smart Layer Network",
+  "chain": "SLN",
+  "shortName": "SLN",
+  "category": "mainnet",
+  "chainId": 5169,
+  "networkId": 5169,
+  "nativeCurrency": {
+    "name": "Service Unit Token",
+    "symbol": "SU",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.main.smartlayer.network"
+  ],
+  "explorers": [
+    {
+      "name": "SLN Mainnet Explorer",
+      "url": "https://explorer.main.smartlayer.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.smartlayer.network/"
+}

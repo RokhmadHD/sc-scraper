@@ -1,0 +1,24 @@
+{
+  "name": "Ekta",
+  "chain": "EKTA",
+  "shortName": "ekta",
+  "category": "mainnet",
+  "chainId": 1994,
+  "networkId": 1994,
+  "nativeCurrency": {
+    "name": "EKTA",
+    "symbol": "EKTA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://main.ekta.io"
+  ],
+  "explorers": [
+    {
+      "name": "ektascan",
+      "url": "https://ektascan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.ekta.io"
+}

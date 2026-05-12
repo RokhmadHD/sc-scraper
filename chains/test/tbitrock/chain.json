@@ -1,0 +1,24 @@
+{
+  "name": "Bitrock Testnet",
+  "chain": "Bitrock",
+  "shortName": "tbitrock",
+  "category": "test",
+  "chainId": 7771,
+  "networkId": 7771,
+  "nativeCurrency": {
+    "name": "BITROCK",
+    "symbol": "BROCK",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet.bit-rock.io"
+  ],
+  "explorers": [
+    {
+      "name": "Bitrock Testnet Explorer",
+      "url": "https://testnetscan.bit-rock.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://bit-rock.io"
+}

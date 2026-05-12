@@ -1,0 +1,17 @@
+{
+  "name": "Mix",
+  "chain": "MIX",
+  "shortName": "mix",
+  "category": "mainnet",
+  "chainId": 76,
+  "networkId": 76,
+  "nativeCurrency": {
+    "name": "Mix Ether",
+    "symbol": "MIX",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc2.mix-blockchain.org:8647"
+  ],
+  "infoURL": "https://mix-blockchain.org"
+}

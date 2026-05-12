@@ -1,0 +1,23 @@
+{
+  "name": "Monsoon Alpha",
+  "chain": "MONSOON ALPHA",
+  "shortName": "monsoon-alpha",
+  "category": "mainnet",
+  "chainId": 100611,
+  "networkId": 100611,
+  "nativeCurrency": {
+    "name": "RDL",
+    "symbol": "RDL",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://alpha.monsoon.rainfall.one"
+  ],
+  "explorers": [
+    {
+      "name": "Monsoon Scan",
+      "url": "https://scout.alpha.monsoon.rainfall.one",
+      "standard": "EIP3091"
+    }
+  ]
+}

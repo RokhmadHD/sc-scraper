@@ -1,0 +1,24 @@
+{
+  "name": "OverProtocol Mainnet",
+  "chain": "OverProtocol",
+  "shortName": "overprotocol",
+  "category": "mainnet",
+  "chainId": 54176,
+  "networkId": 54176,
+  "nativeCurrency": {
+    "name": "Over",
+    "symbol": "OVER",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.overprotocol.com"
+  ],
+  "explorers": [
+    {
+      "name": "OverView",
+      "url": "https://scan.over.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://docs.over.network"
+}

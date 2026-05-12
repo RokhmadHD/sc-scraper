@@ -1,0 +1,24 @@
+{
+  "name": "RACE Mainnet",
+  "chain": "ETH",
+  "shortName": "raceeth",
+  "category": "mainnet",
+  "chainId": 6805,
+  "networkId": 6805,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://racemainnet.io/"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://racescan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://race.foundation/"
+}

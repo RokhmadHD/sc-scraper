@@ -1,0 +1,24 @@
+{
+  "name": "Oone Chain Devnet",
+  "chain": "OONE Devnet",
+  "shortName": "oonedev",
+  "category": "test",
+  "chainId": 333777,
+  "networkId": 333777,
+  "nativeCurrency": {
+    "name": "tOONE",
+    "symbol": "tOONE",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.dev.oonechain.com"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://dev.oonescan.com",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://oonechain.com"
+}

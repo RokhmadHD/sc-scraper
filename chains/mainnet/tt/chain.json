@@ -1,0 +1,26 @@
+{
+  "name": "ThunderCore Mainnet",
+  "chain": "TT",
+  "shortName": "TT",
+  "category": "mainnet",
+  "chainId": 108,
+  "networkId": 108,
+  "nativeCurrency": {
+    "name": "ThunderCore Token",
+    "symbol": "TT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet-rpc.thundercore.com",
+    "https://mainnet-rpc.thundercore.io",
+    "https://mainnet-rpc.thundertoken.net"
+  ],
+  "explorers": [
+    {
+      "name": "thundercore-viewblock",
+      "url": "https://viewblock.io/thundercore",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://thundercore.com"
+}

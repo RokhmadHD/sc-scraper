@@ -1,0 +1,35 @@
+{
+  "name": "Gravity Alpha Mainnet",
+  "chain": "Gravity",
+  "shortName": "gravity",
+  "category": "mainnet",
+  "chainId": 1625,
+  "networkId": 1625,
+  "nativeCurrency": {
+    "name": "Gravity",
+    "symbol": "G",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.ankr.com/gravity",
+    "https://rpc.gravity.xyz"
+  ],
+  "explorers": [
+    {
+      "name": "Gravity Alpha Mainnet Explorer",
+      "url": "https://explorer.gravity.xyz",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "gscan",
+      "url": "https://gscan.xyz",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "OKLink",
+      "url": "https://www.oklink.com/gravity-alpha",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://gravity.xyz"
+}

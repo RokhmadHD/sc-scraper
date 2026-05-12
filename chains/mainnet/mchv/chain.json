@@ -1,0 +1,24 @@
+{
+  "name": "MCH Verse Mainnet",
+  "chain": "MCH Verse",
+  "shortName": "MCHV",
+  "category": "mainnet",
+  "chainId": 29548,
+  "networkId": 29548,
+  "nativeCurrency": {
+    "name": "OAS",
+    "symbol": "OAS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.oasys.mycryptoheroes.net"
+  ],
+  "explorers": [
+    {
+      "name": "MCH Verse Explorer",
+      "url": "https://explorer.oasys.mycryptoheroes.net",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.mycryptoheroes.net/verse"
+}

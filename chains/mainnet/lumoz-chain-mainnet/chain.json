@@ -1,0 +1,25 @@
+{
+  "name": "Lumoz Chain Mainnet",
+  "chain": "ETH",
+  "shortName": "Lumoz-Chain-Mainnet",
+  "category": "mainnet",
+  "chainId": 96370,
+  "networkId": 96370,
+  "nativeCurrency": {
+    "name": "Lumoz Mainnet Token",
+    "symbol": "MOZ",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-hk.lumoz.org",
+    "https://rpc.lumoz.org"
+  ],
+  "explorers": [
+    {
+      "name": "LumozMainnetInfo",
+      "url": "https://scan.lumoz.info",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://lumoz.org"
+}

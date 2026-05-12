@@ -1,0 +1,30 @@
+{
+  "name": "Arbitrum Sepolia",
+  "chain": "ETH",
+  "shortName": "arb-sep",
+  "category": "test",
+  "chainId": 421614,
+  "networkId": 421614,
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://arbitrum-sepolia-rpc.publicnode.com",
+    "https://sepolia-rollup.arbitrum.io/rpc"
+  ],
+  "explorers": [
+    {
+      "name": "arbiscan-sepolia",
+      "url": "https://sepolia.arbiscan.io",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "Arbitrum Sepolia Rollup Testnet Explorer",
+      "url": "https://sepolia-explorer.arbitrum.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://arbitrum.io"
+}

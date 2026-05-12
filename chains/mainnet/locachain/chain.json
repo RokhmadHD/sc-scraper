@@ -1,0 +1,24 @@
+{
+  "name": "LocaChain Mainnet",
+  "chain": "LocaChain",
+  "shortName": "locachain",
+  "category": "mainnet",
+  "chainId": 19180,
+  "networkId": 19180,
+  "nativeCurrency": {
+    "name": "LocaCoin",
+    "symbol": "LCC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://tgrpntwm.locachain.io"
+  ],
+  "explorers": [
+    {
+      "name": "Locachain Explorer",
+      "url": "https://explorer.locachain.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://locachain.io"
+}

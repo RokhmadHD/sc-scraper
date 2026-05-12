@@ -1,0 +1,25 @@
+{
+  "name": "Polkadot Testnet",
+  "chain": "PAS",
+  "shortName": "pas",
+  "category": "test",
+  "chainId": 420420417,
+  "networkId": 420420417,
+  "nativeCurrency": {
+    "name": "PAS",
+    "symbol": "PAS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://eth-rpc-testnet.polkadot.io",
+    "https://services.polkadothub-rpc.com/testnet"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://blockscout-testnet.polkadot.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://polkadot.com"
+}

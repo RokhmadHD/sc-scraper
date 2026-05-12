@@ -1,0 +1,24 @@
+{
+  "name": "Double-A Chain Mainnet",
+  "chain": "AAC",
+  "shortName": "aac",
+  "category": "mainnet",
+  "chainId": 512,
+  "networkId": 512,
+  "nativeCurrency": {
+    "name": "Acuteangle Native Token",
+    "symbol": "AAC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.acuteangle.com"
+  ],
+  "explorers": [
+    {
+      "name": "aacscan",
+      "url": "https://scan.acuteangle.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.acuteangle.com/"
+}

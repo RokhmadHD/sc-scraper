@@ -1,0 +1,24 @@
+{
+  "name": "DFK Chain",
+  "chain": "DFK",
+  "shortName": "DFK",
+  "category": "mainnet",
+  "chainId": 53935,
+  "networkId": 53935,
+  "nativeCurrency": {
+    "name": "Jewel",
+    "symbol": "JEWEL",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+  ],
+  "explorers": [
+    {
+      "name": "ethernal",
+      "url": "https://explorer.dfkchain.com",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://defikingdoms.com"
+}

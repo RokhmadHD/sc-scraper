@@ -1,0 +1,17 @@
+{
+  "name": "Plasma Devnet",
+  "chain": "Plasma",
+  "shortName": "plasma-devnet",
+  "category": "test",
+  "chainId": 9747,
+  "networkId": 9747,
+  "nativeCurrency": {
+    "name": "Devnet Plasma",
+    "symbol": "XPL",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://devnet-rpc.plasma.to"
+  ],
+  "infoURL": "https://plasma.to"
+}

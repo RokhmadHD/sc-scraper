@@ -1,0 +1,24 @@
+{
+  "name": "Helios Chain Testnet",
+  "chain": "Helios Chain",
+  "shortName": "HLS",
+  "category": "test",
+  "chainId": 42000,
+  "networkId": 42000,
+  "nativeCurrency": {
+    "name": "Helios",
+    "symbol": "HLS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet1.helioschainlabs.org"
+  ],
+  "explorers": [
+    {
+      "name": "Helios Chain Explorer",
+      "url": "https://explorer.helioschainlabs.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://hub.helioschain.network"
+}

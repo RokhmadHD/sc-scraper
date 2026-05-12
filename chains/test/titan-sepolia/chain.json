@@ -1,0 +1,24 @@
+{
+  "name": "Titan Sepolia",
+  "chain": "ETH",
+  "shortName": "titan-sepolia",
+  "category": "test",
+  "chainId": 55007,
+  "networkId": 55007,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.titan-sepolia.tokamak.network"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.titan-sepolia.tokamak.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://tokamak.network"
+}

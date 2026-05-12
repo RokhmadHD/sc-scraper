@@ -1,0 +1,24 @@
+{
+  "name": "Sova",
+  "chain": "ETH",
+  "shortName": "sova",
+  "category": "mainnet",
+  "chainId": 100021,
+  "networkId": 100021,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.sova.io"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.sova.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://sova.io"
+}

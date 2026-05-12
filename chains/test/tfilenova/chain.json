@@ -1,0 +1,24 @@
+{
+  "name": "Filenova Testnet",
+  "chain": "Filenova",
+  "shortName": "tfilenova",
+  "category": "test",
+  "chainId": 5675,
+  "networkId": 5675,
+  "nativeCurrency": {
+    "name": "Test Filecoin",
+    "symbol": "tFIL",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpctest.filenova.org"
+  ],
+  "explorers": [
+    {
+      "name": "filenova testnet explorer",
+      "url": "https://scantest.filenova.org",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://filenova.org"
+}

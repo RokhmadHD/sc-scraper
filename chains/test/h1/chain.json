@@ -1,0 +1,24 @@
+{
+  "name": "Haven1 Testnet",
+  "chain": "haven1",
+  "shortName": "h1",
+  "category": "test",
+  "chainId": 810,
+  "networkId": 810,
+  "nativeCurrency": {
+    "name": "Haven1",
+    "symbol": "H1",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet-rpc.haven1.org"
+  ],
+  "explorers": [
+    {
+      "name": "Haven1 Explorer",
+      "url": "https://testnet-explorer.haven1.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.haven1.org"
+}

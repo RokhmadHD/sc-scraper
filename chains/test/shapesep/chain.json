@@ -1,0 +1,24 @@
+{
+  "name": "Shape Sepolia Testnet",
+  "chain": "ETH",
+  "shortName": "shapesep",
+  "category": "test",
+  "chainId": 11011,
+  "networkId": 11011,
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://sepolia.shape.network"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer-sepolia.shape.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://shape.network"
+}

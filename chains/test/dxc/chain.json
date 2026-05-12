@@ -1,0 +1,17 @@
+{
+  "name": "DxChain Testnet",
+  "chain": "DxChain",
+  "shortName": "dxc",
+  "category": "test",
+  "chainId": 72,
+  "networkId": 72,
+  "nativeCurrency": {
+    "name": "DxChain Testnet",
+    "symbol": "DX",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet-http.dxchain.com"
+  ],
+  "infoURL": "https://testnet.dxscan.io/"
+}

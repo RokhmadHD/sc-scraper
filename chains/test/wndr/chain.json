@@ -1,0 +1,24 @@
+{
+  "name": "Wonder Testnet",
+  "chain": "WNDR",
+  "shortName": "wndr",
+  "category": "test",
+  "chainId": 96371,
+  "networkId": 96371,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.testnet.wonderchain.org"
+  ],
+  "explorers": [
+    {
+      "name": "wonderexplorer",
+      "url": "https://explorer.testnet.wonderchain.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://wonderchain.org"
+}

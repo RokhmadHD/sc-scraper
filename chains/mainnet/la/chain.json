@@ -1,0 +1,24 @@
+{
+  "name": "LACHAIN Mainnet",
+  "chain": "LA",
+  "shortName": "LA",
+  "category": "mainnet",
+  "chainId": 225,
+  "networkId": 225,
+  "nativeCurrency": {
+    "name": "LA",
+    "symbol": "LA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-mainnet.lachain.io"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://scan.lachain.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://lachain.io"
+}

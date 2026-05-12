@@ -1,0 +1,24 @@
+{
+  "name": "Juneo mBTC1-Chain",
+  "chain": "Juneo mBTC1-Chain",
+  "shortName": "mBTC1",
+  "category": "mainnet",
+  "chainId": 45007,
+  "networkId": 45007,
+  "nativeCurrency": {
+    "name": "mBTC1",
+    "symbol": "mBTC1",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.juneo-mainnet.network/ext/bc/mBTC1/rpc"
+  ],
+  "explorers": [
+    {
+      "name": "Juneo Scan",
+      "url": "https://juneoscan.io/chain/9",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://juneo.com/"
+}

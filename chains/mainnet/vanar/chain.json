@@ -1,0 +1,24 @@
+{
+  "name": "Vanar Mainnet",
+  "chain": "VANAR",
+  "shortName": "Vanar",
+  "category": "mainnet",
+  "chainId": 2040,
+  "networkId": 2040,
+  "nativeCurrency": {
+    "name": "VANRY",
+    "symbol": "VANRY",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.vanarchain.com"
+  ],
+  "explorers": [
+    {
+      "name": "Vanar Explorer",
+      "url": "https://explorer.vanarchain.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://vanarchain.com"
+}

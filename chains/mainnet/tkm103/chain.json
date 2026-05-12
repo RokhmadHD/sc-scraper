@@ -1,0 +1,24 @@
+{
+  "name": "Thinkium Mainnet Chain 103",
+  "chain": "Thinkium",
+  "shortName": "TKM103",
+  "category": "mainnet",
+  "chainId": 70103,
+  "networkId": 70103,
+  "nativeCurrency": {
+    "name": "TKM",
+    "symbol": "TKM",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://proxy103.thinkiumrpc.net/"
+  ],
+  "explorers": [
+    {
+      "name": "thinkiumscan",
+      "url": "https://chain103.thinkiumscan.net",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://thinkium.net/"
+}

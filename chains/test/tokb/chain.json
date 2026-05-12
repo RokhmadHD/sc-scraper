@@ -1,0 +1,25 @@
+{
+  "name": "X Layer Testnet",
+  "chain": "X Layer",
+  "shortName": "tokb",
+  "category": "test",
+  "chainId": 195,
+  "networkId": 195,
+  "nativeCurrency": {
+    "name": "X Layer Global Utility Token in testnet",
+    "symbol": "OKB",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testrpc.xlayer.tech",
+    "https://xlayertestrpc.okx.com"
+  ],
+  "explorers": [
+    {
+      "name": "OKLink",
+      "url": "https://www.oklink.com/xlayer-test",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.okx.com/xlayer"
+}

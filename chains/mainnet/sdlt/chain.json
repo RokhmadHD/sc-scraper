@@ -1,0 +1,24 @@
+{
+  "name": "SwissDLT",
+  "chain": "SDLT",
+  "shortName": "sdlt",
+  "category": "mainnet",
+  "chainId": 94,
+  "networkId": 94,
+  "nativeCurrency": {
+    "name": "BCTS",
+    "symbol": "BCTS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.swissdlt.ch"
+  ],
+  "explorers": [
+    {
+      "name": "SwissDLT Explorer",
+      "url": "https://explorer.swissdlt.ch",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://bcts.ch"
+}

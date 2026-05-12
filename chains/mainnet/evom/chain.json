@@ -1,0 +1,24 @@
+{
+  "name": "EVOLVE Mainnet",
+  "chain": "EVO",
+  "shortName": "EVOm",
+  "category": "mainnet",
+  "chainId": 3424,
+  "networkId": 3424,
+  "nativeCurrency": {
+    "name": "Evolve",
+    "symbol": "EVO",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.evoexplorer.com"
+  ],
+  "explorers": [
+    {
+      "name": "Evolve Mainnet Explorer",
+      "url": "https://evoexplorer.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://evolveblockchain.io"
+}

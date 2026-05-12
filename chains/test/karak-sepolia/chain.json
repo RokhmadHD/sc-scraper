@@ -1,0 +1,24 @@
+{
+  "name": "Karak Sepolia",
+  "chain": "Karak",
+  "shortName": "karak-sepolia",
+  "category": "test",
+  "chainId": 8054,
+  "networkId": 8054,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.sepolia.karak.network"
+  ],
+  "explorers": [
+    {
+      "name": "Karak Sepolia Explorer",
+      "url": "https://explorer.sepolia.karak.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://karak.network"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Nexa MetaNet",
+  "chain": "NEXA",
+  "shortName": "nexameta",
+  "category": "mainnet",
+  "chainId": 29223,
+  "networkId": 29223,
+  "nativeCurrency": {
+    "name": "Nexa",
+    "symbol": "NEXA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://nexa.sh/metanet"
+  ],
+  "explorers": [
+    {
+      "name": "NexaShell",
+      "url": "https://nexa.sh",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://nexa.sh/meta"
+}

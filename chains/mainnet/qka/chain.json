@@ -1,0 +1,24 @@
+{
+  "name": "Quokkacoin Mainnet",
+  "chain": "Qkacoin",
+  "shortName": "QKA",
+  "category": "mainnet",
+  "chainId": 2077,
+  "networkId": 2077,
+  "nativeCurrency": {
+    "name": "Qkacoin",
+    "symbol": "QKA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.qkacoin.org"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.qkacoin.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://qkacoin.org"
+}

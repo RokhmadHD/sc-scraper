@@ -1,0 +1,24 @@
+{
+  "name": "Opside Testnet",
+  "chain": "Opside",
+  "shortName": "opside",
+  "category": "test",
+  "chainId": 23118,
+  "networkId": 23118,
+  "nativeCurrency": {
+    "name": "IDE",
+    "symbol": "IDE",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testrpc.opside.network"
+  ],
+  "explorers": [
+    {
+      "name": "opsideInfo",
+      "url": "https://opside.info",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://opside.network"
+}

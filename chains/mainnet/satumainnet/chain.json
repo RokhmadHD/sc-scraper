@@ -1,0 +1,25 @@
+{
+  "name": "SATUCHAIN Mainnet",
+  "chain": "SATU",
+  "shortName": "satumainnet",
+  "category": "mainnet",
+  "chainId": 10111945,
+  "networkId": 10111945,
+  "nativeCurrency": {
+    "name": "Satu",
+    "symbol": "STU",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-indo-mainnet.satuchain.com",
+    "https://rpc-mainnet.satuchain.com"
+  ],
+  "explorers": [
+    {
+      "name": "SATUCHAIN Mainnet Explorer",
+      "url": "https://stuscan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://satuchain.com"
+}

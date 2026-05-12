@@ -1,0 +1,24 @@
+{
+  "name": "CloudTx Testnet",
+  "chain": "CloudTx",
+  "shortName": "CLD",
+  "category": "test",
+  "chainId": 31224,
+  "networkId": 31224,
+  "nativeCurrency": {
+    "name": "CloudTx",
+    "symbol": "CLD",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet-rpc.cloudtx.finance"
+  ],
+  "explorers": [
+    {
+      "name": "cloudtxexplorer",
+      "url": "https://explorer.cloudtx.finance",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://cloudtx.finance/"
+}

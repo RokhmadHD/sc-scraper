@@ -1,0 +1,24 @@
+{
+  "name": "CamDL Testnet",
+  "chain": "CADL",
+  "shortName": "camdl-testnet",
+  "category": "test",
+  "chainId": 395,
+  "networkId": 395,
+  "nativeCurrency": {
+    "name": "CADL",
+    "symbol": "CADL",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc1.testnet.camdl.gov.kh/"
+  ],
+  "explorers": [
+    {
+      "name": "CamDL Testnet Explorer",
+      "url": "https://explorer.testnet.camdl.gov.kh",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://camdl.gov.kh/"
+}

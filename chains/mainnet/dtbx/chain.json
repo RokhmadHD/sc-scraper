@@ -1,0 +1,24 @@
+{
+  "name": "Dot Blox",
+  "chain": "DTBX",
+  "shortName": "DTBX",
+  "category": "mainnet",
+  "chainId": 7923,
+  "networkId": 7923,
+  "nativeCurrency": {
+    "name": "Dot Blox",
+    "symbol": "DTBX",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.dotblox.io"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.dotblox.io",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://explorer.dotblox.io"
+}

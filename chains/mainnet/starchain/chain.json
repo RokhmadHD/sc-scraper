@@ -1,0 +1,24 @@
+{
+  "name": "StarCHAIN",
+  "chain": "StarCHAIN",
+  "shortName": "starchain",
+  "category": "mainnet",
+  "chainId": 1578,
+  "networkId": 1578,
+  "nativeCurrency": {
+    "name": "STARX",
+    "symbol": "STARX",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.starworksglobal.com"
+  ],
+  "explorers": [
+    {
+      "name": "StarCHAIN Explorer",
+      "url": "https://starchainscan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.starworksglobal.com"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Somnia Mainnet",
+  "chain": "Somnia",
+  "shortName": "SomniaMainnet",
+  "category": "mainnet",
+  "chainId": 5031,
+  "networkId": 5031,
+  "nativeCurrency": {
+    "name": "Somnia Mainnet",
+    "symbol": "SOMI",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://api.infra.mainnet.somnia.network"
+  ],
+  "explorers": [
+    {
+      "name": "Somnia Mainnet",
+      "url": "https://mainnet.somnia.w3us.site",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://somnia.network"
+}

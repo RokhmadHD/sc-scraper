@@ -1,0 +1,30 @@
+{
+  "name": "Mordor Testnet",
+  "chain": "ETC",
+  "shortName": "metc",
+  "category": "test",
+  "chainId": 63,
+  "networkId": 7,
+  "nativeCurrency": {
+    "name": "Mordor Ether",
+    "symbol": "METC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://geth-mordor.etc-network.info",
+    "https://rpc.mordor.etccooperative.org"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout-mordor",
+      "url": "https://etc-mordor.blockscout.com",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "etcnetworkinfo-expedition-mordor",
+      "url": "https://explorer-expedition.etc-network.info/?network=Ethereum+Classic+at+etc-network.info+GETH+Mordor",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://ethereumclassic.org/development/testnets"
+}

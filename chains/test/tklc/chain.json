@@ -1,0 +1,24 @@
+{
+  "name": "Kaiba Lightning Chain Testnet",
+  "chain": "tKLC",
+  "shortName": "tklc",
+  "category": "test",
+  "chainId": 104,
+  "networkId": 104,
+  "nativeCurrency": {
+    "name": "Kaiba Testnet Token",
+    "symbol": "tKAIBA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://klc.live/"
+  ],
+  "explorers": [
+    {
+      "name": "kaibascan",
+      "url": "https://kaibascan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://kaibadefi.com"
+}

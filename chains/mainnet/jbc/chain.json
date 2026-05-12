@@ -1,0 +1,25 @@
+{
+  "name": "JIBCHAIN L1",
+  "chain": "JBC",
+  "shortName": "jbc",
+  "category": "mainnet",
+  "chainId": 8899,
+  "networkId": 8899,
+  "nativeCurrency": {
+    "name": "JIBCOIN",
+    "symbol": "JBC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-l1.inan.in.th",
+    "https://rpc-l1.jibchain.net"
+  ],
+  "explorers": [
+    {
+      "name": "JIBCHAIN Explorer",
+      "url": "https://exp-l1.jibchain.net",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://jibchain.net"
+}

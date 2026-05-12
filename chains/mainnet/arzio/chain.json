@@ -1,0 +1,24 @@
+{
+  "name": "ARZIO Chain",
+  "chain": "ARZIO",
+  "shortName": "arzio",
+  "category": "mainnet",
+  "chainId": 456,
+  "networkId": 456,
+  "nativeCurrency": {
+    "name": "ARZIO",
+    "symbol": "AZO",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://chain-rpc.arzio.co"
+  ],
+  "explorers": [
+    {
+      "name": "ARZIO Scan",
+      "url": "https://scan.arzio.co",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://chain.arzio.co"
+}

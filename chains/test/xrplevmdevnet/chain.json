@@ -1,0 +1,24 @@
+{
+  "name": "XRPL EVM Sidechain Devnet",
+  "chain": "XRPLEVM Devnet",
+  "shortName": "xrplevmdevnet",
+  "category": "test",
+  "chainId": 1440002,
+  "networkId": 1440002,
+  "nativeCurrency": {
+    "name": "XRP",
+    "symbol": "XRP",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.devnet.xrplevm.org"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.xrplevm.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://xrplevm.org"
+}

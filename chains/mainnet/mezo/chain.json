@@ -1,0 +1,27 @@
+{
+  "name": "Mezo",
+  "chain": "Mezo",
+  "shortName": "mezo",
+  "category": "mainnet",
+  "chainId": 31612,
+  "networkId": 31612,
+  "nativeCurrency": {
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet.mezo.public.validationcloud.io",
+    "https://rpc-http.mezo.boar.network",
+    "https://rpc-internal.mezo.org",
+    "https://rpc_evm-mezo.imperator.co"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.mezo.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://mezo.org/"
+}

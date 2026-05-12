@@ -1,0 +1,25 @@
+{
+  "name": "O Chain",
+  "chain": "O",
+  "shortName": "O",
+  "category": "mainnet",
+  "chainId": 84841,
+  "networkId": 84841,
+  "nativeCurrency": {
+    "name": "O.XYZ",
+    "symbol": "O",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://84841.rpc.thirdweb.com",
+    "https://rpc.o.xyz"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.o.xyz",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://o.xyz"
+}

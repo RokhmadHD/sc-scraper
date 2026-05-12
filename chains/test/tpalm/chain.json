@@ -1,0 +1,29 @@
+{
+  "name": "Palm Testnet",
+  "chain": "Palm",
+  "shortName": "tpalm",
+  "category": "test",
+  "chainId": 11297108099,
+  "networkId": 11297108099,
+  "nativeCurrency": {
+    "name": "PALM",
+    "symbol": "PALM",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://palm-testnet.public.blastapi.io"
+  ],
+  "explorers": [
+    {
+      "name": "Chainlens",
+      "url": "https://testnet.palm.chainlens.com",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "Dora",
+      "url": "https://www.ondora.xyz/network/palm-testnet",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://palm.network"
+}

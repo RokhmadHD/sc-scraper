@@ -1,0 +1,25 @@
+{
+  "name": "Xenon Chain Testnet",
+  "chain": "XEN",
+  "shortName": "xenon",
+  "category": "test",
+  "chainId": 2941,
+  "networkId": 2941,
+  "nativeCurrency": {
+    "name": "Xenon Testnet",
+    "symbol": "tXEN",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet-chain.xenonchain.com/",
+    "https://testnet-dev.xenonchain.com/"
+  ],
+  "explorers": [
+    {
+      "name": "Xenon testnet Explorer",
+      "url": "https://testnet.xenonchain.com",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://xenonchain.com"
+}

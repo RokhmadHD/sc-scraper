@@ -1,0 +1,24 @@
+{
+  "name": "WebChain ETK",
+  "chain": "WVM",
+  "shortName": "wvm",
+  "category": "mainnet",
+  "chainId": 1000001,
+  "networkId": 1000001,
+  "nativeCurrency": {
+    "name": "ETK",
+    "symbol": "ETK",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.webchain.e-talk.xyz"
+  ],
+  "explorers": [
+    {
+      "name": "WebChain Explorer",
+      "url": "https://e-talk.xyz/webchain",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://e-talk.xyz/webchain"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "WAGMI",
+  "chain": "WAGMI",
+  "shortName": "WAGMI",
+  "category": "test",
+  "chainId": 11111,
+  "networkId": 11111,
+  "nativeCurrency": {
+    "name": "WAGMI",
+    "symbol": "WGM",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://subnets.avax.network/wagmi/wagmi-chain-testnet/rpc"
+  ],
+  "explorers": [
+    {
+      "name": "Avalanche Subnet Explorer",
+      "url": "https://subnets-test.avax.network/wagmi",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://subnets-test.avax.network/wagmi/details"
+}

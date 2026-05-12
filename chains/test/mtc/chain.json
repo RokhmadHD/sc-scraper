@@ -1,0 +1,24 @@
+{
+  "name": "Eleanor",
+  "chain": "MTC",
+  "shortName": "mtc",
+  "category": "test",
+  "chainId": 1967,
+  "networkId": 1967,
+  "nativeCurrency": {
+    "name": "Eleanor Metacoin",
+    "symbol": "MTC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.metatime.com/eleanor"
+  ],
+  "explorers": [
+    {
+      "name": "metaexplorer-eleanor",
+      "url": "https://explorer.metatime.com/eleanor",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://eleanor.metatime.com"
+}

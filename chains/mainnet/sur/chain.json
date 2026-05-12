@@ -1,0 +1,24 @@
+{
+  "name": "SUR Blockchain Network",
+  "chain": "SUR",
+  "shortName": "SUR",
+  "category": "mainnet",
+  "chainId": 262,
+  "networkId": 1,
+  "nativeCurrency": {
+    "name": "Suren",
+    "symbol": "SRN",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://sur.nilin.org"
+  ],
+  "explorers": [
+    {
+      "name": "Surnet Explorer",
+      "url": "https://explorer.surnet.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://surnet.org"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Gold Smart Chain Mainnet",
+  "chain": "STAND",
+  "shortName": "STANDm",
+  "category": "mainnet",
+  "chainId": 6789,
+  "networkId": 6789,
+  "nativeCurrency": {
+    "name": "Standard in Gold",
+    "symbol": "STAND",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-mainnet.goldsmartchain.com"
+  ],
+  "explorers": [
+    {
+      "name": "Gold Smart Chain",
+      "url": "https://mainnet.goldsmartchain.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://goldsmartchain.com"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Meroneum Testnet",
+  "chain": "MERON",
+  "shortName": "meron",
+  "category": "test",
+  "chainId": 3369,
+  "networkId": 3369,
+  "nativeCurrency": {
+    "name": "MERON",
+    "symbol": "MERON",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet-node1.meronscan.ai/",
+    "https://testnet-node2.meronscan.ai/",
+    "https://testnet-node3.meronscan.ai/"
+  ],
+  "explorers": [
+    {
+      "name": "meronscan",
+      "url": "https://testnet.meronscan.ai",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.meroneum.ai/"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Titan (TKX)",
+  "chain": "Titan (TKX)",
+  "shortName": "titan_tkx",
+  "category": "mainnet",
+  "chainId": 18888,
+  "networkId": 18888,
+  "nativeCurrency": {
+    "name": "Titan tkx",
+    "symbol": "TKX",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://titan-json-rpc-hongkong.titanlab.io",
+    "https://titan-json-rpc-seoul.titanlab.io",
+    "https://titan-json-rpc-tokyo.titanlab.io",
+    "https://titan-json-rpc.titanlab.io"
+  ],
+  "explorers": [
+    {
+      "name": "Titan Explorer",
+      "url": "https://tkxscan.io/Titan",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://titanlab.io"
+}

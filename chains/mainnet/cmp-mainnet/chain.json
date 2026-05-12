@@ -1,0 +1,24 @@
+{
+  "name": "CMP-Mainnet",
+  "chain": "CMP",
+  "shortName": "cmp-mainnet",
+  "category": "mainnet",
+  "chainId": 256256,
+  "networkId": 256256,
+  "nativeCurrency": {
+    "name": "Caduceus Token",
+    "symbol": "CMP",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet.block.caduceus.foundation"
+  ],
+  "explorers": [
+    {
+      "name": "Mainnet Scan",
+      "url": "https://mainnet.scan.caduceus.foundation",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://caduceus.foundation/"
+}

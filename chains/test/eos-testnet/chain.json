@@ -1,0 +1,24 @@
+{
+  "name": "EOS EVM Network Testnet",
+  "chain": "EOS",
+  "shortName": "eos-testnet",
+  "category": "test",
+  "chainId": 15557,
+  "networkId": 15557,
+  "nativeCurrency": {
+    "name": "EOS",
+    "symbol": "EOS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://api.testnet.evm.eosnetwork.com"
+  ],
+  "explorers": [
+    {
+      "name": "EOS EVM Explorer",
+      "url": "https://explorer.testnet.evm.eosnetwork.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://eosnetwork.com/eos-evm"
+}

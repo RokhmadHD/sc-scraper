@@ -1,0 +1,31 @@
+{
+  "name": "katana",
+  "chain": "katana",
+  "shortName": "katana",
+  "category": "mainnet",
+  "chainId": 747474,
+  "networkId": 747474,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://katana.gateway.tenderly.co/",
+    "https://rpc.katana.network",
+    "https://rpc.katanarpc.com/"
+  ],
+  "explorers": [
+    {
+      "name": "katanascan",
+      "url": "https://katanascan.com",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "katana explorer",
+      "url": "https://explorer.katanarpc.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://katana.network"
+}

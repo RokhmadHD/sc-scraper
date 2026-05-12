@@ -1,0 +1,24 @@
+{
+  "name": "Alpen Testnet",
+  "chain": "alpen-testnet",
+  "shortName": "alpen-testnet",
+  "category": "test",
+  "chainId": 8150,
+  "networkId": 8150,
+  "nativeCurrency": {
+    "name": "Signet BTC",
+    "symbol": "sBTC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.testnet.alpenlabs.io"
+  ],
+  "explorers": [
+    {
+      "name": "Alpen Blockscout",
+      "url": "https://explorer.testnet.alpenlabs.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://alpenlabs.io/"
+}

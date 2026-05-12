@@ -1,0 +1,24 @@
+{
+  "name": "Yooldo Verse Testnet",
+  "chain": "Yooldo Verse",
+  "shortName": "YVT",
+  "category": "test",
+  "chainId": 50006,
+  "networkId": 50006,
+  "nativeCurrency": {
+    "name": "OAS",
+    "symbol": "OAS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.testnet.yooldo-verse.xyz/"
+  ],
+  "explorers": [
+    {
+      "name": "Yooldo Verse Explorer",
+      "url": "https://explorer.testnet.yooldo-verse.xyz",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://yooldo.gg/"
+}

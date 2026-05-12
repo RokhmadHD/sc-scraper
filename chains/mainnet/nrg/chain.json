@@ -1,0 +1,17 @@
+{
+  "name": "Energi Mainnet",
+  "chain": "NRG",
+  "shortName": "nrg",
+  "category": "mainnet",
+  "chainId": 39797,
+  "networkId": 39797,
+  "nativeCurrency": {
+    "name": "Energi",
+    "symbol": "NRG",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://nodeapi.energi.network"
+  ],
+  "infoURL": "https://www.energi.world/"
+}

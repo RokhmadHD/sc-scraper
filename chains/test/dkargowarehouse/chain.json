@@ -1,0 +1,17 @@
+{
+  "name": "dKargo Warehouse Testnet",
+  "chain": "dKargo Warehouse",
+  "shortName": "dkargowarehouse",
+  "category": "test",
+  "chainId": 61022448,
+  "networkId": 61022448,
+  "nativeCurrency": {
+    "name": "dKargo",
+    "symbol": "DKA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.warehouse.dkargo.io"
+  ],
+  "infoURL": "https://dkargo.io"
+}

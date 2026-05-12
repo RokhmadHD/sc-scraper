@@ -1,0 +1,24 @@
+{
+  "name": "MAP Protocol",
+  "chain": "MAPO",
+  "shortName": "mapo",
+  "category": "mainnet",
+  "chainId": 22776,
+  "networkId": 22776,
+  "nativeCurrency": {
+    "name": "MAPO",
+    "symbol": "MAPO",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.maplabs.io"
+  ],
+  "explorers": [
+    {
+      "name": "maposcan",
+      "url": "https://maposcan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://mapprotocol.io/"
+}

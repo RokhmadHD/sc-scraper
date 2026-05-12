@@ -1,0 +1,25 @@
+{
+  "name": "Avenium Testnet",
+  "chain": "AVE",
+  "shortName": "tave",
+  "category": "test",
+  "chainId": 8886,
+  "networkId": 8886,
+  "nativeCurrency": {
+    "name": "Ave Native Token",
+    "symbol": "tAVE",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://connect-testnet.avenium.io",
+    "https://eu-testnet.avenium.io/"
+  ],
+  "explorers": [
+    {
+      "name": "Avenium Explorer Testnet",
+      "url": "https://testnet.avescan.net",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://avenium.io"
+}

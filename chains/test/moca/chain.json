@@ -1,0 +1,24 @@
+{
+  "name": "Moca Chain Testnet",
+  "chain": "Moca Chain",
+  "shortName": "MOCA",
+  "category": "test",
+  "chainId": 5151,
+  "networkId": 5151,
+  "nativeCurrency": {
+    "name": "MOCA",
+    "symbol": "MOCA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet-rpc.mechain.tech"
+  ],
+  "explorers": [
+    {
+      "name": "Moca Chain Scan",
+      "url": "https://testnet-scan.mechain.tech",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://mechain.tech"
+}

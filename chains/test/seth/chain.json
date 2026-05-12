@@ -1,0 +1,24 @@
+{
+  "name": "SoraAI Testnet",
+  "chain": "SETH",
+  "shortName": "SETH",
+  "category": "test",
+  "chainId": 145,
+  "networkId": 145,
+  "nativeCurrency": {
+    "name": "SoraETH",
+    "symbol": "SETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-testnet.soraai.bot"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.soraai.bot",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://soraai.bot"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "TurkChain",
+  "chain": "TurkChain",
+  "shortName": "turk",
+  "category": "mainnet",
+  "chainId": 1919,
+  "networkId": 1919,
+  "nativeCurrency": {
+    "name": "TC",
+    "symbol": "TURK",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.turkscan.com"
+  ],
+  "explorers": [
+    {
+      "name": "turkscan",
+      "url": "https://turkscan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://turkscan.com"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Manta Pacific Testnet",
+  "chain": "Manta Pacific",
+  "shortName": "mantaTestnet",
+  "category": "test",
+  "chainId": 3441005,
+  "networkId": 3441005,
+  "nativeCurrency": {
+    "name": "Manta",
+    "symbol": "MANTA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://manta-pacific-testnet.drpc.org",
+    "https://manta-testnet.calderachain.xyz/http"
+  ],
+  "explorers": [
+    {
+      "name": "manta-testnet Explorer",
+      "url": "https://manta-testnet.calderaexplorer.xyz",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://manta-testnet.caldera.dev/"
+}

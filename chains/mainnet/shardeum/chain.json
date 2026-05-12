@@ -1,0 +1,24 @@
+{
+  "name": "Shardeum",
+  "chain": "Shardeum",
+  "shortName": "Shardeum",
+  "category": "mainnet",
+  "chainId": 8118,
+  "networkId": 8118,
+  "nativeCurrency": {
+    "name": "Shardeum",
+    "symbol": "SHM",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://api.shardeum.org/"
+  ],
+  "explorers": [
+    {
+      "name": "Shardeum Explorer",
+      "url": "https://explorer.shardeum.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://docs.shardeum.org/"
+}

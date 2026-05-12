@@ -1,0 +1,24 @@
+{
+  "name": "VALYGO NFT",
+  "chain": "VYO",
+  "shortName": "vyonft",
+  "category": "mainnet",
+  "chainId": 7773777,
+  "networkId": 7773777,
+  "nativeCurrency": {
+    "name": "VYO",
+    "symbol": "VYO",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-gw-1.vyoscan.com/ext/bc/2RyzsmGypNQZPby1miwMMV8spTvhgd9qd2peNRzU1mErUQqSSw/rpc"
+  ],
+  "explorers": [
+    {
+      "name": "VYOScan NFT",
+      "url": "https://nft.vyoscan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://vyochain.com"
+}

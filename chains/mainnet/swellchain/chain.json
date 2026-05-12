@@ -1,0 +1,25 @@
+{
+  "name": "Swellchain",
+  "chain": "ETH",
+  "shortName": "swellchain",
+  "category": "mainnet",
+  "chainId": 1923,
+  "networkId": 1923,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.ankr.com/swell",
+    "https://swell-mainnet.alt.technology"
+  ],
+  "explorers": [
+    {
+      "name": "Swellchain Explorer",
+      "url": "https://explorer.swellnetwork.io",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://app.swellnetwork.io/layer2/swell-l2"
+}

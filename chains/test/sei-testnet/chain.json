@@ -1,0 +1,24 @@
+{
+  "name": "Sei Testnet",
+  "chain": "Sei",
+  "shortName": "sei-testnet",
+  "category": "test",
+  "chainId": 1328,
+  "networkId": 1328,
+  "nativeCurrency": {
+    "name": "Sei",
+    "symbol": "SEI",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://evm-rpc-testnet.sei-apis.com"
+  ],
+  "explorers": [
+    {
+      "name": "Seiscan",
+      "url": "https://testnet.seiscan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.sei.io"
+}

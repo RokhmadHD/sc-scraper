@@ -1,0 +1,17 @@
+{
+  "name": "Unit Zero Mainnet",
+  "chain": "Unit Zero",
+  "shortName": "unit0-mainnet",
+  "category": "mainnet",
+  "chainId": 88811,
+  "networkId": 88811,
+  "nativeCurrency": {
+    "name": "UNIT0",
+    "symbol": "UNIT0",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.unit0.dev"
+  ],
+  "infoURL": "https://units.network"
+}

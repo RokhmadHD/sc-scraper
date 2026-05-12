@@ -1,0 +1,24 @@
+{
+  "name": "MetaChain Istanbul",
+  "chain": "MTC",
+  "shortName": "metatimeistanbul",
+  "category": "test",
+  "chainId": 1453,
+  "networkId": 1453,
+  "nativeCurrency": {
+    "name": "Metatime Coin",
+    "symbol": "MTC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://istanbul-rpc.metachain.dev"
+  ],
+  "explorers": [
+    {
+      "name": "MetaExplorer",
+      "url": "https://istanbul-explorer.metachain.dev",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://metatime.com/en"
+}

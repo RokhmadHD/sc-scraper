@@ -1,0 +1,24 @@
+{
+  "name": "Etherlink Mainnet",
+  "chain": "Etherlink",
+  "shortName": "etlk",
+  "category": "mainnet",
+  "chainId": 42793,
+  "networkId": 42793,
+  "nativeCurrency": {
+    "name": "tez",
+    "symbol": "XTZ",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://node.mainnet.etherlink.com"
+  ],
+  "explorers": [
+    {
+      "name": "Etherlink Explorer",
+      "url": "https://explorer.etherlink.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://etherlink.com"
+}

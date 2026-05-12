@@ -1,0 +1,24 @@
+{
+  "name": "HPP Sepolia Testnet",
+  "chain": "ETH",
+  "shortName": "hpp-sepolia",
+  "category": "test",
+  "chainId": 181228,
+  "networkId": 181228,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://sepolia.hpp.io"
+  ],
+  "explorers": [
+    {
+      "name": "HPP Sepolia Explorer",
+      "url": "https://sepolia-explorer.hpp.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.hpp.io"
+}

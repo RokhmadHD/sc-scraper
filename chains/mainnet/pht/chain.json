@@ -1,0 +1,17 @@
+{
+  "name": "Lightstreams Mainnet",
+  "chain": "PHT",
+  "shortName": "pht",
+  "category": "mainnet",
+  "chainId": 163,
+  "networkId": 163,
+  "nativeCurrency": {
+    "name": "Lightstreams PHT",
+    "symbol": "PHT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://node.mainnet.lightstreams.io"
+  ],
+  "infoURL": "https://explorer.lightstreams.io"
+}

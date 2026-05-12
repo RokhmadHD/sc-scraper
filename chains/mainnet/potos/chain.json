@@ -1,0 +1,24 @@
+{
+  "name": "POTOS Mainnet",
+  "chain": "POTOS",
+  "shortName": "potos",
+  "category": "mainnet",
+  "chainId": 60603,
+  "networkId": 60603,
+  "nativeCurrency": {
+    "name": "POTOS Token",
+    "symbol": "POT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.potos.hk"
+  ],
+  "explorers": [
+    {
+      "name": "POTOS Mainnet explorer",
+      "url": "https://scan.potos.hk",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://potos.hk"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Avocado",
+  "chain": "Avocado",
+  "shortName": "avocado",
+  "category": "mainnet",
+  "chainId": 634,
+  "networkId": 634,
+  "nativeCurrency": {
+    "name": "USDC",
+    "symbol": "USDC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.avocado.instadapp.io"
+  ],
+  "explorers": [
+    {
+      "name": "avoscan",
+      "url": "https://avoscan.co",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://avocado.instadapp.io"
+}

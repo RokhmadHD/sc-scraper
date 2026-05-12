@@ -1,0 +1,17 @@
+{
+  "name": "Markr Go",
+  "chain": "Unified",
+  "shortName": "markr-go",
+  "category": "mainnet",
+  "chainId": 431140,
+  "networkId": 431140,
+  "nativeCurrency": {
+    "name": "Avalanche",
+    "symbol": "AVAX",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.markr.io/ext/"
+  ],
+  "infoURL": "https://www.markr.io/"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "WorldMobileChain-Mainnet",
+  "chain": "WMC",
+  "shortName": "WMC",
+  "category": "mainnet",
+  "chainId": 869,
+  "networkId": 869,
+  "nativeCurrency": {
+    "name": "World Mobile Token",
+    "symbol": "WMTX",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://worldmobilechain-mainnet.g.alchemy.com/public"
+  ],
+  "explorers": [
+    {
+      "name": "World Mobile Chain Explorer",
+      "url": "https://explorer.worldmobile.io",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://worldmobile.io/the-chain"
+}

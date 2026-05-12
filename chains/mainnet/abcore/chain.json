@@ -1,0 +1,25 @@
+{
+  "name": "AB Core Mainnet",
+  "chain": "AB",
+  "shortName": "abcore",
+  "category": "mainnet",
+  "chainId": 36888,
+  "networkId": 36888,
+  "nativeCurrency": {
+    "name": "AB",
+    "symbol": "AB",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.core.ab.org",
+    "https://rpc1.core.ab.org"
+  ],
+  "explorers": [
+    {
+      "name": "AB Core Explorer",
+      "url": "https://explorer.core.ab.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://ab.org"
+}

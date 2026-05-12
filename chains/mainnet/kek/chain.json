@@ -1,0 +1,24 @@
+{
+  "name": "Kekchain",
+  "chain": "kek",
+  "shortName": "KEK",
+  "category": "mainnet",
+  "chainId": 420420,
+  "networkId": 103090,
+  "nativeCurrency": {
+    "name": "KEK",
+    "symbol": "KEK",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet.kekchain.com"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://mainnet-explorer.kekchain.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://kekchain.com"
+}

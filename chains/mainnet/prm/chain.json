@@ -1,0 +1,24 @@
+{
+  "name": "PRM Mainnet",
+  "chain": "prm",
+  "shortName": "prm",
+  "category": "mainnet",
+  "chainId": 39656,
+  "networkId": 39656,
+  "nativeCurrency": {
+    "name": "Primal Network",
+    "symbol": "PRM",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet-rpc.prmscan.org"
+  ],
+  "explorers": [
+    {
+      "name": "Primal Network",
+      "url": "https://prmscan.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://primalnetwork.org"
+}

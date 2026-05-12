@@ -1,0 +1,25 @@
+{
+  "name": "Cyber Testnet",
+  "chain": "Cyber",
+  "shortName": "cysep",
+  "category": "test",
+  "chainId": 111557560,
+  "networkId": 111557560,
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://cyber-testnet.alt.technology/",
+    "https://rpc.testnet.cyber.co/"
+  ],
+  "explorers": [
+    {
+      "name": "Cyber Testnet Explorer",
+      "url": "https://testnet.cyberscan.co",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://cyber.co/"
+}

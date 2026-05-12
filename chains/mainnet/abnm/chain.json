@@ -1,0 +1,24 @@
+{
+  "name": "Antofy Mainnet",
+  "chain": "ABN",
+  "shortName": "ABNm",
+  "category": "mainnet",
+  "chainId": 2202,
+  "networkId": 2202,
+  "nativeCurrency": {
+    "name": "Antofy",
+    "symbol": "ABN",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.antofy.io"
+  ],
+  "explorers": [
+    {
+      "name": "Antofy Mainnet",
+      "url": "https://antofyscan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://antofy.io"
+}

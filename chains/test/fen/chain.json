@@ -1,0 +1,24 @@
+{
+  "name": "Fenine Testnet",
+  "chain": "FEN",
+  "shortName": "FEN",
+  "category": "test",
+  "chainId": 920,
+  "networkId": 920,
+  "nativeCurrency": {
+    "name": "Fenine",
+    "symbol": "FEN",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.fene.app"
+  ],
+  "explorers": [
+    {
+      "name": "Fenine Scan",
+      "url": "https://explorer.fene.app",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://fene.app"
+}

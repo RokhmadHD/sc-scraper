@@ -1,0 +1,24 @@
+{
+  "name": "BMC Mainnet",
+  "chain": "BMC",
+  "shortName": "BMC",
+  "category": "mainnet",
+  "chainId": 188,
+  "networkId": 188,
+  "nativeCurrency": {
+    "name": "BTM",
+    "symbol": "BTM",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet.bmcchain.com/"
+  ],
+  "explorers": [
+    {
+      "name": "Blockmeta",
+      "url": "https://bmc.blockmeta.com",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://bmc.bytom.io/"
+}

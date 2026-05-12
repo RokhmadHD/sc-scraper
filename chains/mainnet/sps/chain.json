@@ -1,0 +1,24 @@
+{
+  "name": "SPS",
+  "chain": "SPS",
+  "shortName": "SPS",
+  "category": "mainnet",
+  "chainId": 13000,
+  "networkId": 13000,
+  "nativeCurrency": {
+    "name": "ECG",
+    "symbol": "ECG",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.ssquad.games"
+  ],
+  "explorers": [
+    {
+      "name": "SPS Explorer",
+      "url": "http://spsscan.ssquad.games",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://ssquad.games/"
+}

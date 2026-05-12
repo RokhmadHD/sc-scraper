@@ -1,0 +1,24 @@
+{
+  "name": "GoChain",
+  "chain": "GO",
+  "shortName": "go",
+  "category": "mainnet",
+  "chainId": 60,
+  "networkId": 60,
+  "nativeCurrency": {
+    "name": "GoChain Ether",
+    "symbol": "GO",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.gochain.io"
+  ],
+  "explorers": [
+    {
+      "name": "GoChain Explorer",
+      "url": "https://explorer.gochain.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://gochain.io"
+}

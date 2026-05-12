@@ -1,0 +1,24 @@
+{
+  "name": "QEasyWeb3 Testnet",
+  "chain": "QET",
+  "shortName": "QETTest",
+  "category": "test",
+  "chainId": 9528,
+  "networkId": 9528,
+  "nativeCurrency": {
+    "name": "QET",
+    "symbol": "QET",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://qeasyweb3.com"
+  ],
+  "explorers": [
+    {
+      "name": "QEasyWeb3 Explorer",
+      "url": "https://www.qeasyweb3.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.qeasyweb3.com"
+}

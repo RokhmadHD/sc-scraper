@@ -1,0 +1,24 @@
+{
+  "name": "Henez Chain Mainnet",
+  "chain": "henez",
+  "shortName": "henez",
+  "category": "mainnet",
+  "chainId": 91111,
+  "networkId": 91111,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://henez.calderachain.xyz/http"
+  ],
+  "explorers": [
+    {
+      "name": "Henez Chain Mainnet Caldera Explorer",
+      "url": "https://henez.calderaexplorer.xyz",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.henez.fi/"
+}

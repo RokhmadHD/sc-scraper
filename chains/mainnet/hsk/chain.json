@@ -1,0 +1,29 @@
+{
+  "name": "HashKey Chain",
+  "chain": "HashKey Chain",
+  "shortName": "hsk",
+  "category": "mainnet",
+  "chainId": 177,
+  "networkId": 177,
+  "nativeCurrency": {
+    "name": "HashKey EcoPoints",
+    "symbol": "HSK",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet.hsk.xyz"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://hashkey.blockscout.com",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "blockscout",
+      "url": "https://explorer.hsk.xyz",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://hsk.xyz"
+}

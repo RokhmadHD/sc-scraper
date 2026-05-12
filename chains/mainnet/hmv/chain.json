@@ -1,0 +1,24 @@
+{
+  "name": "HOME Verse Mainnet",
+  "chain": "HOME Verse",
+  "shortName": "HMV",
+  "category": "mainnet",
+  "chainId": 19011,
+  "networkId": 19011,
+  "nativeCurrency": {
+    "name": "OAS",
+    "symbol": "OAS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.mainnet.oasys.homeverse.games/"
+  ],
+  "explorers": [
+    {
+      "name": "HOME Verse Explorer",
+      "url": "https://explorer.oasys.homeverse.games",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.homeverse.games/"
+}

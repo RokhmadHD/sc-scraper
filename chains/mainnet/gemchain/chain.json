@@ -1,0 +1,24 @@
+{
+  "name": "Gemchain",
+  "chain": "Gemchain",
+  "shortName": "gemchain",
+  "category": "mainnet",
+  "chainId": 123321,
+  "networkId": 123321,
+  "nativeCurrency": {
+    "name": "GEM",
+    "symbol": "GEM",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://evm-rpc.gemchain.org"
+  ],
+  "explorers": [
+    {
+      "name": "Gemchain Scan",
+      "url": "https://scan.gemchain.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://gemchain.org"
+}

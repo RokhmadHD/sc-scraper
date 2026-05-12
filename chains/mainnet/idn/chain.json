@@ -1,0 +1,26 @@
+{
+  "name": "IDN Mainnet",
+  "chain": "IDN",
+  "shortName": "IDN",
+  "category": "mainnet",
+  "chainId": 215,
+  "networkId": 215,
+  "nativeCurrency": {
+    "name": "IDN",
+    "symbol": "IDN",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://dataseed1.idn-rpc.com",
+    "https://dataseed2.idn-rpc.com",
+    "https://dataseed3.idn-rpc.com"
+  ],
+  "explorers": [
+    {
+      "name": "Idn Explorer",
+      "url": "https://scan.idn-network.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.idn.world"
+}

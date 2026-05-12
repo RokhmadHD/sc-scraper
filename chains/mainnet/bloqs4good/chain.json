@@ -1,0 +1,17 @@
+{
+  "name": "4GoodNetwork",
+  "chain": "4GN",
+  "shortName": "bloqs4good",
+  "category": "mainnet",
+  "chainId": 846000,
+  "networkId": 846000,
+  "nativeCurrency": {
+    "name": "APTA",
+    "symbol": "APTA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://chain.deptofgood.com"
+  ],
+  "infoURL": "https://bloqs4good.com"
+}

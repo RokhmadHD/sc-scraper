@@ -1,0 +1,17 @@
+{
+  "name": "JingleX L2",
+  "chain": "JNX",
+  "shortName": "jnx",
+  "category": "mainnet",
+  "chainId": 9922,
+  "networkId": 9922,
+  "nativeCurrency": {
+    "name": "JingleX",
+    "symbol": "JNX",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.jinglex.net"
+  ],
+  "infoURL": "https://jinglex.net"
+}

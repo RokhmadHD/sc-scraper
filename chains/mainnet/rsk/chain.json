@@ -1,0 +1,30 @@
+{
+  "name": "Rootstock Mainnet",
+  "chain": "Rootstock",
+  "shortName": "rsk",
+  "category": "mainnet",
+  "chainId": 30,
+  "networkId": 30,
+  "nativeCurrency": {
+    "name": "Smart Bitcoin",
+    "symbol": "RBTC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mycrypto.rsk.co",
+    "https://public-node.rsk.co"
+  ],
+  "explorers": [
+    {
+      "name": "Rootstock Explorer",
+      "url": "https://explorer.rsk.co",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "blockscout",
+      "url": "https://rootstock.blockscout.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://rootstock.io"
+}

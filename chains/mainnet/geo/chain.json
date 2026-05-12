@@ -1,0 +1,17 @@
+{
+  "name": "Geo Genesis",
+  "chain": "Geo Genesis",
+  "shortName": "geo",
+  "category": "mainnet",
+  "chainId": 80451,
+  "networkId": 80451,
+  "nativeCurrency": {
+    "name": "The Graph",
+    "symbol": "GRT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-geo-genesis-h0q2s21xx8.t.conduit.xyz/"
+  ],
+  "infoURL": "https://geobrowser.io"
+}

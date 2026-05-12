@@ -1,0 +1,17 @@
+{
+  "name": "Pixie Chain Testnet",
+  "chain": "PixieChain",
+  "shortName": "pixie-chain-testnet",
+  "category": "test",
+  "chainId": 666,
+  "networkId": 666,
+  "nativeCurrency": {
+    "name": "Pixie Chain Testnet Native Token",
+    "symbol": "PCTT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://http-testnet.chain.pixie.xyz"
+  ],
+  "infoURL": "https://scan-testnet.chain.pixie.xyz"
+}

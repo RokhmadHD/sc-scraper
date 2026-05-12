@@ -1,0 +1,24 @@
+{
+  "name": "Tranched Mainnet",
+  "chain": "tranched-mainnet",
+  "shortName": "tranched-mainnet",
+  "category": "mainnet",
+  "chainId": 743,
+  "networkId": 743,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://tranched-mainnet.calderachain.xyz/http"
+  ],
+  "explorers": [
+    {
+      "name": "Tranched Mainnet Caldera Explorer",
+      "url": "https://tranched-mainnet.calderaexplorer.xyz",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://tranched-mainnet.hub.caldera.xyz"
+}

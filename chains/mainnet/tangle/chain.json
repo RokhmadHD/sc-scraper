@@ -1,0 +1,24 @@
+{
+  "name": "Tangle",
+  "chain": "Tangle",
+  "shortName": "tangle",
+  "category": "mainnet",
+  "chainId": 5845,
+  "networkId": 5845,
+  "nativeCurrency": {
+    "name": "Tangle",
+    "symbol": "TNT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.tangle.tools"
+  ],
+  "explorers": [
+    {
+      "name": "Tangle EVM Explorer",
+      "url": "https://explorer.tangle.tools",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://docs.tangle.tools"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Hybrid Chain Network Testnet",
+  "chain": "HYBRID",
+  "shortName": "thrc",
+  "category": "test",
+  "chainId": 2458,
+  "networkId": 2458,
+  "nativeCurrency": {
+    "name": "Hybrid Chain Native Token",
+    "symbol": "tHRC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-testnet.hybridchain.ai/"
+  ],
+  "explorers": [
+    {
+      "name": "Hybrid Chain Explorer Testnet",
+      "url": "https://testnet.hybridscan.ai",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://hybridchain.ai"
+}

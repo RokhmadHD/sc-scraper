@@ -1,0 +1,24 @@
+{
+  "name": "Blast Testnet",
+  "chain": "ETH",
+  "shortName": "blastT",
+  "category": "test",
+  "chainId": 23888,
+  "networkId": 23888,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "http://testnet-rpc.blastblockchain.com"
+  ],
+  "explorers": [
+    {
+      "name": "Blast Testnet",
+      "url": "http://testnet-explorer.blastblockchain.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://docs.blastblockchain.com"
+}

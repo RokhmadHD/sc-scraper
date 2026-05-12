@@ -1,0 +1,30 @@
+{
+  "name": "Mantle",
+  "chain": "ETH",
+  "shortName": "mantle",
+  "category": "mainnet",
+  "chainId": 5000,
+  "networkId": 5000,
+  "nativeCurrency": {
+    "name": "Mantle",
+    "symbol": "MNT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mantle-rpc.publicnode.com",
+    "https://rpc.mantle.xyz"
+  ],
+  "explorers": [
+    {
+      "name": "mantlescan",
+      "url": "https://mantlescan.xyz",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "Mantle Explorer",
+      "url": "https://explorer.mantle.xyz",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://mantle.xyz"
+}

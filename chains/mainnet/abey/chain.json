@@ -1,0 +1,24 @@
+{
+  "name": "Abey Mainnet",
+  "chain": "Abey",
+  "shortName": "abey",
+  "category": "mainnet",
+  "chainId": 179,
+  "networkId": 179,
+  "nativeCurrency": {
+    "name": "ABEY",
+    "symbol": "ABEY",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.abeychain.com"
+  ],
+  "explorers": [
+    {
+      "name": "abeyscan",
+      "url": "https://abeyscan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://abey.com"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "EtherGem",
+  "chain": "EGEM",
+  "shortName": "egem",
+  "category": "mainnet",
+  "chainId": 1987,
+  "networkId": 1987,
+  "nativeCurrency": {
+    "name": "EtherGem Ether",
+    "symbol": "EGEM",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://jsonrpc.egem.io/custom"
+  ],
+  "infoURL": "https://egem.io"
+}

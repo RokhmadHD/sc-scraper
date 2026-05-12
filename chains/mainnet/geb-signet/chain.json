@@ -1,0 +1,24 @@
+{
+  "name": "GEB Signet",
+  "chain": "GEB",
+  "shortName": "geb-signet",
+  "category": "mainnet",
+  "chainId": 11504,
+  "networkId": 11504,
+  "nativeCurrency": {
+    "name": "BTC",
+    "symbol": "BTC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://signet.geb.network/"
+  ],
+  "explorers": [
+    {
+      "name": "geb signet scan",
+      "url": "https://scan-signet.geb.network",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://geb.network"
+}

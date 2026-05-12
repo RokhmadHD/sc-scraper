@@ -1,0 +1,26 @@
+{
+  "name": "Qubetics Mainnet",
+  "chain": "Qubetics Mainnet",
+  "shortName": "QubeticsMainnet",
+  "category": "mainnet",
+  "chainId": 9030,
+  "networkId": 9030,
+  "nativeCurrency": {
+    "name": "Qubetics",
+    "symbol": "TICS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://evm-rpc-arch.qubetics.com",
+    "https://evm-ws-arch.qubetics.com",
+    "https://rpc.qubetics.com"
+  ],
+  "explorers": [
+    {
+      "name": "Qubetics Mainnet Explorer",
+      "url": "https://ticsscan.com",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://www.qubetics.com"
+}

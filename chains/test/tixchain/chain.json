@@ -1,0 +1,24 @@
+{
+  "name": "TixChain Testnet",
+  "chain": "TIXCHAIN",
+  "shortName": "tixchain",
+  "category": "test",
+  "chainId": 723107,
+  "networkId": 723107,
+  "nativeCurrency": {
+    "name": "TIX Token",
+    "symbol": "TIX",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://subnets.avax.network/tixchain/testnet/rpc"
+  ],
+  "explorers": [
+    {
+      "name": "TixChain Testnet Subnet Explorer",
+      "url": "https://subnets-test.avax.network/tixchain",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://subnets-test.avax.network/tixchain/details"
+}

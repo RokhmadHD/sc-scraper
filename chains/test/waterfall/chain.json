@@ -1,0 +1,17 @@
+{
+  "name": "Waterfall 8 Test Network",
+  "chain": "Waterfall Testnet8",
+  "shortName": "waterfall",
+  "category": "test",
+  "chainId": 8601152,
+  "networkId": 8601152,
+  "nativeCurrency": {
+    "name": "WATER",
+    "symbol": "WATER",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.testnet8.waterfall.network/"
+  ],
+  "infoURL": "https://waterfall.network"
+}

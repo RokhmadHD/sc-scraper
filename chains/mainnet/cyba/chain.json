@@ -1,0 +1,24 @@
+{
+  "name": "Cybria Mainnet",
+  "chain": "CYBA",
+  "shortName": "cyba",
+  "category": "mainnet",
+  "chainId": 6661,
+  "networkId": 6661,
+  "nativeCurrency": {
+    "name": "Cybria",
+    "symbol": "CYBA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-mainnet.cybria.io"
+  ],
+  "explorers": [
+    {
+      "name": "Cybria Explorer",
+      "url": "https://cybascan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://cybria.io"
+}

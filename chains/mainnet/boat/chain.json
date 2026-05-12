@@ -1,0 +1,24 @@
+{
+  "name": "BOAT Mainnet",
+  "chain": "BOAT",
+  "shortName": "boat",
+  "category": "mainnet",
+  "chainId": 8047,
+  "networkId": 8047,
+  "nativeCurrency": {
+    "name": "Best Of All Time Token",
+    "symbol": "BOAT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc0.come.boat/"
+  ],
+  "explorers": [
+    {
+      "name": "BOAT Mainnet Explorer",
+      "url": "https://scan.come.boats",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://come.boats"
+}

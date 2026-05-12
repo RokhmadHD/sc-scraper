@@ -1,0 +1,24 @@
+{
+  "name": "Unite Testnet",
+  "chain": "UNITE",
+  "shortName": "unitetestnet",
+  "category": "test",
+  "chainId": 888991,
+  "networkId": 888991,
+  "nativeCurrency": {
+    "name": "Testnet Unite",
+    "symbol": "UNITE",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://unite-testnet.g.alchemy.com/public"
+  ],
+  "explorers": [
+    {
+      "name": "Unite Testnet Explorer",
+      "url": "https://unite-testnet.explorer.alchemy.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://unite.io"
+}

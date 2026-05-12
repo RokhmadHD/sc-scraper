@@ -1,0 +1,24 @@
+{
+  "name": "CONET Cancun",
+  "chain": "CONET Cancun",
+  "shortName": "conet-cancun",
+  "category": "mainnet",
+  "chainId": 224433,
+  "networkId": 224433,
+  "nativeCurrency": {
+    "name": "CONET Cancun",
+    "symbol": "CONET",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.conet.network"
+  ],
+  "explorers": [
+    {
+      "name": "CONET Cancun Scan",
+      "url": "https://cancun.conet.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://conet.network"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Molereum Network",
+  "chain": "ETH",
+  "shortName": "mole",
+  "category": "mainnet",
+  "chainId": 6022140761023,
+  "networkId": 6022140761023,
+  "nativeCurrency": {
+    "name": "Molereum Ether",
+    "symbol": "MOLE",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://molereum.jdubedition.com"
+  ],
+  "infoURL": "https://github.com/Jdubedition/molereum"
+}

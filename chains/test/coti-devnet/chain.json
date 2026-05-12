@@ -1,0 +1,24 @@
+{
+  "name": "COTI Devnet",
+  "chain": "COTI",
+  "shortName": "coti-devnet",
+  "category": "test",
+  "chainId": 13068200,
+  "networkId": 13068200,
+  "nativeCurrency": {
+    "name": "COTI2",
+    "symbol": "COTI2",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://devnet.coti.io/rpc"
+  ],
+  "explorers": [
+    {
+      "name": "coti devnet explorer",
+      "url": "https://explorer-devnet.coti.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://coti.io/"
+}

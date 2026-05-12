@@ -1,0 +1,24 @@
+{
+  "name": "ReDeFi Layer 1",
+  "chain": "ReDeFi",
+  "shortName": "bax",
+  "category": "mainnet",
+  "chainId": 47803,
+  "networkId": 47803,
+  "nativeCurrency": {
+    "name": "BAX",
+    "symbol": "BAX",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://layer1.redefi.world"
+  ],
+  "explorers": [
+    {
+      "name": "ReDeFi Scan",
+      "url": "https://scanlayer1.redefi.world",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://redefi.world"
+}

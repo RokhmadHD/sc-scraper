@@ -1,0 +1,31 @@
+{
+  "name": "Berachain",
+  "chain": "Berachain",
+  "shortName": "berachain",
+  "category": "mainnet",
+  "chainId": 80094,
+  "networkId": 80094,
+  "nativeCurrency": {
+    "name": "BERA Token",
+    "symbol": "BERA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://berachain-rpc.publicnode.com",
+    "https://rpc.berachain-apis.com",
+    "https://rpc.berachain.com"
+  ],
+  "explorers": [
+    {
+      "name": "Berascan",
+      "url": "https://berascan.com",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "Beratrail",
+      "url": "https://beratrail.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.berachain.com"
+}

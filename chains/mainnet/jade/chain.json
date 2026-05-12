@@ -1,0 +1,24 @@
+{
+  "name": "Numbers Mainnet",
+  "chain": "NUM",
+  "shortName": "Jade",
+  "category": "mainnet",
+  "chainId": 10507,
+  "networkId": 10507,
+  "nativeCurrency": {
+    "name": "NUM Token",
+    "symbol": "NUM",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnetrpc.num.network"
+  ],
+  "explorers": [
+    {
+      "name": "ethernal",
+      "url": "https://mainnet.num.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://numbersprotocol.io"
+}

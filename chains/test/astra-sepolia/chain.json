@@ -1,0 +1,24 @@
+{
+  "name": "Astra Sepolia",
+  "chain": "Astra Sepolia",
+  "shortName": "astra-sepolia",
+  "category": "test",
+  "chainId": 19777,
+  "networkId": 19777,
+  "nativeCurrency": {
+    "name": "Astra",
+    "symbol": "ATX",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-astra-9on2f72wzn.t.conduit.xyz"
+  ],
+  "explorers": [
+    {
+      "name": "Astra Sepolia Explorer",
+      "url": "https://explorer-astra-9on2f72wzn.t.conduit.xyz",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://explorer-astra-9on2f72wzn.t.conduit.xyz"
+}

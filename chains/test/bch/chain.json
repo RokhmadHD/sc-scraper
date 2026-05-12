@@ -1,0 +1,24 @@
+{
+  "name": "BC Hyper Chain Testnet",
+  "chain": "BC Hyper Chain",
+  "shortName": "BCH",
+  "category": "test",
+  "chainId": 6060,
+  "networkId": 6060,
+  "nativeCurrency": {
+    "name": "TEST VERSATIZE COIN",
+    "symbol": "TVTCN",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.bchscan.io"
+  ],
+  "explorers": [
+    {
+      "name": "bcexplorer testnet",
+      "url": "https://testnet.bchscan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.versatizecoin.com/"
+}

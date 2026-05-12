@@ -1,0 +1,24 @@
+{
+  "name": "Edge Testnet",
+  "chain": "ETH",
+  "shortName": "edge-testnet",
+  "category": "test",
+  "chainId": 33431,
+  "networkId": 33431,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://edge-testnet.g.alchemy.com/public"
+  ],
+  "explorers": [
+    {
+      "name": "Alchemy Explorer",
+      "url": "https://edge-testnet.explorer.alchemy.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.edgex.exchange"
+}

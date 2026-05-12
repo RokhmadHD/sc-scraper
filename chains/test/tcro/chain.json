@@ -1,0 +1,25 @@
+{
+  "name": "Cronos Testnet",
+  "chain": "CRO",
+  "shortName": "tcro",
+  "category": "test",
+  "chainId": 338,
+  "networkId": 338,
+  "nativeCurrency": {
+    "name": "Cronos Test Coin",
+    "symbol": "TCRO",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://cronos-testnet.drpc.org",
+    "https://evm-t3.cronos.org"
+  ],
+  "explorers": [
+    {
+      "name": "Cronos Testnet Explorer",
+      "url": "https://explorer.cronos.org/testnet",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://cronos.org"
+}

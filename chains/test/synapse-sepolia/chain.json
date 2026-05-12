@@ -1,0 +1,24 @@
+{
+  "name": "Synapse Chain Testnet",
+  "chain": "ETH",
+  "shortName": "synapse-sepolia",
+  "category": "test",
+  "chainId": 444,
+  "networkId": 444,
+  "nativeCurrency": {
+    "name": "Sepolia ETH",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://sepolia.synapseprotocol.com"
+  ],
+  "explorers": [
+    {
+      "name": "Synapse Chain Sepolia",
+      "url": "https://sepolia.synapsescan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://synapseprotocol.com"
+}

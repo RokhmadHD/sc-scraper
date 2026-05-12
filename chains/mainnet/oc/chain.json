@@ -1,0 +1,24 @@
+{
+  "name": "OpenChain Mainnet",
+  "chain": "OpenChain",
+  "shortName": "oc",
+  "category": "mainnet",
+  "chainId": 474142,
+  "networkId": 474142,
+  "nativeCurrency": {
+    "name": "OpenCoin",
+    "symbol": "OPC",
+    "decimals": 10
+  },
+  "rpc": [
+    "https://baas-rpc.luniverse.io:18545?lChainId=1641349324562974539"
+  ],
+  "explorers": [
+    {
+      "name": "SIDE SCAN",
+      "url": "https://sidescan.luniverse.io/1641349324562974539",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://www.openchain.live"
+}

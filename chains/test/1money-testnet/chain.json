@@ -1,0 +1,27 @@
+{
+  "name": "1Money Network Testnet",
+  "chain": "1MoneyNetwork",
+  "shortName": "1money-testnet",
+  "category": "test",
+  "chainId": 1212101,
+  "networkId": 1212101,
+  "nativeCurrency": {
+    "name": "FREE",
+    "symbol": "FREE",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.testnet.1money.network",
+    "https://rpc1.testnet.1money.network",
+    "https://rpc2.testnet.1money.network",
+    "https://rpc3.testnet.1money.network"
+  ],
+  "explorers": [
+    {
+      "name": "1Money Network Explorer",
+      "url": "https://www.1moneynetwork.com/explorer?network=testnet",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.1moneynetwork.com"
+}

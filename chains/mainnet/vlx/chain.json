@@ -1,0 +1,25 @@
+{
+  "name": "Velas EVM Mainnet",
+  "chain": "Velas",
+  "shortName": "vlx",
+  "category": "mainnet",
+  "chainId": 106,
+  "networkId": 106,
+  "nativeCurrency": {
+    "name": "Velas",
+    "symbol": "VLX",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://evmexplorer.velas.com/rpc",
+    "https://explorer.velas.com/rpc"
+  ],
+  "explorers": [
+    {
+      "name": "Velas Explorer",
+      "url": "https://evmexplorer.velas.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://velas.com"
+}

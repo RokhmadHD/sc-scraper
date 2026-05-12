@@ -1,0 +1,30 @@
+{
+  "name": "Linea Sepolia",
+  "chain": "ETH",
+  "shortName": "linea-sepolia",
+  "category": "test",
+  "chainId": 59141,
+  "networkId": 59141,
+  "nativeCurrency": {
+    "name": "Linea Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://linea-sepolia-rpc.publicnode.com",
+    "https://rpc.sepolia.linea.build"
+  ],
+  "explorers": [
+    {
+      "name": "Etherscan",
+      "url": "https://sepolia.lineascan.build",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "Blockscout",
+      "url": "https://explorer.sepolia.linea.build",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://linea.build"
+}

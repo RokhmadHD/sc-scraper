@@ -1,0 +1,24 @@
+{
+  "name": "Shardeum Testnet",
+  "chain": "ShardeumTestnet",
+  "shortName": "ShardeumTestnet",
+  "category": "test",
+  "chainId": 8083,
+  "networkId": 8083,
+  "nativeCurrency": {
+    "name": "Shardeum Test SHM",
+    "symbol": "SHM",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://api-testnet.shardeum.org/"
+  ],
+  "explorers": [
+    {
+      "name": "Shardeum Testnet Explorer",
+      "url": "https://explorer-testnet.shardeum.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://docs.shardeum.org/"
+}

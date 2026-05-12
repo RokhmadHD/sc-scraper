@@ -1,0 +1,17 @@
+{
+  "name": "Waterfall Network",
+  "chain": "Waterfall Network",
+  "shortName": "water",
+  "category": "mainnet",
+  "chainId": 181,
+  "networkId": 181,
+  "nativeCurrency": {
+    "name": "WATER",
+    "symbol": "WATER",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.waterfall.network/"
+  ],
+  "infoURL": "https://waterfall.network"
+}

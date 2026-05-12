@@ -1,0 +1,24 @@
+{
+  "name": "eGold Chain Testnet",
+  "chain": "EGC",
+  "shortName": "egoldchaint",
+  "category": "test",
+  "chainId": 111451,
+  "networkId": 111451,
+  "nativeCurrency": {
+    "name": "Aurum",
+    "symbol": "XAU",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-testnet.egoldchain.com"
+  ],
+  "explorers": [
+    {
+      "name": "eGold Chain Block Explorer",
+      "url": "http://testnet.egoldscan.io",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://www.egoldchain.com"
+}

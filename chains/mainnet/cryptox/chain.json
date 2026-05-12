@@ -1,0 +1,24 @@
+{
+  "name": "CryptoX",
+  "chain": "XCOIN",
+  "shortName": "cryptox",
+  "category": "mainnet",
+  "chainId": 158245,
+  "networkId": 158245,
+  "nativeCurrency": {
+    "name": "XCOIN",
+    "symbol": "XCOIN",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-xcoin.cryptoxnetwork.io"
+  ],
+  "explorers": [
+    {
+      "name": "CryptoX explorer",
+      "url": "https://cryptoxscan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://cryptoxnetwork.io"
+}

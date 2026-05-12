@@ -1,0 +1,17 @@
+{
+  "name": "Cycle Network Testnet Jellyfish",
+  "chain": "ETH",
+  "shortName": "cyclej",
+  "category": "test",
+  "chainId": 1223,
+  "networkId": 1223,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://jellyfish-rpc-testnet.cyclenetwork.io"
+  ],
+  "infoURL": "https://www.cyclenetwork.io/"
+}

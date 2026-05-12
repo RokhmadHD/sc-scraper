@@ -1,0 +1,24 @@
+{
+  "name": "Miracle Chain",
+  "chain": "MIRACLE",
+  "shortName": "MIRACLE",
+  "category": "mainnet",
+  "chainId": 92278,
+  "networkId": 92278,
+  "nativeCurrency": {
+    "name": "Miracle Play Token",
+    "symbol": "MPT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.miracleplay.io"
+  ],
+  "explorers": [
+    {
+      "name": "Miracle Chain Explorer",
+      "url": "https://explorer.miracleplay.io",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://miracleplay.gg"
+}

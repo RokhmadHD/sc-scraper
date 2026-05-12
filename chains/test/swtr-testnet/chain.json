@@ -1,0 +1,24 @@
+{
+  "name": "Swisstronik Testnet",
+  "chain": "SWTR Testnet",
+  "shortName": "swtr-testnet",
+  "category": "test",
+  "chainId": 1291,
+  "networkId": 1291,
+  "nativeCurrency": {
+    "name": "Swisstronik",
+    "symbol": "SWTR",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://json-rpc.testnet.swisstronik.com"
+  ],
+  "explorers": [
+    {
+      "name": "Swisstronik Scout",
+      "url": "https://explorer-evm.testnet.swisstronik.com",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://www.swisstronik.com"
+}

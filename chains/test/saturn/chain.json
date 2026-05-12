@@ -1,0 +1,17 @@
+{
+  "name": "Swan Saturn Testnet",
+  "chain": "SWAN",
+  "shortName": "saturn",
+  "category": "test",
+  "chainId": 2024,
+  "networkId": 2024,
+  "nativeCurrency": {
+    "name": "SWANETH",
+    "symbol": "sETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://saturn-rpc.swanchain.io"
+  ],
+  "infoURL": "https://swanchain.io/"
+}

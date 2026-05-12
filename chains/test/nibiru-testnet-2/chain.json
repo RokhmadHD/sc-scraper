@@ -1,0 +1,17 @@
+{
+  "name": "Nibiru testnet-2",
+  "chain": "Nibiru",
+  "shortName": "nibiru-testnet-2",
+  "category": "test",
+  "chainId": 6911,
+  "networkId": 6911,
+  "nativeCurrency": {
+    "name": "NIBI",
+    "symbol": "NIBI",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://evm-rpc.testnet-2.nibiru.fi"
+  ],
+  "infoURL": "https://nibiru.fi"
+}

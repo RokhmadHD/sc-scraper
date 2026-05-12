@@ -1,0 +1,25 @@
+{
+  "name": "Rinia",
+  "chain": "FIRE",
+  "shortName": "tfire",
+  "category": "test",
+  "chainId": 917,
+  "networkId": 917,
+  "nativeCurrency": {
+    "name": "Firechain",
+    "symbol": "FIRE",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rinia-rpc1.thefirechain.com",
+    "https://rpc-rinia.firestation.io"
+  ],
+  "explorers": [
+    {
+      "name": "FireScan",
+      "url": "https://rinia.firescan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://thefirechain.com"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Zilliqa 2",
+  "chain": "ZIL",
+  "shortName": "zil",
+  "category": "mainnet",
+  "chainId": 32769,
+  "networkId": 32769,
+  "nativeCurrency": {
+    "name": "Zilliqa",
+    "symbol": "ZIL",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://api.zilliqa.com"
+  ],
+  "explorers": [
+    {
+      "name": "Zilliqa 2 Mainnet Explorer",
+      "url": "https://zilliqa.blockscout.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.zilliqa.com/"
+}

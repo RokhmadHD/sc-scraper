@@ -1,0 +1,24 @@
+{
+  "name": "Nillion Network Sepolia Testnet",
+  "chain": "ETH",
+  "shortName": "nilsep",
+  "category": "test",
+  "chainId": 78651,
+  "networkId": 78651,
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.testnet.nillion.network"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.testnet.nillion.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://nillion.com/"
+}

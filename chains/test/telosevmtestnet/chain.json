@@ -1,0 +1,25 @@
+{
+  "name": "Telos EVM Testnet",
+  "chain": "TLOS",
+  "shortName": "TelosEVMTestnet",
+  "category": "test",
+  "chainId": 41,
+  "networkId": 41,
+  "nativeCurrency": {
+    "name": "Telos",
+    "symbol": "TLOS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.testnet.telos.net",
+    "https://telos-testnet.drpc.org"
+  ],
+  "explorers": [
+    {
+      "name": "teloscan",
+      "url": "https://testnet.teloscan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://telos.net"
+}

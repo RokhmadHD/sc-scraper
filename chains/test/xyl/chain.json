@@ -1,0 +1,24 @@
+{
+  "name": "Xylume TestNet",
+  "chain": "XYL",
+  "shortName": "xyl",
+  "category": "test",
+  "chainId": 6934,
+  "networkId": 6934,
+  "nativeCurrency": {
+    "name": "Xylume",
+    "symbol": "XYL",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://xylume-testnet.sparked.network/rpc/"
+  ],
+  "explorers": [
+    {
+      "name": "Xylume Explorer",
+      "url": "https://debxylen.github.io/XylumeExplorer",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://debxylen.github.io/Xylume_TestNet"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "POA Network Core",
+  "chain": "POA",
+  "shortName": "poa",
+  "category": "mainnet",
+  "chainId": 99,
+  "networkId": 99,
+  "nativeCurrency": {
+    "name": "POA Network Core Ether",
+    "symbol": "POA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://core.poa.network"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://blockscout.com/poa/core",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://poa.network"
+}

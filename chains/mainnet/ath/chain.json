@@ -1,0 +1,17 @@
+{
+  "name": "Atheios",
+  "chain": "ATH",
+  "shortName": "ath",
+  "category": "mainnet",
+  "chainId": 1620,
+  "networkId": 11235813,
+  "nativeCurrency": {
+    "name": "Atheios Ether",
+    "symbol": "ATH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.atheios.org/"
+  ],
+  "infoURL": "https://atheios.org"
+}

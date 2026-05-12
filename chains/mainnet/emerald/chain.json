@@ -1,0 +1,24 @@
+{
+  "name": "Oasis Emerald",
+  "chain": "Emerald",
+  "shortName": "emerald",
+  "category": "mainnet",
+  "chainId": 42262,
+  "networkId": 42262,
+  "nativeCurrency": {
+    "name": "Emerald Rose",
+    "symbol": "ROSE",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://emerald.oasis.io"
+  ],
+  "explorers": [
+    {
+      "name": "Oasis Emerald Explorer",
+      "url": "https://explorer.oasis.io/mainnet/emerald",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://docs.oasis.io/dapp/emerald"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "EnterChain Mainnet",
+  "chain": "ENTER",
+  "shortName": "enter",
+  "category": "mainnet",
+  "chainId": 1214,
+  "networkId": 1214,
+  "nativeCurrency": {
+    "name": "EnterCoin",
+    "symbol": "ENTER",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://tapi.entercoin.net/"
+  ],
+  "explorers": [
+    {
+      "name": "Enter Explorer - Expenter",
+      "url": "https://explorer.entercoin.net",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://entercoin.net"
+}

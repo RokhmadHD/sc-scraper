@@ -1,0 +1,25 @@
+{
+  "name": "LaChain",
+  "chain": "LaChain",
+  "shortName": "lachain",
+  "category": "mainnet",
+  "chainId": 274,
+  "networkId": 274,
+  "nativeCurrency": {
+    "name": "LaCoin",
+    "symbol": "LAC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://lachain.rpc-nodes.cedalio.dev",
+    "https://rpc1.mainnet.lachain.network",
+    "https://rpc2.mainnet.lachain.network"
+  ],
+  "explorers": [
+    {
+      "name": "LaChain Explorer",
+      "url": "https://explorer.lachain.network",
+      "standard": "EIP3091"
+    }
+  ]
+}

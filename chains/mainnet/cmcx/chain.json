@@ -1,0 +1,24 @@
+{
+  "name": "Catena Mainnet",
+  "chain": "CMCX",
+  "shortName": "cmcx",
+  "category": "mainnet",
+  "chainId": 2121,
+  "networkId": 2121,
+  "nativeCurrency": {
+    "name": "Catena",
+    "symbol": "CMCX",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc1.catenarpc.com"
+  ],
+  "explorers": [
+    {
+      "name": "catenascan",
+      "url": "https://catenascan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://catena.network"
+}

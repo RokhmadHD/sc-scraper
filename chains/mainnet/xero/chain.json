@@ -1,0 +1,17 @@
+{
+  "name": "Xerom",
+  "chain": "XERO",
+  "shortName": "xero",
+  "category": "mainnet",
+  "chainId": 1313500,
+  "networkId": 1313500,
+  "nativeCurrency": {
+    "name": "Xerom Ether",
+    "symbol": "XERO",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.xerom.org"
+  ],
+  "infoURL": "https://xerom.org"
+}

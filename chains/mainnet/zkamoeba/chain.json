@@ -1,0 +1,24 @@
+{
+  "name": "ZKAmoeba Mainnet",
+  "chain": "FIL",
+  "shortName": "zkamoeba",
+  "category": "mainnet",
+  "chainId": 381,
+  "networkId": 381,
+  "nativeCurrency": {
+    "name": "filecoin",
+    "symbol": "FIL",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.mainnet.zkamoeba.com/rpc"
+  ],
+  "explorers": [
+    {
+      "name": "ZKAmoeba Explorer",
+      "url": "https://explorer.zkamoeba.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.zkamoeba.com"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "B3",
+  "chain": "B3",
+  "shortName": "b3",
+  "category": "mainnet",
+  "chainId": 8333,
+  "networkId": 8333,
+  "nativeCurrency": {
+    "name": "ETH",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet-rpc.b3.fun"
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout",
+      "url": "https://explorer.b3.fun",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://b3.fun"
+}

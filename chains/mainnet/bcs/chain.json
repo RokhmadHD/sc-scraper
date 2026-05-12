@@ -1,0 +1,24 @@
+{
+  "name": "BlockChain Station Mainnet",
+  "chain": "BCS",
+  "shortName": "bcs",
+  "category": "mainnet",
+  "chainId": 707,
+  "networkId": 707,
+  "nativeCurrency": {
+    "name": "BCS Token",
+    "symbol": "BCS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-mainnet.bcsdev.io"
+  ],
+  "explorers": [
+    {
+      "name": "BlockChain Station Explorer",
+      "url": "https://explorer.bcsdev.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://blockchainstation.io"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Huddle01 dRTC Chain",
+  "chain": "huddle01",
+  "shortName": "huddle01",
+  "category": "mainnet",
+  "chainId": 12323,
+  "networkId": 12323,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://huddle01.calderachain.xyz/http"
+  ],
+  "explorers": [
+    {
+      "name": "Huddle01 Caldera Explorer",
+      "url": "https://huddle01.calderaexplorer.xyz",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://huddle01.com/"
+}

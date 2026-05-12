@@ -1,0 +1,26 @@
+{
+  "name": "Nova Network",
+  "chain": "NNW",
+  "shortName": "nnw",
+  "category": "mainnet",
+  "chainId": 87,
+  "networkId": 87,
+  "nativeCurrency": {
+    "name": "Supernova",
+    "symbol": "SNT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://0x57.redjackstudio.com",
+    "https://connect.novanetwork.io",
+    "https://rpc.novanetwork.io:9070"
+  ],
+  "explorers": [
+    {
+      "name": "novanetwork",
+      "url": "https://explorer.novanetwork.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://novanetwork.io"
+}

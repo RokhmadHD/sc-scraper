@@ -1,0 +1,24 @@
+{
+  "name": "Story Odyssey Testnet",
+  "chain": "Story Odyssey Testnet",
+  "shortName": "story-testnet",
+  "category": "test",
+  "chainId": 1516,
+  "networkId": 1516,
+  "nativeCurrency": {
+    "name": "IP",
+    "symbol": "IP",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://odyssey.storyrpc.io"
+  ],
+  "explorers": [
+    {
+      "name": "Story Odyssey Network explorer",
+      "url": "https://odyssey-testnet-explorer.storyscan.xyz",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.story.foundation"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "WEMIX3.0 Testnet",
+  "chain": "TWEMIX",
+  "shortName": "twemix",
+  "category": "test",
+  "chainId": 1112,
+  "networkId": 1112,
+  "nativeCurrency": {
+    "name": "TestnetWEMIX",
+    "symbol": "tWEMIX",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://api.test.wemix.com"
+  ],
+  "explorers": [
+    {
+      "name": "WEMIX Testnet Microscope",
+      "url": "https://microscope.test.wemix.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://wemix.com"
+}

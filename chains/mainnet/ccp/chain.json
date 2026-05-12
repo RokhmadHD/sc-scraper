@@ -1,0 +1,24 @@
+{
+  "name": "CryptoCoinPay",
+  "chain": "CCP",
+  "shortName": "CCP",
+  "category": "mainnet",
+  "chainId": 10823,
+  "networkId": 10823,
+  "nativeCurrency": {
+    "name": "CryptoCoinPay",
+    "symbol": "CCP",
+    "decimals": 18
+  },
+  "rpc": [
+    "http://node106.cryptocoinpay.info:8545"
+  ],
+  "explorers": [
+    {
+      "name": "CCP Explorer",
+      "url": "https://cryptocoinpay.info",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.cryptocoinpay.co"
+}

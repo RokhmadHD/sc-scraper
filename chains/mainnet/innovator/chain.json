@@ -1,0 +1,24 @@
+{
+  "name": "Innovator Chain",
+  "chain": "INNOVATOR",
+  "shortName": "Innovator",
+  "category": "mainnet",
+  "chainId": 129,
+  "networkId": 129,
+  "nativeCurrency": {
+    "name": "INOV8",
+    "symbol": "INOV8",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.innovatorchain.com"
+  ],
+  "explorers": [
+    {
+      "name": "Innovator Explorer",
+      "url": "https://evm.innovatorchain.com",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://innovatorchain.com"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Daily Network Mainnet",
+  "chain": "Daily Network",
+  "shortName": "dly",
+  "category": "mainnet",
+  "chainId": 824,
+  "networkId": 824,
+  "nativeCurrency": {
+    "name": "Daily",
+    "symbol": "DLY",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-2.mainnet.dailycrypto.net",
+    "https://rpc-3.mainnet.dailycrypto.net",
+    "https://rpc.mainnet.dailycrypto.net"
+  ],
+  "explorers": [
+    {
+      "name": "Daily Mainnet Explorer",
+      "url": "https://explorer.mainnet.dailycrypto.net",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://dailycrypto.net"
+}

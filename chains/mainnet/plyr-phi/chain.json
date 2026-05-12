@@ -1,0 +1,24 @@
+{
+  "name": "PLYR PHI",
+  "chain": "PLYR",
+  "shortName": "plyr-phi",
+  "category": "mainnet",
+  "chainId": 16180,
+  "networkId": 16180,
+  "nativeCurrency": {
+    "name": "PLYR",
+    "symbol": "PLYR",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://subnets.avax.network/plyr/mainnet/rpc"
+  ],
+  "explorers": [
+    {
+      "name": "PLYR PHI Explorer",
+      "url": "https://explorer.plyr.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://plyr.network"
+}

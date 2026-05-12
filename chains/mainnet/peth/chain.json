@@ -1,0 +1,24 @@
+{
+  "name": "Patex",
+  "chain": "ETH",
+  "shortName": "peth",
+  "category": "mainnet",
+  "chainId": 789,
+  "networkId": 789,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.patex.io/"
+  ],
+  "explorers": [
+    {
+      "name": "patexscan",
+      "url": "https://patexscan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://patex.io/"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "BitTorrent Chain Donau",
+  "chain": "BTTC",
+  "shortName": "tBTT",
+  "category": "test",
+  "chainId": 1029,
+  "networkId": 1029,
+  "nativeCurrency": {
+    "name": "BitTorrent",
+    "symbol": "BTT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://pre-rpc.bt.io"
+  ],
+  "explorers": [
+    {
+      "name": "BitTorrent Chain Donau Explorer",
+      "url": "https://testnet.bttcscan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://bt.io"
+}

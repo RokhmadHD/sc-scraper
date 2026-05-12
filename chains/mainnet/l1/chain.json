@@ -1,0 +1,24 @@
+{
+  "name": "Genesis L1",
+  "chain": "genesis",
+  "shortName": "L1",
+  "category": "mainnet",
+  "chainId": 29,
+  "networkId": 29,
+  "nativeCurrency": {
+    "name": "L1 coin",
+    "symbol": "L1",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.genesisl1.org"
+  ],
+  "explorers": [
+    {
+      "name": "Genesis L1 blockchain explorer",
+      "url": "https://explorer.genesisl1.org",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://www.genesisl1.com"
+}

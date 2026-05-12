@@ -1,0 +1,24 @@
+{
+  "name": "Genesys Code Mainnet",
+  "chain": "GCODE",
+  "shortName": "gcode",
+  "category": "mainnet",
+  "chainId": 59971,
+  "networkId": 59971,
+  "nativeCurrency": {
+    "name": "GenesysCode",
+    "symbol": "GCODE",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet.genesyscode.io/"
+  ],
+  "explorers": [
+    {
+      "name": "Genesys Scan",
+      "url": "https://genesysscan.io",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://genesyscode.io"
+}

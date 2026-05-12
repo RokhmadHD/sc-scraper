@@ -1,0 +1,24 @@
+{
+  "name": "POTOS Testnet",
+  "chain": "POTOS",
+  "shortName": "potos-testnet",
+  "category": "test",
+  "chainId": 60600,
+  "networkId": 60600,
+  "nativeCurrency": {
+    "name": "POTOS Token",
+    "symbol": "POT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-testnet.potos.hk"
+  ],
+  "explorers": [
+    {
+      "name": "POTOS Testnet explorer",
+      "url": "https://scan-testnet.potos.hk",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://potos.hk"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Doma Testnet",
+  "chain": "ETH",
+  "shortName": "doma-testnet",
+  "category": "test",
+  "chainId": 97476,
+  "networkId": 97476,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-testnet.doma.xyz"
+  ],
+  "explorers": [
+    {
+      "name": "Doma Testnet Explorer",
+      "url": "https://explorer-testnet.doma.xyz",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://doma.xyz"
+}

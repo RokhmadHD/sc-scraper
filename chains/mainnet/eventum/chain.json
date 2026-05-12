@@ -1,0 +1,24 @@
+{
+  "name": "Eventum Mainnet",
+  "chain": "Eventum",
+  "shortName": "Eventum",
+  "category": "mainnet",
+  "chainId": 161803,
+  "networkId": 161803,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet-rpc.evedex.com"
+  ],
+  "explorers": [
+    {
+      "name": "Eventum Mainnet Explorer",
+      "url": "https://explorer.evedex.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://evedex.com"
+}

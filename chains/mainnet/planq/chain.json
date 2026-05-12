@@ -1,0 +1,29 @@
+{
+  "name": "Planq Mainnet",
+  "chain": "Planq",
+  "shortName": "planq",
+  "category": "mainnet",
+  "chainId": 7070,
+  "networkId": 7070,
+  "nativeCurrency": {
+    "name": "Planq",
+    "symbol": "PLQ",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://evm-rpc.planq.network"
+  ],
+  "explorers": [
+    {
+      "name": "Planq EVM Explorer (Blockscout)",
+      "url": "https://evm.planq.network",
+      "standard": "none"
+    },
+    {
+      "name": "Planq Cosmos Explorer (BigDipper)",
+      "url": "https://explorer.planq.network",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://planq.network"
+}

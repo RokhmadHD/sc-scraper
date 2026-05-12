@@ -1,0 +1,17 @@
+{
+  "name": "Dubxcoin testnet",
+  "chain": "TESTDUBX",
+  "shortName": "testdubx",
+  "category": "test",
+  "chainId": 3270,
+  "networkId": 3270,
+  "nativeCurrency": {
+    "name": "Dubxcoin testnet",
+    "symbol": "TDUBX",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpctestnet.arabianchain.org"
+  ],
+  "infoURL": "https://arabianchain.org"
+}

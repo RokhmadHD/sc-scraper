@@ -1,0 +1,25 @@
+{
+  "name": "Hoo Smart Chain",
+  "chain": "HSC",
+  "shortName": "hsc",
+  "category": "mainnet",
+  "chainId": 70,
+  "networkId": 70,
+  "nativeCurrency": {
+    "name": "Hoo Smart Chain Native Token",
+    "symbol": "HOO",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://http-mainnet.hoosmartchain.com",
+    "https://http-mainnet2.hoosmartchain.com"
+  ],
+  "explorers": [
+    {
+      "name": "hooscan",
+      "url": "https://www.hooscan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.hoosmartchain.com"
+}

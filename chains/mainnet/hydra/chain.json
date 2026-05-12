@@ -1,0 +1,24 @@
+{
+  "name": "Hydra Chain",
+  "chain": "HYDRA",
+  "shortName": "HYDRA",
+  "category": "mainnet",
+  "chainId": 4488,
+  "networkId": 4488,
+  "nativeCurrency": {
+    "name": "Hydra",
+    "symbol": "HYDRA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-mainnet.hydrachain.org"
+  ],
+  "explorers": [
+    {
+      "name": "Hydra Chain Mainnet explorer",
+      "url": "https://skynet.hydrachain.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://hydrachain.org"
+}

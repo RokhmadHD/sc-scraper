@@ -1,0 +1,17 @@
+{
+  "name": "Testnet Pika",
+  "chain": "tPKA",
+  "shortName": "PikaMinter",
+  "category": "test",
+  "chainId": 4422,
+  "networkId": 4422,
+  "nativeCurrency": {
+    "name": "Testnet Pika",
+    "symbol": "tPKA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet-rpc1.pikascan.com"
+  ],
+  "infoURL": "https://pikaminter.com"
+}

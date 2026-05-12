@@ -1,0 +1,17 @@
+{
+  "name": "Peerpay",
+  "chain": "P2P",
+  "shortName": "Peerpay",
+  "category": "mainnet",
+  "chainId": 6502,
+  "networkId": 6502,
+  "nativeCurrency": {
+    "name": "Peerpay",
+    "symbol": "P2P",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://peerpay.su.gy/p2p"
+  ],
+  "infoURL": "https://peerpay.su.gy"
+}

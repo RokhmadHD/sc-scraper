@@ -1,0 +1,17 @@
+{
+  "name": "Bharat Blockchain Network",
+  "chain": "BBNT",
+  "shortName": "bbnt",
+  "category": "test",
+  "chainId": 7099,
+  "networkId": 7099,
+  "nativeCurrency": {
+    "name": "BBNT",
+    "symbol": "BBN",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://bbnrpc.testnet.bharatblockchain.io"
+  ],
+  "infoURL": "https://bharatblockchain.io/"
+}

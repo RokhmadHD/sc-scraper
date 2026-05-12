@@ -1,0 +1,25 @@
+{
+  "name": "QuarkChain Mainnet Shard 6",
+  "chain": "QuarkChain",
+  "shortName": "qkc-s6",
+  "category": "mainnet",
+  "chainId": 100007,
+  "networkId": 100007,
+  "nativeCurrency": {
+    "name": "QKC",
+    "symbol": "QKC",
+    "decimals": 18
+  },
+  "rpc": [
+    "http://eth-jrpc.mainnet.quarkchain.io:39006",
+    "https://mainnet-s6-ethapi.quarkchain.io"
+  ],
+  "explorers": [
+    {
+      "name": "quarkchain-mainnet",
+      "url": "https://mainnet.quarkchain.io/6",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.quarkchain.io"
+}

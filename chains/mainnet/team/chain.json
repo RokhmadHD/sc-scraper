@@ -1,0 +1,24 @@
+{
+  "name": "T.E.A.M Blockchain",
+  "chain": "TEAM",
+  "shortName": "team",
+  "category": "mainnet",
+  "chainId": 88888888,
+  "networkId": 88888888,
+  "nativeCurrency": {
+    "name": "TEAM",
+    "symbol": "$TEAM",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.teamblockchain.team"
+  ],
+  "explorers": [
+    {
+      "name": "teamscan",
+      "url": "https://teamblockchain.team",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://teamblockchain.team"
+}

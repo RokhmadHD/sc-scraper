@@ -1,0 +1,24 @@
+{
+  "name": "DBK Chain",
+  "chain": "DBK Chain",
+  "shortName": "dbkchain",
+  "category": "mainnet",
+  "chainId": 20240603,
+  "networkId": 20240603,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.mainnet.dbkchain.io"
+  ],
+  "explorers": [
+    {
+      "name": "DBK Chain Explorer",
+      "url": "https://scan.dbkchain.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://docs.dbkchain.io"
+}

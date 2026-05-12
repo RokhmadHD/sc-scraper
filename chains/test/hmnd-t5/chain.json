@@ -1,0 +1,17 @@
+{
+  "name": "Humanode Testnet 5 Israfel",
+  "chain": "Humanode Testnet 5",
+  "shortName": "hmnd-t5",
+  "category": "test",
+  "chainId": 14853,
+  "networkId": 14853,
+  "nativeCurrency": {
+    "name": "eHMND",
+    "symbol": "eHMND",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://explorer-rpc-http.testnet5.stages.humanode.io"
+  ],
+  "infoURL": "https://humanode.io"
+}

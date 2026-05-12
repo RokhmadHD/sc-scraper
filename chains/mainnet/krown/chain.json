@@ -1,0 +1,25 @@
+{
+  "name": "Krown Mainnet",
+  "chain": "KROWN",
+  "shortName": "krown",
+  "category": "mainnet",
+  "chainId": 1983,
+  "networkId": 1983,
+  "nativeCurrency": {
+    "name": "KROWN",
+    "symbol": "KROWN",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet.krown.network",
+    "https://mainnet1.krown.network"
+  ],
+  "explorers": [
+    {
+      "name": "Krown Explorer",
+      "url": "https://explorer.krown.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://krown.network"
+}

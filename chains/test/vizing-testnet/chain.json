@@ -1,0 +1,24 @@
+{
+  "name": "Vizing Testnet",
+  "chain": "Vizing Testnet",
+  "shortName": "Vizing-Testnet",
+  "category": "test",
+  "chainId": 28516,
+  "networkId": 28516,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-sepolia.vizing.com"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer-sepolia.vizing.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://vizing.com"
+}

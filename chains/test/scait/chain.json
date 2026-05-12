@@ -1,0 +1,24 @@
+{
+  "name": "SecureChain Testnet",
+  "chain": "SCAI",
+  "shortName": "SCAIt",
+  "category": "test",
+  "chainId": 3434,
+  "networkId": 3434,
+  "nativeCurrency": {
+    "name": "SCAI",
+    "symbol": "SCAI",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet-rpc.securechain.ai"
+  ],
+  "explorers": [
+    {
+      "name": "SecureChain",
+      "url": "https://testnet.securechain.ai",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://securechain.ai"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Btachain",
+  "chain": "btachain",
+  "shortName": "bta",
+  "category": "mainnet",
+  "chainId": 1657,
+  "networkId": 1657,
+  "nativeCurrency": {
+    "name": "Bitcoin Asset",
+    "symbol": "BTA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://dataseed1.btachain.com/"
+  ],
+  "infoURL": "https://bitcoinasset.io/"
+}

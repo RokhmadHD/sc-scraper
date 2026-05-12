@@ -1,0 +1,24 @@
+{
+  "name": "AUTHEO Testnet",
+  "chain": "AUTHEO Testnet",
+  "shortName": "autheo-Test-Chain",
+  "category": "test",
+  "chainId": 785,
+  "networkId": 785,
+  "nativeCurrency": {
+    "name": "THEO",
+    "symbol": "THEO",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet-rpc1.autheo.com"
+  ],
+  "explorers": [
+    {
+      "name": "tracehawk",
+      "url": "https://testnet-explorer.autheo.com",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://autheo.com"
+}

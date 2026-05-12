@@ -1,0 +1,24 @@
+{
+  "name": "BPX Chain",
+  "chain": "BPX",
+  "shortName": "bpx",
+  "category": "mainnet",
+  "chainId": 279,
+  "networkId": 279,
+  "nativeCurrency": {
+    "name": "BPX",
+    "symbol": "BPX",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.bpxchain.cc"
+  ],
+  "explorers": [
+    {
+      "name": "BPX Chain Block Explorer",
+      "url": "https://explorer.bpxchain.cc",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://bpxchain.cc"
+}

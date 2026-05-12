@@ -1,0 +1,25 @@
+{
+  "name": "QuarkChain Mainnet Shard 2",
+  "chain": "QuarkChain",
+  "shortName": "qkc-s2",
+  "category": "mainnet",
+  "chainId": 100003,
+  "networkId": 100003,
+  "nativeCurrency": {
+    "name": "QKC",
+    "symbol": "QKC",
+    "decimals": 18
+  },
+  "rpc": [
+    "http://eth-jrpc.mainnet.quarkchain.io:39002",
+    "https://mainnet-s2-ethapi.quarkchain.io"
+  ],
+  "explorers": [
+    {
+      "name": "quarkchain-mainnet",
+      "url": "https://mainnet.quarkchain.io/2",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.quarkchain.io"
+}

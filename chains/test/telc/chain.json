@@ -1,0 +1,24 @@
+{
+  "name": "Electra Test Network",
+  "chain": "Electra",
+  "shortName": "telc",
+  "category": "test",
+  "chainId": 871,
+  "networkId": 871,
+  "nativeCurrency": {
+    "name": "Test Electra",
+    "symbol": "TELC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.testnet.electranetwork.tech"
+  ],
+  "explorers": [
+    {
+      "name": "Electra Testnet Explorer",
+      "url": "https://scan.testnet.electranetwork.tech",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://scan.testnet.electranetwork.tech"
+}

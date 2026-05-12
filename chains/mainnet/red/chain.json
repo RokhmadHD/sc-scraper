@@ -1,0 +1,24 @@
+{
+  "name": "ReDeFi Layer 2",
+  "chain": "ReDeFi",
+  "shortName": "red",
+  "category": "mainnet",
+  "chainId": 1899,
+  "networkId": 1899,
+  "nativeCurrency": {
+    "name": "RED",
+    "symbol": "RED",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://layer2.redefi.world"
+  ],
+  "explorers": [
+    {
+      "name": "ReDeFi Scan",
+      "url": "https://scanlayer2.redefi.world",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://redefi.world"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Cronos Mainnet",
+  "chain": "CRO",
+  "shortName": "cro",
+  "category": "mainnet",
+  "chainId": 25,
+  "networkId": 25,
+  "nativeCurrency": {
+    "name": "Cronos",
+    "symbol": "CRO",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://cronos-evm-rpc.publicnode.com",
+    "https://cronos.drpc.org",
+    "https://evm.cronos.org"
+  ],
+  "explorers": [
+    {
+      "name": "Cronos Explorer",
+      "url": "https://explorer.cronos.org",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://cronos.org/"
+}

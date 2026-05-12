@@ -1,0 +1,25 @@
+{
+  "name": "Alphabet Mainnet",
+  "chain": "Alphabet Network",
+  "shortName": "alphabet",
+  "category": "mainnet",
+  "chainId": 111222333444,
+  "networkId": 111222333444,
+  "nativeCurrency": {
+    "name": "ALT",
+    "symbol": "ALT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://londonpublic.alphabetnetwork.org",
+    "https://main-rpc.com"
+  ],
+  "explorers": [
+    {
+      "name": "Alphabet Explorer",
+      "url": "https://scan.alphabetnetwork.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://alphabetnetwork.org"
+}

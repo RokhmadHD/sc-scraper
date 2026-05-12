@@ -1,0 +1,24 @@
+{
+  "name": "ApeChain",
+  "chain": "apechain",
+  "shortName": "apechain",
+  "category": "mainnet",
+  "chainId": 33139,
+  "networkId": 33139,
+  "nativeCurrency": {
+    "name": "ApeCoin",
+    "symbol": "APE",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.apechain.com"
+  ],
+  "explorers": [
+    {
+      "name": "ApeChain Explorer",
+      "url": "https://apescan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://apechain.com"
+}

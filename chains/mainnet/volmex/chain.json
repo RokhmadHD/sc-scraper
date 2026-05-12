@@ -1,0 +1,24 @@
+{
+  "name": "volmex",
+  "chain": "volmex",
+  "shortName": "volmex",
+  "category": "mainnet",
+  "chainId": 123420000588,
+  "networkId": 123420000588,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.volmex.t.raas.gelato.cloud"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://volmex.cloud.blockscout.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://raas.gelato.network/rollups/details/public/volmex"
+}

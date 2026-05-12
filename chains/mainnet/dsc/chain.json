@@ -1,0 +1,28 @@
+{
+  "name": "Decimal Smart Chain Mainnet",
+  "chain": "DSC",
+  "shortName": "DSC",
+  "category": "mainnet",
+  "chainId": 75,
+  "networkId": 75,
+  "nativeCurrency": {
+    "name": "Decimal",
+    "symbol": "DEL",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://node.decimalchain.com/web3/",
+    "https://node1-mainnet.decimalchain.com/web3/",
+    "https://node2-mainnet.decimalchain.com/web3/",
+    "https://node3-mainnet.decimalchain.com/web3/",
+    "https://node4-mainnet.decimalchain.com/web3/"
+  ],
+  "explorers": [
+    {
+      "name": "DSC Explorer Mainnet",
+      "url": "https://explorer.decimalchain.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://decimalchain.com"
+}

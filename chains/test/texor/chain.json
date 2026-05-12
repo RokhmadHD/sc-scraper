@@ -1,0 +1,26 @@
+{
+  "name": "Exorium Testnet",
+  "chain": "EXOR",
+  "shortName": "texor",
+  "category": "test",
+  "chainId": 7957,
+  "networkId": 7957,
+  "nativeCurrency": {
+    "name": "EXOR",
+    "symbol": "tEXOR",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-1-testnet.exorium.net",
+    "https://rpc-2-testnet.exorium.net",
+    "https://rpc-testnet.exoscan.net/"
+  ],
+  "explorers": [
+    {
+      "name": "EXORIUM Testnet Explorer",
+      "url": "https://testnet.exoscan.net",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://exorium.net"
+}

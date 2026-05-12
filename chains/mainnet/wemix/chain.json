@@ -1,0 +1,24 @@
+{
+  "name": "WEMIX3.0 Mainnet",
+  "chain": "WEMIX",
+  "shortName": "wemix",
+  "category": "mainnet",
+  "chainId": 1111,
+  "networkId": 1111,
+  "nativeCurrency": {
+    "name": "WEMIX",
+    "symbol": "WEMIX",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://api.wemix.com"
+  ],
+  "explorers": [
+    {
+      "name": "WEMIX Block Explorer",
+      "url": "https://explorer.wemix.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://wemix.com"
+}

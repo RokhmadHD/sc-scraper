@@ -1,0 +1,26 @@
+{
+  "name": "Mammoth Mainnet",
+  "chain": "MMT",
+  "shortName": "mmt",
+  "category": "mainnet",
+  "chainId": 8898,
+  "networkId": 8898,
+  "nativeCurrency": {
+    "name": "Mammoth Token",
+    "symbol": "MMT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://dataseed.mmtscan.io",
+    "https://dataseed1.mmtscan.io",
+    "https://dataseed2.mmtscan.io"
+  ],
+  "explorers": [
+    {
+      "name": "mmtscan",
+      "url": "https://mmtscan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://mmtchain.io/"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "UPTN Testnet",
+  "chain": "UPTN",
+  "shortName": "UPTN-TEST",
+  "category": "test",
+  "chainId": 6118,
+  "networkId": 6118,
+  "nativeCurrency": {
+    "name": "UPTN",
+    "symbol": "UPTN",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://node-api.alp.uptn.io/v1/ext/rpc"
+  ],
+  "explorers": [
+    {
+      "name": "UPTN Testnet Explorer",
+      "url": "https://testnet.explorer.uptn.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://uptn.io"
+}

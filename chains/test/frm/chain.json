@@ -1,0 +1,24 @@
+{
+  "name": "Ferrum Testnet",
+  "chain": "tFRM",
+  "shortName": "frm",
+  "category": "test",
+  "chainId": 26026,
+  "networkId": 26026,
+  "nativeCurrency": {
+    "name": "Ferrum",
+    "symbol": "tFRM",
+    "decimals": 18
+  },
+  "rpc": [
+    "http://testnet.dev.svcs.ferrumnetwork.io:9933"
+  ],
+  "explorers": [
+    {
+      "name": "polkadotjs",
+      "url": "https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftestnet.dev.svcs.ferrumnetwork.io#/explorer",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://ferrum.network"
+}

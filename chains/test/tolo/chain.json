@@ -1,0 +1,17 @@
+{
+  "name": "TOOL Global Testnet",
+  "chain": "OLO",
+  "shortName": "tolo",
+  "category": "test",
+  "chainId": 8724,
+  "networkId": 8724,
+  "nativeCurrency": {
+    "name": "TOOL Global",
+    "symbol": "OLO",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet-web3.wolot.io"
+  ],
+  "infoURL": "https://testnet-explorer.wolot.io"
+}

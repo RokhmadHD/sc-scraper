@@ -1,0 +1,24 @@
+{
+  "name": "Symbiosis",
+  "chain": "symbiosis",
+  "shortName": "symbiosis",
+  "category": "mainnet",
+  "chainId": 13863860,
+  "networkId": 13863860,
+  "nativeCurrency": {
+    "name": "Symbiosis",
+    "symbol": "SIS",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://symbiosis.calderachain.xyz/http"
+  ],
+  "explorers": [
+    {
+      "name": "Symbiosis Caldera Explorer",
+      "url": "https://symbiosis.calderaexplorer.xyz",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://symbiosis.hub.caldera.xyz"
+}

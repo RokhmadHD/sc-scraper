@@ -1,0 +1,24 @@
+{
+  "name": "Tabi Testnet",
+  "chain": "TabiNetwork",
+  "shortName": "tabitest",
+  "category": "test",
+  "chainId": 9789,
+  "networkId": 9789,
+  "nativeCurrency": {
+    "name": "Tabi",
+    "symbol": "TABI",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.testnet.tabichain.com"
+  ],
+  "explorers": [
+    {
+      "name": "Tabi Testnet Explorer",
+      "url": "https://testnet.tabiscan.com",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://www.tabichain.com"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Zircuit Mainnet",
+  "chain": "Zircuit Mainnet",
+  "shortName": "zircuit-mainnet",
+  "category": "mainnet",
+  "chainId": 48900,
+  "networkId": 48900,
+  "nativeCurrency": {
+    "name": "ETH",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet.zircuit.com"
+  ],
+  "explorers": [
+    {
+      "name": "Zircuit",
+      "url": "https://explorer.zircuit.com",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://www.zircuit.com/"
+}

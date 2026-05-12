@@ -1,0 +1,24 @@
+{
+  "name": "Script Testnet",
+  "chain": "SPAY",
+  "shortName": "SPAY",
+  "category": "test",
+  "chainId": 742,
+  "networkId": 742,
+  "nativeCurrency": {
+    "name": "Script",
+    "symbol": "SPAY",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testeth-rpc-api.script.tv/rpc"
+  ],
+  "explorers": [
+    {
+      "name": "Script Explorer",
+      "url": "https://explorer.script.tv",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://token.script.tv"
+}

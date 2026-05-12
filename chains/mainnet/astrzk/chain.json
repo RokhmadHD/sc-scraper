@@ -1,0 +1,24 @@
+{
+  "name": "Astar zkEVM",
+  "chain": "ETH",
+  "shortName": "astrzk",
+  "category": "mainnet",
+  "chainId": 3776,
+  "networkId": 3776,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.startale.com/astar-zkevm"
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout Astar zkEVM explorer",
+      "url": "https://astar-zkevm.explorer.startale.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://astar.network"
+}

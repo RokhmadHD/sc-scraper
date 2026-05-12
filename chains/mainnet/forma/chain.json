@@ -1,0 +1,24 @@
+{
+  "name": "Forma",
+  "chain": "Forma",
+  "shortName": "forma",
+  "category": "mainnet",
+  "chainId": 984122,
+  "networkId": 984122,
+  "nativeCurrency": {
+    "name": "TIA",
+    "symbol": "TIA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.forma.art"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.forma.art",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://forma.art"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "KaiChain",
+  "chain": "KaiChain",
+  "shortName": "kec",
+  "category": "mainnet",
+  "chainId": 61406,
+  "networkId": 61406,
+  "nativeCurrency": {
+    "name": "KaiChain Native Token",
+    "symbol": "KEC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet-rpc.kaichain.net"
+  ],
+  "explorers": [
+    {
+      "name": "KaiChain Explorer",
+      "url": "https://explorer.kaichain.net",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://kaichain.net"
+}

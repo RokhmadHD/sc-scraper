@@ -1,0 +1,24 @@
+{
+  "name": "DJT Testnet",
+  "chain": "DJT",
+  "shortName": "DJT",
+  "category": "test",
+  "chainId": 621847,
+  "networkId": 621847,
+  "nativeCurrency": {
+    "name": "TrumpChain",
+    "symbol": "DJT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet-rpc.trumpchain.io"
+  ],
+  "explorers": [
+    {
+      "name": "DJT Testnet Explorer",
+      "url": "https://testnet-explorer.trumpchain.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://testnet-explorer.trumpchain.io"
+}

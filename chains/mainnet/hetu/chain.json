@@ -1,0 +1,24 @@
+{
+  "name": "Hetu Mainnet",
+  "chain": "HETU",
+  "shortName": "HETU",
+  "category": "mainnet",
+  "chainId": 560000,
+  "networkId": 560000,
+  "nativeCurrency": {
+    "name": "HETU",
+    "symbol": "HETU",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.va.hetu.org"
+  ],
+  "explorers": [
+    {
+      "name": "Hetu Mainnet Scan",
+      "url": "https://scan.v1.hetu.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://hetu.org"
+}

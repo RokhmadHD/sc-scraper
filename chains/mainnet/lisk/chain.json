@@ -1,0 +1,24 @@
+{
+  "name": "Lisk",
+  "chain": "ETH",
+  "shortName": "lisk",
+  "category": "mainnet",
+  "chainId": 1135,
+  "networkId": 1135,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.api.lisk.com"
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://blockscout.lisk.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://lisk.com"
+}

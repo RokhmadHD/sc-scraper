@@ -1,0 +1,24 @@
+{
+  "name": "Fhenix Helium",
+  "chain": "tFHE",
+  "shortName": "fhe-helium",
+  "category": "test",
+  "chainId": 8008135,
+  "networkId": 8008135,
+  "nativeCurrency": {
+    "name": "tFHE",
+    "symbol": "tFHE",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://api.helium.fhenix.zone"
+  ],
+  "explorers": [
+    {
+      "name": "Fhenix Helium Explorer (Blockscout)",
+      "url": "https://explorer.helium.fhenix.zone",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.fhenix.io"
+}

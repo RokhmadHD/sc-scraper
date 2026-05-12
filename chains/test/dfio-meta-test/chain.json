@@ -1,0 +1,24 @@
+{
+  "name": "Defi Oracle Meta Testnet",
+  "chain": "dfiometatest",
+  "shortName": "dfio-meta-test",
+  "category": "test",
+  "chainId": 2138,
+  "networkId": 21,
+  "nativeCurrency": {
+    "name": "testEther",
+    "symbol": "tETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.public-2138.defi-oracle.io"
+  ],
+  "explorers": [
+    {
+      "name": "Quorum Explorer",
+      "url": "https://public-2138.defi-oracle.io",
+      "standard": "none"
+    }
+  ],
+  "infoURL": "https://defi-oracle.io/"
+}

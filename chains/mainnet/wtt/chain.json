@@ -1,0 +1,24 @@
+{
+  "name": "World Trade Technical Chain Mainnet",
+  "chain": "WTT",
+  "shortName": "wtt",
+  "category": "mainnet",
+  "chainId": 1202,
+  "networkId": 2048,
+  "nativeCurrency": {
+    "name": "World Trade Token",
+    "symbol": "WTT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.cadaut.com"
+  ],
+  "explorers": [
+    {
+      "name": "WTTScout",
+      "url": "https://explorer.cadaut.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "http://www.cadaut.com"
+}

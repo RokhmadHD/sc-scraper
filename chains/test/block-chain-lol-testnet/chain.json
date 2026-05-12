@@ -1,0 +1,24 @@
+{
+  "name": "Block Chain LOL Berachain Testnet",
+  "chain": "Block Chain LOL Berachain",
+  "shortName": "block-chain-lol-testnet",
+  "category": "test",
+  "chainId": 6231991,
+  "networkId": 6231991,
+  "nativeCurrency": {
+    "name": "HarryPotterObamaSonic10Inu",
+    "symbol": "HARRY",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://block-chain.alt.technology"
+  ],
+  "explorers": [
+    {
+      "name": "Block Chain LOL Berachain Testnet Blockscout Explorer",
+      "url": "https://explorer.block-chain.lol",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://block-chain.lol/"
+}

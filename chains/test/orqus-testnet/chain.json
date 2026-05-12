@@ -1,0 +1,24 @@
+{
+  "name": "Orqus Testnet",
+  "chain": "Orqus",
+  "shortName": "orqus-testnet",
+  "category": "test",
+  "chainId": 153871,
+  "networkId": 153871,
+  "nativeCurrency": {
+    "name": "No native currency",
+    "symbol": "USD",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-test.orqus.io"
+  ],
+  "explorers": [
+    {
+      "name": "Orquscan",
+      "url": "https://orquscan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://orqus.io"
+}

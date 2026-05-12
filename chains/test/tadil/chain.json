@@ -1,0 +1,24 @@
+{
+  "name": "ADIL Testnet",
+  "chain": "ADIL",
+  "shortName": "tadil",
+  "category": "test",
+  "chainId": 7575,
+  "networkId": 7575,
+  "nativeCurrency": {
+    "name": "Testnet ADIL",
+    "symbol": "ADIL",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://testnet.adilchain-rpc.io"
+  ],
+  "explorers": [
+    {
+      "name": "ADIL Testnet Explorer",
+      "url": "https://testnet.adilchain-scan.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://adilchain.io"
+}

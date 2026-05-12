@@ -1,0 +1,24 @@
+{
+  "name": "Garizon Stage3",
+  "chain": "GAR",
+  "shortName": "gar-s3",
+  "category": "mainnet",
+  "chainId": 93,
+  "networkId": 93,
+  "nativeCurrency": {
+    "name": "Garizon",
+    "symbol": "GAR",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://s3.garizon.net/rpc"
+  ],
+  "explorers": [
+    {
+      "name": "explorer",
+      "url": "https://explorer.garizon.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://garizon.com"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "KiteAI",
+  "chain": "KiteAI",
+  "shortName": "KiteAI",
+  "category": "mainnet",
+  "chainId": 2366,
+  "networkId": 2366,
+  "nativeCurrency": {
+    "name": "Kite",
+    "symbol": "KITE",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.gokite.ai"
+  ],
+  "explorers": [
+    {
+      "name": "Kitescan",
+      "url": "https://kitescan.ai",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://gokite.ai/"
+}

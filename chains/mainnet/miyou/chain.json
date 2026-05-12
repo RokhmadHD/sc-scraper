@@ -1,0 +1,25 @@
+{
+  "name": "MiYou Mainnet",
+  "chain": "MiYou Chain",
+  "shortName": "MiYou",
+  "category": "mainnet",
+  "chainId": 30088,
+  "networkId": 30088,
+  "nativeCurrency": {
+    "name": "Miyou",
+    "symbol": "MY",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://blockchain.miyou.io",
+    "https://blockchain.miyoulab.com"
+  ],
+  "explorers": [
+    {
+      "name": "MiYou block explorer",
+      "url": "https://myscan.miyou.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://www.miyou.io"
+}

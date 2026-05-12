@@ -1,0 +1,24 @@
+{
+  "name": "Nautilus Mainnet",
+  "chain": "ETH",
+  "shortName": "NAUTCHAIN",
+  "category": "mainnet",
+  "chainId": 22222,
+  "networkId": 22222,
+  "nativeCurrency": {
+    "name": "Zebec",
+    "symbol": "ZBC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://api.nautilus.nautchain.xyz"
+  ],
+  "explorers": [
+    {
+      "name": "Nautscan",
+      "url": "https://nautscan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://docs.nautchain.xyz"
+}

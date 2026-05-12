@@ -1,0 +1,35 @@
+{
+  "name": "Arbitrum One",
+  "chain": "ETH",
+  "shortName": "arb1",
+  "category": "mainnet",
+  "chainId": 42161,
+  "networkId": 42161,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://arb1.arbitrum.io/rpc",
+    "https://arbitrum-one-rpc.publicnode.com"
+  ],
+  "explorers": [
+    {
+      "name": "Arbiscan",
+      "url": "https://arbiscan.io",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "Arbitrum Explorer",
+      "url": "https://explorer.arbitrum.io",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "dexguru",
+      "url": "https://arbitrum.dex.guru",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://arbitrum.io"
+}

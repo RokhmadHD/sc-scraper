@@ -1,0 +1,17 @@
+{
+  "name": "Syndicate Testnet",
+  "chain": "Syndicate",
+  "shortName": "syndicate-chain-testnet",
+  "category": "test",
+  "chainId": 5100,
+  "networkId": 5100,
+  "nativeCurrency": {
+    "name": "S-Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-testnet.syndicate.io"
+  ],
+  "infoURL": "https://syndicate.io"
+}

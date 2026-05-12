@@ -1,0 +1,24 @@
+{
+  "name": "Morph Testnet",
+  "chain": "ETH",
+  "shortName": "tmorph",
+  "category": "test",
+  "chainId": 2710,
+  "networkId": 2710,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc-testnet.morphl2.io"
+  ],
+  "explorers": [
+    {
+      "name": "Morph Testnet Explorer",
+      "url": "https://explorer-testnet.morphl2.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://morphl2.io"
+}

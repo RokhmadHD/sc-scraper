@@ -1,0 +1,17 @@
+{
+  "name": "SJATSH",
+  "chain": "ETH",
+  "shortName": "SJ",
+  "category": "mainnet",
+  "chainId": 10086,
+  "networkId": 10086,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    "http://geth.free.idcfengye.com"
+  ],
+  "infoURL": "https://sjis.me"
+}

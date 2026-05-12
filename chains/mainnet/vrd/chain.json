@@ -1,0 +1,24 @@
+{
+  "name": "Viridis Mainnet",
+  "chain": "VRD",
+  "shortName": "vrd",
+  "category": "mainnet",
+  "chainId": 422,
+  "networkId": 422,
+  "nativeCurrency": {
+    "name": "Viridis Token",
+    "symbol": "VRD",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://mainnet-rpc.vrd.network"
+  ],
+  "explorers": [
+    {
+      "name": "Viridis Mainnet",
+      "url": "https://explorer.vrd.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://viridis.network"
+}

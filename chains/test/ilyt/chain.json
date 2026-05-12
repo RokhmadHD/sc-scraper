@@ -1,0 +1,24 @@
+{
+  "name": "ILITY Testnet",
+  "chain": "ILY",
+  "shortName": "ilyt",
+  "category": "test",
+  "chainId": 69923,
+  "networkId": 69923,
+  "nativeCurrency": {
+    "name": "ILITY Token",
+    "symbol": "ILYt",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.testnet.ility.xyz"
+  ],
+  "explorers": [
+    {
+      "name": "ILITY Testnet Explorer",
+      "url": "https://scan.testnet.ility.xyz",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://ility.xyz"
+}

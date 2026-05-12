@@ -1,0 +1,26 @@
+{
+  "name": "Autonity Mainnet",
+  "chain": "AUT",
+  "shortName": "aut",
+  "category": "mainnet",
+  "chainId": 65000000,
+  "networkId": 65000000,
+  "nativeCurrency": {
+    "name": "Auton",
+    "symbol": "ATN",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://autonity.rpc.subquery.network/public",
+    "https://autonity.rpc.web3cdn.network",
+    "https://rpc.autonity-apis.com"
+  ],
+  "explorers": [
+    {
+      "name": "autonityscan",
+      "url": "https://autonityscan.org",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://autonity.org/"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "XGR Testnet",
+  "chain": "XGR",
+  "shortName": "xgrt",
+  "category": "test",
+  "chainId": 1879,
+  "networkId": 1879,
+  "nativeCurrency": {
+    "name": "XGR",
+    "symbol": "XGR",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.testnet.xgr.network",
+    "https://rpc1.testnet.xgr.network",
+    "https://rpc2.testnet.xgr.network"
+  ],
+  "explorers": [
+    {
+      "name": "XGRScan",
+      "url": "https://explorer.testnet.xgr.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://xgr.network"
+}

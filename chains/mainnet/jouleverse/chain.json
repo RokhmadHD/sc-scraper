@@ -1,0 +1,24 @@
+{
+  "name": "Jouleverse Mainnet",
+  "chain": "Jouleverse",
+  "shortName": "jouleverse",
+  "category": "mainnet",
+  "chainId": 3666,
+  "networkId": 3666,
+  "nativeCurrency": {
+    "name": "J",
+    "symbol": "J",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.jnsdao.com:8503"
+  ],
+  "explorers": [
+    {
+      "name": "jscan",
+      "url": "https://jscan.jnsdao.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://jnsdao.com"
+}

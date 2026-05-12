@@ -1,0 +1,25 @@
+{
+  "name": "Bear Network Chain Mainnet",
+  "chain": "BRNKC",
+  "shortName": "BRNKC",
+  "category": "mainnet",
+  "chainId": 641230,
+  "networkId": 641230,
+  "nativeCurrency": {
+    "name": "Bear Network Chain Native Token",
+    "symbol": "BRNKC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://brnkc-mainnet.bearnetwork.net",
+    "https://brnkc-mainnet1.bearnetwork.net"
+  ],
+  "explorers": [
+    {
+      "name": "brnkscan",
+      "url": "https://brnkscan.bearnetwork.net",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://bearnetwork.net"
+}
