@@ -53,8 +53,20 @@ func run() error {
 	timeout := flag.Duration("timeout", 20*time.Second, "RPC timeout")
 	retries := flag.Int("retries", 2, "retry rounds across RPC URLs")
 	skipRPC := flag.Int("skip-rpc", 0, "skip the first N RPC URLs from the selected chain")
+	syncChains := flag.Bool("sync-chains", false, "sync chain configs from Chainlist JSON and exit")
+	chainsInput := flag.String("chains-input", "/tmp/chains.json", "source Chainlist chains.json path for --sync-chains")
+	chainsOutput := flag.String("chains-output", "chains", "output chains directory for --sync-chains")
 	flag.Var(&rpcURLs, "rpc-url", "override RPC URL; repeatable")
 	flag.Parse()
+
+	if *syncChains {
+		count, err := chains.SyncFromFile(*chainsInput, *chainsOutput)
+		if err != nil {
+			return err
+		}
+		fmt.Printf("Wrote %d filtered chain configs to %s\n", count, *chainsOutput)
+		return nil
+	}
 
 	chain, err := chains.Get(*chainName)
 	if err != nil {

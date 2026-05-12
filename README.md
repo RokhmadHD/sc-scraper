@@ -95,6 +95,12 @@ Download `chains.json` dari Chainlist/ethereum-lists lalu split ke folder lokal:
 
 ```bash
 curl -L https://chainid.network/chains.json -o /tmp/chains.json
+go run ./cmd/contract-scraper --sync-chains --chains-input /tmp/chains.json --chains-output chains
+```
+
+Command lama `chains-sync` tetap tersedia:
+
+```bash
 go run ./cmd/chains-sync --input /tmp/chains.json --output chains
 ```
 
