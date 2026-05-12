@@ -131,6 +131,18 @@ Build binary:
 go build -o bin/contract-scraper ./cmd/contract-scraper
 ```
 
+Install dari GitHub Release:
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/RokhmadHD/sc-scraper/main/installer.sh | sh
+```
+
+Install versi tertentu atau ke folder lokal:
+
+```bash
+VERSION=v1.0.1 INSTALL_DIR="$HOME/.local/bin" sh installer.sh
+```
+
 ## Output
 
 Setiap baris adalah satu contract creation:
