@@ -102,20 +102,34 @@ func checkSilentFailure(insns []Instruction) []Vulnerability {
 	return out
 }
 
-// checkUncheckedSend detects CALL with value (ETH send) not followed by success check.
-// Heuristic: CALL followed by anything other than ISZERO/JUMPI within 3 instructions.
+// checkUncheckedSend detects CALL not followed by a success check.
+// Skips over POP/SWAP stack-cleanup instructions (common in Solidity ABI encoding)
+// and looks for ISZERO or JUMPI within 10 non-trivial instructions.
 func checkUncheckedSend(insns []Instruction) []Vulnerability {
+	// opcodes that are pure stack shuffling — skip when scanning for check
+	stackNoise := map[Opcode]bool{
+		POP: true, SWAP1: true, SWAP2: true, SWAP3: true, SWAP4: true,
+		DUP1: true, DUP2: true, DUP3: true, DUP4: true,
+	}
 	var out []Vulnerability
 	for i, ins := range insns {
 		if ins.Op != CALL {
 			continue
 		}
-		// look ahead up to 3 instructions for ISZERO or direct JUMPI
 		checked := false
-		for j := i + 1; j < len(insns) && j <= i+3; j++ {
-			if insns[j].Op == ISZERO || insns[j].Op == JUMPI {
+		meaningful := 0
+		for j := i + 1; j < len(insns) && meaningful < 10; j++ {
+			op := insns[j].Op
+			if op == ISZERO || op == JUMPI {
 				checked = true
 				break
+			}
+			// stop scanning if we hit a hard boundary
+			if op == JUMP || op == RETURN || op == REVERT || op == STOP {
+				break
+			}
+			if !stackNoise[op] {
+				meaningful++
 			}
 		}
 		if !checked {
@@ -123,7 +137,7 @@ func checkUncheckedSend(insns []Instruction) []Vulnerability {
 				ID:       "UNCHECKED_SEND",
 				Severity: SeverityHigh,
 				Title:    "Unchecked ETH send",
-				Detail:   "CALL return value not checked within 3 instructions. Failed ETH transfer may go unnoticed.",
+				Detail:   "CALL return value not checked. Failed ETH transfer may go unnoticed.",
 				PC:       ins.PC,
 			})
 		}
@@ -214,14 +228,22 @@ func checkArbitraryDelegatecall(insns []Instruction) []Vulnerability {
 	return out
 }
 
-// checkReentrancy detects SSTORE after CALL (classic reentrancy pattern).
+// checkReentrancy detects SSTORE after CALL within the same function boundary.
+// Resets tracking on JUMP/RETURN/REVERT/STOP to avoid cross-function false positives.
 func checkReentrancy(insns []Instruction) []Vulnerability {
 	var out []Vulnerability
 	callOps := map[Opcode]bool{CALL: true, CALLCODE: true, DELEGATECALL: true}
+	// opcodes that mark a function boundary (control flow leaves current scope)
+	boundary := map[Opcode]bool{JUMP: true, RETURN: true, REVERT: true, STOP: true}
 	lastCallPC := -1
 	for _, ins := range insns {
+		if boundary[ins.Op] {
+			lastCallPC = -1
+			continue
+		}
 		if callOps[ins.Op] {
 			lastCallPC = ins.PC
+			continue
 		}
 		if ins.Op == SSTORE && lastCallPC >= 0 {
 			out = append(out, Vulnerability{
@@ -231,7 +253,7 @@ func checkReentrancy(insns []Instruction) []Vulnerability {
 				Detail:   fmt.Sprintf("SSTORE at pc=0x%04x follows external call at pc=0x%04x. State written after call — check-effects-interactions pattern may be violated.", ins.PC, lastCallPC),
 				PC:       ins.PC,
 			})
-			lastCallPC = -1 // report once per call
+			lastCallPC = -1
 		}
 	}
 	return out

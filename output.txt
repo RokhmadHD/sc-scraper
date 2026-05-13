@@ -1,0 +1,12 @@
+ini satu kotak kecil di atas 
+[title tools]
+[owened by [username]]
+
+bawahnya 
+tingginya sama tapi kecil 
+[database monitor] [controls] [scraper action]
+
+bawahnya 
+[recents contract] [top rpc (paling banyak di call)]
+[logs]
+

@@ -5,6 +5,9 @@ REPO="${REPO:-RokhmadHD/sc-scraper}"
 BINARY_NAME="${BINARY_NAME:-contract-scraper}"
 INSTALL_DIR="${INSTALL_DIR:-/usr/local/bin}"
 VERSION="${VERSION:-latest}"
+CHAINS_OUTPUT="${CHAINS_OUTPUT:-chains}"
+CHAINS_INPUT="${CHAINS_INPUT:-}"
+SYNC_CHAINS="${SYNC_CHAINS:-1}"
 
 need() {
   if ! command -v "$1" >/dev/null 2>&1; then
@@ -40,6 +43,7 @@ need curl
 need tar
 need awk
 need uname
+need mktemp
 
 os="$(detect_os)"
 arch="$(detect_arch)"
@@ -81,3 +85,15 @@ fi
 
 echo "Installed $BINARY_NAME to $target"
 "$target" --help >/dev/null 2>&1 || true
+
+if [ "$SYNC_CHAINS" != "0" ]; then
+  if [ -z "$CHAINS_INPUT" ]; then
+    CHAINS_INPUT="$tmp_dir/chains.json"
+    echo "Downloading chain list"
+    curl -fL "https://chainid.network/chains.json" -o "$CHAINS_INPUT"
+  fi
+  echo "Syncing chains to $CHAINS_OUTPUT"
+  if ! "$target" --sync-chains --chains-input "$CHAINS_INPUT" --chains-output "$CHAINS_OUTPUT"; then
+    echo "warning: chain sync failed" >&2
+  fi
+fi

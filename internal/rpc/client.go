@@ -21,6 +21,8 @@ type Client struct {
 	nextID     uint64
 	activeMu   sync.Mutex
 	active     int
+	lastURL    string
+	observer   func(url string, calls int64)
 }
 
 type Option func(*Client)
@@ -34,6 +36,12 @@ func WithHTTPClient(httpClient *http.Client) Option {
 func WithRetries(retries int) Option {
 	return func(c *Client) {
 		c.retries = retries
+	}
+}
+
+func WithCallObserver(observer func(url string, calls int64)) Option {
+	return func(c *Client) {
+		c.observer = observer
 	}
 }
 
@@ -58,13 +66,16 @@ func NewClient(urls []string, timeout time.Duration, opts ...Option) (*Client, e
 func (c *Client) ActiveURL() string {
 	c.activeMu.Lock()
 	defer c.activeMu.Unlock()
+	if c.lastURL != "" {
+		return c.lastURL
+	}
 	return c.urls[c.active]
 }
 
 func (c *Client) Call(ctx context.Context, method string, params any, result any) error {
 	request := c.newRequest(method, params)
 	var response responsePayload
-	if err := c.doWithFallback(ctx, request, &response); err != nil {
+	if err := c.doWithFallback(ctx, request, &response, 1); err != nil {
 		return err
 	}
 	return json.Unmarshal(response.Result, result)
@@ -84,11 +95,11 @@ func (c *Client) BatchCall(ctx context.Context, calls []Call, results []any) err
 	}
 
 	var responses []responsePayload
-	if err := c.doWithFallback(ctx, requests, &responses); err != nil {
+	if err := c.doWithFallback(ctx, requests, &responses, int64(len(calls))); err != nil {
 		return err
 	}
 	if err := validateBatchResponses(responses); err != nil {
-		return c.doWithFallback(ctx, requests, &responses)
+		return c.doWithFallback(ctx, requests, &responses, int64(len(calls)))
 	}
 
 	byID := make(map[uint64]responsePayload, len(responses))
@@ -144,15 +155,17 @@ func (c *Client) newRequest(method string, params any) requestPayload {
 	}
 }
 
-func (c *Client) doWithFallback(ctx context.Context, payload any, result any) error {
+func (c *Client) doWithFallback(ctx context.Context, payload any, result any, calls int64) error {
 	var lastErr error
 	for attempt := 0; attempt <= c.retries; attempt++ {
-		for range c.urls {
-			if err := c.post(ctx, c.ActiveURL(), payload, result); err == nil {
+		start := c.nextStart()
+		for offset := range c.urls {
+			url := c.urls[(start+offset)%len(c.urls)]
+			if err := c.post(ctx, url, payload, result); err == nil {
+				c.markSuccess(url, calls)
 				return nil
 			} else {
 				lastErr = err
-				c.rotate()
 			}
 		}
 		if attempt < c.retries {
@@ -221,8 +234,20 @@ func validateBatchResponses(responses []responsePayload) error {
 	return nil
 }
 
-func (c *Client) rotate() {
+func (c *Client) nextStart() int {
 	c.activeMu.Lock()
 	defer c.activeMu.Unlock()
+	start := c.active
 	c.active = (c.active + 1) % len(c.urls)
+	return start
+}
+
+func (c *Client) markSuccess(url string, calls int64) {
+	c.activeMu.Lock()
+	c.lastURL = url
+	observer := c.observer
+	c.activeMu.Unlock()
+	if observer != nil {
+		observer(url, calls)
+	}
 }

@@ -44,10 +44,76 @@ data/2026-05-13_143012/contracts.jsonl
 data/2026-05-13_143012/bytecode/
 ```
 
-Scrape paralel, filter balance, dan download bytecode:
+Scrape paralel dan filter balance tanpa menyimpan bytecode:
 
 ```bash
-go run ./cmd/contract-scraper --last 100 --concurrency 4 --min-balance 0.5 --download-bytecode
+go run ./cmd/contract-scraper --last 100 --concurrency 4 --min-balance 0.5
+```
+
+Bytecode opsional jika nanti dibutuhkan. Simpan ke file `.evm`:
+
+```bash
+go run ./cmd/contract-scraper --last 100 --download-bytecode
+```
+
+Download bytecode untuk address tertentu saja:
+
+```bash
+go run ./cmd/contract-scraper --chain eth --bytecode-address 0x...
+go run ./cmd/contract-scraper --chain eth --bytecode-address 0x... --bytecode-output data/bytecode/contract.evm
+go run ./cmd/contract-scraper --chain eth --bytecode-address 0x... --bytecode-stdout
+```
+
+Atau simpan langsung di JSONL tanpa membuat file `.evm`:
+
+```bash
+go run ./cmd/contract-scraper --last 100 --download-bytecode --inline-bytecode
+```
+
+Cek balance ERC-20 contract yang ditemukan:
+
+```bash
+go run ./cmd/contract-scraper --last 100 --token-address 0x... --token-decimals 18
+```
+
+Filter contract yang punya minimum balance token:
+
+```bash
+go run ./cmd/contract-scraper --last 100 --token-address 0x... --min-token-balance 10 --token-decimals 18
+```
+
+Simpan hasil langsung ke PostgreSQL tanpa membuat JSONL:
+
+```bash
+cp .env.example .env
+docker compose up -d postgres
+go run ./cmd/contract-scraper --last 100 --postgres-url "postgres://sc_scraper:sc_scraper_password@localhost:5432/sc_scraper?sslmode=disable"
+```
+
+Kalau ingin PostgreSQL dan JSONL sekaligus, tambahkan `--output`:
+
+```bash
+go run ./cmd/contract-scraper --last 100 --postgres-url "postgres://user:pass@localhost:5432/sc_scraper?sslmode=disable" --output data/contracts.jsonl
+```
+
+Monitor database dan jalankan scraper dari TUI:
+
+```bash
+cp .env.example .env
+docker compose up -d postgres
+go run ./cmd/contract-tui
+```
+
+Kontrol TUI:
+
+```text
+s start scraper
+r refresh database
+tab/up/down pilih setting
+left/right ubah setting
+enter edit setting sebagai text input
+esc batal edit
+q quit
 ```
 
 Tampilkan progress:
@@ -143,6 +209,13 @@ Install dari GitHub Release:
 curl -fsSL https://raw.githubusercontent.com/RokhmadHD/sc-scraper/main/installer.sh | sh
 ```
 
+Installer akan otomatis download `chains.json` lalu menjalankan `--sync-chains`.
+Kalau mau matikan sync otomatis:
+
+```bash
+SYNC_CHAINS=0 curl -fsSL https://raw.githubusercontent.com/RokhmadHD/sc-scraper/main/installer.sh | sh
+```
+
 Install versi tertentu atau ke folder lokal:
 
 ```bash
@@ -154,7 +227,7 @@ VERSION=v1.0.1 INSTALL_DIR="$HOME/.local/bin" sh installer.sh
 Setiap baris adalah satu contract creation:
 
 ```json
-{"chain_id":1,"network":"ethereum","block_number":22000000,"transaction_hash":"0x...","contract_address":"0x...","creator":"0x...","status":1,"gas_used":123456,"effective_gas_price":"1000000000","balance_wei":"0","bytecode_size":42,"bytecode_path":"data/bytecode/0x....evm","timestamp":1740000000,"rpc_url":"https://ethereum.publicnode.com"}
+{"chain_id":1,"network":"ethereum","block_number":22000000,"transaction_hash":"0x...","contract_address":"0x...","creator":"0x...","status":1,"gas_used":123456,"effective_gas_price":"1000000000","balance_wei":"0","token_address":"0x...","token_balance":"10000000000000000000","token_decimals":18,"bytecode_size":42,"bytecode":"60806040...","bytecode_path":"data/bytecode/0x....evm","timestamp":1740000000,"rpc_url":"https://ethereum.publicnode.com"}
 ```
 
 ## Catatan

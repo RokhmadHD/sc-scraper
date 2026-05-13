@@ -52,24 +52,37 @@ func ParseHexBigInt(raw string) (*big.Int, error) {
 var Ether = new(big.Int).Exp(big.NewInt(10), big.NewInt(18), nil)
 
 func ParseEther(raw string) (*big.Int, error) {
+	return ParseUnits(raw, 18)
+}
+
+func ParseUnits(raw string, decimals int) (*big.Int, error) {
 	if raw == "" {
 		return big.NewInt(0), nil
 	}
+	if decimals < 0 {
+		return nil, fmt.Errorf("decimals must be greater than or equal to 0")
+	}
 	value, ok := new(big.Rat).SetString(raw)
 	if !ok {
-		return nil, fmt.Errorf("invalid ether value %q", raw)
+		return nil, fmt.Errorf("invalid decimal value %q", raw)
 	}
-	wei := new(big.Rat).Mul(value, new(big.Rat).SetInt(Ether))
-	if !wei.IsInt() {
-		return nil, fmt.Errorf("ether value %q is too precise for wei", raw)
+	unit := new(big.Int).Exp(big.NewInt(10), big.NewInt(int64(decimals)), nil)
+	scaled := new(big.Rat).Mul(value, new(big.Rat).SetInt(unit))
+	if !scaled.IsInt() {
+		return nil, fmt.Errorf("decimal value %q is too precise for %d decimals", raw, decimals)
 	}
-	return new(big.Int).Div(wei.Num(), wei.Denom()), nil
+	return new(big.Int).Div(scaled.Num(), scaled.Denom()), nil
 }
 
 func FormatEther(wei *big.Int, precision int) string {
-	if wei == nil {
-		wei = big.NewInt(0)
+	return FormatUnits(wei, 18, precision)
+}
+
+func FormatUnits(value *big.Int, decimals int, precision int) string {
+	if value == nil {
+		value = big.NewInt(0)
 	}
-	value := new(big.Rat).SetFrac(wei, Ether)
-	return value.FloatString(precision)
+	unit := new(big.Int).Exp(big.NewInt(10), big.NewInt(int64(decimals)), nil)
+	amount := new(big.Rat).SetFrac(value, unit)
+	return amount.FloatString(precision)
 }
