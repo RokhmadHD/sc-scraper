@@ -3,7 +3,6 @@ set -eu
 
 REPO="${REPO:-RokhmadHD/sc-scraper}"
 BINARY_NAME="${BINARY_NAME:-contract-scraper}"
-INSTALL_DIR="${INSTALL_DIR:-/usr/local/bin}"
 VERSION="${VERSION:-latest}"
 CHAINS_OUTPUT="${CHAINS_OUTPUT:-chains}"
 CHAINS_INPUT="${CHAINS_INPUT:-}"
@@ -44,6 +43,18 @@ need tar
 need awk
 need uname
 need mktemp
+
+detect_install_dir() {
+  if [ -n "${PREFIX:-}" ] && [ -d "$PREFIX/bin" ] && { [ -n "${TERMUX_VERSION:-}" ] || [ "${PREFIX#/data/data/com.termux/}" != "$PREFIX" ]; }; then
+    echo "$PREFIX/bin"
+    return
+  fi
+  echo "/usr/local/bin"
+}
+
+if [ -z "${INSTALL_DIR:-}" ]; then
+  INSTALL_DIR="$(detect_install_dir)"
+fi
 
 os="$(detect_os)"
 arch="$(detect_arch)"

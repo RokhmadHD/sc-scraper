@@ -216,6 +216,8 @@ Kalau mau matikan sync otomatis:
 SYNC_CHAINS=0 curl -fsSL https://raw.githubusercontent.com/RokhmadHD/sc-scraper/main/installer.sh | sh
 ```
 
+Di Termux, installer otomatis pakai `$PREFIX/bin` dan binary yang dipakai tetap `linux/arm64`.
+
 Install versi tertentu atau ke folder lokal:
 
 ```bash
